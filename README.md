@@ -1,7 +1,7 @@
 # :pencil2: Leetcode Solutions with Python,Cpp
-Update time:  2019-01-13 15:10:33
+Update time:  2019-01-13 16:32:25
 
-I have solved **13   /   924** problems
+I have solved **14   /   924** problems
 while there are **139** problems still locked.
 
 If you have any question, please give me an [issue](https://github.com/hlnn/leetcode/issues).
