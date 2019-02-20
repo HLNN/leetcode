@@ -462,8 +462,9 @@ class Leetcode:
             )
             return
 
-        dirname = '{id}-{title}'.format(id=str(qid).zfill(3), title=qtitle)
+        dirname = os.path.join('src', '{id}-{title}'.format(id=str(qid).zfill(3), title=qtitle))
         print('begin download ' + dirname)
+        check_and_make_dir('src')
         check_and_make_dir(dirname)
         path = os.path.join(HOME, dirname)
         for slt in slts:
@@ -559,7 +560,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
                     ]
                     while language_lst:
                         lan = language_lst.pop()
-                        language += '[{language}]({repo}/blob/master/{dirname}/{title}.{ext})'.format(
+                        language += '[{language}]({repo}/blob/master/src/{dirname}/{title}.{ext})'.format(
                             language=lan.capitalize(),
                             repo=CONFIG['repo'],
                             dirname=dirname,
