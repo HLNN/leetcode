@@ -1,7 +1,7 @@
 # :pencil2: Leetcode Solutions with Python3,Cpp
-Update time:  2019-02-24 13:49:05
+Update time:  2019-02-27 19:37:25
 
-I have solved **34   /   949** problems
+I have solved **35   /   949** problems
 while there are **140** problems still locked.
 
 If you have any question, please give me an [issue](https://github.com/hlnn/leetcode/issues).
@@ -25,7 +25,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |9|[palindrome-number](https://leetcode.com/problems/palindrome-number)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/009-palindrome-number/palindrome-number.py)|[:memo:](https://leetcode.com/articles/palindrome-number/)|Easy|
 |10|[regular-expression-matching](https://leetcode.com/problems/regular-expression-matching)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/010-regular-expression-matching/regular-expression-matching.py)|[:memo:](https://leetcode.com/articles/regular-expression-matching/)|Hard|
 |11|[container-with-most-water](https://leetcode.com/problems/container-with-most-water)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/011-container-with-most-water/container-with-most-water.py)|[:memo:](https://leetcode.com/articles/container-with-most-water/)|Medium|
-|12|[integer-to-roman](https://leetcode.com/problems/integer-to-roman)|||Medium|
+|12|[integer-to-roman](https://leetcode.com/problems/integer-to-roman)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/012-integer-to-roman/integer-to-roman.py)||Medium|
 |13|[roman-to-integer](https://leetcode.com/problems/roman-to-integer)|||Easy|
 |14|[longest-common-prefix](https://leetcode.com/problems/longest-common-prefix)||[:memo:](https://leetcode.com/articles/longest-common-prefix/)|Easy|
 |15|[3sum](https://leetcode.com/problems/3sum)|||Medium|
@@ -159,7 +159,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |143|[reorder-list](https://leetcode.com/problems/reorder-list)|||Medium|
 |144|[binary-tree-preorder-traversal](https://leetcode.com/problems/binary-tree-preorder-traversal)||[:memo:](https://leetcode.com/articles/binary-tree-preorder-transversal/)|Medium|
 |145|[binary-tree-postorder-traversal](https://leetcode.com/problems/binary-tree-postorder-traversal)||[:memo:](https://leetcode.com/articles/binary-tree-postorder-transversal/)|Hard|
-|146|[lru-cache](https://leetcode.com/problems/lru-cache)|||Hard|
+|146|[lru-cache](https://leetcode.com/problems/lru-cache)||[:memo:](https://leetcode.com/articles/lru-cache/)|Hard|
 |147|[insertion-sort-list](https://leetcode.com/problems/insertion-sort-list)|||Medium|
 |148|[sort-list](https://leetcode.com/problems/sort-list)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/148-sort-list/sort-list.py)||Medium|
 |149|[max-points-on-a-line](https://leetcode.com/problems/max-points-on-a-line)||[:memo:](https://leetcode.com/articles/max-points-on-a-line/)|Hard|
@@ -448,7 +448,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |455|[assign-cookies](https://leetcode.com/problems/assign-cookies)|||Easy|
 |456|[132-pattern](https://leetcode.com/problems/132-pattern)||[:memo:](https://leetcode.com/articles/132-pattern/)|Medium|
 |457|[circular-array-loop](https://leetcode.com/problems/circular-array-loop)|||Medium|
-|458|[poor-pigs](https://leetcode.com/problems/poor-pigs)|||Easy|
+|458|[poor-pigs](https://leetcode.com/problems/poor-pigs)|||Hard|
 |459|[repeated-substring-pattern](https://leetcode.com/problems/repeated-substring-pattern)|||Easy|
 |460|[lfu-cache](https://leetcode.com/problems/lfu-cache)|||Hard|
 |461|[hamming-distance](https://leetcode.com/problems/hamming-distance)|||Easy|
