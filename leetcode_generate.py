@@ -585,13 +585,22 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
     def push_to_github(self):
         strdate = datetime.datetime.now().strftime('%Y-%m-%d')
         cmd_git_add = 'git add .'
-        cmd_git_commit = 'git commit -m "update at {date}"'.format(
-            date=strdate
+        qids = []
+        if len(sys.argv) == 1:
+            qids.append("all")
+        else:
+            for qid in sys.argv[1:]:
+                if qid:
+                    qids.append(qid)
+        cmd_git_commit = 'git commit -m "update problem {problem} at {date}"'.format(
+            date=strdate,
+            problem=" ".join(qids)
         )
         cmd_git_push = 'git push -u origin master'
-        os.system(cmd_git_add)
-        os.system(cmd_git_commit)
-        os.system(cmd_git_push)
+        print(cmd_git_commit)
+        # os.system(cmd_git_add)
+        # os.system(cmd_git_commit)
+        # os.system(cmd_git_push)
 
 
 def do_job(leetcode):

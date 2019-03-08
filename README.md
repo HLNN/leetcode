@@ -1,5 +1,5 @@
 # :pencil2: Leetcode Solutions with Python3,Cpp
-Update time:  2019-03-07 21:09:47
+Update time:  2019-03-08 10:17:08
 
 I have solved **40   /   953** problems
 while there are **140** problems still locked.
@@ -113,7 +113,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |97|[interleaving-string](https://leetcode.com/problems/interleaving-string)||[:memo:](https://leetcode.com/articles/interleaving-strings/)|Hard|
 |98|[validate-binary-search-tree](https://leetcode.com/problems/validate-binary-search-tree)||[:memo:](https://leetcode.com/articles/validate-binary-search-tree/)|Medium|
 |99|[recover-binary-search-tree](https://leetcode.com/problems/recover-binary-search-tree)|||Hard|
-|100|[same-tree](https://leetcode.com/problems/same-tree)|||Easy|
+|100|[same-tree](https://leetcode.com/problems/same-tree)||[:memo:](https://leetcode.com/articles/same-tree/)|Easy|
 |101|[symmetric-tree](https://leetcode.com/problems/symmetric-tree)||[:memo:](https://leetcode.com/articles/symmetric-tree/)|Easy|
 |102|[binary-tree-level-order-traversal](https://leetcode.com/problems/binary-tree-level-order-traversal)|||Medium|
 |103|[binary-tree-zigzag-level-order-traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal)|||Medium|
