@@ -597,10 +597,9 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
             problem=" ".join(qids)
         )
         cmd_git_push = 'git push -u origin master'
-        print(cmd_git_commit)
-        # os.system(cmd_git_add)
-        # os.system(cmd_git_commit)
-        # os.system(cmd_git_push)
+        os.system(cmd_git_add)
+        os.system(cmd_git_commit)
+        os.system(cmd_git_push)
 
 
 def do_job(leetcode):
