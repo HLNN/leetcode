@@ -1,8 +1,8 @@
 # :pencil2: Leetcode Solutions with Python3,Cpp
-Update time:  2019-09-30 19:39:07
+Update time:  2019-10-08 21:59:36
 
-I have solved **45   /   1121** problems
-while there are **186** problems still locked.
+I have solved **46   /   1129** problems
+while there are **190** problems still locked.
 
 If you have any question, please give me an [issue](https://github.com/hlnn/leetcode/issues).
 
@@ -28,7 +28,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |12|[integer-to-roman](https://leetcode.com/problems/integer-to-roman)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/012-integer-to-roman/integer-to-roman.py)||Medium|
 |13|[roman-to-integer](https://leetcode.com/problems/roman-to-integer)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/013-roman-to-integer/roman-to-integer.py)||Easy|
 |14|[longest-common-prefix](https://leetcode.com/problems/longest-common-prefix)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/014-longest-common-prefix/longest-common-prefix.py)|[:memo:](https://leetcode.com/articles/longest-common-prefix/)|Easy|
-|15|[3sum](https://leetcode.com/problems/3sum)|||Medium|
+|15|[3sum](https://leetcode.com/problems/3sum)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/015-3sum/3sum.py)||Medium|
 |16|[3sum-closest](https://leetcode.com/problems/3sum-closest)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/016-3sum-closest/3sum-closest.py)||Medium|
 |17|[letter-combinations-of-a-phone-number](https://leetcode.com/problems/letter-combinations-of-a-phone-number)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/017-letter-combinations-of-a-phone-number/letter-combinations-of-a-phone-number.py)|[:memo:](https://leetcode.com/articles/letter-combinations-of-a-phone-number/)|Medium|
 |18|[4sum](https://leetcode.com/problems/4sum)|||Medium|
@@ -342,7 +342,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |343|[integer-break](https://leetcode.com/problems/integer-break)|||Medium|
 |344|[reverse-string](https://leetcode.com/problems/reverse-string)|||Easy|
 |345|[reverse-vowels-of-a-string](https://leetcode.com/problems/reverse-vowels-of-a-string)|||Easy|
-|346|[moving-average-from-data-stream](https://leetcode.com/problems/moving-average-from-data-stream)|:lock:||Easy|
+|346|[moving-average-from-data-stream](https://leetcode.com/problems/moving-average-from-data-stream)|:lock:|[:memo:](https://leetcode.com/articles/moving-average-from-data-stream/)|Easy|
 |347|[top-k-frequent-elements](https://leetcode.com/problems/top-k-frequent-elements)||[:memo:](https://leetcode.com/articles/top-k-frequent-elements/)|Medium|
 |348|[design-tic-tac-toe](https://leetcode.com/problems/design-tic-tac-toe)|:lock:||Medium|
 |349|[intersection-of-two-arrays](https://leetcode.com/problems/intersection-of-two-arrays)||[:memo:](https://leetcode.com/articles/intersection-of-two-arrays/)|Easy|
@@ -772,7 +772,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |835|[linked-list-components](https://leetcode.com/problems/linked-list-components)||[:memo:](https://leetcode.com/articles/linked-list-components/)|Medium|
 |836|[race-car](https://leetcode.com/problems/race-car)||[:memo:](https://leetcode.com/articles/race-car/)|Hard|
 |837|[most-common-word](https://leetcode.com/problems/most-common-word)||[:memo:](https://leetcode.com/articles/most-common-word/)|Easy|
-|838|[design-linked-list](https://leetcode.com/problems/design-linked-list)|||Easy|
+|838|[design-linked-list](https://leetcode.com/problems/design-linked-list)||[:memo:](https://leetcode.com/articles/design-linked-list/)|Easy|
 |839|[short-encoding-of-words](https://leetcode.com/problems/short-encoding-of-words)||[:memo:](https://leetcode.com/articles/short-encoding-of-words/)|Medium|
 |841|[shortest-distance-to-a-character](https://leetcode.com/problems/shortest-distance-to-a-character)||[:memo:](https://leetcode.com/articles/shortest-distance-to-a-character/)|Easy|
 |842|[card-flipping-game](https://leetcode.com/problems/card-flipping-game)||[:memo:](https://leetcode.com/articles/card-flipping-game/)|Medium|
@@ -1067,6 +1067,9 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |1146|[greatest-common-divisor-of-strings](https://leetcode.com/problems/greatest-common-divisor-of-strings)|||Easy|
 |1147|[flip-columns-for-maximum-number-of-equal-rows](https://leetcode.com/problems/flip-columns-for-maximum-number-of-equal-rows)|||Medium|
 |1148|[adding-two-negabinary-numbers](https://leetcode.com/problems/adding-two-negabinary-numbers)|||Medium|
+|1149|[intersection-of-three-sorted-arrays](https://leetcode.com/problems/intersection-of-three-sorted-arrays)|:lock:||Easy|
+|1150|[two-sum-bsts](https://leetcode.com/problems/two-sum-bsts)|:lock:||Medium|
+|1151|[stepping-numbers](https://leetcode.com/problems/stepping-numbers)|:lock:||Medium|
 |1152|[maximum-number-of-ones](https://leetcode.com/problems/maximum-number-of-ones)|:lock:||Hard|
 |1156|[occurrences-after-bigram](https://leetcode.com/problems/occurrences-after-bigram)|||Easy|
 |1157|[insufficient-nodes-in-root-to-leaf-paths](https://leetcode.com/problems/insufficient-nodes-in-root-to-leaf-paths)|||Medium|
@@ -1077,6 +1080,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |1169|[largest-values-from-labels](https://leetcode.com/problems/largest-values-from-labels)|||Medium|
 |1170|[shortest-common-supersequence](https://leetcode.com/problems/shortest-common-supersequence)|||Hard|
 |1171|[shortest-path-in-binary-matrix](https://leetcode.com/problems/shortest-path-in-binary-matrix)|||Medium|
+|1178|[valid-palindrome-iii](https://leetcode.com/problems/valid-palindrome-iii)|:lock:||Hard|
 |1183|[statistics-from-a-large-sample](https://leetcode.com/problems/statistics-from-a-large-sample)|||Medium|
 |1184|[car-pooling](https://leetcode.com/problems/car-pooling)|||Medium|
 |1185|[find-in-mountain-array](https://leetcode.com/problems/find-in-mountain-array)|||Hard|
@@ -1134,4 +1138,8 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |1320|[remove-all-adjacent-duplicates-in-string-ii](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii)|||Medium|
 |1321|[get-equal-substrings-within-budget](https://leetcode.com/problems/get-equal-substrings-within-budget)|||Medium|
 |1322|[minimum-moves-to-reach-target-with-rotations](https://leetcode.com/problems/minimum-moves-to-reach-target-with-rotations)|||Hard|
+|1329|[play-with-chips](https://leetcode.com/problems/play-with-chips)|||Easy|
+|1330|[longest-arithmetic-subsequence-of-given-difference](https://leetcode.com/problems/longest-arithmetic-subsequence-of-given-difference)|||Medium|
+|1331|[path-with-maximum-gold](https://leetcode.com/problems/path-with-maximum-gold)|||Medium|
+|1332|[count-vowels-permutation](https://leetcode.com/problems/count-vowels-permutation)|||Hard|
 |1337|[design-skiplist](https://leetcode.com/problems/design-skiplist)|||Hard|
