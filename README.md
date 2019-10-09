@@ -1,7 +1,7 @@
 # :pencil2: Leetcode Solutions with Python3,Cpp
-Update time:  2019-10-09 15:35:51
+Update time:  2019-10-09 20:18:38
 
-I have solved **47   /   1129** problems
+I have solved **48   /   1129** problems
 while there are **190** problems still locked.
 
 If you have any question, please give me an [issue](https://github.com/hlnn/leetcode/issues).
@@ -51,7 +51,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |35|[search-insert-position](https://leetcode.com/problems/search-insert-position)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/035-search-insert-position/search-insert-position.py)||Easy|
 |36|[valid-sudoku](https://leetcode.com/problems/valid-sudoku)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/036-valid-sudoku/valid-sudoku.py)|[:memo:](https://leetcode.com/articles/valid-sudoku/)|Medium|
 |37|[sudoku-solver](https://leetcode.com/problems/sudoku-solver)||[:memo:](https://leetcode.com/articles/sudoku-solver/)|Hard|
-|38|[count-and-say](https://leetcode.com/problems/count-and-say)|||Easy|
+|38|[count-and-say](https://leetcode.com/problems/count-and-say)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/038-count-and-say/count-and-say.py)||Easy|
 |39|[combination-sum](https://leetcode.com/problems/combination-sum)|||Medium|
 |40|[combination-sum-ii](https://leetcode.com/problems/combination-sum-ii)|||Medium|
 |41|[first-missing-positive](https://leetcode.com/problems/first-missing-positive)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/041-first-missing-positive/first-missing-positive.py)|[:memo:](https://leetcode.com/articles/first-missing-positive/)|Hard|
