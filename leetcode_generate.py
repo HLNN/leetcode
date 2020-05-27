@@ -19,6 +19,7 @@ from selenium import webdriver
 from collections import namedtuple, OrderedDict
 
 HOME = os.getcwd()
+MAX_DIGIT_LEN = 4 # 1000+ PROBLEMS
 CONFIG_FILE = os.path.join(HOME, 'config.cfg')
 COOKIE_PATH = 'cookies.json'
 BASE_URL = 'https://leetcode.com'
@@ -462,7 +463,7 @@ class Leetcode:
             )
             return
 
-        dirname = os.path.join('src', '{id}-{title}'.format(id=str(qid).zfill(3), title=qtitle))
+        dirname = os.path.join('src', '{id}-{title}'.format(id=str(qid).zfill(MAX_DIGIT_LEN), title=qtitle))
         print('begin download ' + dirname)
         check_and_make_dir('src')
         check_and_make_dir(dirname)
@@ -549,7 +550,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
             else:
                 if item.solutions:
                     dirname = '{id}-{title}'.format(
-                        id=str(item.question_id).zfill(3),
+                        id=str(item.question_id).zfill(MAX_DIGIT_LEN),
                         title=item.question__title_slug,
                     )
                     language = ''
