@@ -1,7 +1,7 @@
 # :pencil2: Leetcode Solutions with Python3,Cpp
-Update time:  2020-05-27 14:08:35
+Update time:  2020-05-28 10:42:00
 
-I have solved **62   /   1334** problems
+I have solved **65   /   1334** problems
 while there are **213** problems still locked.
 
 If you have any question, please give me an [issue](https://github.com/hlnn/leetcode/issues).
@@ -43,7 +43,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |27|[remove-element](https://leetcode.com/problems/remove-element)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0027-remove-element/remove-element.py)|[:memo:](https://leetcode.com/articles/remove-element/)|Easy|
 |28|[implement-strstr](https://leetcode.com/problems/implement-strstr)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0028-implement-strstr/implement-strstr.py)|[:memo:](https://leetcode.com/articles/implement-strstr/)|Easy|
 |29|[divide-two-integers](https://leetcode.com/problems/divide-two-integers)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0029-divide-two-integers/divide-two-integers.py)|[:memo:](https://leetcode.com/articles/divide-integers/)|Medium|
-|30|[substring-with-concatenation-of-all-words](https://leetcode.com/problems/substring-with-concatenation-of-all-words)|||Hard|
+|30|[substring-with-concatenation-of-all-words](https://leetcode.com/problems/substring-with-concatenation-of-all-words)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0030-substring-with-concatenation-of-all-words/substring-with-concatenation-of-all-words.py)||Hard|
 |31|[next-permutation](https://leetcode.com/problems/next-permutation)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0031-next-permutation/next-permutation.py)|[:memo:](https://leetcode.com/articles/next-permutation/)|Medium|
 |32|[longest-valid-parentheses](https://leetcode.com/problems/longest-valid-parentheses)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0032-longest-valid-parentheses/longest-valid-parentheses.py)|[:memo:](https://leetcode.com/articles/longest-valid-parentheses/)|Hard|
 |33|[search-in-rotated-sorted-array](https://leetcode.com/problems/search-in-rotated-sorted-array)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0033-search-in-rotated-sorted-array/search-in-rotated-sorted-array.py)|[:memo:](https://leetcode.com/articles/search-in-rotated-sorted-array/)|Medium|
@@ -58,9 +58,9 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |42|[trapping-rain-water](https://leetcode.com/problems/trapping-rain-water)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0042-trapping-rain-water/trapping-rain-water.py)|[:memo:](https://leetcode.com/articles/trapping-rain-water/)|Hard|
 |43|[multiply-strings](https://leetcode.com/problems/multiply-strings)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0043-multiply-strings/multiply-strings.py)||Medium|
 |44|[wildcard-matching](https://leetcode.com/problems/wildcard-matching)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0044-wildcard-matching/wildcard-matching.py)|[:memo:](https://leetcode.com/articles/wildcard-matching/)|Hard|
-|45|[jump-game-ii](https://leetcode.com/problems/jump-game-ii)||[:memo:](https://leetcode.com/articles/jump-game-ii/)|Hard|
+|45|[jump-game-ii](https://leetcode.com/problems/jump-game-ii)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0045-jump-game-ii/jump-game-ii.py)|[:memo:](https://leetcode.com/articles/jump-game-ii/)|Hard|
 |46|[permutations](https://leetcode.com/problems/permutations)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0046-permutations/permutations.py)|[:memo:](https://leetcode.com/articles/permutations/)|Medium|
-|47|[permutations-ii](https://leetcode.com/problems/permutations-ii)|||Medium|
+|47|[permutations-ii](https://leetcode.com/problems/permutations-ii)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0047-permutations-ii/permutations-ii.py)||Medium|
 |48|[rotate-image](https://leetcode.com/problems/rotate-image)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0048-rotate-image/rotate-image.py)|[:memo:](https://leetcode.com/articles/rotate-image/)|Medium|
 |49|[group-anagrams](https://leetcode.com/problems/group-anagrams)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0049-group-anagrams/group-anagrams.py)|[:memo:](https://leetcode.com/articles/group-anagrams/)|Medium|
 |50|[powx-n](https://leetcode.com/problems/powx-n)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0050-powx-n/powx-n.py)|[:memo:](https://leetcode.com/articles/powx-n/)|Medium|
@@ -107,7 +107,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |91|[decode-ways](https://leetcode.com/problems/decode-ways)||[:memo:](https://leetcode.com/articles/decode-ways/)|Medium|
 |92|[reverse-linked-list-ii](https://leetcode.com/problems/reverse-linked-list-ii)||[:memo:](https://leetcode.com/articles/reverse-linked-list-ii/)|Medium|
 |93|[restore-ip-addresses](https://leetcode.com/problems/restore-ip-addresses)||[:memo:](https://leetcode.com/articles/restore-ip-addresses/)|Medium|
-|94|[binary-tree-inorder-traversal](https://leetcode.com/problems/binary-tree-inorder-traversal)||[:memo:](https://leetcode.com/articles/binary-tree-inorder-traversal/)|Medium|
+|94|[binary-tree-inorder-traversal](https://leetcode.com/problems/binary-tree-inorder-traversal)||[:memo:](https://leetcode.com/articles/binary-tree-inorder-traversal/)|Hard|
 |95|[unique-binary-search-trees-ii](https://leetcode.com/problems/unique-binary-search-trees-ii)||[:memo:](https://leetcode.com/articles/unique-binary-search-trees-ii/)|Medium|
 |96|[unique-binary-search-trees](https://leetcode.com/problems/unique-binary-search-trees)||[:memo:](https://leetcode.com/articles/unique-binary-search-trees/)|Medium|
 |97|[interleaving-string](https://leetcode.com/problems/interleaving-string)||[:memo:](https://leetcode.com/articles/interleaving-strings/)|Hard|
