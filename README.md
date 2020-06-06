@@ -1,8 +1,8 @@
 # :pencil2: Leetcode Solutions with Python3,Cpp
-Update time:  2020-06-02 22:27:47
+Update time:  2020-06-06 09:12:25
 
-I have solved **68   /   1342** problems
-while there are **213** problems still locked.
+I have solved **71   /   1343** problems
+while there are **214** problems still locked.
 
 If you have any question, please give me an [issue](https://github.com/hlnn/leetcode/issues).
 
@@ -340,7 +340,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |341|[flatten-nested-list-iterator](https://leetcode.com/problems/flatten-nested-list-iterator)||[:memo:](https://leetcode.com/articles/flatten-nested-iterator/)|Medium|
 |342|[power-of-four](https://leetcode.com/problems/power-of-four)||[:memo:](https://leetcode.com/articles/power-of-four/)|Easy|
 |343|[integer-break](https://leetcode.com/problems/integer-break)|||Medium|
-|344|[reverse-string](https://leetcode.com/problems/reverse-string)||[:memo:](https://leetcode.com/articles/reverse-string/)|Easy|
+|344|[reverse-string](https://leetcode.com/problems/reverse-string)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0344-reverse-string/reverse-string.py)|[:memo:](https://leetcode.com/articles/reverse-string/)|Easy|
 |345|[reverse-vowels-of-a-string](https://leetcode.com/problems/reverse-vowels-of-a-string)|||Easy|
 |346|[moving-average-from-data-stream](https://leetcode.com/problems/moving-average-from-data-stream)|:lock:|[:memo:](https://leetcode.com/articles/moving-average-from-data-stream/)|Easy|
 |347|[top-k-frequent-elements](https://leetcode.com/problems/top-k-frequent-elements)||[:memo:](https://leetcode.com/articles/top-k-frequent-elements/)|Medium|
@@ -839,7 +839,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |909|[stone-game](https://leetcode.com/problems/stone-game)||[:memo:](https://leetcode.com/articles/stone-game/)|Medium|
 |910|[nth-magical-number](https://leetcode.com/problems/nth-magical-number)||[:memo:](https://leetcode.com/articles/nth-magical-number/)|Hard|
 |911|[profitable-schemes](https://leetcode.com/problems/profitable-schemes)||[:memo:](https://leetcode.com/articles/profitable-schemes/)|Hard|
-|912|[random-pick-with-weight](https://leetcode.com/problems/random-pick-with-weight)||[:memo:](https://leetcode.com/articles/random-pick-with-weight/)|Medium|
+|912|[random-pick-with-weight](https://leetcode.com/problems/random-pick-with-weight)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0912-random-pick-with-weight/random-pick-with-weight.py)|[:memo:](https://leetcode.com/articles/random-pick-with-weight/)|Medium|
 |913|[random-flip-matrix](https://leetcode.com/problems/random-flip-matrix)||[:memo:](https://leetcode.com/articles/random-flip-matrix/)|Medium|
 |914|[random-point-in-non-overlapping-rectangles](https://leetcode.com/problems/random-point-in-non-overlapping-rectangles)||[:memo:](https://leetcode.com/articles/random-point-in-non-overlapping-rectangles/)|Medium|
 |915|[generate-random-point-in-a-circle](https://leetcode.com/problems/generate-random-point-in-a-circle)||[:memo:](https://leetcode.com/articles/generate-random-point-in-a-circle/)|Medium|
@@ -1017,7 +1017,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |1092|[maximum-difference-between-node-and-ancestor](https://leetcode.com/problems/maximum-difference-between-node-and-ancestor)|||Medium|
 |1093|[recover-a-tree-from-preorder-traversal](https://leetcode.com/problems/recover-a-tree-from-preorder-traversal)|||Hard|
 |1094|[matrix-cells-in-distance-order](https://leetcode.com/problems/matrix-cells-in-distance-order)|||Easy|
-|1095|[two-city-scheduling](https://leetcode.com/problems/two-city-scheduling)||[:memo:](https://leetcode.com/articles/two-city-scheduling/)|Easy|
+|1095|[two-city-scheduling](https://leetcode.com/problems/two-city-scheduling)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/1095-two-city-scheduling/two-city-scheduling.py)|[:memo:](https://leetcode.com/articles/two-city-scheduling/)|Easy|
 |1096|[maximum-sum-of-two-non-overlapping-subarrays](https://leetcode.com/problems/maximum-sum-of-two-non-overlapping-subarrays)|||Medium|
 |1097|[stream-of-characters](https://leetcode.com/problems/stream-of-characters)|||Hard|
 |1098|[largest-unique-number](https://leetcode.com/problems/largest-unique-number)|:lock:||Easy|
@@ -1356,3 +1356,4 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |1575|[maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts](https://leetcode.com/problems/maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts)|||Medium|
 |1576|[reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://leetcode.com/problems/reorder-routes-to-make-all-paths-lead-to-the-city-zero)|||Medium|
 |1577|[probability-of-a-two-boxes-having-the-same-number-of-distinct-balls](https://leetcode.com/problems/probability-of-a-two-boxes-having-the-same-number-of-distinct-balls)|||Hard|
+|1609|[find-all-the-lonely-nodes](https://leetcode.com/problems/find-all-the-lonely-nodes)|:lock:||Easy|
