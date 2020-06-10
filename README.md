@@ -1,7 +1,7 @@
 # :pencil2: Leetcode Solutions with Python3,Cpp
-Update time:  2020-06-08 15:38:31
+Update time:  2020-06-10 13:38:03
 
-I have solved **74   /   1347** problems
+I have solved **75   /   1347** problems
 while there are **214** problems still locked.
 
 If you have any question, please give me an [issue](https://github.com/hlnn/leetcode/issues).
@@ -367,7 +367,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |368|[largest-divisible-subset](https://leetcode.com/problems/largest-divisible-subset)||[:memo:](https://leetcode.com/articles/largest-divisible-subset/)|Medium|
 |369|[plus-one-linked-list](https://leetcode.com/problems/plus-one-linked-list)|:lock:|[:memo:](https://leetcode.com/articles/plus-one-linked-list/)|Medium|
 |370|[range-addition](https://leetcode.com/problems/range-addition)|:lock:|[:memo:](https://leetcode.com/articles/range-addition/)|Medium|
-|371|[sum-of-two-integers](https://leetcode.com/problems/sum-of-two-integers)|||Easy|
+|371|[sum-of-two-integers](https://leetcode.com/problems/sum-of-two-integers)||[:memo:](https://leetcode.com/articles/sum-of-two-integers/)|Easy|
 |372|[super-pow](https://leetcode.com/problems/super-pow)|||Medium|
 |373|[find-k-pairs-with-smallest-sums](https://leetcode.com/problems/find-k-pairs-with-smallest-sums)|||Medium|
 |374|[guess-number-higher-or-lower](https://leetcode.com/problems/guess-number-higher-or-lower)||[:memo:](https://leetcode.com/articles/guess-number-higher-or-lower/)|Easy|
@@ -388,7 +388,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |389|[find-the-difference](https://leetcode.com/problems/find-the-difference)||[:memo:](https://leetcode.com/articles/find-the-difference/)|Easy|
 |390|[elimination-game](https://leetcode.com/problems/elimination-game)|||Medium|
 |391|[perfect-rectangle](https://leetcode.com/problems/perfect-rectangle)|||Hard|
-|392|[is-subsequence](https://leetcode.com/problems/is-subsequence)||[:memo:](https://leetcode.com/articles/is-subsequence/)|Easy|
+|392|[is-subsequence](https://leetcode.com/problems/is-subsequence)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0392-is-subsequence/is-subsequence.py)|[:memo:](https://leetcode.com/articles/is-subsequence/)|Easy|
 |393|[utf-8-validation](https://leetcode.com/problems/utf-8-validation)||[:memo:](https://leetcode.com/articles/utf-8-validation/)|Medium|
 |394|[decode-string](https://leetcode.com/problems/decode-string)|||Medium|
 |395|[longest-substring-with-at-least-k-repeating-characters](https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters)|||Medium|
