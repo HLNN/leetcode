@@ -1,7 +1,7 @@
 # :pencil2: Leetcode Solutions with Python3,Cpp
-Update time:  2020-06-13 14:39:58
+Update time:  2020-06-14 14:44:31
 
-I have solved **77   /   1348** problems
+I have solved **78   /   1356** problems
 while there are **215** problems still locked.
 
 If you have any question, please give me an [issue](https://github.com/hlnn/leetcode/issues).
@@ -364,7 +364,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |365|[water-and-jug-problem](https://leetcode.com/problems/water-and-jug-problem)|||Medium|
 |366|[find-leaves-of-binary-tree](https://leetcode.com/problems/find-leaves-of-binary-tree)|:lock:||Medium|
 |367|[valid-perfect-square](https://leetcode.com/problems/valid-perfect-square)||[:memo:](https://leetcode.com/articles/valid-perfect-square/)|Easy|
-|368|[largest-divisible-subset](https://leetcode.com/problems/largest-divisible-subset)||[:memo:](https://leetcode.com/articles/largest-divisible-subset/)|Medium|
+|368|[largest-divisible-subset](https://leetcode.com/problems/largest-divisible-subset)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0368-largest-divisible-subset/largest-divisible-subset.py)|[:memo:](https://leetcode.com/articles/largest-divisible-subset/)|Medium|
 |369|[plus-one-linked-list](https://leetcode.com/problems/plus-one-linked-list)|:lock:|[:memo:](https://leetcode.com/articles/plus-one-linked-list/)|Medium|
 |370|[range-addition](https://leetcode.com/problems/range-addition)|:lock:|[:memo:](https://leetcode.com/articles/range-addition/)|Medium|
 |371|[sum-of-two-integers](https://leetcode.com/problems/sum-of-two-integers)||[:memo:](https://leetcode.com/articles/sum-of-two-integers/)|Easy|
@@ -1167,6 +1167,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |1288|[maximum-subarray-sum-with-one-deletion](https://leetcode.com/problems/maximum-subarray-sum-with-one-deletion)|||Medium|
 |1289|[day-of-the-week](https://leetcode.com/problems/day-of-the-week)|||Easy|
 |1290|[make-array-strictly-increasing](https://leetcode.com/problems/make-array-strictly-increasing)|||Hard|
+|1296|[kth-ancestor-of-a-tree-node](https://leetcode.com/problems/kth-ancestor-of-a-tree-node)|||Hard|
 |1297|[maximum-number-of-balloons](https://leetcode.com/problems/maximum-number-of-balloons)|||Easy|
 |1298|[reverse-substrings-between-each-pair-of-parentheses](https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses)|||Medium|
 |1299|[k-concatenation-maximum-sum](https://leetcode.com/problems/k-concatenation-maximum-sum)|||Medium|
@@ -1352,6 +1353,10 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |1567|[maximum-number-of-vowels-in-a-substring-of-given-length](https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length)|||Medium|
 |1568|[pseudo-palindromic-paths-in-a-binary-tree](https://leetcode.com/problems/pseudo-palindromic-paths-in-a-binary-tree)|||Medium|
 |1569|[max-dot-product-of-two-subsequences](https://leetcode.com/problems/max-dot-product-of-two-subsequences)|||Hard|
+|1570|[final-prices-with-a-special-discount-in-a-shop](https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop)|||Easy|
+|1571|[allocate-mailboxes](https://leetcode.com/problems/allocate-mailboxes)|||Hard|
+|1572|[subrectangle-queries](https://leetcode.com/problems/subrectangle-queries)|||Medium|
+|1573|[find-two-non-overlapping-sub-arrays-each-with-target-sum](https://leetcode.com/problems/find-two-non-overlapping-sub-arrays-each-with-target-sum)|||Medium|
 |1574|[maximum-product-of-two-elements-in-an-array](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array)|||Easy|
 |1575|[maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts](https://leetcode.com/problems/maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts)|||Medium|
 |1576|[reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://leetcode.com/problems/reorder-routes-to-make-all-paths-lead-to-the-city-zero)|||Medium|
@@ -1360,5 +1365,8 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |1581|[the-k-strongest-values-in-an-array](https://leetcode.com/problems/the-k-strongest-values-in-an-array)|||Medium|
 |1582|[design-browser-history](https://leetcode.com/problems/design-browser-history)|||Medium|
 |1583|[paint-house-iii](https://leetcode.com/problems/paint-house-iii)|||Hard|
+|1603|[running-sum-of-1d-array](https://leetcode.com/problems/running-sum-of-1d-array)|||Easy|
+|1604|[least-number-of-unique-integers-after-k-removals](https://leetcode.com/problems/least-number-of-unique-integers-after-k-removals)|||Medium|
+|1605|[minimum-number-of-days-to-make-m-bouquets](https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets)|||Medium|
 |1609|[find-all-the-lonely-nodes](https://leetcode.com/problems/find-all-the-lonely-nodes)|:lock:||Easy|
 |1618|[delete-n-nodes-after-m-nodes-of-a-linked-list](https://leetcode.com/problems/delete-n-nodes-after-m-nodes-of-a-linked-list)|:lock:||Easy|
