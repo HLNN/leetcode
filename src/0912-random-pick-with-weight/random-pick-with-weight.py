@@ -1,29 +1,39 @@
-# Given an array w of positive integers, where w[i] describes the weight of index i, write a function pickIndex which randomly picks an index in proportion to its weight.
+# Given an array w of positive integers, where w[i] describes the weight of index i(0-indexed), write a function pickIndex which randomly picks an index in proportion to its weight.
 #
 # For example, given an input list of values [1, 9], when we pick up a number out of it, the chance is that 9 times out of 10 we should pick the number 9 as the answer.
 #
+#  
 # Example 1:
 #
 #
-# Input: 
+# Input
 # ["Solution","pickIndex"]
 # [[[1]],[]]
-# Output: [null,0]
+# Output
+# [null,0]
 #
+# Explanation
+# Solution solution = new Solution([1]);
+# solution.pickIndex(); // return 0. Since there is only one single element on the array the only option is to return the first element.
 #
 #
 # Example 2:
 #
 #
-# Input: 
+# Input
 # ["Solution","pickIndex","pickIndex","pickIndex","pickIndex","pickIndex"]
 # [[[1,3]],[],[],[],[],[]]
-# Output: [null,0,1,1,1,0]
+# Output
+# [null,1,1,1,1,0]
 #
+# Explanation
+# Solution solution = new Solution([1, 3]);
+# solution.pickIndex(); // return 1. It's returning the second element (index = 1) that has probability of 3/4.
+# solution.pickIndex(); // return 1
+# solution.pickIndex(); // return 1
+# solution.pickIndex(); // return 1
+# solution.pickIndex(); // return 0. It's returning the first element (index = 0) that has probability of 1/4.
 #
-# Explanation of Input Syntax:
-#
-# The input is two lists: the subroutines called and their arguments. Solution's constructor has one argument, the array w. pickIndex has no arguments. Arguments are always wrapped with a list, even if there aren't any.
 #
 #  
 # Constraints:
