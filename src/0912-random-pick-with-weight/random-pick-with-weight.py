@@ -1,6 +1,6 @@
 # Given an array w of positive integers, where w[i] describes the weight of index i(0-indexed), write a function pickIndex which randomly picks an index in proportion to its weight.
 #
-# For example, given an input list of values [1, 9], when we pick up a number out of it, the chance is that 9 times out of 10 we should pick the number 9 as the answer.
+# For example, given an input list of values w = [2, 8], when we pick up a number out of it, the chance is that 8 times out of 10 we should pick the number 1 as the answer since it's the second element of the array (w[1] = 8).
 #
 #  
 # Example 1:
@@ -33,6 +33,15 @@
 # solution.pickIndex(); // return 1
 # solution.pickIndex(); // return 1
 # solution.pickIndex(); // return 0. It's returning the first element (index = 0) that has probability of 1/4.
+#
+# Since this is a randomization problem, multiple answers are allowed so the following outputs can be considered correct :
+# [null,1,1,1,1,0]
+# [null,1,1,1,1,1]
+# [null,1,1,1,0,0]
+# [null,1,1,1,0,1]
+# [null,1,0,1,0,0]
+# ......
+# and so on.
 #
 #
 #  
