@@ -1,7 +1,7 @@
 # :pencil2: Leetcode Solutions with Python3,Cpp
-Update time:  2020-06-19 20:13:25
+Update time:  2020-06-20 20:16:01
 
-I have solved **83   /   1357** problems
+I have solved **84   /   1357** problems
 while there are **216** problems still locked.
 
 If you have any question, please give me an [issue](https://github.com/hlnn/leetcode/issues).
@@ -1042,7 +1042,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |1119|[robot-bounded-in-circle](https://leetcode.com/problems/robot-bounded-in-circle)|||Medium|
 |1120|[flower-planting-with-no-adjacent](https://leetcode.com/problems/flower-planting-with-no-adjacent)|||Easy|
 |1121|[partition-array-for-maximum-sum](https://leetcode.com/problems/partition-array-for-maximum-sum)|||Medium|
-|1122|[longest-duplicate-substring](https://leetcode.com/problems/longest-duplicate-substring)||[:memo:](https://leetcode.com/articles/longest-duplicate-substring/)|Hard|
+|1122|[longest-duplicate-substring](https://leetcode.com/problems/longest-duplicate-substring)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/1122-longest-duplicate-substring/longest-duplicate-substring.py)|[:memo:](https://leetcode.com/articles/longest-duplicate-substring/)|Hard|
 |1123|[single-row-keyboard](https://leetcode.com/problems/single-row-keyboard)|:lock:||Easy|
 |1124|[string-transforms-into-another-string](https://leetcode.com/problems/string-transforms-into-another-string)|:lock:||Hard|
 |1125|[design-file-system](https://leetcode.com/problems/design-file-system)|:lock:||Medium|
