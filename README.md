@@ -1,7 +1,7 @@
 # :pencil2: Leetcode Solutions with Python3,Cpp
-Update time:  2020-06-20 20:16:01
+Update time:  2020-06-21 20:18:39
 
-I have solved **84   /   1357** problems
+I have solved **85   /   1361** problems
 while there are **216** problems still locked.
 
 If you have any question, please give me an [issue](https://github.com/hlnn/leetcode/issues).
@@ -73,7 +73,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |57|[insert-interval](https://leetcode.com/problems/insert-interval)||[:memo:](https://leetcode.com/articles/insert-interval/)|Hard|
 |58|[length-of-last-word](https://leetcode.com/problems/length-of-last-word)||[:memo:](https://leetcode.com/articles/length-of-last-word/)|Easy|
 |59|[spiral-matrix-ii](https://leetcode.com/problems/spiral-matrix-ii)|||Medium|
-|60|[permutation-sequence](https://leetcode.com/problems/permutation-sequence)||[:memo:](https://leetcode.com/articles/permutation-sequence/)|Medium|
+|60|[permutation-sequence](https://leetcode.com/problems/permutation-sequence)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0060-permutation-sequence/permutation-sequence.py)|[:memo:](https://leetcode.com/articles/permutation-sequence/)|Medium|
 |61|[rotate-list](https://leetcode.com/problems/rotate-list)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0061-rotate-list/rotate-list.py)|[:memo:](https://leetcode.com/articles/rotate-list/)|Medium|
 |62|[unique-paths](https://leetcode.com/problems/unique-paths)||[:memo:](https://leetcode.com/articles/unique-paths/)|Medium|
 |63|[unique-paths-ii](https://leetcode.com/problems/unique-paths-ii)||[:memo:](https://leetcode.com/articles/unique-paths-ii/)|Medium|
@@ -1369,5 +1369,9 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |1604|[least-number-of-unique-integers-after-k-removals](https://leetcode.com/problems/least-number-of-unique-integers-after-k-removals)|||Medium|
 |1605|[minimum-number-of-days-to-make-m-bouquets](https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets)|||Medium|
 |1609|[find-all-the-lonely-nodes](https://leetcode.com/problems/find-all-the-lonely-nodes)|:lock:||Easy|
+|1610|[xor-operation-in-an-array](https://leetcode.com/problems/xor-operation-in-an-array)|||Easy|
+|1611|[making-file-names-unique](https://leetcode.com/problems/making-file-names-unique)|||Medium|
+|1612|[avoid-flood-in-the-city](https://leetcode.com/problems/avoid-flood-in-the-city)|||Medium|
+|1613|[find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://leetcode.com/problems/find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree)|||Hard|
 |1618|[delete-n-nodes-after-m-nodes-of-a-linked-list](https://leetcode.com/problems/delete-n-nodes-after-m-nodes-of-a-linked-list)|:lock:||Easy|
 |1624|[clone-binary-tree-with-random-pointer](https://leetcode.com/problems/clone-binary-tree-with-random-pointer)|:lock:||Medium|
