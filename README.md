@@ -1,7 +1,7 @@
 # :pencil2: Leetcode Solutions with Python3,Cpp
-Update time:  2020-06-25 15:30:36
+Update time:  2020-06-26 15:12:18
 
-I have solved **91   /   1362** problems
+I have solved **92   /   1362** problems
 while there are **217** problems still locked.
 
 If you have any question, please give me an [issue](https://github.com/hlnn/leetcode/issues).
@@ -283,7 +283,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |284|[peeking-iterator](https://leetcode.com/problems/peeking-iterator)||[:memo:](https://leetcode.com/articles/peeking-iterator/)|Medium|
 |285|[inorder-successor-in-bst](https://leetcode.com/problems/inorder-successor-in-bst)|:lock:|[:memo:](https://leetcode.com/articles/inorder-successor-in-bst/)|Medium|
 |286|[walls-and-gates](https://leetcode.com/problems/walls-and-gates)|:lock:|[:memo:](https://leetcode.com/articles/walls-and-gates/)|Medium|
-|287|[find-the-duplicate-number](https://leetcode.com/problems/find-the-duplicate-number)||[:memo:](https://leetcode.com/articles/find-the-duplicate-number/)|Medium|
+|287|[find-the-duplicate-number](https://leetcode.com/problems/find-the-duplicate-number)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0287-find-the-duplicate-number/find-the-duplicate-number.py)|[:memo:](https://leetcode.com/articles/find-the-duplicate-number/)|Medium|
 |288|[unique-word-abbreviation](https://leetcode.com/problems/unique-word-abbreviation)|:lock:|[:memo:](https://leetcode.com/articles/unique-word-abbreviation/)|Medium|
 |289|[game-of-life](https://leetcode.com/problems/game-of-life)||[:memo:](https://leetcode.com/articles/game-of-life/)|Medium|
 |290|[word-pattern](https://leetcode.com/problems/word-pattern)|||Easy|
