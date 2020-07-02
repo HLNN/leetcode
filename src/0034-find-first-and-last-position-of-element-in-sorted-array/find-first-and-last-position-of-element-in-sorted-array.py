@@ -16,6 +16,16 @@
 # Input: nums = [5,7,7,8,8,10], target = 6
 # Output: [-1,-1]
 #
+#  
+# Constraints:
+#
+#
+# 	0 <= nums.length <= 10^5
+# 	-10^9 <= nums[i] <= 10^9
+# 	nums is a non decreasing array.
+# 	-10^9 <= target <= 10^9
+#
+#
 
 
 class Solution:
