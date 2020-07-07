@@ -22,11 +22,7 @@
 
 
 class Solution:
-    def plusOne(self, digits):
-        """
-        :type digits: List[int]
-        :rtype: List[int]
-        """
+    def plusOne(self, digits: List[int]) -> List[int]:
         n = len(digits)
         
         i = n - 1
@@ -38,3 +34,4 @@ class Solution:
             i -= 1
         
         return [1, *[0] * n]
+    
