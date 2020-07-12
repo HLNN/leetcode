@@ -32,6 +32,16 @@
 # ]
 #
 #
+#  
+# Constraints:
+#
+#
+# 	1 <= candidates.length <= 30
+# 	1 <= candidates[i] <= 200
+# 	Each element of candidate is unique.
+# 	1 <= target <= 500
+#
+#
 
 
 class Solution:
