@@ -15,6 +15,13 @@
 #    2     1         2                 3
 #
 #
+#  
+# Constraints:
+#
+#
+# 	1 <= n <= 19
+#
+#
 
 
 class Solution:
