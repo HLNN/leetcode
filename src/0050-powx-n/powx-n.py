@@ -32,10 +32,12 @@
 
 
 class Solution:
-    def myPow(self, x, n):
-        """
-        :type x: float
-        :type n: int
-        :rtype: float
-        """
-        return x**n
+    def myPow(self, x: float, n: int) -> float:
+        if n < 0: x, n = 1 / x, -n
+        res = 1.
+        for s in bin(n)[:1:-1]:
+            if s == "1":
+                res *= x
+            x *= x
+        return res
+    
