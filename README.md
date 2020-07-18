@@ -1,7 +1,7 @@
 # :pencil2: Leetcode Solutions with Python3,Cpp
-Update time:  2020-07-17 15:04:42
+Update time:  2020-07-18 15:04:50
 
-I have solved **116   /   1385** problems
+I have solved **121   /   1385** problems
 while there are **220** problems still locked.
 
 If you have any question, please give me an [issue](https://github.com/hlnn/leetcode/issues).
@@ -71,19 +71,19 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |55|[jump-game](https://leetcode.com/problems/jump-game)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0055-jump-game/jump-game.py)|[:memo:](https://leetcode.com/articles/jump-game/)|Medium|
 |56|[merge-intervals](https://leetcode.com/problems/merge-intervals)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0056-merge-intervals/merge-intervals.py)|[:memo:](https://leetcode.com/articles/merge-intervals/)|Medium|
 |57|[insert-interval](https://leetcode.com/problems/insert-interval)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0057-insert-interval/insert-interval.py)|[:memo:](https://leetcode.com/articles/insert-interval/)|Hard|
-|58|[length-of-last-word](https://leetcode.com/problems/length-of-last-word)||[:memo:](https://leetcode.com/articles/length-of-last-word/)|Easy|
-|59|[spiral-matrix-ii](https://leetcode.com/problems/spiral-matrix-ii)|||Medium|
+|58|[length-of-last-word](https://leetcode.com/problems/length-of-last-word)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0058-length-of-last-word/length-of-last-word.py)|[:memo:](https://leetcode.com/articles/length-of-last-word/)|Easy|
+|59|[spiral-matrix-ii](https://leetcode.com/problems/spiral-matrix-ii)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0059-spiral-matrix-ii/spiral-matrix-ii.py)||Medium|
 |60|[permutation-sequence](https://leetcode.com/problems/permutation-sequence)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0060-permutation-sequence/permutation-sequence.py)|[:memo:](https://leetcode.com/articles/permutation-sequence/)|Medium|
 |61|[rotate-list](https://leetcode.com/problems/rotate-list)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0061-rotate-list/rotate-list.py)|[:memo:](https://leetcode.com/articles/rotate-list/)|Medium|
 |62|[unique-paths](https://leetcode.com/problems/unique-paths)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0062-unique-paths/unique-paths.py)|[:memo:](https://leetcode.com/articles/unique-paths/)|Medium|
 |63|[unique-paths-ii](https://leetcode.com/problems/unique-paths-ii)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0063-unique-paths-ii/unique-paths-ii.py)|[:memo:](https://leetcode.com/articles/unique-paths-ii/)|Medium|
-|64|[minimum-path-sum](https://leetcode.com/problems/minimum-path-sum)||[:memo:](https://leetcode.com/articles/minimum-path-sum/)|Medium|
+|64|[minimum-path-sum](https://leetcode.com/problems/minimum-path-sum)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0064-minimum-path-sum/minimum-path-sum.py)|[:memo:](https://leetcode.com/articles/minimum-path-sum/)|Medium|
 |65|[valid-number](https://leetcode.com/problems/valid-number)|||Hard|
 |66|[plus-one](https://leetcode.com/problems/plus-one)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0066-plus-one/plus-one.py)|[:memo:](https://leetcode.com/articles/plus-one/)|Easy|
-|67|[add-binary](https://leetcode.com/problems/add-binary)||[:memo:](https://leetcode.com/articles/add-binary/)|Easy|
+|67|[add-binary](https://leetcode.com/problems/add-binary)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0067-add-binary/add-binary.py)|[:memo:](https://leetcode.com/articles/add-binary/)|Easy|
 |68|[text-justification](https://leetcode.com/problems/text-justification)|||Hard|
 |69|[sqrtx](https://leetcode.com/problems/sqrtx)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0069-sqrtx/sqrtx.py)|[:memo:](https://leetcode.com/articles/sqrtx/)|Easy|
-|70|[climbing-stairs](https://leetcode.com/problems/climbing-stairs)||[:memo:](https://leetcode.com/articles/climbing-stairs/)|Easy|
+|70|[climbing-stairs](https://leetcode.com/problems/climbing-stairs)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0070-climbing-stairs/climbing-stairs.py)|[:memo:](https://leetcode.com/articles/climbing-stairs/)|Easy|
 |71|[simplify-path](https://leetcode.com/problems/simplify-path)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0071-simplify-path/simplify-path.py)|[:memo:](https://leetcode.com/articles/simplify-path/)|Medium|
 |72|[edit-distance](https://leetcode.com/problems/edit-distance)||[:memo:](https://leetcode.com/articles/edit-distance/)|Hard|
 |73|[set-matrix-zeroes](https://leetcode.com/problems/set-matrix-zeroes)||[:memo:](https://leetcode.com/articles/set-matrix-zeroes/)|Medium|
