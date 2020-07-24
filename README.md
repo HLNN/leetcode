@@ -1,8 +1,8 @@
 # :pencil2: Leetcode Solutions with Python3,Cpp
-Update time:  2020-07-21 15:05:16
+Update time:  2020-07-24 17:20:31
 
-I have solved **123   /   1389** problems
-while there are **220** problems still locked.
+I have solved **124   /   1390** problems
+while there are **221** problems still locked.
 
 If you have any question, please give me an [issue](https://github.com/hlnn/leetcode/issues).
 
@@ -73,7 +73,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |57|[insert-interval](https://leetcode.com/problems/insert-interval)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0057-insert-interval/insert-interval.py)|[:memo:](https://leetcode.com/articles/insert-interval/)|Hard|
 |58|[length-of-last-word](https://leetcode.com/problems/length-of-last-word)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0058-length-of-last-word/length-of-last-word.py)|[:memo:](https://leetcode.com/articles/length-of-last-word/)|Easy|
 |59|[spiral-matrix-ii](https://leetcode.com/problems/spiral-matrix-ii)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0059-spiral-matrix-ii/spiral-matrix-ii.py)||Medium|
-|60|[permutation-sequence](https://leetcode.com/problems/permutation-sequence)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0060-permutation-sequence/permutation-sequence.py)|[:memo:](https://leetcode.com/articles/permutation-sequence/)|Medium|
+|60|[permutation-sequence](https://leetcode.com/problems/permutation-sequence)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0060-permutation-sequence/permutation-sequence.py)|[:memo:](https://leetcode.com/articles/permutation-sequence/)|Hard|
 |61|[rotate-list](https://leetcode.com/problems/rotate-list)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0061-rotate-list/rotate-list.py)|[:memo:](https://leetcode.com/articles/rotate-list/)|Medium|
 |62|[unique-paths](https://leetcode.com/problems/unique-paths)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0062-unique-paths/unique-paths.py)|[:memo:](https://leetcode.com/articles/unique-paths/)|Medium|
 |63|[unique-paths-ii](https://leetcode.com/problems/unique-paths-ii)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0063-unique-paths-ii/unique-paths-ii.py)|[:memo:](https://leetcode.com/articles/unique-paths-ii/)|Medium|
@@ -116,7 +116,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |100|[same-tree](https://leetcode.com/problems/same-tree)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0100-same-tree/same-tree.py)|[:memo:](https://leetcode.com/articles/same-tree/)|Easy|
 |101|[symmetric-tree](https://leetcode.com/problems/symmetric-tree)||[:memo:](https://leetcode.com/articles/symmetric-tree/)|Easy|
 |102|[binary-tree-level-order-traversal](https://leetcode.com/problems/binary-tree-level-order-traversal)||[:memo:](https://leetcode.com/articles/binary-tree-level-order-traversal/)|Medium|
-|103|[binary-tree-zigzag-level-order-traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal)||[:memo:](https://leetcode.com/articles/binary-tree-zigzag-level-order-traversal/)|Medium|
+|103|[binary-tree-zigzag-level-order-traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0103-binary-tree-zigzag-level-order-traversal/binary-tree-zigzag-level-order-traversal.py)|[:memo:](https://leetcode.com/articles/binary-tree-zigzag-level-order-traversal/)|Medium|
 |104|[maximum-depth-of-binary-tree](https://leetcode.com/problems/maximum-depth-of-binary-tree)||[:memo:](https://leetcode.com/articles/maximum-depth-of-binary-tree/)|Easy|
 |105|[construct-binary-tree-from-preorder-and-inorder-traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal)||[:memo:](https://leetcode.com/articles/construct-binary-tree-from-preorder-and-inorder-tr/)|Medium|
 |106|[construct-binary-tree-from-inorder-and-postorder-traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal)||[:memo:](https://leetcode.com/articles/construct-binary-tree-from-inorder-and-postorder-t/)|Medium|
@@ -210,7 +210,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |210|[course-schedule-ii](https://leetcode.com/problems/course-schedule-ii)||[:memo:](https://leetcode.com/articles/course-schedule-ii/)|Medium|
 |211|[add-and-search-word-data-structure-design](https://leetcode.com/problems/add-and-search-word-data-structure-design)||[:memo:](https://leetcode.com/articles/add-and-search-word/)|Medium|
 |212|[word-search-ii](https://leetcode.com/problems/word-search-ii)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0212-word-search-ii/word-search-ii.py)|[:memo:](https://leetcode.com/articles/word-search-ii/)|Hard|
-|213|[house-robber-ii](https://leetcode.com/problems/house-robber-ii)|||Medium|
+|213|[house-robber-ii](https://leetcode.com/problems/house-robber-ii)||[:memo:](https://leetcode.com/articles/house-robber-ii/)|Medium|
 |214|[shortest-palindrome](https://leetcode.com/problems/shortest-palindrome)||[:memo:](https://leetcode.com/articles/shortest-palindrome/)|Hard|
 |215|[kth-largest-element-in-an-array](https://leetcode.com/problems/kth-largest-element-in-an-array)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0215-kth-largest-element-in-an-array/kth-largest-element-in-an-array.py)|[:memo:](https://leetcode.com/articles/kth-largest-element-in-an-array/)|Medium|
 |216|[combination-sum-iii](https://leetcode.com/problems/combination-sum-iii)|||Medium|
@@ -367,7 +367,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |368|[largest-divisible-subset](https://leetcode.com/problems/largest-divisible-subset)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0368-largest-divisible-subset/largest-divisible-subset.py)|[:memo:](https://leetcode.com/articles/largest-divisible-subset/)|Medium|
 |369|[plus-one-linked-list](https://leetcode.com/problems/plus-one-linked-list)|:lock:|[:memo:](https://leetcode.com/articles/plus-one-linked-list/)|Medium|
 |370|[range-addition](https://leetcode.com/problems/range-addition)|:lock:|[:memo:](https://leetcode.com/articles/range-addition/)|Medium|
-|371|[sum-of-two-integers](https://leetcode.com/problems/sum-of-two-integers)||[:memo:](https://leetcode.com/articles/sum-of-two-integers/)|Easy|
+|371|[sum-of-two-integers](https://leetcode.com/problems/sum-of-two-integers)||[:memo:](https://leetcode.com/articles/sum-of-two-integers/)|Medium|
 |372|[super-pow](https://leetcode.com/problems/super-pow)|||Medium|
 |373|[find-k-pairs-with-smallest-sums](https://leetcode.com/problems/find-k-pairs-with-smallest-sums)|||Medium|
 |374|[guess-number-higher-or-lower](https://leetcode.com/problems/guess-number-higher-or-lower)||[:memo:](https://leetcode.com/articles/guess-number-higher-or-lower/)|Easy|
@@ -686,7 +686,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |749|[shortest-completing-word](https://leetcode.com/problems/shortest-completing-word)||[:memo:](https://leetcode.com/articles/shortest-completing-word/)|Easy|
 |750|[contain-virus](https://leetcode.com/problems/contain-virus)||[:memo:](https://leetcode.com/articles/contain-virus/)|Hard|
 |751|[number-of-corner-rectangles](https://leetcode.com/problems/number-of-corner-rectangles)|:lock:|[:memo:](https://leetcode.com/articles/number-of-corner-rectangles/)|Medium|
-|752|[ip-to-cidr](https://leetcode.com/problems/ip-to-cidr)|:lock:|[:memo:](https://leetcode.com/articles/ip-to-cidr/)|Easy|
+|752|[ip-to-cidr](https://leetcode.com/problems/ip-to-cidr)|:lock:|[:memo:](https://leetcode.com/articles/ip-to-cidr/)|Medium|
 |753|[open-the-lock](https://leetcode.com/problems/open-the-lock)||[:memo:](https://leetcode.com/articles/open-the-lock/)|Medium|
 |754|[cracking-the-safe](https://leetcode.com/problems/cracking-the-safe)||[:memo:](https://leetcode.com/articles/cracking-the-safe/)|Hard|
 |755|[reach-a-number](https://leetcode.com/problems/reach-a-number)||[:memo:](https://leetcode.com/articles/reach-a-number/)|Medium|
@@ -1403,3 +1403,4 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |1645|[find-a-value-of-a-mysterious-function-closest-to-target](https://leetcode.com/problems/find-a-value-of-a-mysterious-function-closest-to-target)|||Hard|
 |1650|[find-root-of-n-ary-tree](https://leetcode.com/problems/find-root-of-n-ary-tree)|:lock:||Medium|
 |1655|[move-sub-tree-of-n-ary-tree](https://leetcode.com/problems/move-sub-tree-of-n-ary-tree)|:lock:||Hard|
+|1665|[diameter-of-n-ary-tree](https://leetcode.com/problems/diameter-of-n-ary-tree)|:lock:||Medium|
