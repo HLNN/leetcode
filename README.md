@@ -1,8 +1,8 @@
 # :pencil2: Leetcode Solutions with Python3,Cpp
-Update time:  2020-07-28 17:46:31
+Update time:  2020-08-02 15:54:12
 
-I have solved **131   /   1398** problems
-while there are **221** problems still locked.
+I have solved **132   /   1403** problems
+while there are **222** problems still locked.
 
 If you have any question, please give me an [issue](https://github.com/hlnn/leetcode/issues).
 
@@ -295,7 +295,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |296|[best-meeting-point](https://leetcode.com/problems/best-meeting-point)|:lock:|[:memo:](https://leetcode.com/articles/best-meeting-point/)|Hard|
 |297|[serialize-and-deserialize-binary-tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree)||[:memo:](https://leetcode.com/articles/serialize-and-deserialize-binary-tree/)|Hard|
 |298|[binary-tree-longest-consecutive-sequence](https://leetcode.com/problems/binary-tree-longest-consecutive-sequence)|:lock:|[:memo:](https://leetcode.com/articles/binary-tree-longest-consecutive-sequence/)|Medium|
-|299|[bulls-and-cows](https://leetcode.com/problems/bulls-and-cows)|||Easy|
+|299|[bulls-and-cows](https://leetcode.com/problems/bulls-and-cows)||[:memo:](https://leetcode.com/articles/bulls-and-cows/)|Easy|
 |300|[longest-increasing-subsequence](https://leetcode.com/problems/longest-increasing-subsequence)||[:memo:](https://leetcode.com/articles/longest-increasing-subsequence/)|Medium|
 |301|[remove-invalid-parentheses](https://leetcode.com/problems/remove-invalid-parentheses)||[:memo:](https://leetcode.com/articles/remove-invalid-parentheses/)|Hard|
 |302|[smallest-rectangle-enclosing-black-pixels](https://leetcode.com/problems/smallest-rectangle-enclosing-black-pixels)|:lock:|[:memo:](https://leetcode.com/articles/smallest-rectangle-enclosing-black-pixels/)|Hard|
@@ -330,7 +330,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |331|[verify-preorder-serialization-of-a-binary-tree](https://leetcode.com/problems/verify-preorder-serialization-of-a-binary-tree)||[:memo:](https://leetcode.com/articles/verify-preorder-serialization-of-a-binary-tree/)|Medium|
 |332|[reconstruct-itinerary](https://leetcode.com/problems/reconstruct-itinerary)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0332-reconstruct-itinerary/reconstruct-itinerary.py)|[:memo:](https://leetcode.com/articles/reconstruct-itinerary/)|Medium|
 |333|[largest-bst-subtree](https://leetcode.com/problems/largest-bst-subtree)|:lock:||Medium|
-|334|[increasing-triplet-subsequence](https://leetcode.com/problems/increasing-triplet-subsequence)|||Medium|
+|334|[increasing-triplet-subsequence](https://leetcode.com/problems/increasing-triplet-subsequence)||[:memo:](https://leetcode.com/articles/increasing-triplet-subsequence/)|Medium|
 |335|[self-crossing](https://leetcode.com/problems/self-crossing)|||Hard|
 |336|[palindrome-pairs](https://leetcode.com/problems/palindrome-pairs)||[:memo:](https://leetcode.com/articles/palindrome-pairs/)|Hard|
 |337|[house-robber-iii](https://leetcode.com/problems/house-robber-iii)|||Medium|
@@ -503,7 +503,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |516|[longest-palindromic-subsequence](https://leetcode.com/problems/longest-palindromic-subsequence)|||Medium|
 |517|[super-washing-machines](https://leetcode.com/problems/super-washing-machines)||[:memo:](https://leetcode.com/articles/super-washing-machines/)|Hard|
 |518|[coin-change-2](https://leetcode.com/problems/coin-change-2)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0518-coin-change-2/coin-change-2.py)|[:memo:](https://leetcode.com/articles/coin-change-ii/)|Medium|
-|520|[detect-capital](https://leetcode.com/problems/detect-capital)||[:memo:](https://leetcode.com/articles/detect-capital/)|Easy|
+|520|[detect-capital](https://leetcode.com/problems/detect-capital)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0520-detect-capital/detect-capital.py)|[:memo:](https://leetcode.com/articles/detect-capital/)|Easy|
 |521|[longest-uncommon-subsequence-i](https://leetcode.com/problems/longest-uncommon-subsequence-i)||[:memo:](https://leetcode.com/articles/longest-uncommon-subsequence-i/)|Easy|
 |522|[longest-uncommon-subsequence-ii](https://leetcode.com/problems/longest-uncommon-subsequence-ii)||[:memo:](https://leetcode.com/articles/longest-uncommon-subsequence-ii/)|Medium|
 |523|[continuous-subarray-sum](https://leetcode.com/problems/continuous-subarray-sum)||[:memo:](https://leetcode.com/articles/continuous-subarray-sum/)|Medium|
@@ -734,7 +734,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |797|[rabbits-in-forest](https://leetcode.com/problems/rabbits-in-forest)||[:memo:](https://leetcode.com/articles/rabbits-in-forest/)|Medium|
 |798|[transform-to-chessboard](https://leetcode.com/problems/transform-to-chessboard)||[:memo:](https://leetcode.com/articles/transform-to-chessboard/)|Hard|
 |799|[minimum-distance-between-bst-nodes](https://leetcode.com/problems/minimum-distance-between-bst-nodes)||[:memo:](https://leetcode.com/articles/minimum-distance-between-bst-nodes/)|Easy|
-|800|[letter-case-permutation](https://leetcode.com/problems/letter-case-permutation)||[:memo:](https://leetcode.com/articles/letter-case-permutation/)|Easy|
+|800|[letter-case-permutation](https://leetcode.com/problems/letter-case-permutation)||[:memo:](https://leetcode.com/articles/letter-case-permutation/)|Medium|
 |801|[is-graph-bipartite](https://leetcode.com/problems/is-graph-bipartite)||[:memo:](https://leetcode.com/articles/is-graph-bipartite/)|Medium|
 |802|[k-th-smallest-prime-fraction](https://leetcode.com/problems/k-th-smallest-prime-fraction)||[:memo:](https://leetcode.com/articles/k-th-smallest-prime-fraction/)|Hard|
 |803|[cheapest-flights-within-k-stops](https://leetcode.com/problems/cheapest-flights-within-k-stops)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0803-cheapest-flights-within-k-stops/cheapest-flights-within-k-stops.py)|[:memo:](https://leetcode.com/articles/cheapest-flights-within-k-stops/)|Medium|
@@ -932,7 +932,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |1006|[vowel-spellchecker](https://leetcode.com/problems/vowel-spellchecker)||[:memo:](https://leetcode.com/articles/vowel-spellchecker/)|Medium|
 |1007|[numbers-with-same-consecutive-differences](https://leetcode.com/problems/numbers-with-same-consecutive-differences)||[:memo:](https://leetcode.com/articles/numbers-with-same-consecutive-differences/)|Medium|
 |1008|[binary-tree-cameras](https://leetcode.com/problems/binary-tree-cameras)||[:memo:](https://leetcode.com/articles/binary-tree-cameras/)|Hard|
-|1009|[pancake-sorting](https://leetcode.com/problems/pancake-sorting)||[:memo:](https://leetcode.com/articles/pancake-sorting/)|Medium|
+|1009|[pancake-sorting](https://leetcode.com/problems/pancake-sorting)|||Medium|
 |1010|[powerful-integers](https://leetcode.com/problems/powerful-integers)||[:memo:](https://leetcode.com/articles/powerful-integers/)|Easy|
 |1011|[flip-binary-tree-to-match-preorder-traversal](https://leetcode.com/problems/flip-binary-tree-to-match-preorder-traversal)||[:memo:](https://leetcode.com/articles/flip-binary-tree-to-match-preorder-traversal/)|Medium|
 |1012|[equal-rational-numbers](https://leetcode.com/problems/equal-rational-numbers)||[:memo:](https://leetcode.com/articles/equal-rational-numbers/)|Hard|
@@ -1344,7 +1344,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |1554|[minimum-time-to-collect-all-apples-in-a-tree](https://leetcode.com/problems/minimum-time-to-collect-all-apples-in-a-tree)|||Medium|
 |1555|[number-of-ways-of-cutting-a-pizza](https://leetcode.com/problems/number-of-ways-of-cutting-a-pizza)|||Hard|
 |1556|[make-two-arrays-equal-by-reversing-sub-arrays](https://leetcode.com/problems/make-two-arrays-equal-by-reversing-sub-arrays)|||Easy|
-|1557|[check-if-a-string-contains-all-binary-codes-of-size-k](https://leetcode.com/problems/check-if-a-string-contains-all-binary-codes-of-size-k)|||Medium|
+|1557|[check-if-a-string-contains-all-binary-codes-of-size-k](https://leetcode.com/problems/check-if-a-string-contains-all-binary-codes-of-size-k)||[:memo:](https://leetcode.com/articles/check-if-a-string-contains-all-binary-codes-of-siz/)|Medium|
 |1558|[course-schedule-iv](https://leetcode.com/problems/course-schedule-iv)|||Medium|
 |1559|[cherry-pickup-ii](https://leetcode.com/problems/cherry-pickup-ii)|||Hard|
 |1560|[number-of-students-doing-homework-at-a-given-time](https://leetcode.com/problems/number-of-students-doing-homework-at-a-given-time)|||Easy|
@@ -1411,4 +1411,9 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |1652|[bulb-switcher-iv](https://leetcode.com/problems/bulb-switcher-iv)|||Medium|
 |1653|[number-of-good-leaf-nodes-pairs](https://leetcode.com/problems/number-of-good-leaf-nodes-pairs)|||Medium|
 |1655|[move-sub-tree-of-n-ary-tree](https://leetcode.com/problems/move-sub-tree-of-n-ary-tree)|:lock:||Hard|
+|1656|[count-good-triplets](https://leetcode.com/problems/count-good-triplets)|||Easy|
+|1657|[find-the-winner-of-an-array-game](https://leetcode.com/problems/find-the-winner-of-an-array-game)|||Medium|
+|1658|[minimum-swaps-to-arrange-a-binary-grid](https://leetcode.com/problems/minimum-swaps-to-arrange-a-binary-grid)|||Medium|
+|1659|[get-the-maximum-score](https://leetcode.com/problems/get-the-maximum-score)|||Hard|
 |1665|[diameter-of-n-ary-tree](https://leetcode.com/problems/diameter-of-n-ary-tree)|:lock:||Medium|
+|1672|[find-the-index-of-the-large-integer](https://leetcode.com/problems/find-the-index-of-the-large-integer)|:lock:||Medium|

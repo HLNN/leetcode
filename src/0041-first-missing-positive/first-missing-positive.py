@@ -21,7 +21,7 @@
 # Output: 1
 #
 #
-# Note:
+# Follow up:
 #
 # Your algorithm should run in O(n) time and uses constant extra space.
 #
