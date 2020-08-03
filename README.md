@@ -1,5 +1,5 @@
 # :pencil2: Leetcode Solutions with Python3,Cpp
-Update time:  2020-08-02 15:54:12
+Update time:  2020-08-03 15:54:40
 
 I have solved **132   /   1403** problems
 while there are **222** problems still locked.
@@ -932,7 +932,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |1006|[vowel-spellchecker](https://leetcode.com/problems/vowel-spellchecker)||[:memo:](https://leetcode.com/articles/vowel-spellchecker/)|Medium|
 |1007|[numbers-with-same-consecutive-differences](https://leetcode.com/problems/numbers-with-same-consecutive-differences)||[:memo:](https://leetcode.com/articles/numbers-with-same-consecutive-differences/)|Medium|
 |1008|[binary-tree-cameras](https://leetcode.com/problems/binary-tree-cameras)||[:memo:](https://leetcode.com/articles/binary-tree-cameras/)|Hard|
-|1009|[pancake-sorting](https://leetcode.com/problems/pancake-sorting)|||Medium|
+|1009|[pancake-sorting](https://leetcode.com/problems/pancake-sorting)||[:memo:](https://leetcode.com/articles/pancake-sorting/)|Medium|
 |1010|[powerful-integers](https://leetcode.com/problems/powerful-integers)||[:memo:](https://leetcode.com/articles/powerful-integers/)|Easy|
 |1011|[flip-binary-tree-to-match-preorder-traversal](https://leetcode.com/problems/flip-binary-tree-to-match-preorder-traversal)||[:memo:](https://leetcode.com/articles/flip-binary-tree-to-match-preorder-traversal/)|Medium|
 |1012|[equal-rational-numbers](https://leetcode.com/problems/equal-rational-numbers)||[:memo:](https://leetcode.com/articles/equal-rational-numbers/)|Hard|
