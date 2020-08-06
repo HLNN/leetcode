@@ -1,8 +1,8 @@
 # :pencil2: Leetcode Solutions with Python3,Cpp
-Update time:  2020-08-05 15:54:16
+Update time:  2020-08-06 15:54:16
 
-I have solved **134   /   1403** problems
-while there are **222** problems still locked.
+I have solved **135   /   1404** problems
+while there are **223** problems still locked.
 
 If you have any question, please give me an [issue](https://github.com/hlnn/leetcode/issues).
 
@@ -170,7 +170,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |154|[find-minimum-in-rotated-sorted-array-ii](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0154-find-minimum-in-rotated-sorted-array-ii/find-minimum-in-rotated-sorted-array-ii.py)|[:memo:](https://leetcode.com/articles/find-minimum-in-rotated-sorted-array-ii/)|Hard|
 |155|[min-stack](https://leetcode.com/problems/min-stack)||[:memo:](https://leetcode.com/articles/min-stack/)|Easy|
 |156|[binary-tree-upside-down](https://leetcode.com/problems/binary-tree-upside-down)|:lock:||Medium|
-|157|[read-n-characters-given-read4](https://leetcode.com/problems/read-n-characters-given-read4)|:lock:||Easy|
+|157|[read-n-characters-given-read4](https://leetcode.com/problems/read-n-characters-given-read4)|:lock:|[:memo:](https://leetcode.com/articles/read-n-characters-given-read4/)|Easy|
 |158|[read-n-characters-given-read4-ii-call-multiple-times](https://leetcode.com/problems/read-n-characters-given-read4-ii-call-multiple-times)|:lock:||Hard|
 |159|[longest-substring-with-at-most-two-distinct-characters](https://leetcode.com/problems/longest-substring-with-at-most-two-distinct-characters)|:lock:|[:memo:](https://leetcode.com/articles/longest-substring-with-at-most-two-distinct-charac/)|Medium|
 |160|[intersection-of-two-linked-lists](https://leetcode.com/problems/intersection-of-two-linked-lists)||[:memo:](https://leetcode.com/articles/intersection-of-two-linked-lists/)|Easy|
@@ -208,7 +208,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |208|[implement-trie-prefix-tree](https://leetcode.com/problems/implement-trie-prefix-tree)||[:memo:](https://leetcode.com/articles/implement-trie-prefix-tree/)|Medium|
 |209|[minimum-size-subarray-sum](https://leetcode.com/problems/minimum-size-subarray-sum)||[:memo:](https://leetcode.com/articles/minimum-size-subarray-sum/)|Medium|
 |210|[course-schedule-ii](https://leetcode.com/problems/course-schedule-ii)||[:memo:](https://leetcode.com/articles/course-schedule-ii/)|Medium|
-|211|[add-and-search-word-data-structure-design](https://leetcode.com/problems/add-and-search-word-data-structure-design)||[:memo:](https://leetcode.com/articles/add-and-search-word/)|Medium|
+|211|[add-and-search-word-data-structure-design](https://leetcode.com/problems/add-and-search-word-data-structure-design)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0211-add-and-search-word-data-structure-design/add-and-search-word-data-structure-design.py)|[:memo:](https://leetcode.com/articles/add-and-search-word/)|Medium|
 |212|[word-search-ii](https://leetcode.com/problems/word-search-ii)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0212-word-search-ii/word-search-ii.py)|[:memo:](https://leetcode.com/articles/word-search-ii/)|Hard|
 |213|[house-robber-ii](https://leetcode.com/problems/house-robber-ii)||[:memo:](https://leetcode.com/articles/house-robber-ii/)|Medium|
 |214|[shortest-palindrome](https://leetcode.com/problems/shortest-palindrome)||[:memo:](https://leetcode.com/articles/shortest-palindrome/)|Hard|
@@ -1417,3 +1417,4 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |1659|[get-the-maximum-score](https://leetcode.com/problems/get-the-maximum-score)|||Hard|
 |1665|[diameter-of-n-ary-tree](https://leetcode.com/problems/diameter-of-n-ary-tree)|:lock:||Medium|
 |1672|[find-the-index-of-the-large-integer](https://leetcode.com/problems/find-the-index-of-the-large-integer)|:lock:||Medium|
+|1681|[guess-the-majority-in-a-hidden-array](https://leetcode.com/problems/guess-the-majority-in-a-hidden-array)|:lock:||Medium|
