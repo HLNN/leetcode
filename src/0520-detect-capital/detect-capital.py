@@ -35,5 +35,5 @@
 
 class Solution:
     def detectCapitalUse(self, word: str) -> bool:
-        return re.match(r"^(?:[a-z]+|[A-Z]+|[A-Z][a-z]*)$", word)
+        return re.fullmatch(r"[A-Z]+|.[a-z]*", word)
     

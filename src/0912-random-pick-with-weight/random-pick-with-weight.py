@@ -1,6 +1,8 @@
-# Given an array w of positive integers, where w[i] describes the weight of index i(0-indexed), write a function pickIndex which randomly picks an index in proportion to its weight.
+# Given an array of positive integers w. where w[i] describes the weight of ith index (0-indexed).
 #
-# For example, given an input list of values w = [2, 8], when we pick up a number out of it, the chance is that 8 times out of 10 we should pick the number 1 as the answer since it's the second element of the array (w[1] = 8).
+# We need to call the function pickIndex() which randomly returns an integer in the range [0, w.length - 1]. pickIndex() should return the integer proportional to its weight in the w array. For example, for w = [1, 3], the probability of picking index 0 is 1 / (1 + 3) = 0.25 (i.e 25%) while the probability of picking index 1 is 3 / (1 + 3) = 0.75 (i.e 75%).
+#
+# More formally, the probability of picking index i is w[i] / sum(w).
 #
 #  
 # Example 1:
