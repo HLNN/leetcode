@@ -1,20 +1,31 @@
-# Given a non-negative index k where k ≤ 33, return the kth index row of the Pascal's triangle.
+# Given an integer rowIndex, return the rowIndexth row of the Pascal's triangle.
 #
-# Note that the row index starts from 0.
+# Notice that the row index starts from 0.
 #
 #
 # In Pascal's triangle, each number is the sum of the two numbers directly above it.
 #
-# Example:
-#
-#
-# Input: 3
-# Output: [1,3,3,1]
-#
-#
 # Follow up:
 #
 # Could you optimize your algorithm to use only O(k) extra space?
+#
+#  
+# Example 1:
+# Input: rowIndex = 3
+# Output: [1,3,3,1]
+# Example 2:
+# Input: rowIndex = 0
+# Output: [1]
+# Example 3:
+# Input: rowIndex = 1
+# Output: [1,1]
+#
+#  
+# Constraints:
+#
+#
+# 	0 <= rowIndex <= 40
+#
 #
 
 
