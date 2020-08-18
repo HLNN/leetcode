@@ -1,7 +1,7 @@
 # :pencil2: Leetcode Solutions with Python3,Cpp
-Update time:  2020-08-17 15:06:41
+Update time:  2020-08-18 15:07:26
 
-I have solved **146   /   1417** problems
+I have solved **147   /   1417** problems
 while there are **224** problems still locked.
 
 If you have any question, please give me an [issue](https://github.com/hlnn/leetcode/issues).
@@ -21,7 +21,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |5|[longest-palindromic-substring](https://leetcode.com/problems/longest-palindromic-substring)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0005-longest-palindromic-substring/longest-palindromic-substring.py)|[:memo:](https://leetcode.com/articles/longest-palindromic-substring/)|Medium|
 |6|[zigzag-conversion](https://leetcode.com/problems/zigzag-conversion)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0006-zigzag-conversion/zigzag-conversion.py)|[:memo:](https://leetcode.com/articles/zigzag-conversion/)|Medium|
 |7|[reverse-integer](https://leetcode.com/problems/reverse-integer)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0007-reverse-integer/reverse-integer.py)|[:memo:](https://leetcode.com/articles/reverse-integer/)|Easy|
-|8|[string-to-integer-atoi](https://leetcode.com/problems/string-to-integer-atoi)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0008-string-to-integer-atoi/string-to-integer-atoi.py)||Medium|
+|8|[string-to-integer-atoi](https://leetcode.com/problems/string-to-integer-atoi)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0008-string-to-integer-atoi/string-to-integer-atoi.py)|[:memo:](https://leetcode.com/articles/string-to-integer/)|Medium|
 |9|[palindrome-number](https://leetcode.com/problems/palindrome-number)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0009-palindrome-number/palindrome-number.py)|[:memo:](https://leetcode.com/articles/palindrome-number/)|Easy|
 |10|[regular-expression-matching](https://leetcode.com/problems/regular-expression-matching)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0010-regular-expression-matching/regular-expression-matching.py)|[:memo:](https://leetcode.com/articles/regular-expression-matching/)|Hard|
 |11|[container-with-most-water](https://leetcode.com/problems/container-with-most-water)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0011-container-with-most-water/container-with-most-water.py)|[:memo:](https://leetcode.com/articles/container-with-most-water/)|Medium|
@@ -226,7 +226,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |226|[invert-binary-tree](https://leetcode.com/problems/invert-binary-tree)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0226-invert-binary-tree/invert-binary-tree.py)|[:memo:](https://leetcode.com/articles/invert-binary-tree/)|Easy|
 |227|[basic-calculator-ii](https://leetcode.com/problems/basic-calculator-ii)|||Medium|
 |228|[summary-ranges](https://leetcode.com/problems/summary-ranges)||[:memo:](https://leetcode.com/articles/summary-ranges/)|Medium|
-|229|[majority-element-ii](https://leetcode.com/problems/majority-element-ii)|||Medium|
+|229|[majority-element-ii](https://leetcode.com/problems/majority-element-ii)||[:memo:](https://leetcode.com/articles/majority-element-ii/)|Medium|
 |230|[kth-smallest-element-in-a-bst](https://leetcode.com/problems/kth-smallest-element-in-a-bst)||[:memo:](https://leetcode.com/articles/kth-smallest-element-in-a-bst/)|Medium|
 |231|[power-of-two](https://leetcode.com/problems/power-of-two)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0231-power-of-two/power-of-two.py)|[:memo:](https://leetcode.com/articles/power-of-two/)|Easy|
 |232|[implement-queue-using-stacks](https://leetcode.com/problems/implement-queue-using-stacks)||[:memo:](https://leetcode.com/articles/implement-queue-using-stacks/)|Easy|
@@ -1001,7 +1001,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |1076|[brace-expansion](https://leetcode.com/problems/brace-expansion)|:lock:||Medium|
 |1077|[confusing-number-ii](https://leetcode.com/problems/confusing-number-ii)|:lock:||Hard|
 |1078|[remove-outermost-parentheses](https://leetcode.com/problems/remove-outermost-parentheses)|||Easy|
-|1079|[sum-of-root-to-leaf-binary-numbers](https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers)|||Easy|
+|1079|[sum-of-root-to-leaf-binary-numbers](https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers)||[:memo:](https://leetcode.com/articles/sum-root-to-leaf-binary-numbers/)|Easy|
 |1080|[camelcase-matching](https://leetcode.com/problems/camelcase-matching)|||Medium|
 |1081|[video-stitching](https://leetcode.com/problems/video-stitching)|||Medium|
 |1082|[sum-of-digits-in-the-minimum-number](https://leetcode.com/problems/sum-of-digits-in-the-minimum-number)|:lock:||Easy|
@@ -1096,7 +1096,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |1191|[synonymous-sentences](https://leetcode.com/problems/synonymous-sentences)|:lock:||Medium|
 |1192|[divide-chocolate](https://leetcode.com/problems/divide-chocolate)|:lock:||Hard|
 |1194|[path-in-zigzag-labelled-binary-tree](https://leetcode.com/problems/path-in-zigzag-labelled-binary-tree)|||Medium|
-|1195|[distribute-candies-to-people](https://leetcode.com/problems/distribute-candies-to-people)||[:memo:](https://leetcode.com/articles/distribute-candies-to-people/)|Easy|
+|1195|[distribute-candies-to-people](https://leetcode.com/problems/distribute-candies-to-people)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/1195-distribute-candies-to-people/distribute-candies-to-people.py)|[:memo:](https://leetcode.com/articles/distribute-candies-to-people/)|Easy|
 |1196|[filling-bookcase-shelves](https://leetcode.com/problems/filling-bookcase-shelves)|||Medium|
 |1197|[parsing-a-boolean-expression](https://leetcode.com/problems/parsing-a-boolean-expression)|||Hard|
 |1199|[hexspeak](https://leetcode.com/problems/hexspeak)|:lock:||Easy|
@@ -1254,7 +1254,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |1444|[number-of-steps-to-reduce-a-number-to-zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero)||[:memo:](https://leetcode.com/articles/number-of-steps-to-reduce-a-number-to-zero/)|Easy|
 |1445|[number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://leetcode.com/problems/number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold)|||Medium|
 |1446|[angle-between-hands-of-a-clock](https://leetcode.com/problems/angle-between-hands-of-a-clock)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/1446-angle-between-hands-of-a-clock/angle-between-hands-of-a-clock.py)|[:memo:](https://leetcode.com/articles/angle-between-hands-of-a-clock/)|Medium|
-|1447|[jump-game-iv](https://leetcode.com/problems/jump-game-iv)|||Hard|
+|1447|[jump-game-iv](https://leetcode.com/problems/jump-game-iv)||[:memo:](https://leetcode.com/articles/jump-game-iv/)|Hard|
 |1448|[maximum-69-number](https://leetcode.com/problems/maximum-69-number)|||Easy|
 |1449|[print-words-vertically](https://leetcode.com/problems/print-words-vertically)|||Medium|
 |1450|[delete-leaves-with-a-given-value](https://leetcode.com/problems/delete-leaves-with-a-given-value)|||Medium|
