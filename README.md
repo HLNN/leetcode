@@ -1,7 +1,7 @@
 # :pencil2: Leetcode Solutions with Python3,Cpp
-Update time:  2020-08-20 15:07:15
+Update time:  2020-08-21 15:07:20
 
-I have solved **149   /   1418** problems
+I have solved **150   /   1418** problems
 while there are **225** problems still locked.
 
 If you have any question, please give me an [issue](https://github.com/hlnn/leetcode/issues).
@@ -156,7 +156,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |140|[word-break-ii](https://leetcode.com/problems/word-break-ii)||[:memo:](https://leetcode.com/articles/word-break-ii/)|Hard|
 |141|[linked-list-cycle](https://leetcode.com/problems/linked-list-cycle)||[:memo:](https://leetcode.com/articles/linked-list-cycle/)|Easy|
 |142|[linked-list-cycle-ii](https://leetcode.com/problems/linked-list-cycle-ii)||[:memo:](https://leetcode.com/articles/linked-list-cycle-ii/)|Medium|
-|143|[reorder-list](https://leetcode.com/problems/reorder-list)||[:memo:](https://leetcode.com/articles/reorder-list/)|Medium|
+|143|[reorder-list](https://leetcode.com/problems/reorder-list)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0143-reorder-list/reorder-list.py)|[:memo:](https://leetcode.com/articles/reorder-list/)|Medium|
 |144|[binary-tree-preorder-traversal](https://leetcode.com/problems/binary-tree-preorder-traversal)||[:memo:](https://leetcode.com/articles/binary-tree-preorder-traversal/)|Medium|
 |145|[binary-tree-postorder-traversal](https://leetcode.com/problems/binary-tree-postorder-traversal)||[:memo:](https://leetcode.com/articles/binary-tree-postorder-traversal/)|Hard|
 |146|[lru-cache](https://leetcode.com/problems/lru-cache)||[:memo:](https://leetcode.com/articles/lru-cache/)|Medium|
