@@ -1,0 +1,7 @@
+[leetcode]
+
+username = your_username
+password = your_password
+language = python3,cpp
+repo = https://github.com/hlnn/leetcode
+driverpath = ./chromedriver/chromedriver
