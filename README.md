@@ -1,7 +1,7 @@
 # :pencil2: Leetcode Solutions with Python3,Cpp
-Update time:  2020-08-27 15:07:14
+Update time:  2020-09-01 15:44:31
 
-I have solved **155   /   1427** problems
+I have solved **156   /   1431** problems
 while there are **226** problems still locked.
 
 If you have any question, please give me an [issue](https://github.com/hlnn/leetcode/issues).
@@ -158,7 +158,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |142|[linked-list-cycle-ii](https://leetcode.com/problems/linked-list-cycle-ii)||[:memo:](https://leetcode.com/articles/linked-list-cycle-ii/)|Medium|
 |143|[reorder-list](https://leetcode.com/problems/reorder-list)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0143-reorder-list/reorder-list.py)|[:memo:](https://leetcode.com/articles/reorder-list/)|Medium|
 |144|[binary-tree-preorder-traversal](https://leetcode.com/problems/binary-tree-preorder-traversal)||[:memo:](https://leetcode.com/articles/binary-tree-preorder-traversal/)|Medium|
-|145|[binary-tree-postorder-traversal](https://leetcode.com/problems/binary-tree-postorder-traversal)||[:memo:](https://leetcode.com/articles/binary-tree-postorder-traversal/)|Hard|
+|145|[binary-tree-postorder-traversal](https://leetcode.com/problems/binary-tree-postorder-traversal)||[:memo:](https://leetcode.com/articles/binary-tree-postorder-traversal/)|Medium|
 |146|[lru-cache](https://leetcode.com/problems/lru-cache)||[:memo:](https://leetcode.com/articles/lru-cache/)|Medium|
 |147|[insertion-sort-list](https://leetcode.com/problems/insertion-sort-list)|||Medium|
 |148|[sort-list](https://leetcode.com/problems/sort-list)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0148-sort-list/sort-list.py)||Medium|
@@ -440,7 +440,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |447|[number-of-boomerangs](https://leetcode.com/problems/number-of-boomerangs)|||Easy|
 |448|[find-all-numbers-disappeared-in-an-array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array)||[:memo:](https://leetcode.com/articles/find-all-numbers-disappeared-in-an-array/)|Easy|
 |449|[serialize-and-deserialize-bst](https://leetcode.com/problems/serialize-and-deserialize-bst)||[:memo:](https://leetcode.com/articles/serialize-and-deserialize-bst/)|Medium|
-|450|[delete-node-in-a-bst](https://leetcode.com/problems/delete-node-in-a-bst)||[:memo:](https://leetcode.com/articles/delete-node-in-a-bst/)|Medium|
+|450|[delete-node-in-a-bst](https://leetcode.com/problems/delete-node-in-a-bst)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0450-delete-node-in-a-bst/delete-node-in-a-bst.py)|[:memo:](https://leetcode.com/articles/delete-node-in-a-bst/)|Medium|
 |451|[sort-characters-by-frequency](https://leetcode.com/problems/sort-characters-by-frequency)||[:memo:](https://leetcode.com/articles/sort-characters-by-frequency/)|Medium|
 |452|[minimum-number-of-arrows-to-burst-balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons)||[:memo:](https://leetcode.com/articles/minimum-number-of-arrows-to-burst-balloons/)|Medium|
 |453|[minimum-moves-to-equal-array-elements](https://leetcode.com/problems/minimum-moves-to-equal-array-elements)||[:memo:](https://leetcode.com/articles/minimum-moves-to-equal-array-elements/)|Easy|
@@ -631,7 +631,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |683|[k-empty-slots](https://leetcode.com/problems/k-empty-slots)|:lock:|[:memo:](https://leetcode.com/articles/k-empty-slots/)|Hard|
 |684|[redundant-connection](https://leetcode.com/problems/redundant-connection)||[:memo:](https://leetcode.com/articles/redundant-connection/)|Medium|
 |685|[redundant-connection-ii](https://leetcode.com/problems/redundant-connection-ii)||[:memo:](https://leetcode.com/articles/redundant-connection-ii/)|Hard|
-|686|[repeated-string-match](https://leetcode.com/problems/repeated-string-match)||[:memo:](https://leetcode.com/articles/repeated-string-match/)|Easy|
+|686|[repeated-string-match](https://leetcode.com/problems/repeated-string-match)||[:memo:](https://leetcode.com/articles/repeated-string-match/)|Medium|
 |687|[longest-univalue-path](https://leetcode.com/problems/longest-univalue-path)||[:memo:](https://leetcode.com/articles/longest-univalue-path/)|Easy|
 |688|[knight-probability-in-chessboard](https://leetcode.com/problems/knight-probability-in-chessboard)||[:memo:](https://leetcode.com/articles/knight-probability-in-chessboard/)|Medium|
 |689|[maximum-sum-of-3-non-overlapping-subarrays](https://leetcode.com/problems/maximum-sum-of-3-non-overlapping-subarrays)||[:memo:](https://leetcode.com/articles/maximum-sum-of-3-non-overlapping-intervals/)|Hard|
@@ -1439,5 +1439,9 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |1684|[find-latest-group-of-size-m](https://leetcode.com/problems/find-latest-group-of-size-m)|||Medium|
 |1685|[stone-game-v](https://leetcode.com/problems/stone-game-v)|||Hard|
 |1687|[the-most-similar-path-in-a-graph](https://leetcode.com/problems/the-most-similar-path-in-a-graph)|:lock:||Hard|
+|1689|[detect-pattern-of-length-m-repeated-k-or-more-times](https://leetcode.com/problems/detect-pattern-of-length-m-repeated-k-or-more-times)|||Easy|
+|1690|[maximum-length-of-subarray-with-positive-product](https://leetcode.com/problems/maximum-length-of-subarray-with-positive-product)|||Medium|
+|1691|[minimum-number-of-days-to-disconnect-island](https://leetcode.com/problems/minimum-number-of-days-to-disconnect-island)|||Hard|
+|1692|[number-of-ways-to-reorder-array-to-get-same-bst](https://leetcode.com/problems/number-of-ways-to-reorder-array-to-get-same-bst)|||Hard|
 |1697|[strings-differ-by-one-character](https://leetcode.com/problems/strings-differ-by-one-character)|:lock:||Medium|
 |1703|[put-boxes-into-the-warehouse-i](https://leetcode.com/problems/put-boxes-into-the-warehouse-i)|:lock:||Medium|
