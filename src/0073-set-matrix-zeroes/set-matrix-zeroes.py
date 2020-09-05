@@ -30,7 +30,7 @@
 # 	m == matrix.length
 # 	n == matrix[0].length
 # 	1 <= m, n <= 200
-# 	-10^9 <= matrix[i][j] <= 10^9
+# 	-231 <= matrix[i][j] <= 231 - 1
 #
 #
 

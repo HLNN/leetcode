@@ -5,31 +5,25 @@
 # Return the answer as a string of length 5.  If no valid time can be made, return an empty string.
 #
 #  
-#
-#
 # Example 1:
-#
-#
-# Input: [1,2,3,4]
+# Input: A = [1,2,3,4]
 # Output: "23:41"
-#
-#
-#
 # Example 2:
-#
-#
-# Input: [5,5,5,5]
+# Input: A = [5,5,5,5]
 # Output: ""
-#
+# Example 3:
+# Input: A = [0,0,0,0]
+# Output: "00:00"
+# Example 4:
+# Input: A = [0,0,1,0]
+# Output: "10:00"
 #
 #  
+# Constraints:
 #
-# Note:
 #
-#
-# 	A.length == 4
-# 	0 <= A[i] <= 9
-#
+# 	arr.length == 4
+# 	0 <= arr[i] <= 9
 #
 #
 
