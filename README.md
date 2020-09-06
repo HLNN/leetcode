@@ -1,7 +1,7 @@
 # :pencil2: Leetcode Solutions with Python3,Cpp
-Update time:  2020-09-05 19:59:04
+Update time:  2020-09-06 17:21:00
 
-I have solved **159   /   1432** problems
+I have solved **159   /   1440** problems
 while there are **227** problems still locked.
 
 If you have any question, please give me an [issue](https://github.com/hlnn/leetcode/issues).
@@ -1433,6 +1433,10 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |1674|[minimum-operations-to-make-array-equal](https://leetcode.com/problems/minimum-operations-to-make-array-equal)|||Medium|
 |1675|[magnetic-force-between-two-balls](https://leetcode.com/problems/magnetic-force-between-two-balls)|||Medium|
 |1676|[minimum-number-of-days-to-eat-n-oranges](https://leetcode.com/problems/minimum-number-of-days-to-eat-n-oranges)|||Hard|
+|1677|[matrix-diagonal-sum](https://leetcode.com/problems/matrix-diagonal-sum)|||Easy|
+|1678|[number-of-ways-to-split-a-string](https://leetcode.com/problems/number-of-ways-to-split-a-string)|||Medium|
+|1679|[shortest-subarray-to-be-removed-to-make-array-sorted](https://leetcode.com/problems/shortest-subarray-to-be-removed-to-make-array-sorted)|||Medium|
+|1680|[count-all-possible-routes](https://leetcode.com/problems/count-all-possible-routes)|||Hard|
 |1681|[guess-the-majority-in-a-hidden-array](https://leetcode.com/problems/guess-the-majority-in-a-hidden-array)|:lock:||Medium|
 |1682|[most-visited-sector-in-a-circular-track](https://leetcode.com/problems/most-visited-sector-in-a-circular-track)|||Easy|
 |1683|[maximum-number-of-coins-you-can-get](https://leetcode.com/problems/maximum-number-of-coins-you-can-get)|||Medium|
@@ -1444,5 +1448,9 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |1691|[minimum-number-of-days-to-disconnect-island](https://leetcode.com/problems/minimum-number-of-days-to-disconnect-island)|||Hard|
 |1692|[number-of-ways-to-reorder-array-to-get-same-bst](https://leetcode.com/problems/number-of-ways-to-reorder-array-to-get-same-bst)|||Hard|
 |1697|[strings-differ-by-one-character](https://leetcode.com/problems/strings-differ-by-one-character)|:lock:||Medium|
+|1698|[replace-all-s-to-avoid-consecutive-repeating-characters](https://leetcode.com/problems/replace-all-s-to-avoid-consecutive-repeating-characters)|||Easy|
+|1699|[number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers](https://leetcode.com/problems/number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers)|||Medium|
+|1700|[minimum-deletion-cost-to-avoid-repeating-letters](https://leetcode.com/problems/minimum-deletion-cost-to-avoid-repeating-letters)|||Medium|
+|1701|[remove-max-number-of-edges-to-keep-graph-fully-traversable](https://leetcode.com/problems/remove-max-number-of-edges-to-keep-graph-fully-traversable)|||Hard|
 |1703|[put-boxes-into-the-warehouse-i](https://leetcode.com/problems/put-boxes-into-the-warehouse-i)|:lock:||Medium|
 |1713|[dot-product-of-two-sparse-vectors](https://leetcode.com/problems/dot-product-of-two-sparse-vectors)|:lock:||Medium|
