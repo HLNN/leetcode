@@ -1,7 +1,7 @@
 # :pencil2: Leetcode Solutions with Python3,Cpp
-Update time:  2020-09-05 19:59:04
+Update time:  2020-09-08 14:05:14
 
-I have solved **159   /   1432** problems
+I have solved **161   /   1440** problems
 while there are **227** problems still locked.
 
 If you have any question, please give me an [issue](https://github.com/hlnn/leetcode/issues).
@@ -286,7 +286,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |287|[find-the-duplicate-number](https://leetcode.com/problems/find-the-duplicate-number)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0287-find-the-duplicate-number/find-the-duplicate-number.py)|[:memo:](https://leetcode.com/articles/find-the-duplicate-number/)|Medium|
 |288|[unique-word-abbreviation](https://leetcode.com/problems/unique-word-abbreviation)|:lock:|[:memo:](https://leetcode.com/articles/unique-word-abbreviation/)|Medium|
 |289|[game-of-life](https://leetcode.com/problems/game-of-life)||[:memo:](https://leetcode.com/articles/game-of-life/)|Medium|
-|290|[word-pattern](https://leetcode.com/problems/word-pattern)||[:memo:](https://leetcode.com/articles/word-pattern/)|Easy|
+|290|[word-pattern](https://leetcode.com/problems/word-pattern)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0290-word-pattern/word-pattern.py)|[:memo:](https://leetcode.com/articles/word-pattern/)|Easy|
 |291|[word-pattern-ii](https://leetcode.com/problems/word-pattern-ii)|:lock:||Hard|
 |292|[nim-game](https://leetcode.com/problems/nim-game)||[:memo:](https://leetcode.com/articles/nim-game/)|Easy|
 |293|[flip-game](https://leetcode.com/problems/flip-game)|:lock:||Easy|
@@ -791,7 +791,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |861|[flipping-an-image](https://leetcode.com/problems/flipping-an-image)||[:memo:](https://leetcode.com/articles/flipping-an-image/)|Easy|
 |862|[find-and-replace-in-string](https://leetcode.com/problems/find-and-replace-in-string)||[:memo:](https://leetcode.com/articles/find-and-replace-in-string/)|Medium|
 |863|[sum-of-distances-in-tree](https://leetcode.com/problems/sum-of-distances-in-tree)||[:memo:](https://leetcode.com/articles/sum-of-distances-in-tree/)|Hard|
-|864|[image-overlap](https://leetcode.com/problems/image-overlap)||[:memo:](https://leetcode.com/articles/image-overlap/)|Medium|
+|864|[image-overlap](https://leetcode.com/problems/image-overlap)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0864-image-overlap/image-overlap.py)|[:memo:](https://leetcode.com/articles/image-overlap/)|Medium|
 |865|[robot-room-cleaner](https://leetcode.com/problems/robot-room-cleaner)|:lock:|[:memo:](https://leetcode.com/articles/robot-room-cleaner/)|Hard|
 |866|[rectangle-overlap](https://leetcode.com/problems/rectangle-overlap)||[:memo:](https://leetcode.com/articles/rectangle-overlap/)|Easy|
 |867|[new-21-game](https://leetcode.com/problems/new-21-game)||[:memo:](https://leetcode.com/articles/new-21-game/)|Medium|
@@ -1433,6 +1433,10 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |1674|[minimum-operations-to-make-array-equal](https://leetcode.com/problems/minimum-operations-to-make-array-equal)|||Medium|
 |1675|[magnetic-force-between-two-balls](https://leetcode.com/problems/magnetic-force-between-two-balls)|||Medium|
 |1676|[minimum-number-of-days-to-eat-n-oranges](https://leetcode.com/problems/minimum-number-of-days-to-eat-n-oranges)|||Hard|
+|1677|[matrix-diagonal-sum](https://leetcode.com/problems/matrix-diagonal-sum)|||Easy|
+|1678|[number-of-ways-to-split-a-string](https://leetcode.com/problems/number-of-ways-to-split-a-string)|||Medium|
+|1679|[shortest-subarray-to-be-removed-to-make-array-sorted](https://leetcode.com/problems/shortest-subarray-to-be-removed-to-make-array-sorted)|||Medium|
+|1680|[count-all-possible-routes](https://leetcode.com/problems/count-all-possible-routes)|||Hard|
 |1681|[guess-the-majority-in-a-hidden-array](https://leetcode.com/problems/guess-the-majority-in-a-hidden-array)|:lock:||Medium|
 |1682|[most-visited-sector-in-a-circular-track](https://leetcode.com/problems/most-visited-sector-in-a-circular-track)|||Easy|
 |1683|[maximum-number-of-coins-you-can-get](https://leetcode.com/problems/maximum-number-of-coins-you-can-get)|||Medium|
@@ -1444,5 +1448,9 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |1691|[minimum-number-of-days-to-disconnect-island](https://leetcode.com/problems/minimum-number-of-days-to-disconnect-island)|||Hard|
 |1692|[number-of-ways-to-reorder-array-to-get-same-bst](https://leetcode.com/problems/number-of-ways-to-reorder-array-to-get-same-bst)|||Hard|
 |1697|[strings-differ-by-one-character](https://leetcode.com/problems/strings-differ-by-one-character)|:lock:||Medium|
+|1698|[replace-all-s-to-avoid-consecutive-repeating-characters](https://leetcode.com/problems/replace-all-s-to-avoid-consecutive-repeating-characters)|||Easy|
+|1699|[number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers](https://leetcode.com/problems/number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers)|||Medium|
+|1700|[minimum-deletion-cost-to-avoid-repeating-letters](https://leetcode.com/problems/minimum-deletion-cost-to-avoid-repeating-letters)|||Medium|
+|1701|[remove-max-number-of-edges-to-keep-graph-fully-traversable](https://leetcode.com/problems/remove-max-number-of-edges-to-keep-graph-fully-traversable)|||Hard|
 |1703|[put-boxes-into-the-warehouse-i](https://leetcode.com/problems/put-boxes-into-the-warehouse-i)|:lock:||Medium|
 |1713|[dot-product-of-two-sparse-vectors](https://leetcode.com/problems/dot-product-of-two-sparse-vectors)|:lock:||Medium|
