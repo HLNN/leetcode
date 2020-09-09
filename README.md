@@ -1,7 +1,7 @@
 # :pencil2: Leetcode Solutions with Python3,Cpp
-Update time:  2020-09-08 14:05:14
+Update time:  2020-09-09 14:02:35
 
-I have solved **161   /   1440** problems
+I have solved **162   /   1440** problems
 while there are **227** problems still locked.
 
 If you have any question, please give me an [issue](https://github.com/hlnn/leetcode/issues).
@@ -1001,7 +1001,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |1076|[brace-expansion](https://leetcode.com/problems/brace-expansion)|:lock:||Medium|
 |1077|[confusing-number-ii](https://leetcode.com/problems/confusing-number-ii)|:lock:||Hard|
 |1078|[remove-outermost-parentheses](https://leetcode.com/problems/remove-outermost-parentheses)|||Easy|
-|1079|[sum-of-root-to-leaf-binary-numbers](https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers)||[:memo:](https://leetcode.com/articles/sum-root-to-leaf-binary-numbers/)|Easy|
+|1079|[sum-of-root-to-leaf-binary-numbers](https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/1079-sum-of-root-to-leaf-binary-numbers/sum-of-root-to-leaf-binary-numbers.py)|[:memo:](https://leetcode.com/articles/sum-root-to-leaf-binary-numbers/)|Easy|
 |1080|[camelcase-matching](https://leetcode.com/problems/camelcase-matching)|||Medium|
 |1081|[video-stitching](https://leetcode.com/problems/video-stitching)|||Medium|
 |1082|[sum-of-digits-in-the-minimum-number](https://leetcode.com/problems/sum-of-digits-in-the-minimum-number)|:lock:||Easy|
