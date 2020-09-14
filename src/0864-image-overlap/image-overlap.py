@@ -36,13 +36,13 @@
 # Constraints:
 #
 #
-# 	n == a.length
-# 	n == a[i].length
-# 	n == b.length 
-# 	n == b[i].length
+# 	n == img1.length
+# 	n == img1[i].length
+# 	n == img2.length 
+# 	n == img2[i].length
 # 	1 <= n <= 30
-# 	a[i][j] is 0 or 1.
-# 	b[i][j] is 0 or 1.
+# 	img1[i][j] is 0 or 1.
+# 	img2[i][j] is 0 or 1.
 #
 #
 
