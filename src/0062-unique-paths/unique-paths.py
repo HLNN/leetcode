@@ -4,11 +4,15 @@
 #
 # How many possible unique paths are there?
 #
-#
-# Above is a 7 x 3 grid. How many possible unique paths are there?
-#
 #  
 # Example 1:
+#
+#
+# Input: m = 3, n = 7
+# Output: 28
+#
+#
+# Example 2:
 #
 #
 # Input: m = 3, n = 2
@@ -20,11 +24,18 @@
 # 3. Down -> Right -> Right
 #
 #
-# Example 2:
+# Example 3:
 #
 #
 # Input: m = 7, n = 3
 # Output: 28
+#
+#
+# Example 4:
+#
+#
+# Input: m = 3, n = 3
+# Output: 6
 #
 #
 #  
@@ -32,7 +43,7 @@
 #
 #
 # 	1 <= m, n <= 100
-# 	It's guaranteed that the answer will be less than or equal to 2 * 10 ^ 9.
+# 	It's guaranteed that the answer will be less than or equal to 2 * 109.
 #
 #
 
