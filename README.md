@@ -1,5 +1,5 @@
 # :pencil2: Leetcode Solutions with Python3,Cpp
-Update time:  2020-09-17 21:44:50
+Update time:  2020-09-18 21:44:30
 
 I have solved **165   /   1446** problems
 while there are **229** problems still locked.
@@ -70,7 +70,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |54|[spiral-matrix](https://leetcode.com/problems/spiral-matrix)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0054-spiral-matrix/spiral-matrix.py)|[:memo:](https://leetcode.com/articles/spiral-matrix/)|Medium|
 |55|[jump-game](https://leetcode.com/problems/jump-game)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0055-jump-game/jump-game.py)|[:memo:](https://leetcode.com/articles/jump-game/)|Medium|
 |56|[merge-intervals](https://leetcode.com/problems/merge-intervals)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0056-merge-intervals/merge-intervals.py)|[:memo:](https://leetcode.com/articles/merge-intervals/)|Medium|
-|57|[insert-interval](https://leetcode.com/problems/insert-interval)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0057-insert-interval/insert-interval.py)|[:memo:](https://leetcode.com/articles/insert-interval/)|Hard|
+|57|[insert-interval](https://leetcode.com/problems/insert-interval)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0057-insert-interval/insert-interval.py)|[:memo:](https://leetcode.com/articles/insert-interval/)|Medium|
 |58|[length-of-last-word](https://leetcode.com/problems/length-of-last-word)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0058-length-of-last-word/length-of-last-word.py)|[:memo:](https://leetcode.com/articles/length-of-last-word/)|Easy|
 |59|[spiral-matrix-ii](https://leetcode.com/problems/spiral-matrix-ii)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0059-spiral-matrix-ii/spiral-matrix-ii.py)|[:memo:](https://leetcode.com/articles/spiral-matrix-ii/)|Medium|
 |60|[permutation-sequence](https://leetcode.com/problems/permutation-sequence)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0060-permutation-sequence/permutation-sequence.py)|[:memo:](https://leetcode.com/articles/permutation-sequence/)|Hard|
@@ -1231,7 +1231,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |1407|[group-the-people-given-the-group-size-they-belong-to](https://leetcode.com/problems/group-the-people-given-the-group-size-they-belong-to)|||Medium|
 |1408|[find-the-smallest-divisor-given-a-threshold](https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold)|||Medium|
 |1409|[minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix](https://leetcode.com/problems/minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix)|||Hard|
-|1411|[convert-binary-number-in-a-linked-list-to-integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer)|||Easy|
+|1411|[convert-binary-number-in-a-linked-list-to-integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer)||[:memo:](https://leetcode.com/articles/convert-binary-number-in-a-linked-list-to-integer/)|Easy|
 |1413|[maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://leetcode.com/problems/maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold)|||Medium|
 |1414|[shortest-path-in-a-grid-with-obstacles-elimination](https://leetcode.com/problems/shortest-path-in-a-grid-with-obstacles-elimination)|||Hard|
 |1421|[find-numbers-with-even-number-of-digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits)|||Easy|
