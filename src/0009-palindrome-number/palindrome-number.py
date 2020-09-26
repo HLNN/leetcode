@@ -25,7 +25,7 @@
 #
 # Follow up:
 #
-# Coud you solve it without converting the integer to a string?
+# Could you solve it without converting the integer to a string?
 #
 
 
