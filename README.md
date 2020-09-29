@@ -1,7 +1,7 @@
 # :pencil2: Leetcode Solutions with Python3,Cpp
-Update time:  2020-09-28 19:19:48
+Update time:  2020-09-29 19:19:07
 
-I have solved **171   /   1459** problems
+I have solved **173   /   1459** problems
 while there are **230** problems still locked.
 
 If you have any question, please give me an [issue](https://github.com/hlnn/leetcode/issues).
@@ -78,7 +78,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |62|[unique-paths](https://leetcode.com/problems/unique-paths)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0062-unique-paths/unique-paths.py)|[:memo:](https://leetcode.com/articles/unique-paths/)|Medium|
 |63|[unique-paths-ii](https://leetcode.com/problems/unique-paths-ii)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0063-unique-paths-ii/unique-paths-ii.py)|[:memo:](https://leetcode.com/articles/unique-paths-ii/)|Medium|
 |64|[minimum-path-sum](https://leetcode.com/problems/minimum-path-sum)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0064-minimum-path-sum/minimum-path-sum.py)|[:memo:](https://leetcode.com/articles/minimum-path-sum/)|Medium|
-|65|[valid-number](https://leetcode.com/problems/valid-number)|||Hard|
+|65|[valid-number](https://leetcode.com/problems/valid-number)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0065-valid-number/valid-number.py)||Hard|
 |66|[plus-one](https://leetcode.com/problems/plus-one)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0066-plus-one/plus-one.py)|[:memo:](https://leetcode.com/articles/plus-one/)|Easy|
 |67|[add-binary](https://leetcode.com/problems/add-binary)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0067-add-binary/add-binary.py)|[:memo:](https://leetcode.com/articles/add-binary/)|Easy|
 |68|[text-justification](https://leetcode.com/problems/text-justification)|||Hard|
@@ -647,7 +647,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |699|[falling-squares](https://leetcode.com/problems/falling-squares)||[:memo:](https://leetcode.com/articles/falling-squares/)|Hard|
 |711|[number-of-distinct-islands-ii](https://leetcode.com/problems/number-of-distinct-islands-ii)|:lock:|[:memo:](https://leetcode.com/articles/number-of-distinct-islands-ii/)|Hard|
 |712|[minimum-ascii-delete-sum-for-two-strings](https://leetcode.com/problems/minimum-ascii-delete-sum-for-two-strings)||[:memo:](https://leetcode.com/articles/minimum-ascii-delete-sum-for-two-strings/)|Medium|
-|713|[subarray-product-less-than-k](https://leetcode.com/problems/subarray-product-less-than-k)||[:memo:](https://leetcode.com/articles/subarray-product-less-than-k/)|Medium|
+|713|[subarray-product-less-than-k](https://leetcode.com/problems/subarray-product-less-than-k)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0713-subarray-product-less-than-k/subarray-product-less-than-k.py)|[:memo:](https://leetcode.com/articles/subarray-product-less-than-k/)|Medium|
 |714|[best-time-to-buy-and-sell-stock-with-transaction-fee](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee)||[:memo:](https://leetcode.com/articles/best-time-to-buy-and-sell-stock-with-transaction-fee/)|Medium|
 |715|[range-module](https://leetcode.com/problems/range-module)||[:memo:](https://leetcode.com/articles/range-module/)|Hard|
 |716|[max-stack](https://leetcode.com/problems/max-stack)|:lock:|[:memo:](https://leetcode.com/articles/max-stack/)|Easy|

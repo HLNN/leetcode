@@ -9,20 +9,53 @@
 #
 # Given a non-empty string containing only digits, determine the total number of ways to decode it.
 #
+# The answer is guaranteed to fit in a 32-bit integer.
+#
+#  
 # Example 1:
 #
 #
-# Input: "12"
+# Input: s = "12"
 # Output: 2
-# Explanation: It could be decoded as "AB" (1 2) or "L" (12).
+# Explanation: It could be decoded as "AB" (1 2) or "L" (12).
 #
 #
 # Example 2:
 #
 #
-# Input: "226"
+# Input: s = "226"
 # Output: 3
-# Explanation: It could be decoded as "BZ" (2 26), "VF" (22 6), or "BBF" (2 2 6).
+# Explanation: It could be decoded as "BZ" (2 26), "VF" (22 6), or "BBF" (2 2 6).
+#
+#
+# Example 3:
+#
+#
+# Input: s = "0"
+# Output: 0
+#
+#
+# Example 4:
+#
+#
+# Input: s = "1"
+# Output: 1
+#
+#
+# Example 5:
+#
+#
+# Input: s = "2"
+# Output: 1
+#
+#
+#  
+# Constraints:
+#
+#
+# 	1 <= s.length <= 100
+# 	s contains only digits and may contain leading zero(s).
+#
 #
 
 
