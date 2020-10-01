@@ -1,10 +1,10 @@
-# Given an input string, reverse the string word by word.
+# Given an input string s, reverse the order of the words.
 #
-# A word is defined as a sequence of non-space characters.
+# A word is defined as a sequence of non-space characters. The words in s will be separated by at least one space.
 #
-# Notice that the input string may contain leading or trailing spaces. However, your reversed string should not contain leading or trailing spaces.
+# Return a string of the words in reverse order concatenated by a single space.
 #
-# Also, notice that you need to reduce multiple spaces between two words to a single space in the reversed string.
+# Note that s may contain leading or trailing spaces or multiple spaces between two words. The returned string should only have a single space separating the words. Do not include any extra spaces.
 #
 #  
 # Example 1:
@@ -58,7 +58,7 @@
 # Follow up:
 #
 #
-# 	Could you solve it in-place in O(1) extra space.
+# 	Could you solve it in-place with O(1) extra space?
 #
 #
 #  

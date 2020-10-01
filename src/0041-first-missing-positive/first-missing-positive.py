@@ -28,19 +28,10 @@
 
 
 class Solution:
-    def firstMissingPositive(self, nums):
-        """
-        :type nums: List[int]
-        :rtype: int
-        """
-        nums = list(set(nums))
-        nums = [i for i in nums if i > 0]
-        i = 0
-        if nums:
-            nums.sort()
-            for i in range(len(nums)):
-                if i + 1 != nums[i]:
-                    return i + 1
-            i += 1
-        return i + 1
-
+    def firstMissingPositive(self, nums: List[int]) -> int:
+        n = len(nums)
+        for i in range(n):
+            while nums[i] - 1 in range(n) and nums[i] != nums[nums[i] - 1]:
+                nums[nums[i] - 1], nums[i] = nums[i], nums[nums[i] - 1]
+        return next((i + 1 for i, num in enumerate(nums) if num != i + 1), n + 1)
+    

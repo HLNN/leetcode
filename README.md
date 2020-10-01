@@ -1,8 +1,8 @@
 # :pencil2: Leetcode Solutions with Python3,Cpp
-Update time:  2020-09-30 19:19:01
+Update time:  2020-10-01 19:19:17
 
-I have solved **176   /   1459** problems
-while there are **230** problems still locked.
+I have solved **177   /   1460** problems
+while there are **231** problems still locked.
 
 If you have any question, please give me an [issue](https://github.com/hlnn/leetcode/issues).
 
@@ -112,7 +112,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |96|[unique-binary-search-trees](https://leetcode.com/problems/unique-binary-search-trees)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0096-unique-binary-search-trees/unique-binary-search-trees.py)|[:memo:](https://leetcode.com/articles/unique-binary-search-trees/)|Medium|
 |97|[interleaving-string](https://leetcode.com/problems/interleaving-string)||[:memo:](https://leetcode.com/articles/interleaving-strings/)|Hard|
 |98|[validate-binary-search-tree](https://leetcode.com/problems/validate-binary-search-tree)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0098-validate-binary-search-tree/validate-binary-search-tree.py)|[:memo:](https://leetcode.com/articles/validate-binary-search-tree/)|Medium|
-|99|[recover-binary-search-tree](https://leetcode.com/problems/recover-binary-search-tree)||[:memo:](https://leetcode.com/articles/recover-binary-search-tree/)|Hard|
+|99|[recover-binary-search-tree](https://leetcode.com/problems/recover-binary-search-tree)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0099-recover-binary-search-tree/recover-binary-search-tree.py)|[:memo:](https://leetcode.com/articles/recover-binary-search-tree/)|Hard|
 |100|[same-tree](https://leetcode.com/problems/same-tree)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0100-same-tree/same-tree.py)|[:memo:](https://leetcode.com/articles/same-tree/)|Easy|
 |101|[symmetric-tree](https://leetcode.com/problems/symmetric-tree)||[:memo:](https://leetcode.com/articles/symmetric-tree/)|Easy|
 |102|[binary-tree-level-order-traversal](https://leetcode.com/problems/binary-tree-level-order-traversal)||[:memo:](https://leetcode.com/articles/binary-tree-level-order-traversal/)|Medium|
@@ -514,7 +514,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |529|[minesweeper](https://leetcode.com/problems/minesweeper)|||Medium|
 |530|[minimum-absolute-difference-in-bst](https://leetcode.com/problems/minimum-absolute-difference-in-bst)|||Easy|
 |531|[lonely-pixel-i](https://leetcode.com/problems/lonely-pixel-i)|:lock:||Medium|
-|532|[k-diff-pairs-in-an-array](https://leetcode.com/problems/k-diff-pairs-in-an-array)||[:memo:](https://leetcode.com/articles/k-diff-pairs-in-an-array/)|Easy|
+|532|[k-diff-pairs-in-an-array](https://leetcode.com/problems/k-diff-pairs-in-an-array)||[:memo:](https://leetcode.com/articles/k-diff-pairs-in-an-array/)|Medium|
 |533|[lonely-pixel-ii](https://leetcode.com/problems/lonely-pixel-ii)|:lock:||Medium|
 |535|[encode-and-decode-tinyurl](https://leetcode.com/problems/encode-and-decode-tinyurl)||[:memo:](https://leetcode.com/articles/encode-and-decode-tinyurl/)|Medium|
 |536|[construct-binary-tree-from-string](https://leetcode.com/problems/construct-binary-tree-from-string)|:lock:||Medium|
@@ -1473,3 +1473,4 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |1723|[maximum-number-of-achievable-transfer-requests](https://leetcode.com/problems/maximum-number-of-achievable-transfer-requests)|||Hard|
 |1729|[binary-search-tree-iterator-ii](https://leetcode.com/problems/binary-search-tree-iterator-ii)|:lock:||Medium|
 |1736|[build-binary-expression-tree-from-infix-expression](https://leetcode.com/problems/build-binary-expression-tree-from-infix-expression)|:lock:||Hard|
+|1745|[find-nearest-right-node-in-binary-tree](https://leetcode.com/problems/find-nearest-right-node-in-binary-tree)|:lock:||Medium|
