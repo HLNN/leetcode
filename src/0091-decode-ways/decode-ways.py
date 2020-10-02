@@ -33,19 +33,13 @@
 #
 # Input: s = "0"
 # Output: 0
+# Explanation: There is no character that is mapped to a number starting with '0'. We cannot ignore a zero when we face it while decoding. So, each '0' should be part of "10" --> 'J' or "20" --> 'T'.
 #
 #
 # Example 4:
 #
 #
 # Input: s = "1"
-# Output: 1
-#
-#
-# Example 5:
-#
-#
-# Input: s = "2"
 # Output: 1
 #
 #
