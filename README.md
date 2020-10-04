@@ -1,7 +1,7 @@
 # :pencil2: Leetcode Solutions with Python3,Cpp
-Update time:  2020-10-02 19:19:02
+Update time:  2020-10-04 15:13:22
 
-I have solved **179   /   1460** problems
+I have solved **180   /   1468** problems
 while there are **231** problems still locked.
 
 If you have any question, please give me an [issue](https://github.com/hlnn/leetcode/issues).
@@ -60,7 +60,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |44|[wildcard-matching](https://leetcode.com/problems/wildcard-matching)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0044-wildcard-matching/wildcard-matching.py)|[:memo:](https://leetcode.com/articles/wildcard-matching/)|Hard|
 |45|[jump-game-ii](https://leetcode.com/problems/jump-game-ii)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0045-jump-game-ii/jump-game-ii.py)|[:memo:](https://leetcode.com/articles/jump-game-ii/)|Hard|
 |46|[permutations](https://leetcode.com/problems/permutations)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0046-permutations/permutations.py)|[:memo:](https://leetcode.com/articles/permutations/)|Medium|
-|47|[permutations-ii](https://leetcode.com/problems/permutations-ii)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0047-permutations-ii/permutations-ii.py)||Medium|
+|47|[permutations-ii](https://leetcode.com/problems/permutations-ii)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0047-permutations-ii/permutations-ii.py)|[:memo:](https://leetcode.com/articles/permutations-ii/)|Medium|
 |48|[rotate-image](https://leetcode.com/problems/rotate-image)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0048-rotate-image/rotate-image.py)|[:memo:](https://leetcode.com/articles/rotate-image/)|Medium|
 |49|[group-anagrams](https://leetcode.com/problems/group-anagrams)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0049-group-anagrams/group-anagrams.py)|[:memo:](https://leetcode.com/articles/group-anagrams/)|Medium|
 |50|[powx-n](https://leetcode.com/problems/powx-n)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0050-powx-n/powx-n.py)|[:memo:](https://leetcode.com/articles/powx-n/)|Medium|
@@ -514,7 +514,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |529|[minesweeper](https://leetcode.com/problems/minesweeper)|||Medium|
 |530|[minimum-absolute-difference-in-bst](https://leetcode.com/problems/minimum-absolute-difference-in-bst)|||Easy|
 |531|[lonely-pixel-i](https://leetcode.com/problems/lonely-pixel-i)|:lock:||Medium|
-|532|[k-diff-pairs-in-an-array](https://leetcode.com/problems/k-diff-pairs-in-an-array)||[:memo:](https://leetcode.com/articles/k-diff-pairs-in-an-array/)|Medium|
+|532|[k-diff-pairs-in-an-array](https://leetcode.com/problems/k-diff-pairs-in-an-array)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0532-k-diff-pairs-in-an-array/k-diff-pairs-in-an-array.py)|[:memo:](https://leetcode.com/articles/k-diff-pairs-in-an-array/)|Medium|
 |533|[lonely-pixel-ii](https://leetcode.com/problems/lonely-pixel-ii)|:lock:||Medium|
 |535|[encode-and-decode-tinyurl](https://leetcode.com/problems/encode-and-decode-tinyurl)||[:memo:](https://leetcode.com/articles/encode-and-decode-tinyurl/)|Medium|
 |536|[construct-binary-tree-from-string](https://leetcode.com/problems/construct-binary-tree-from-string)|:lock:||Medium|
@@ -1461,6 +1461,10 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |1705|[count-unhappy-friends](https://leetcode.com/problems/count-unhappy-friends)|||Medium|
 |1706|[min-cost-to-connect-all-points](https://leetcode.com/problems/min-cost-to-connect-all-points)|||Medium|
 |1707|[check-if-string-is-transformable-with-substring-sort-operations](https://leetcode.com/problems/check-if-string-is-transformable-with-substring-sort-operations)|||Hard|
+|1708|[design-parking-system](https://leetcode.com/problems/design-parking-system)|||Easy|
+|1709|[alert-using-same-key-card-three-or-more-times-in-a-one-hour-period](https://leetcode.com/problems/alert-using-same-key-card-three-or-more-times-in-a-one-hour-period)|||Medium|
+|1710|[find-servers-that-handled-most-number-of-requests](https://leetcode.com/problems/find-servers-that-handled-most-number-of-requests)|||Hard|
+|1711|[find-valid-matrix-given-row-and-column-sums](https://leetcode.com/problems/find-valid-matrix-given-row-and-column-sums)|||Medium|
 |1713|[dot-product-of-two-sparse-vectors](https://leetcode.com/problems/dot-product-of-two-sparse-vectors)|:lock:||Medium|
 |1714|[rearrange-spaces-between-words](https://leetcode.com/problems/rearrange-spaces-between-words)|||Easy|
 |1715|[split-a-string-into-the-max-number-of-unique-substrings](https://leetcode.com/problems/split-a-string-into-the-max-number-of-unique-substrings)|||Medium|
@@ -1472,5 +1476,9 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |1722|[throne-inheritance](https://leetcode.com/problems/throne-inheritance)|||Medium|
 |1723|[maximum-number-of-achievable-transfer-requests](https://leetcode.com/problems/maximum-number-of-achievable-transfer-requests)|||Hard|
 |1729|[binary-search-tree-iterator-ii](https://leetcode.com/problems/binary-search-tree-iterator-ii)|:lock:||Medium|
+|1730|[special-array-with-x-elements-greater-than-or-equal-x](https://leetcode.com/problems/special-array-with-x-elements-greater-than-or-equal-x)|||Easy|
+|1731|[even-odd-tree](https://leetcode.com/problems/even-odd-tree)|||Medium|
+|1732|[minimum-one-bit-operations-to-make-integers-zero](https://leetcode.com/problems/minimum-one-bit-operations-to-make-integers-zero)|||Hard|
+|1733|[maximum-number-of-visible-points](https://leetcode.com/problems/maximum-number-of-visible-points)|||Medium|
 |1736|[build-binary-expression-tree-from-infix-expression](https://leetcode.com/problems/build-binary-expression-tree-from-infix-expression)|:lock:||Hard|
 |1745|[find-nearest-right-node-in-binary-tree](https://leetcode.com/problems/find-nearest-right-node-in-binary-tree)|:lock:||Medium|

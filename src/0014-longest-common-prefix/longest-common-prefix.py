@@ -2,24 +2,30 @@
 #
 # If there is no common prefix, return an empty string "".
 #
+#  
 # Example 1:
 #
 #
-# Input: ["flower","flow","flight"]
+# Input: strs = ["flower","flow","flight"]
 # Output: "fl"
 #
 #
 # Example 2:
 #
 #
-# Input: ["dog","racecar","car"]
+# Input: strs = ["dog","racecar","car"]
 # Output: ""
 # Explanation: There is no common prefix among the input strings.
 #
 #
-# Note:
+#  
+# Constraints:
 #
-# All given inputs are in lowercase letters a-z.
+#
+# 	0 <= strs.length <= 200
+# 	0 <= strs[i].length <= 200
+# 	strs[i] consists of only lower-case English letters.
+#
 #
 
 
