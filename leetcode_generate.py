@@ -586,14 +586,11 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
     def push_to_github(self):
         with os.popen(r"git diff -- README.md", "r") as f:
             diff = f.read()
-        if not diff:
-            print("Nothing to commit")
-            return
         r = re.findall(r"I have solved \*\*(\w+)   /", diff, re.S)
         if len(r) < 2 or r[0] == r[1]:
             print("Nothing to commit, reset to HEAD and clean")
             reset = "git reset --hard HEAD"
-            clean = "git clean -f"
+            clean = "git clean -fd"
             os.system(reset)
             os.system(clean)
             return
