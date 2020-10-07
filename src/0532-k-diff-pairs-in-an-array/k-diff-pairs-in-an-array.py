@@ -5,9 +5,10 @@
 #
 # 	0 <= i, j < nums.length
 # 	i != j
-# 	a <= b
-# 	b - a == k
+# 	|nums[i] - nums[j]| == k
 #
+#
+# Notice that |val| denotes the absolute value of val.
 #
 #  
 # Example 1:
