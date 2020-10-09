@@ -1,6 +1,6 @@
-# Given a directed acyclic graph of N nodes. Find all possible paths from node 0 to node N-1, and return them in any order.
+# Given a directed acyclic graph (DAG) of n nodes labeled from 0 to n - 1, find all possible paths from node 0 to node n - 1, and return them in any order.
 #
-# The graph is given as follows:  the nodes are 0, 1, ..., graph.length - 1.  graph[i] is a list of all nodes j for which the edge (i, j) exists.
+# The graph is given as follows: graph[i] is a list of all nodes you can visit from node i (i.e., there is a directed edge from node i to node graph[i][j]).
 #
 #  
 # Example 1:
@@ -43,8 +43,12 @@
 # Constraints:
 #
 #
-# 	The number of nodes in the graph will be in the range [2, 15].
-# 	You can print different paths in any order, but you should keep the order of nodes inside one path.
+# 	n == graph.length
+# 	2 <= n <= 15
+# 	0 <= graph[i][j] < n
+# 	graph[i][j] != i (i.e., there will be no self-loops).
+# 	The input graph is guaranteed to be a DAG.
+#
 #
 
 
