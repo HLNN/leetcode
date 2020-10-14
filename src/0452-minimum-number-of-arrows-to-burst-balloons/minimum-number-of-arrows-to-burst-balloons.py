@@ -46,8 +46,9 @@
 #
 #
 # 	0 <= points.length <= 104
-# 	points.length == 2
+# 	points[i].length == 2
 # 	-231 <= xstart < xend <= 231 - 1
+#
 #
 
 
