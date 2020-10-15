@@ -584,6 +584,8 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
             f.write(md)
 
     def push_to_github(self):
+        cmd_git_pull = "git pull"
+        os.system(cmd_git_pull)
         with os.popen(r"git diff -- README.md", "r") as f:
             diff = f.read()
         r = re.findall(r"I have solved \*\*(\w+)   /", diff, re.S)
