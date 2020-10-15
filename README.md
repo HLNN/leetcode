@@ -1,8 +1,8 @@
 # :pencil2: Leetcode Solutions with Python3,Cpp
-Update time:  2020-10-14 10:37:21
+Update time:  2020-10-15 15:42:36
 
-I have solved **189   /   1473** problems
-while there are **232** problems still locked.
+I have solved **193   /   1474** problems
+while there are **233** problems still locked.
 
 If you have any question, please give me an [issue](https://github.com/hlnn/leetcode/issues).
 
@@ -81,7 +81,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |65|[valid-number](https://leetcode.com/problems/valid-number)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0065-valid-number/valid-number.py)||Hard|
 |66|[plus-one](https://leetcode.com/problems/plus-one)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0066-plus-one/plus-one.py)|[:memo:](https://leetcode.com/articles/plus-one/)|Easy|
 |67|[add-binary](https://leetcode.com/problems/add-binary)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0067-add-binary/add-binary.py)|[:memo:](https://leetcode.com/articles/add-binary/)|Easy|
-|68|[text-justification](https://leetcode.com/problems/text-justification)|||Hard|
+|68|[text-justification](https://leetcode.com/problems/text-justification)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0068-text-justification/text-justification.py)||Hard|
 |69|[sqrtx](https://leetcode.com/problems/sqrtx)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0069-sqrtx/sqrtx.py)|[:memo:](https://leetcode.com/articles/sqrtx/)|Easy|
 |70|[climbing-stairs](https://leetcode.com/problems/climbing-stairs)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0070-climbing-stairs/climbing-stairs.py)|[:memo:](https://leetcode.com/articles/climbing-stairs/)|Easy|
 |71|[simplify-path](https://leetcode.com/problems/simplify-path)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0071-simplify-path/simplify-path.py)|[:memo:](https://leetcode.com/articles/simplify-path/)|Medium|
@@ -105,7 +105,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |89|[gray-code](https://leetcode.com/problems/gray-code)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0089-gray-code/gray-code.py)||Medium|
 |90|[subsets-ii](https://leetcode.com/problems/subsets-ii)|||Medium|
 |91|[decode-ways](https://leetcode.com/problems/decode-ways)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0091-decode-ways/decode-ways.py)|[:memo:](https://leetcode.com/articles/decode-ways/)|Medium|
-|92|[reverse-linked-list-ii](https://leetcode.com/problems/reverse-linked-list-ii)||[:memo:](https://leetcode.com/articles/reverse-linked-list-ii/)|Medium|
+|92|[reverse-linked-list-ii](https://leetcode.com/problems/reverse-linked-list-ii)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0092-reverse-linked-list-ii/reverse-linked-list-ii.py)|[:memo:](https://leetcode.com/articles/reverse-linked-list-ii/)|Medium|
 |93|[restore-ip-addresses](https://leetcode.com/problems/restore-ip-addresses)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0093-restore-ip-addresses/restore-ip-addresses.py)|[:memo:](https://leetcode.com/articles/restore-ip-addresses/)|Medium|
 |94|[binary-tree-inorder-traversal](https://leetcode.com/problems/binary-tree-inorder-traversal)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0094-binary-tree-inorder-traversal/binary-tree-inorder-traversal.py)|[:memo:](https://leetcode.com/articles/binary-tree-inorder-traversal/)|Medium|
 |95|[unique-binary-search-trees-ii](https://leetcode.com/problems/unique-binary-search-trees-ii)||[:memo:](https://leetcode.com/articles/unique-binary-search-trees-ii/)|Medium|
@@ -192,7 +192,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |186|[reverse-words-in-a-string-ii](https://leetcode.com/problems/reverse-words-in-a-string-ii)|:lock:|[:memo:](https://leetcode.com/articles/reverse-words-in-a-string-ii/)|Medium|
 |187|[repeated-dna-sequences](https://leetcode.com/problems/repeated-dna-sequences)||[:memo:](https://leetcode.com/articles/repeated-dna-sequences/)|Medium|
 |188|[best-time-to-buy-and-sell-stock-iv](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv)||[:memo:](https://leetcode.com/articles/best-time-to-buy-and-sell-stock-iv/)|Hard|
-|189|[rotate-array](https://leetcode.com/problems/rotate-array)||[:memo:](https://leetcode.com/articles/rotate-array/)|Medium|
+|189|[rotate-array](https://leetcode.com/problems/rotate-array)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0189-rotate-array/rotate-array.py)|[:memo:](https://leetcode.com/articles/rotate-array/)|Medium|
 |190|[reverse-bits](https://leetcode.com/problems/reverse-bits)||[:memo:](https://leetcode.com/articles/reverse-bits/)|Easy|
 |191|[number-of-1-bits](https://leetcode.com/problems/number-of-1-bits)||[:memo:](https://leetcode.com/articles/number-1-bits/)|Easy|
 |198|[house-robber](https://leetcode.com/problems/house-robber)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0198-house-robber/house-robber.py)|[:memo:](https://leetcode.com/articles/house-robber/)|Easy|
@@ -210,7 +210,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |210|[course-schedule-ii](https://leetcode.com/problems/course-schedule-ii)||[:memo:](https://leetcode.com/articles/course-schedule-ii/)|Medium|
 |211|[design-add-and-search-words-data-structure](https://leetcode.com/problems/design-add-and-search-words-data-structure)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0211-design-add-and-search-words-data-structure/design-add-and-search-words-data-structure.py)|[:memo:](https://leetcode.com/articles/add-and-search-word/)|Medium|
 |212|[word-search-ii](https://leetcode.com/problems/word-search-ii)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0212-word-search-ii/word-search-ii.py)|[:memo:](https://leetcode.com/articles/word-search-ii/)|Hard|
-|213|[house-robber-ii](https://leetcode.com/problems/house-robber-ii)||[:memo:](https://leetcode.com/articles/house-robber-ii/)|Medium|
+|213|[house-robber-ii](https://leetcode.com/problems/house-robber-ii)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0213-house-robber-ii/house-robber-ii.py)|[:memo:](https://leetcode.com/articles/house-robber-ii/)|Medium|
 |214|[shortest-palindrome](https://leetcode.com/problems/shortest-palindrome)||[:memo:](https://leetcode.com/articles/shortest-palindrome/)|Hard|
 |215|[kth-largest-element-in-an-array](https://leetcode.com/problems/kth-largest-element-in-an-array)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0215-kth-largest-element-in-an-array/kth-largest-element-in-an-array.py)|[:memo:](https://leetcode.com/articles/kth-largest-element-in-an-array/)|Medium|
 |216|[combination-sum-iii](https://leetcode.com/problems/combination-sum-iii)||[:memo:](https://leetcode.com/articles/combination-sum-iii/)|Medium|
@@ -1213,6 +1213,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |1379|[reconstruct-a-2-row-binary-matrix](https://leetcode.com/problems/reconstruct-a-2-row-binary-matrix)|||Medium|
 |1380|[number-of-closed-islands](https://leetcode.com/problems/number-of-closed-islands)|||Medium|
 |1381|[maximum-score-words-formed-by-letters](https://leetcode.com/problems/maximum-score-words-formed-by-letters)|||Hard|
+|1384|[maximum-font-to-fit-a-sentence-in-a-screen](https://leetcode.com/problems/maximum-font-to-fit-a-sentence-in-a-screen)|:lock:||Medium|
 |1386|[shift-2d-grid](https://leetcode.com/problems/shift-2d-grid)||[:memo:](https://leetcode.com/articles/shift-2d-grid/)|Easy|
 |1387|[find-elements-in-a-contaminated-binary-tree](https://leetcode.com/problems/find-elements-in-a-contaminated-binary-tree)|||Medium|
 |1388|[greatest-sum-divisible-by-three](https://leetcode.com/problems/greatest-sum-divisible-by-three)|||Medium|
