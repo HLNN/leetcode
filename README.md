@@ -1,7 +1,7 @@
 # :pencil2: Leetcode Solutions with Python3,Cpp
-Update time:  2020-10-16 15:29:17
+Update time:  2020-10-19 09:00:50
 
-I have solved **195   /   1474** problems
+I have solved **196   /   1482** problems
 while there are **233** problems still locked.
 
 If you have any question, please give me an [issue](https://github.com/hlnn/leetcode/issues).
@@ -190,7 +190,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |174|[dungeon-game](https://leetcode.com/problems/dungeon-game)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0174-dungeon-game/dungeon-game.py)|[:memo:](https://leetcode.com/articles/dungeon-game/)|Hard|
 |179|[largest-number](https://leetcode.com/problems/largest-number)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0179-largest-number/largest-number.py)|[:memo:](https://leetcode.com/articles/largest-number/)|Medium|
 |186|[reverse-words-in-a-string-ii](https://leetcode.com/problems/reverse-words-in-a-string-ii)|:lock:|[:memo:](https://leetcode.com/articles/reverse-words-in-a-string-ii/)|Medium|
-|187|[repeated-dna-sequences](https://leetcode.com/problems/repeated-dna-sequences)||[:memo:](https://leetcode.com/articles/repeated-dna-sequences/)|Medium|
+|187|[repeated-dna-sequences](https://leetcode.com/problems/repeated-dna-sequences)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0187-repeated-dna-sequences/repeated-dna-sequences.py)|[:memo:](https://leetcode.com/articles/repeated-dna-sequences/)|Medium|
 |188|[best-time-to-buy-and-sell-stock-iv](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv)||[:memo:](https://leetcode.com/articles/best-time-to-buy-and-sell-stock-iv/)|Hard|
 |189|[rotate-array](https://leetcode.com/problems/rotate-array)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0189-rotate-array/rotate-array.py)|[:memo:](https://leetcode.com/articles/rotate-array/)|Medium|
 |190|[reverse-bits](https://leetcode.com/problems/reverse-bits)||[:memo:](https://leetcode.com/articles/reverse-bits/)|Easy|
@@ -306,7 +306,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |307|[range-sum-query-mutable](https://leetcode.com/problems/range-sum-query-mutable)||[:memo:](https://leetcode.com/articles/range-sum-query-mutable/)|Medium|
 |308|[range-sum-query-2d-mutable](https://leetcode.com/problems/range-sum-query-2d-mutable)|:lock:||Hard|
 |309|[best-time-to-buy-and-sell-stock-with-cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown)||[:memo:](https://leetcode.com/articles/best-time-to-buy-and-sell-stock-with-cooldown/)|Medium|
-|310|[minimum-height-trees](https://leetcode.com/problems/minimum-height-trees)|||Medium|
+|310|[minimum-height-trees](https://leetcode.com/problems/minimum-height-trees)||[:memo:](https://leetcode.com/articles/minimum-height-trees/)|Medium|
 |311|[sparse-matrix-multiplication](https://leetcode.com/problems/sparse-matrix-multiplication)|:lock:||Medium|
 |312|[burst-balloons](https://leetcode.com/problems/burst-balloons)||[:memo:](https://leetcode.com/articles/burst-balloons/)|Hard|
 |313|[super-ugly-number](https://leetcode.com/problems/super-ugly-number)|||Medium|
@@ -1013,7 +1013,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |1088|[number-of-days-in-a-month](https://leetcode.com/problems/number-of-days-in-a-month)|:lock:||Easy|
 |1089|[remove-vowels-from-a-string](https://leetcode.com/problems/remove-vowels-from-a-string)|:lock:||Easy|
 |1090|[armstrong-number](https://leetcode.com/problems/armstrong-number)|:lock:||Easy|
-|1091|[maximum-average-subtree](https://leetcode.com/problems/maximum-average-subtree)|:lock:||Medium|
+|1091|[maximum-average-subtree](https://leetcode.com/problems/maximum-average-subtree)|:lock:|[:memo:](https://leetcode.com/articles/maximum-average-subtree/)|Medium|
 |1092|[maximum-difference-between-node-and-ancestor](https://leetcode.com/problems/maximum-difference-between-node-and-ancestor)||[:memo:](https://leetcode.com/articles/maximum-difference-between-node-and-ancestor/)|Medium|
 |1093|[recover-a-tree-from-preorder-traversal](https://leetcode.com/problems/recover-a-tree-from-preorder-traversal)|||Hard|
 |1094|[matrix-cells-in-distance-order](https://leetcode.com/problems/matrix-cells-in-distance-order)|||Easy|
@@ -1107,6 +1107,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |1206|[corporate-flight-bookings](https://leetcode.com/problems/corporate-flight-bookings)|||Medium|
 |1207|[delete-nodes-and-return-forest](https://leetcode.com/problems/delete-nodes-and-return-forest)|||Medium|
 |1208|[maximum-nesting-depth-of-two-valid-parentheses-strings](https://leetcode.com/problems/maximum-nesting-depth-of-two-valid-parentheses-strings)|||Medium|
+|1210|[mean-of-array-after-removing-some-elements](https://leetcode.com/problems/mean-of-array-after-removing-some-elements)|||Easy|
 |1211|[iterator-for-combination](https://leetcode.com/problems/iterator-for-combination)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/1211-iterator-for-combination/iterator-for-combination.py)|[:memo:](https://leetcode.com/articles/iterator-for-combination/)|Medium|
 |1212|[sequential-digits](https://leetcode.com/problems/sequential-digits)||[:memo:](https://leetcode.com/articles/sequential-digits/)|Medium|
 |1213|[handshakes-that-dont-cross](https://leetcode.com/problems/handshakes-that-dont-cross)|:lock:||Hard|
@@ -1116,6 +1117,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |1220|[smallest-sufficient-team](https://leetcode.com/problems/smallest-sufficient-team)|||Hard|
 |1221|[element-appearing-more-than-25-in-sorted-array](https://leetcode.com/problems/element-appearing-more-than-25-in-sorted-array)|||Easy|
 |1222|[remove-covered-intervals](https://leetcode.com/problems/remove-covered-intervals)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/1222-remove-covered-intervals/remove-covered-intervals.py)|[:memo:](https://leetcode.com/articles/remove-covered-intervals/)|Medium|
+|1223|[graph-connectivity-with-threshold](https://leetcode.com/problems/graph-connectivity-with-threshold)|||Hard|
 |1224|[minimum-falling-path-sum-ii](https://leetcode.com/problems/minimum-falling-path-sum-ii)|||Hard|
 |1227|[number-of-equivalent-domino-pairs](https://leetcode.com/problems/number-of-equivalent-domino-pairs)|||Easy|
 |1228|[minimum-cost-tree-from-leaf-values](https://leetcode.com/problems/minimum-cost-tree-from-leaf-values)|||Medium|
@@ -1476,6 +1478,9 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |1721|[maximum-profit-of-operating-a-centennial-wheel](https://leetcode.com/problems/maximum-profit-of-operating-a-centennial-wheel)|||Medium|
 |1722|[throne-inheritance](https://leetcode.com/problems/throne-inheritance)|||Medium|
 |1723|[maximum-number-of-achievable-transfer-requests](https://leetcode.com/problems/maximum-number-of-achievable-transfer-requests)|||Hard|
+|1725|[number-of-sets-of-k-non-overlapping-line-segments](https://leetcode.com/problems/number-of-sets-of-k-non-overlapping-line-segments)|||Medium|
+|1726|[coordinate-with-maximum-network-quality](https://leetcode.com/problems/coordinate-with-maximum-network-quality)|||Medium|
+|1728|[fancy-sequence](https://leetcode.com/problems/fancy-sequence)|||Hard|
 |1729|[binary-search-tree-iterator-ii](https://leetcode.com/problems/binary-search-tree-iterator-ii)|:lock:||Medium|
 |1730|[special-array-with-x-elements-greater-than-or-equal-x](https://leetcode.com/problems/special-array-with-x-elements-greater-than-or-equal-x)|||Easy|
 |1731|[even-odd-tree](https://leetcode.com/problems/even-odd-tree)|||Medium|
@@ -1487,4 +1492,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |1739|[split-two-strings-to-make-palindrome](https://leetcode.com/problems/split-two-strings-to-make-palindrome)|||Medium|
 |1740|[count-subtrees-with-max-distance-between-cities](https://leetcode.com/problems/count-subtrees-with-max-distance-between-cities)|||Hard|
 |1745|[find-nearest-right-node-in-binary-tree](https://leetcode.com/problems/find-nearest-right-node-in-binary-tree)|:lock:|[:memo:](https://leetcode.com/articles/find-nearest-right-node-in-binary-tree/)|Medium|
+|1746|[largest-substring-between-two-equal-characters](https://leetcode.com/problems/largest-substring-between-two-equal-characters)|||Easy|
+|1747|[lexicographically-smallest-string-after-applying-operations](https://leetcode.com/problems/lexicographically-smallest-string-after-applying-operations)|||Medium|
+|1748|[best-team-with-no-conflicts](https://leetcode.com/problems/best-team-with-no-conflicts)|||Medium|
 |1750|[check-if-two-expression-trees-are-equivalent](https://leetcode.com/problems/check-if-two-expression-trees-are-equivalent)|:lock:||Medium|
