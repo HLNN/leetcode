@@ -1,7 +1,7 @@
 # :pencil2: Leetcode Solutions with Python3,Cpp
-Update time:  2020-10-19 09:00:50
+Update time:  2020-10-19 17:36:26
 
-I have solved **196   /   1482** problems
+I have solved **198   /   1482** problems
 while there are **233** problems still locked.
 
 If you have any question, please give me an [issue](https://github.com/hlnn/leetcode/issues).
@@ -191,7 +191,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |179|[largest-number](https://leetcode.com/problems/largest-number)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0179-largest-number/largest-number.py)|[:memo:](https://leetcode.com/articles/largest-number/)|Medium|
 |186|[reverse-words-in-a-string-ii](https://leetcode.com/problems/reverse-words-in-a-string-ii)|:lock:|[:memo:](https://leetcode.com/articles/reverse-words-in-a-string-ii/)|Medium|
 |187|[repeated-dna-sequences](https://leetcode.com/problems/repeated-dna-sequences)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0187-repeated-dna-sequences/repeated-dna-sequences.py)|[:memo:](https://leetcode.com/articles/repeated-dna-sequences/)|Medium|
-|188|[best-time-to-buy-and-sell-stock-iv](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv)||[:memo:](https://leetcode.com/articles/best-time-to-buy-and-sell-stock-iv/)|Hard|
+|188|[best-time-to-buy-and-sell-stock-iv](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0188-best-time-to-buy-and-sell-stock-iv/best-time-to-buy-and-sell-stock-iv.py)|[:memo:](https://leetcode.com/articles/best-time-to-buy-and-sell-stock-iv/)|Hard|
 |189|[rotate-array](https://leetcode.com/problems/rotate-array)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0189-rotate-array/rotate-array.py)|[:memo:](https://leetcode.com/articles/rotate-array/)|Medium|
 |190|[reverse-bits](https://leetcode.com/problems/reverse-bits)||[:memo:](https://leetcode.com/articles/reverse-bits/)|Easy|
 |191|[number-of-1-bits](https://leetcode.com/problems/number-of-1-bits)||[:memo:](https://leetcode.com/articles/number-1-bits/)|Easy|
@@ -971,7 +971,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |1046|[max-consecutive-ones-iii](https://leetcode.com/problems/max-consecutive-ones-iii)||[:memo:](https://leetcode.com/articles/max-consecutive-ones-iii/)|Medium|
 |1047|[maximize-sum-of-array-after-k-negations](https://leetcode.com/problems/maximize-sum-of-array-after-k-negations)|||Easy|
 |1048|[clumsy-factorial](https://leetcode.com/problems/clumsy-factorial)|||Medium|
-|1049|[minimum-domino-rotations-for-equal-row](https://leetcode.com/problems/minimum-domino-rotations-for-equal-row)||[:memo:](https://leetcode.com/articles/minimum-domino-rotations-for-equal-row/)|Medium|
+|1049|[minimum-domino-rotations-for-equal-row](https://leetcode.com/problems/minimum-domino-rotations-for-equal-row)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/1049-minimum-domino-rotations-for-equal-row/minimum-domino-rotations-for-equal-row.py)|[:memo:](https://leetcode.com/articles/minimum-domino-rotations-for-equal-row/)|Medium|
 |1050|[construct-binary-search-tree-from-preorder-traversal](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal)||[:memo:](https://leetcode.com/articles/construct-bst-from-preorder-traversal/)|Medium|
 |1051|[shortest-way-to-form-string](https://leetcode.com/problems/shortest-way-to-form-string)|:lock:||Medium|
 |1052|[campus-bikes](https://leetcode.com/problems/campus-bikes)|:lock:||Medium|
