@@ -266,6 +266,9 @@ class Leetcode:
         self.load_submissions()
         self.load_solutions_to_items()
 
+        cmd_git_pull = "git pull"
+        os.system(cmd_git_pull)
+
     def _generate_items_from_api(self, json_data):
         stat_status_pairs = json_data['stat_status_pairs']
         for quiz in stat_status_pairs:
@@ -584,8 +587,6 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
             f.write(md)
 
     def push_to_github(self):
-        cmd_git_pull = "git pull"
-        os.system(cmd_git_pull)
         with os.popen(r"git diff -- README.md", "r") as f:
             diff = f.read()
         r = re.findall(r"I have solved \*\*(\w+)   /", diff, re.S)
