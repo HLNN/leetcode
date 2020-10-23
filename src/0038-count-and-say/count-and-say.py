@@ -1,20 +1,23 @@
-# The count-and-say sequence is the sequence of integers with the first five terms as following:
+# The count-and-say sequence is a sequence of digit strings defined by the recursive formula:
 #
 #
-# 1.     1
-# 2.     11
-# 3.     21
-# 4.     1211
-# 5.     111221
+# 	countAndSay(1) = "1"
+# 	countAndSay(n) is the way you would "say" the digit string from countAndSay(n-1), which is then converted into a different digit string.
 #
 #
-# 1 is read off as "one 1" or 11.
-# 11 is read off as "two 1s" or 21.
-# 21 is read off as "one 2, then one 1" or 1211.
+# To determine how you "say" an integer, split it into the minimal number of substrings so that each substring is all the same character, then for each substring, say the number of characters, then say the character. To convert the saying into a digit string, replace the counts with a number and concatenate every saying.
 #
-# Given an integer n, generate the nth term of the count-and-say sequence. You can do so recursively, in other words from the previous member read off the digits, counting the number of digits in groups of the same digit.
+# For example, the saying and conversion for digit string "3322251":
 #
-# Note: Each term of the sequence of integers will be represented as a string.
+#
+# "3322251" -> "33"     +  "222"      +  "5"    +  "1"
+#           -> two 3's  +  three 2's  +  one 5  +  one 1
+#           -> 2   3    +  3     2    +  1   5  +  1   1
+#           -> "23"     +  "32"       +  "15"   +  "11"
+#           -> "23321511"
+#
+#
+# Given an integer n, return the nth term of the count-and-say sequence.
 #
 #  
 # Example 1:
@@ -30,7 +33,11 @@
 #
 # Input: n = 4
 # Output: "1211"
-# Explanation: For n = 3 the term was "21" in which we have two groups "2" and "1", "2" can be read as "12" which means frequency = 1 and value = 2, the same way "1" is read as "11", so the answer is the concatenation of "12" and "11" which is "1211".
+# Explanation:
+# countAndSay(1) = "1"
+# countAndSay(2) = say "1" = one 1 = "11"
+# countAndSay(3) = say "11" = two 1's = "21"
+# countAndSay(4) = say "21" = one 2 + one 1 = "12" + "11" = "1211"
 #
 #
 #  
