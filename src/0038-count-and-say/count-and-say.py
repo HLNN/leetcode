@@ -5,19 +5,11 @@
 # 	countAndSay(n) is the way you would "say" the digit string from countAndSay(n-1), which is then converted into a different digit string.
 #
 #
-# To determine how you "say" an integer, split it into the minimal number of substrings so that each substring is all the same character, then for each substring, say the number of characters, then say the character. To convert the saying into a digit string, replace the counts with a number and concatenate every saying.
+# To determine how you "say" a digit string, split it into the minimal number of groups so that each group is a contiguous section all of the same character. Then for each group, say the number of characters, then say the character. To convert the saying into a digit string, replace the counts with a number and concatenate every saying.
 #
-# For example, the saying and conversion for digit string "3322251":
+# For example, the saying and conversion for digit string "3322251":
 #
-#
-# "3322251" -> "33"     +  "222"      +  "5"    +  "1"
-#           -> two 3's  +  three 2's  +  one 5  +  one 1
-#           -> 2   3    +  3     2    +  1   5  +  1   1
-#           -> "23"     +  "32"       +  "15"   +  "11"
-#           -> "23321511"
-#
-#
-# Given an integer n, return the nth term of the count-and-say sequence.
+# Given a positive integer n, return the nth term of the count-and-say sequence.
 #
 #  
 # Example 1:
