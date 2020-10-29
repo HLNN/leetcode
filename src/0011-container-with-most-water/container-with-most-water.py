@@ -36,8 +36,9 @@
 # Constraints:
 #
 #
-# 	2 <= height.length <= 3 * 104
-# 	0 <= height[i] <= 3 * 104
+# 	n = height.length
+# 	2 <= n <= 3 * 104
+# 	0 <= height[i] <= 3 * 104
 #
 #
 

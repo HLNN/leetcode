@@ -1,52 +1,28 @@
-# Two elements of a binary search tree (BST) are swapped by mistake.
+# You are given the root of a binary search tree (BST), where exactly two nodes of the tree were swapped by mistake. Recover the tree without changing its structure.
 #
-# Recover the tree without changing its structure.
+# Follow up: A solution using O(n) space is pretty straight forward; could you devise a constant space solution?
 #
+#  
 # Example 1:
 #
 #
-# Input: [1,3,null,null,2]
-#
-#    1
-#   /
-#  3
-#   \
-#    2
-#
+# Input: root = [1,3,null,null,2]
 # Output: [3,1,null,null,2]
-#
-#    3
-#   /
-#  1
-#   \
-#    2
 #
 #
 # Example 2:
 #
 #
-# Input: [3,1,4,null,null,2]
-#
-#   3
-#  / \
-# 1   4
-#    /
-#   2
-#
+# Input: root = [3,1,4,null,null,2]
 # Output: [2,1,4,null,null,3]
 #
-#   2
-#  / \
-# 1   4
-#    /
-#   3
+#
+#  
+# Constraints:
 #
 #
-# Follow up:
-#
-#
-# 	A solution using O(n) space is pretty straight forward.
-# 	Could you devise a constant space solution?
+# 	The number of nodes in the tree is in the range [2, 1000].
+# 	-231 <= Node.val <= 231 - 1
 #
 #
 

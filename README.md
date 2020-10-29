@@ -1,8 +1,8 @@
 # :pencil2: Leetcode Solutions with Python3,Cpp
-Update time:  2020-10-26 15:11:35
+Update time:  2020-10-29 18:53:37
 
-I have solved **203   /   1487** problems
-while there are **234** problems still locked.
+I have solved **207   /   1488** problems
+while there are **235** problems still locked.
 
 If you have any question, please give me an [issue](https://github.com/hlnn/leetcode/issues).
 
@@ -108,7 +108,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |92|[reverse-linked-list-ii](https://leetcode.com/problems/reverse-linked-list-ii)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0092-reverse-linked-list-ii/reverse-linked-list-ii.py)|[:memo:](https://leetcode.com/articles/reverse-linked-list-ii/)|Medium|
 |93|[restore-ip-addresses](https://leetcode.com/problems/restore-ip-addresses)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0093-restore-ip-addresses/restore-ip-addresses.py)|[:memo:](https://leetcode.com/articles/restore-ip-addresses/)|Medium|
 |94|[binary-tree-inorder-traversal](https://leetcode.com/problems/binary-tree-inorder-traversal)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0094-binary-tree-inorder-traversal/binary-tree-inorder-traversal.py)|[:memo:](https://leetcode.com/articles/binary-tree-inorder-traversal/)|Medium|
-|95|[unique-binary-search-trees-ii](https://leetcode.com/problems/unique-binary-search-trees-ii)||[:memo:](https://leetcode.com/articles/unique-binary-search-trees-ii/)|Medium|
+|95|[unique-binary-search-trees-ii](https://leetcode.com/problems/unique-binary-search-trees-ii)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0095-unique-binary-search-trees-ii/unique-binary-search-trees-ii.py)|[:memo:](https://leetcode.com/articles/unique-binary-search-trees-ii/)|Medium|
 |96|[unique-binary-search-trees](https://leetcode.com/problems/unique-binary-search-trees)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0096-unique-binary-search-trees/unique-binary-search-trees.py)|[:memo:](https://leetcode.com/articles/unique-binary-search-trees/)|Medium|
 |97|[interleaving-string](https://leetcode.com/problems/interleaving-string)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0097-interleaving-string/interleaving-string.py)|[:memo:](https://leetcode.com/articles/interleaving-strings/)|Hard|
 |98|[validate-binary-search-tree](https://leetcode.com/problems/validate-binary-search-tree)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0098-validate-binary-search-tree/validate-binary-search-tree.py)|[:memo:](https://leetcode.com/articles/validate-binary-search-tree/)|Medium|
@@ -155,7 +155,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |139|[word-break](https://leetcode.com/problems/word-break)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0139-word-break/word-break.py)|[:memo:](https://leetcode.com/articles/word-break/)|Medium|
 |140|[word-break-ii](https://leetcode.com/problems/word-break-ii)||[:memo:](https://leetcode.com/articles/word-break-ii/)|Hard|
 |141|[linked-list-cycle](https://leetcode.com/problems/linked-list-cycle)||[:memo:](https://leetcode.com/articles/linked-list-cycle/)|Easy|
-|142|[linked-list-cycle-ii](https://leetcode.com/problems/linked-list-cycle-ii)||[:memo:](https://leetcode.com/articles/linked-list-cycle-ii/)|Medium|
+|142|[linked-list-cycle-ii](https://leetcode.com/problems/linked-list-cycle-ii)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0142-linked-list-cycle-ii/linked-list-cycle-ii.py)|[:memo:](https://leetcode.com/articles/linked-list-cycle-ii/)|Medium|
 |143|[reorder-list](https://leetcode.com/problems/reorder-list)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0143-reorder-list/reorder-list.py)|[:memo:](https://leetcode.com/articles/reorder-list/)|Medium|
 |144|[binary-tree-preorder-traversal](https://leetcode.com/problems/binary-tree-preorder-traversal)||[:memo:](https://leetcode.com/articles/binary-tree-preorder-traversal/)|Medium|
 |145|[binary-tree-postorder-traversal](https://leetcode.com/problems/binary-tree-postorder-traversal)||[:memo:](https://leetcode.com/articles/binary-tree-postorder-traversal/)|Medium|
@@ -176,7 +176,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |160|[intersection-of-two-linked-lists](https://leetcode.com/problems/intersection-of-two-linked-lists)||[:memo:](https://leetcode.com/articles/intersection-of-two-linked-lists/)|Easy|
 |161|[one-edit-distance](https://leetcode.com/problems/one-edit-distance)|:lock:|[:memo:](https://leetcode.com/articles/one-edit-distance/)|Medium|
 |162|[find-peak-element](https://leetcode.com/problems/find-peak-element)||[:memo:](https://leetcode.com/articles/find-peak-element/)|Medium|
-|163|[missing-ranges](https://leetcode.com/problems/missing-ranges)|:lock:|[:memo:](https://leetcode.com/articles/missing-ranges/)|Medium|
+|163|[missing-ranges](https://leetcode.com/problems/missing-ranges)|:lock:|[:memo:](https://leetcode.com/articles/missing-ranges/)|Easy|
 |164|[maximum-gap](https://leetcode.com/problems/maximum-gap)||[:memo:](https://leetcode.com/articles/maximum-gap/)|Hard|
 |165|[compare-version-numbers](https://leetcode.com/problems/compare-version-numbers)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0165-compare-version-numbers/compare-version-numbers.py)|[:memo:](https://leetcode.com/articles/compare-version-numbers/)|Medium|
 |166|[fraction-to-recurring-decimal](https://leetcode.com/problems/fraction-to-recurring-decimal)||[:memo:](https://leetcode.com/articles/fraction-to-recurring-decimal/)|Medium|
@@ -225,7 +225,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |225|[implement-stack-using-queues](https://leetcode.com/problems/implement-stack-using-queues)||[:memo:](https://leetcode.com/articles/implement-stack-using-queues/)|Easy|
 |226|[invert-binary-tree](https://leetcode.com/problems/invert-binary-tree)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0226-invert-binary-tree/invert-binary-tree.py)|[:memo:](https://leetcode.com/articles/invert-binary-tree/)|Easy|
 |227|[basic-calculator-ii](https://leetcode.com/problems/basic-calculator-ii)||[:memo:](https://leetcode.com/articles/basic-calculator-ii/)|Medium|
-|228|[summary-ranges](https://leetcode.com/problems/summary-ranges)||[:memo:](https://leetcode.com/articles/summary-ranges/)|Easy|
+|228|[summary-ranges](https://leetcode.com/problems/summary-ranges)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0228-summary-ranges/summary-ranges.py)|[:memo:](https://leetcode.com/articles/summary-ranges/)|Easy|
 |229|[majority-element-ii](https://leetcode.com/problems/majority-element-ii)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0229-majority-element-ii/majority-element-ii.py)|[:memo:](https://leetcode.com/articles/majority-element-ii/)|Medium|
 |230|[kth-smallest-element-in-a-bst](https://leetcode.com/problems/kth-smallest-element-in-a-bst)||[:memo:](https://leetcode.com/articles/kth-smallest-element-in-a-bst/)|Medium|
 |231|[power-of-two](https://leetcode.com/problems/power-of-two)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0231-power-of-two/power-of-two.py)|[:memo:](https://leetcode.com/articles/power-of-two/)|Easy|
@@ -437,7 +437,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |444|[sequence-reconstruction](https://leetcode.com/problems/sequence-reconstruction)|:lock:||Medium|
 |445|[add-two-numbers-ii](https://leetcode.com/problems/add-two-numbers-ii)||[:memo:](https://leetcode.com/articles/add-two-numbers-ii/)|Medium|
 |446|[arithmetic-slices-ii-subsequence](https://leetcode.com/problems/arithmetic-slices-ii-subsequence)||[:memo:](https://leetcode.com/articles/arithmetic-slices-ii-subsequence/)|Hard|
-|447|[number-of-boomerangs](https://leetcode.com/problems/number-of-boomerangs)|||Easy|
+|447|[number-of-boomerangs](https://leetcode.com/problems/number-of-boomerangs)|||Medium|
 |448|[find-all-numbers-disappeared-in-an-array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array)||[:memo:](https://leetcode.com/articles/find-all-numbers-disappeared-in-an-array/)|Easy|
 |449|[serialize-and-deserialize-bst](https://leetcode.com/problems/serialize-and-deserialize-bst)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0449-serialize-and-deserialize-bst/serialize-and-deserialize-bst.py)|[:memo:](https://leetcode.com/articles/serialize-and-deserialize-bst/)|Medium|
 |450|[delete-node-in-a-bst](https://leetcode.com/problems/delete-node-in-a-bst)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0450-delete-node-in-a-bst/delete-node-in-a-bst.py)|[:memo:](https://leetcode.com/articles/delete-node-in-a-bst/)|Medium|
@@ -749,7 +749,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |812|[rotate-string](https://leetcode.com/problems/rotate-string)||[:memo:](https://leetcode.com/articles/rotate-string/)|Easy|
 |813|[all-paths-from-source-to-target](https://leetcode.com/problems/all-paths-from-source-to-target)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0813-all-paths-from-source-to-target/all-paths-from-source-to-target.py)|[:memo:](https://leetcode.com/articles/all-paths-from-source-to-target/)|Medium|
 |814|[smallest-rotation-with-highest-score](https://leetcode.com/problems/smallest-rotation-with-highest-score)||[:memo:](https://leetcode.com/articles/smallest-rotation-with-highest-score/)|Hard|
-|815|[champagne-tower](https://leetcode.com/problems/champagne-tower)||[:memo:](https://leetcode.com/articles/champagne-tower/)|Medium|
+|815|[champagne-tower](https://leetcode.com/problems/champagne-tower)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0815-champagne-tower/champagne-tower.py)|[:memo:](https://leetcode.com/articles/champagne-tower/)|Medium|
 |816|[design-hashset](https://leetcode.com/problems/design-hashset)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0816-design-hashset/design-hashset.py)|[:memo:](https://leetcode.com/articles/design-hashset/)|Easy|
 |817|[design-hashmap](https://leetcode.com/problems/design-hashmap)||[:memo:](https://leetcode.com/articles/design-hashmap/)|Easy|
 |818|[similar-rgb-color](https://leetcode.com/problems/similar-rgb-color)|:lock:|[:memo:](https://leetcode.com/articles/similar-rgb-color/)|Easy|
@@ -1501,3 +1501,4 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |1752|[arithmetic-subarrays](https://leetcode.com/problems/arithmetic-subarrays)|||Medium|
 |1753|[path-with-minimum-effort](https://leetcode.com/problems/path-with-minimum-effort)||[:memo:](https://leetcode.com/articles/path-with-minimum-effort/)|Medium|
 |1768|[design-an-expression-tree-with-evaluate-function](https://leetcode.com/problems/design-an-expression-tree-with-evaluate-function)|:lock:||Medium|
+|1774|[add-two-polynomials-represented-as-linked-lists](https://leetcode.com/problems/add-two-polynomials-represented-as-linked-lists)|:lock:||Medium|
