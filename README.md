@@ -1,7 +1,7 @@
 # :pencil2: Leetcode Solutions with Python3,Cpp
-Update time:  2020-10-30 15:42:15
+Update time:  2020-11-01 16:09:56
 
-I have solved **208   /   1488** problems
+I have solved **209   /   1496** problems
 while there are **235** problems still locked.
 
 If you have any question, please give me an [issue](https://github.com/hlnn/leetcode/issues).
@@ -362,7 +362,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |363|[max-sum-of-rectangle-no-larger-than-k](https://leetcode.com/problems/max-sum-of-rectangle-no-larger-than-k)|||Hard|
 |364|[nested-list-weight-sum-ii](https://leetcode.com/problems/nested-list-weight-sum-ii)|:lock:||Medium|
 |365|[water-and-jug-problem](https://leetcode.com/problems/water-and-jug-problem)|||Medium|
-|366|[find-leaves-of-binary-tree](https://leetcode.com/problems/find-leaves-of-binary-tree)|:lock:||Medium|
+|366|[find-leaves-of-binary-tree](https://leetcode.com/problems/find-leaves-of-binary-tree)|:lock:|[:memo:](https://leetcode.com/articles/find-leaves-of-binary-tree/)|Medium|
 |367|[valid-perfect-square](https://leetcode.com/problems/valid-perfect-square)||[:memo:](https://leetcode.com/articles/valid-perfect-square/)|Easy|
 |368|[largest-divisible-subset](https://leetcode.com/problems/largest-divisible-subset)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0368-largest-divisible-subset/largest-divisible-subset.py)|[:memo:](https://leetcode.com/articles/largest-divisible-subset/)|Medium|
 |369|[plus-one-linked-list](https://leetcode.com/problems/plus-one-linked-list)|:lock:|[:memo:](https://leetcode.com/articles/plus-one-linked-list/)|Medium|
@@ -477,6 +477,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |486|[predict-the-winner](https://leetcode.com/problems/predict-the-winner)||[:memo:](https://leetcode.com/articles/predict-the-winner/)|Medium|
 |487|[max-consecutive-ones-ii](https://leetcode.com/problems/max-consecutive-ones-ii)|:lock:||Medium|
 |488|[zuma-game](https://leetcode.com/problems/zuma-game)|||Hard|
+|489|[kth-smallest-instructions](https://leetcode.com/problems/kth-smallest-instructions)|||Hard|
 |490|[the-maze](https://leetcode.com/problems/the-maze)|:lock:|[:memo:](https://leetcode.com/articles/the-maze/)|Medium|
 |491|[increasing-subsequences](https://leetcode.com/problems/increasing-subsequences)|||Medium|
 |492|[construct-the-rectangle](https://leetcode.com/problems/construct-the-rectangle)|||Easy|
@@ -618,7 +619,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |670|[maximum-swap](https://leetcode.com/problems/maximum-swap)||[:memo:](https://leetcode.com/articles/maximum-swap/)|Medium|
 |671|[second-minimum-node-in-a-binary-tree](https://leetcode.com/problems/second-minimum-node-in-a-binary-tree)||[:memo:](https://leetcode.com/articles/second-minimum-node-in-a-binary-tree/)|Easy|
 |672|[bulb-switcher-ii](https://leetcode.com/problems/bulb-switcher-ii)||[:memo:](https://leetcode.com/articles/bulb-switcher-ii/)|Medium|
-|673|[number-of-longest-increasing-subsequence](https://leetcode.com/problems/number-of-longest-increasing-subsequence)||[:memo:](https://leetcode.com/articles/number-of-longest-increasing-subsequence/)|Medium|
+|673|[number-of-longest-increasing-subsequence](https://leetcode.com/problems/number-of-longest-increasing-subsequence)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0673-number-of-longest-increasing-subsequence/number-of-longest-increasing-subsequence.py)|[:memo:](https://leetcode.com/articles/number-of-longest-increasing-subsequence/)|Medium|
 |674|[longest-continuous-increasing-subsequence](https://leetcode.com/problems/longest-continuous-increasing-subsequence)||[:memo:](https://leetcode.com/articles/longest-continuous-increasing-subsequence/)|Easy|
 |675|[cut-off-trees-for-golf-event](https://leetcode.com/problems/cut-off-trees-for-golf-event)||[:memo:](https://leetcode.com/articles/cutoff-trees-for-golf-event/)|Hard|
 |676|[implement-magic-dictionary](https://leetcode.com/problems/implement-magic-dictionary)||[:memo:](https://leetcode.com/articles/implement-magic-dictionary/)|Medium|
@@ -1492,6 +1493,10 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |1738|[maximal-network-rank](https://leetcode.com/problems/maximal-network-rank)|||Medium|
 |1739|[split-two-strings-to-make-palindrome](https://leetcode.com/problems/split-two-strings-to-make-palindrome)|||Medium|
 |1740|[count-subtrees-with-max-distance-between-cities](https://leetcode.com/problems/count-subtrees-with-max-distance-between-cities)|||Hard|
+|1741|[sort-array-by-increasing-frequency](https://leetcode.com/problems/sort-array-by-increasing-frequency)|||Easy|
+|1742|[widest-vertical-area-between-two-points-containing-no-points](https://leetcode.com/problems/widest-vertical-area-between-two-points-containing-no-points)|||Medium|
+|1743|[count-substrings-that-differ-by-one-character](https://leetcode.com/problems/count-substrings-that-differ-by-one-character)|||Medium|
+|1744|[number-of-ways-to-form-a-target-string-given-a-dictionary](https://leetcode.com/problems/number-of-ways-to-form-a-target-string-given-a-dictionary)|||Hard|
 |1745|[find-nearest-right-node-in-binary-tree](https://leetcode.com/problems/find-nearest-right-node-in-binary-tree)|:lock:|[:memo:](https://leetcode.com/articles/find-nearest-right-node-in-binary-tree/)|Medium|
 |1746|[largest-substring-between-two-equal-characters](https://leetcode.com/problems/largest-substring-between-two-equal-characters)|||Easy|
 |1747|[lexicographically-smallest-string-after-applying-operations](https://leetcode.com/problems/lexicographically-smallest-string-after-applying-operations)|||Medium|
@@ -1500,5 +1505,8 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |1751|[slowest-key](https://leetcode.com/problems/slowest-key)|||Easy|
 |1752|[arithmetic-subarrays](https://leetcode.com/problems/arithmetic-subarrays)|||Medium|
 |1753|[path-with-minimum-effort](https://leetcode.com/problems/path-with-minimum-effort)||[:memo:](https://leetcode.com/articles/path-with-minimum-effort/)|Medium|
+|1760|[check-array-formation-through-concatenation](https://leetcode.com/problems/check-array-formation-through-concatenation)||[:memo:](https://leetcode.com/articles/check-array-formation-through-concatenation/)|Easy|
+|1761|[count-sorted-vowel-strings](https://leetcode.com/problems/count-sorted-vowel-strings)||[:memo:](https://leetcode.com/articles/count-sorted-vowel-strings/)|Medium|
+|1762|[furthest-building-you-can-reach](https://leetcode.com/problems/furthest-building-you-can-reach)|||Medium|
 |1768|[design-an-expression-tree-with-evaluate-function](https://leetcode.com/problems/design-an-expression-tree-with-evaluate-function)|:lock:||Medium|
 |1774|[add-two-polynomials-represented-as-linked-lists](https://leetcode.com/problems/add-two-polynomials-represented-as-linked-lists)|:lock:||Medium|

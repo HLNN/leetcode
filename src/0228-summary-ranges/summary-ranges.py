@@ -61,6 +61,7 @@
 # 	0 <= nums.length <= 20
 # 	-231 <= nums[i] <= 231 - 1
 # 	All the values of nums are unique.
+# 	nums is sorted in ascending order.
 #
 #
 

@@ -1,6 +1,6 @@
-# Given two words word1 and word2, find the minimum number of operations required to convert word1 to word2.
+# Given two strings word1 and word2, return the minimum number of operations required to convert word1 to word2.
 #
-# You have the following 3 operations permitted on a word:
+# You have the following three operations permitted on a word:
 #
 #
 # 	Insert a character
@@ -8,6 +8,7 @@
 # 	Replace a character
 #
 #
+#  
 # Example 1:
 #
 #
@@ -30,6 +31,14 @@
 # enention -> exention (replace 'n' with 'x')
 # exention -> exection (replace 'n' with 'c')
 # exection -> execution (insert 'u')
+#
+#
+#  
+# Constraints:
+#
+#
+# 	0 <= word1.length, word2.length <= 500
+# 	word1 and word2 consist of lowercase English letters.
 #
 #
 

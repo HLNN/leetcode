@@ -4,10 +4,6 @@
 #
 # Notice that you should not modify the linked list.
 #
-# Follow up:
-#
-# Can you solve it using O(1) (i.e. constant) memory?
-#
 #  
 # Example 1:
 #
@@ -41,6 +37,9 @@
 # 	-105 <= Node.val <= 105
 # 	pos is -1 or a valid index in the linked-list.
 #
+#
+#  
+# Follow up: Can you solve it using O(1) (i.e. constant) memory?
 #
 
 
