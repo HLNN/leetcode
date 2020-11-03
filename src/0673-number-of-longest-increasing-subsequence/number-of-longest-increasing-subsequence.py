@@ -22,7 +22,7 @@
 # Constraints:
 #
 #
-# 	0 <= nums.length <= 2000
+# 	1 <= nums.length <= 2000
 # 	-106 <= nums[i] <= 106
 #
 #
