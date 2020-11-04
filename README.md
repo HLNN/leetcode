@@ -1,7 +1,7 @@
 # :pencil2: Leetcode Solutions with Python3,Cpp
-Update time:  2020-11-03 15:52:30
+Update time:  2020-11-04 15:52:34
 
-I have solved **210   /   1496** problems
+I have solved **211   /   1496** problems
 while there are **235** problems still locked.
 
 If you have any question, please give me an [issue](https://github.com/hlnn/leetcode/issues).
@@ -349,7 +349,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |350|[intersection-of-two-arrays-ii](https://leetcode.com/problems/intersection-of-two-arrays-ii)||[:memo:](https://leetcode.com/articles/intersection-of-two-arrays-ii/)|Easy|
 |351|[android-unlock-patterns](https://leetcode.com/problems/android-unlock-patterns)|:lock:|[:memo:](https://leetcode.com/articles/android-unlock-patterns/)|Medium|
 |352|[data-stream-as-disjoint-intervals](https://leetcode.com/problems/data-stream-as-disjoint-intervals)|||Hard|
-|353|[design-snake-game](https://leetcode.com/problems/design-snake-game)|:lock:||Medium|
+|353|[design-snake-game](https://leetcode.com/problems/design-snake-game)|:lock:|[:memo:](https://leetcode.com/articles/design-snake-game/)|Medium|
 |354|[russian-doll-envelopes](https://leetcode.com/problems/russian-doll-envelopes)||[:memo:](https://leetcode.com/articles/russian-doll-envelopes/)|Hard|
 |355|[design-twitter](https://leetcode.com/problems/design-twitter)|||Medium|
 |356|[line-reflection](https://leetcode.com/problems/line-reflection)|:lock:||Medium|
@@ -1337,7 +1337,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |1537|[maximum-score-after-splitting-a-string](https://leetcode.com/problems/maximum-score-after-splitting-a-string)|||Easy|
 |1538|[maximum-points-you-can-obtain-from-cards](https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards)|||Medium|
 |1539|[diagonal-traverse-ii](https://leetcode.com/problems/diagonal-traverse-ii)|||Medium|
-|1542|[consecutive-characters](https://leetcode.com/problems/consecutive-characters)||[:memo:](https://leetcode.com/articles/consecutive-characters/)|Easy|
+|1542|[consecutive-characters](https://leetcode.com/problems/consecutive-characters)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/1542-consecutive-characters/consecutive-characters.py)|[:memo:](https://leetcode.com/articles/consecutive-characters/)|Easy|
 |1543|[simplified-fractions](https://leetcode.com/problems/simplified-fractions)|||Medium|
 |1544|[count-good-nodes-in-binary-tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree)|||Medium|
 |1545|[form-largest-integer-with-digits-that-add-up-to-target](https://leetcode.com/problems/form-largest-integer-with-digits-that-add-up-to-target)|||Hard|
