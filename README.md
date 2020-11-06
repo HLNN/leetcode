@@ -1,7 +1,7 @@
 # :pencil2: Leetcode Solutions with Python3,Cpp
-Update time:  2020-11-05 15:45:36
+Update time:  2020-11-06 15:08:08
 
-I have solved **212   /   1497** problems
+I have solved **213   /   1497** problems
 while there are **236** problems still locked.
 
 If you have any question, please give me an [issue](https://github.com/hlnn/leetcode/issues).
@@ -394,7 +394,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |395|[longest-substring-with-at-least-k-repeating-characters](https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters)||[:memo:](https://leetcode.com/articles/longest-substring-with-at-least-k-repeating-characters/)|Medium|
 |396|[rotate-function](https://leetcode.com/problems/rotate-function)|||Medium|
 |397|[integer-replacement](https://leetcode.com/problems/integer-replacement)|||Medium|
-|398|[random-pick-index](https://leetcode.com/problems/random-pick-index)|||Medium|
+|398|[random-pick-index](https://leetcode.com/problems/random-pick-index)||[:memo:](https://leetcode.com/articles/random-pick-index/)|Medium|
 |399|[evaluate-division](https://leetcode.com/problems/evaluate-division)||[:memo:](https://leetcode.com/articles/evaluate-division/)|Medium|
 |400|[nth-digit](https://leetcode.com/problems/nth-digit)|||Medium|
 |401|[binary-watch](https://leetcode.com/problems/binary-watch)|||Easy|
@@ -1188,7 +1188,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |1321|[get-equal-substrings-within-budget](https://leetcode.com/problems/get-equal-substrings-within-budget)|||Medium|
 |1322|[minimum-moves-to-reach-target-with-rotations](https://leetcode.com/problems/minimum-moves-to-reach-target-with-rotations)|||Hard|
 |1325|[path-with-maximum-probability](https://leetcode.com/problems/path-with-maximum-probability)|||Medium|
-|1329|[minimum-cost-to-move-chips-to-the-same-position](https://leetcode.com/problems/minimum-cost-to-move-chips-to-the-same-position)||[:memo:](https://leetcode.com/articles/minimum-cost-to-move-chips-to-the-same-position/)|Easy|
+|1329|[minimum-cost-to-move-chips-to-the-same-position](https://leetcode.com/problems/minimum-cost-to-move-chips-to-the-same-position)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/1329-minimum-cost-to-move-chips-to-the-same-position/minimum-cost-to-move-chips-to-the-same-position.py)|[:memo:](https://leetcode.com/articles/minimum-cost-to-move-chips-to-the-same-position/)|Easy|
 |1330|[longest-arithmetic-subsequence-of-given-difference](https://leetcode.com/problems/longest-arithmetic-subsequence-of-given-difference)|||Medium|
 |1331|[path-with-maximum-gold](https://leetcode.com/problems/path-with-maximum-gold)|||Medium|
 |1332|[count-vowels-permutation](https://leetcode.com/problems/count-vowels-permutation)|||Hard|

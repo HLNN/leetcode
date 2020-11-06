@@ -26,7 +26,7 @@
 #
 #
 # 	0 <= k <= 109
-# 	0 <= prices.length <= 104
+# 	0 <= prices.length <= 1000
 # 	0 <= prices[i] <= 1000
 #
 #
