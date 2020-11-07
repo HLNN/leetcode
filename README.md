@@ -1,7 +1,7 @@
 # :pencil2: Leetcode Solutions with Python3,Cpp
-Update time:  2020-11-06 15:08:08
+Update time:  2020-11-07 16:17:34
 
-I have solved **213   /   1497** problems
+I have solved **214   /   1497** problems
 while there are **236** problems still locked.
 
 If you have any question, please give me an [issue](https://github.com/hlnn/leetcode/issues).
@@ -1234,7 +1234,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |1404|[print-immutable-linked-list-in-reverse](https://leetcode.com/problems/print-immutable-linked-list-in-reverse)|:lock:||Medium|
 |1406|[subtract-the-product-and-sum-of-digits-of-an-integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer)|||Easy|
 |1407|[group-the-people-given-the-group-size-they-belong-to](https://leetcode.com/problems/group-the-people-given-the-group-size-they-belong-to)|||Medium|
-|1408|[find-the-smallest-divisor-given-a-threshold](https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold)||[:memo:](https://leetcode.com/articles/find-the-smallest-divisor-given-a-threshold/)|Medium|
+|1408|[find-the-smallest-divisor-given-a-threshold](https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/1408-find-the-smallest-divisor-given-a-threshold/find-the-smallest-divisor-given-a-threshold.py)|[:memo:](https://leetcode.com/articles/find-the-smallest-divisor-given-a-threshold/)|Medium|
 |1409|[minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix](https://leetcode.com/problems/minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix)|||Hard|
 |1411|[convert-binary-number-in-a-linked-list-to-integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer)||[:memo:](https://leetcode.com/articles/convert-binary-number-in-a-linked-list-to-integer/)|Easy|
 |1413|[maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://leetcode.com/problems/maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold)|||Medium|

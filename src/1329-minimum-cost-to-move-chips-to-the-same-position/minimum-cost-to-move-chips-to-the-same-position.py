@@ -25,7 +25,7 @@
 #
 # Input: position = [2,2,2,3,3]
 # Output: 2
-# Explanation: We can move the two chips at poistion 3 to position 2. Each move has cost = 1. The total cost = 2.
+# Explanation: We can move the two chips at position  3 to position 2. Each move has cost = 1. The total cost = 2.
 #
 #
 # Example 3:
