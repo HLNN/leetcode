@@ -1,7 +1,7 @@
 # :pencil2: Leetcode Solutions with Python3,Cpp
-Update time:  2020-11-08 16:17:53
+Update time:  2020-11-09 16:17:31
 
-I have solved **215   /   1501** problems
+I have solved **216   /   1501** problems
 while there are **236** problems still locked.
 
 If you have any question, please give me an [issue](https://github.com/hlnn/leetcode/issues).
@@ -272,7 +272,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |273|[integer-to-english-words](https://leetcode.com/problems/integer-to-english-words)||[:memo:](https://leetcode.com/articles/integer-to-english-words/)|Hard|
 |274|[h-index](https://leetcode.com/problems/h-index)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0274-h-index/h-index.py)|[:memo:](https://leetcode.com/articles/h-index/)|Medium|
 |275|[h-index-ii](https://leetcode.com/problems/h-index-ii)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0275-h-index-ii/h-index-ii.py)|[:memo:](https://leetcode.com/articles/h-index-ii/)|Medium|
-|276|[paint-fence](https://leetcode.com/problems/paint-fence)|:lock:||Easy|
+|276|[paint-fence](https://leetcode.com/problems/paint-fence)|:lock:|[:memo:](https://leetcode.com/articles/paint-fence/)|Easy|
 |277|[find-the-celebrity](https://leetcode.com/problems/find-the-celebrity)|:lock:|[:memo:](https://leetcode.com/articles/find-the-celebrity/)|Medium|
 |278|[first-bad-version](https://leetcode.com/problems/first-bad-version)||[:memo:](https://leetcode.com/articles/first-bad-version/)|Easy|
 |279|[perfect-squares](https://leetcode.com/problems/perfect-squares)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0279-perfect-squares/perfect-squares.py)|[:memo:](https://leetcode.com/articles/perfect-squares/)|Medium|
@@ -542,7 +542,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |560|[subarray-sum-equals-k](https://leetcode.com/problems/subarray-sum-equals-k)||[:memo:](https://leetcode.com/articles/subarray-sum-equals-k/)|Medium|
 |561|[array-partition-i](https://leetcode.com/problems/array-partition-i)||[:memo:](https://leetcode.com/articles/array-partition-i/)|Easy|
 |562|[longest-line-of-consecutive-one-in-matrix](https://leetcode.com/problems/longest-line-of-consecutive-one-in-matrix)|:lock:|[:memo:](https://leetcode.com/articles/longest-line-of-consecutive-one-in-matrix/)|Medium|
-|563|[binary-tree-tilt](https://leetcode.com/problems/binary-tree-tilt)||[:memo:](https://leetcode.com/articles/binary-tree-tilt/)|Easy|
+|563|[binary-tree-tilt](https://leetcode.com/problems/binary-tree-tilt)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0563-binary-tree-tilt/binary-tree-tilt.py)|[:memo:](https://leetcode.com/articles/binary-tree-tilt/)|Easy|
 |564|[find-the-closest-palindrome](https://leetcode.com/problems/find-the-closest-palindrome)||[:memo:](https://leetcode.com/articles/find-the-closest-palindrome/)|Hard|
 |565|[array-nesting](https://leetcode.com/problems/array-nesting)||[:memo:](https://leetcode.com/articles/array-nesting/)|Medium|
 |566|[reshape-the-matrix](https://leetcode.com/problems/reshape-the-matrix)||[:memo:](https://leetcode.com/articles/reshape-the-matrix/)|Easy|
@@ -1041,7 +1041,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |1117|[as-far-from-land-as-possible](https://leetcode.com/problems/as-far-from-land-as-possible)|||Medium|
 |1118|[divide-array-into-increasing-sequences](https://leetcode.com/problems/divide-array-into-increasing-sequences)|:lock:||Hard|
 |1119|[robot-bounded-in-circle](https://leetcode.com/problems/robot-bounded-in-circle)||[:memo:](https://leetcode.com/articles/robot-bounded-in-circle/)|Medium|
-|1120|[flower-planting-with-no-adjacent](https://leetcode.com/problems/flower-planting-with-no-adjacent)|||Easy|
+|1120|[flower-planting-with-no-adjacent](https://leetcode.com/problems/flower-planting-with-no-adjacent)|||Medium|
 |1121|[partition-array-for-maximum-sum](https://leetcode.com/problems/partition-array-for-maximum-sum)|||Medium|
 |1122|[longest-duplicate-substring](https://leetcode.com/problems/longest-duplicate-substring)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/1122-longest-duplicate-substring/longest-duplicate-substring.py)|[:memo:](https://leetcode.com/articles/longest-duplicate-substring/)|Hard|
 |1123|[single-row-keyboard](https://leetcode.com/problems/single-row-keyboard)|:lock:||Easy|
