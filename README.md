@@ -1,7 +1,7 @@
 # :pencil2: Leetcode Solutions with Python3,Cpp
-Update time:  2020-11-09 16:17:31
+Update time:  2020-11-10 18:00:57
 
-I have solved **216   /   1501** problems
+I have solved **217   /   1501** problems
 while there are **236** problems still locked.
 
 If you have any question, please give me an [issue](https://github.com/hlnn/leetcode/issues).
@@ -1015,7 +1015,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |1089|[remove-vowels-from-a-string](https://leetcode.com/problems/remove-vowels-from-a-string)|:lock:||Easy|
 |1090|[armstrong-number](https://leetcode.com/problems/armstrong-number)|:lock:||Easy|
 |1091|[maximum-average-subtree](https://leetcode.com/problems/maximum-average-subtree)|:lock:|[:memo:](https://leetcode.com/articles/maximum-average-subtree/)|Medium|
-|1092|[maximum-difference-between-node-and-ancestor](https://leetcode.com/problems/maximum-difference-between-node-and-ancestor)||[:memo:](https://leetcode.com/articles/maximum-difference-between-node-and-ancestor/)|Medium|
+|1092|[maximum-difference-between-node-and-ancestor](https://leetcode.com/problems/maximum-difference-between-node-and-ancestor)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/1092-maximum-difference-between-node-and-ancestor/maximum-difference-between-node-and-ancestor.py)|[:memo:](https://leetcode.com/articles/maximum-difference-between-node-and-ancestor/)|Medium|
 |1093|[recover-a-tree-from-preorder-traversal](https://leetcode.com/problems/recover-a-tree-from-preorder-traversal)|||Hard|
 |1094|[matrix-cells-in-distance-order](https://leetcode.com/problems/matrix-cells-in-distance-order)|||Easy|
 |1095|[two-city-scheduling](https://leetcode.com/problems/two-city-scheduling)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/1095-two-city-scheduling/two-city-scheduling.py)|[:memo:](https://leetcode.com/articles/two-city-scheduling/)|Medium|
