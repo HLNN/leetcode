@@ -1,5 +1,6 @@
-# Given a collection of intervals, merge all overlapping intervals.
+# Given an array of intervals where intervals[i] = [starti, endi], merge all overlapping intervals, and return an array of the non-overlapping intervals that cover all the intervals in the input.
 #
+#  
 # Example 1:
 #
 #
@@ -15,13 +16,14 @@
 # Output: [[1,5]]
 # Explanation: Intervals [1,4] and [4,5] are considered overlapping.
 #
-# NOTE: input types have been changed on April 15, 2019. Please reset to default code definition to get new method signature.
 #
 #  
 # Constraints:
 #
 #
-# 	intervals[i][0] <= intervals[i][1]
+# 	1 <= intervals.length <= 104
+# 	intervals[i].length == 2
+# 	0 <= starti <= endi <= 104
 #
 #
 

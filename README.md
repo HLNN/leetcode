@@ -1,7 +1,7 @@
 # :pencil2: Leetcode Solutions with Python3,Cpp
-Update time:  2020-11-12 16:10:15
+Update time:  2020-11-14 11:05:24
 
-I have solved **219   /   1502** problems
+I have solved **220   /   1502** problems
 while there are **237** problems still locked.
 
 If you have any question, please give me an [issue](https://github.com/hlnn/leetcode/issues).
@@ -129,7 +129,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |113|[path-sum-ii](https://leetcode.com/problems/path-sum-ii)||[:memo:](https://leetcode.com/articles/path-sum-ii/)|Medium|
 |114|[flatten-binary-tree-to-linked-list](https://leetcode.com/problems/flatten-binary-tree-to-linked-list)||[:memo:](https://leetcode.com/articles/flatten-binary-tree-to-linked-list/)|Medium|
 |115|[distinct-subsequences](https://leetcode.com/problems/distinct-subsequences)||[:memo:](https://leetcode.com/articles/distinct-subsequences/)|Hard|
-|116|[populating-next-right-pointers-in-each-node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node)||[:memo:](https://leetcode.com/articles/populating-next-right-pointers-in-each-node/)|Medium|
+|116|[populating-next-right-pointers-in-each-node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0116-populating-next-right-pointers-in-each-node/populating-next-right-pointers-in-each-node.py)|[:memo:](https://leetcode.com/articles/populating-next-right-pointers-in-each-node/)|Medium|
 |117|[populating-next-right-pointers-in-each-node-ii](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii)||[:memo:](https://leetcode.com/articles/populating-next-right-pointers-in-each-node-ii/)|Medium|
 |118|[pascals-triangle](https://leetcode.com/problems/pascals-triangle)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0118-pascals-triangle/pascals-triangle.py)|[:memo:](https://leetcode.com/articles/pascals-triangle/)|Easy|
 |119|[pascals-triangle-ii](https://leetcode.com/problems/pascals-triangle-ii)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0119-pascals-triangle-ii/pascals-triangle-ii.py)|[:memo:](https://leetcode.com/articles/pascals-triangle-ii/)|Easy|
@@ -357,7 +357,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |358|[rearrange-string-k-distance-apart](https://leetcode.com/problems/rearrange-string-k-distance-apart)|:lock:||Hard|
 |359|[logger-rate-limiter](https://leetcode.com/problems/logger-rate-limiter)|:lock:|[:memo:](https://leetcode.com/articles/logger-rate-limiter/)|Easy|
 |360|[sort-transformed-array](https://leetcode.com/problems/sort-transformed-array)|:lock:||Medium|
-|361|[bomb-enemy](https://leetcode.com/problems/bomb-enemy)|:lock:||Medium|
+|361|[bomb-enemy](https://leetcode.com/problems/bomb-enemy)|:lock:|[:memo:](https://leetcode.com/articles/bomb-enemy/)|Medium|
 |362|[design-hit-counter](https://leetcode.com/problems/design-hit-counter)|:lock:||Medium|
 |363|[max-sum-of-rectangle-no-larger-than-k](https://leetcode.com/problems/max-sum-of-rectangle-no-larger-than-k)|||Hard|
 |364|[nested-list-weight-sum-ii](https://leetcode.com/problems/nested-list-weight-sum-ii)|:lock:||Medium|
@@ -978,7 +978,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |1052|[campus-bikes](https://leetcode.com/problems/campus-bikes)|:lock:||Medium|
 |1053|[minimize-rounding-error-to-meet-target](https://leetcode.com/problems/minimize-rounding-error-to-meet-target)|:lock:||Medium|
 |1054|[complement-of-base-10-integer](https://leetcode.com/problems/complement-of-base-10-integer)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/1054-complement-of-base-10-integer/complement-of-base-10-integer.py)|[:memo:](https://leetcode.com/articles/complement-of-base-10-integer/)|Easy|
-|1055|[pairs-of-songs-with-total-durations-divisible-by-60](https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60)|||Easy|
+|1055|[pairs-of-songs-with-total-durations-divisible-by-60](https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60)||[:memo:](https://leetcode.com/articles/pairs-of-songs-with-total-durations-divisible-by-60/)|Easy|
 |1056|[capacity-to-ship-packages-within-d-days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days)|||Medium|
 |1057|[numbers-with-repeated-digits](https://leetcode.com/problems/numbers-with-repeated-digits)|||Hard|
 |1058|[lexicographically-smallest-equivalent-string](https://leetcode.com/problems/lexicographically-smallest-equivalent-string)|:lock:||Medium|
@@ -1083,7 +1083,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |1168|[duplicate-zeros](https://leetcode.com/problems/duplicate-zeros)||[:memo:](https://leetcode.com/articles/duplicate-zeros/)|Easy|
 |1169|[largest-values-from-labels](https://leetcode.com/problems/largest-values-from-labels)|||Medium|
 |1170|[shortest-common-supersequence](https://leetcode.com/problems/shortest-common-supersequence)|||Hard|
-|1171|[shortest-path-in-binary-matrix](https://leetcode.com/problems/shortest-path-in-binary-matrix)|||Medium|
+|1171|[shortest-path-in-binary-matrix](https://leetcode.com/problems/shortest-path-in-binary-matrix)||[:memo:](https://leetcode.com/articles/shortest-path-in-a-binary-matrix/)|Medium|
 |1175|[array-transformation](https://leetcode.com/problems/array-transformation)|:lock:||Easy|
 |1176|[design-a-leaderboard](https://leetcode.com/problems/design-a-leaderboard)|:lock:||Medium|
 |1177|[tree-diameter](https://leetcode.com/problems/tree-diameter)|:lock:||Medium|

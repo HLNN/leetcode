@@ -16,7 +16,7 @@
 # "-+3" => false
 # "95a54e53" => false
 #
-# Note: It is intended for the problem statement to be ambiguous. You should gather all requirements up front before implementing one. However, here is a list of characters that can be in a valid decimal number:
+# Note: It is intended for the problem statement to be ambiguous. It would be best if you gathered all requirements up front before implementing one. However, here is a list of characters that can be in a valid decimal number:
 #
 #
 # 	Numbers 0-9
@@ -27,8 +27,21 @@
 #
 # Of course, the context of these characters also matters in the input.
 #
-# Update (2015-02-10):
-# The signature of the C++ function had been updated. If you still see your function signature accepts a const char * argument, please click the reload button to reset your code definition.
+#  
+# Example 1:
+# Input: s = "0"
+# Output: true
+# Example 2:
+# Input: s = "3"
+# Output: true
+#
+#  
+# Constraints:
+#
+#
+# 	1 <= s.length <= 20
+# 	s consists of only English letters, digits, space ' ', plus '+', minus '-', or dot '.'.
+#
 #
 
 
