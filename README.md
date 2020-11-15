@@ -1,7 +1,7 @@
 # :pencil2: Leetcode Solutions with Python3,Cpp
-Update time:  2020-11-14 11:05:24
+Update time:  2020-11-15 16:44:55
 
-I have solved **220   /   1502** problems
+I have solved **221   /   1510** problems
 while there are **237** problems still locked.
 
 If you have any question, please give me an [issue](https://github.com/hlnn/leetcode/issues).
@@ -448,7 +448,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |455|[assign-cookies](https://leetcode.com/problems/assign-cookies)|||Easy|
 |456|[132-pattern](https://leetcode.com/problems/132-pattern)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0456-132-pattern/132-pattern.py)|[:memo:](https://leetcode.com/articles/132-pattern/)|Medium|
 |457|[circular-array-loop](https://leetcode.com/problems/circular-array-loop)|||Medium|
-|458|[poor-pigs](https://leetcode.com/problems/poor-pigs)||[:memo:](https://leetcode.com/articles/poor-pigs/)|Hard|
+|458|[poor-pigs](https://leetcode.com/problems/poor-pigs)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0458-poor-pigs/poor-pigs.py)|[:memo:](https://leetcode.com/articles/poor-pigs/)|Hard|
 |459|[repeated-substring-pattern](https://leetcode.com/problems/repeated-substring-pattern)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0459-repeated-substring-pattern/repeated-substring-pattern.py)|[:memo:](https://leetcode.com/articles/repeated-substring-pattern/)|Easy|
 |460|[lfu-cache](https://leetcode.com/problems/lfu-cache)|||Hard|
 |461|[hamming-distance](https://leetcode.com/problems/hamming-distance)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0461-hamming-distance/hamming-distance.py)|[:memo:](https://leetcode.com/articles/hamming-distance/)|Easy|
@@ -1030,7 +1030,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |1104|[coloring-a-border](https://leetcode.com/problems/coloring-a-border)|||Medium|
 |1105|[uncrossed-lines](https://leetcode.com/problems/uncrossed-lines)|||Medium|
 |1106|[escape-a-large-maze](https://leetcode.com/problems/escape-a-large-maze)|||Hard|
-|1107|[minimum-swaps-to-group-all-1s-together](https://leetcode.com/problems/minimum-swaps-to-group-all-1s-together)|:lock:||Medium|
+|1107|[minimum-swaps-to-group-all-1s-together](https://leetcode.com/problems/minimum-swaps-to-group-all-1s-together)|:lock:|[:memo:](https://leetcode.com/articles/minimum-swaps-to-group-all-1s-together/)|Medium|
 |1108|[analyze-user-website-visit-pattern](https://leetcode.com/problems/analyze-user-website-visit-pattern)|:lock:||Medium|
 |1111|[minimum-score-triangulation-of-polygon](https://leetcode.com/problems/minimum-score-triangulation-of-polygon)|||Medium|
 |1112|[find-words-that-can-be-formed-by-characters](https://leetcode.com/problems/find-words-that-can-be-formed-by-characters)|||Easy|
@@ -1505,6 +1505,10 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |1751|[slowest-key](https://leetcode.com/problems/slowest-key)|||Easy|
 |1752|[arithmetic-subarrays](https://leetcode.com/problems/arithmetic-subarrays)|||Medium|
 |1753|[path-with-minimum-effort](https://leetcode.com/problems/path-with-minimum-effort)||[:memo:](https://leetcode.com/articles/path-with-minimum-effort/)|Medium|
+|1755|[defuse-the-bomb](https://leetcode.com/problems/defuse-the-bomb)|||Easy|
+|1756|[minimum-deletions-to-make-string-balanced](https://leetcode.com/problems/minimum-deletions-to-make-string-balanced)|||Medium|
+|1757|[minimum-jumps-to-reach-home](https://leetcode.com/problems/minimum-jumps-to-reach-home)|||Medium|
+|1758|[distribute-repeating-integers](https://leetcode.com/problems/distribute-repeating-integers)|||Hard|
 |1760|[check-array-formation-through-concatenation](https://leetcode.com/problems/check-array-formation-through-concatenation)||[:memo:](https://leetcode.com/articles/check-array-formation-through-concatenation/)|Easy|
 |1761|[count-sorted-vowel-strings](https://leetcode.com/problems/count-sorted-vowel-strings)||[:memo:](https://leetcode.com/articles/count-sorted-vowel-strings/)|Medium|
 |1762|[furthest-building-you-can-reach](https://leetcode.com/problems/furthest-building-you-can-reach)|||Medium|
@@ -1514,5 +1518,9 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |1771|[sell-diminishing-valued-colored-balls](https://leetcode.com/problems/sell-diminishing-valued-colored-balls)|||Medium|
 |1772|[create-sorted-array-through-instructions](https://leetcode.com/problems/create-sorted-array-through-instructions)||[:memo:](https://leetcode.com/articles/create-sorted-array-through-instructions/)|Hard|
 |1774|[add-two-polynomials-represented-as-linked-lists](https://leetcode.com/problems/add-two-polynomials-represented-as-linked-lists)|:lock:||Medium|
+|1775|[design-an-ordered-stream](https://leetcode.com/problems/design-an-ordered-stream)|||Easy|
+|1776|[minimum-operations-to-reduce-x-to-zero](https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero)||[:memo:](https://leetcode.com/articles/minimum-operations-to-reduce-x-to-zero/)|Medium|
+|1777|[determine-if-two-strings-are-close](https://leetcode.com/problems/determine-if-two-strings-are-close)||[:memo:](https://leetcode.com/articles/determine-if-two-strings-are-close/)|Medium|
+|1778|[maximize-grid-happiness](https://leetcode.com/problems/maximize-grid-happiness)|||Hard|
 |1780|[lowest-common-ancestor-of-a-binary-tree-ii](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree-ii)|:lock:||Medium|
 |1790|[lowest-common-ancestor-of-a-binary-tree-iii](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree-iii)|:lock:||Medium|
