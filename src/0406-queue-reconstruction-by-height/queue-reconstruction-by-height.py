@@ -1,20 +1,22 @@
-# Suppose you have a random list of people standing in a queue. Each person is described by a pair of integers (h, k), where h is the height of the person and k is the number of people in front of this person who have a height greater than or equal to h. Write an algorithm to reconstruct the queue.
-#
-# Note:
-# The number of people is less than 1,100.
-#  
-#
-# Example
-#
-#
-# Input:
-# [[7,0], [4,4], [7,1], [5,0], [6,1], [5,2]]
-#
-# Output:
-# [[5,0], [7,0], [5,2], [6,1], [4,4], [7,1]]
-#
+# Suppose you have a random list of people standing in a queue. A pair of integers [hi, ki] describe each person, where hi is the height of the ith person and ki is the number of people in front of the ith person who has a height greater than or equal to hi. Write an algorithm to reconstruct the queue.
 #
 #  
+# Example 1:
+# Input: people = [[7,0],[4,4],[7,1],[5,0],[6,1],[5,2]]
+# Output: [[5,0],[7,0],[5,2],[6,1],[4,4],[7,1]]
+# Example 2:
+# Input: people = [[6,0],[5,0],[4,0],[3,2],[2,2],[1,4]]
+# Output: [[4,0],[5,0],[2,2],[3,2],[1,4],[6,0]]
+#
+#  
+# Constraints:
+#
+#
+# 	1 <= people.length <= 2000
+# 	0 <= hi <= 106
+# 	0 <= ki < people.length
+# 	It is guaranteed that the input is valid.
+#
 #
 
 

@@ -48,7 +48,6 @@
 # 	0 <= tokens.length <= 1000
 # 	0 <= tokens[i], P < 104
 #
-#
 
 
 class Solution:
