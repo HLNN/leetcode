@@ -35,7 +35,7 @@
 # Constraints:
 #
 #
-# 	2n == costs.length
+# 	2 * n == costs.length
 # 	2 <= costs.length <= 100
 # 	costs.length is even.
 # 	1 <= aCosti, bCosti <= 1000

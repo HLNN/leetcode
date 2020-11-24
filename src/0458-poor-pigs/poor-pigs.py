@@ -1,21 +1,35 @@
-# There are 1000 buckets, one and only one of them is poisonous, while the rest are filled with water. They all look identical. If a pig drinks the poison it will die within 15 minutes. What is the minimum amount of pigs you need to figure out which bucket is poisonous within one hour?
+# There are buckets buckets of liquid, where exactly one of the buckets is poisonous. To figure out which one is poisonous, you feed some number of (poor) pigs the liquid to see whether they will die or not. Unfortunately, you only have minutesToTest minutes to determine which bucket is poisonous.
 #
-# Answer this question, and write an algorithm for the general case.
+# You can feed the pigs according to these steps:
+#
+#
+# 	Choose some live pigs to feed.
+# 	For each pig, choose which buckets to feed it. The pig will consume all the chosen buckets simultaneously and will take no time.
+# 	Wait for minutesToDie minutes. You may not feed any other pigs during this time.
+# 	After minutesToDie minutes have passed, any pigs that have been fed the poisonous bucket will die, and all others will survive.
+# 	Repeat this process until you run out of time.
+#
+#
+# Given buckets, minutesToDie, and minutesToTest, return the minimum number of pigs needed to figure out which bucket is poisonous within the allotted time.
 #
 #  
-#
-# General case: 
-#
-# If there are n buckets and a pig drinking poison will die within m minutes, how many pigs (x) you need to figure out the poisonous bucket within p minutes? There is exactly one bucket with poison.
+# Example 1:
+# Input: buckets = 1000, minutesToDie = 15, minutesToTest = 60
+# Output: 5
+# Example 2:
+# Input: buckets = 4, minutesToDie = 15, minutesToTest = 15
+# Output: 2
+# Example 3:
+# Input: buckets = 4, minutesToDie = 15, minutesToTest = 30
+# Output: 2
 #
 #  
+# Constraints:
 #
-# Note:
 #
+# 	1 <= buckets <= 1000
+# 	1 <= minutesToDie <= minutesToTest <= 100
 #
-# 	A pig can be allowed to drink simultaneously on as many buckets as one would like, and the feeding takes no time.
-# 	After a pig has instantly finished drinking buckets, there has to be a cool down time of m minutes. During this time, only observation is allowed and no feedings at all.
-# 	Any given bucket can be sampled an infinite number of times (by an unlimited number of pigs).
 #
 
 
