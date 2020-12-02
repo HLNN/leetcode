@@ -24,7 +24,7 @@
 # Constraints:
 #
 #
-# 	0 <= rowIndex <= 40
+# 	0 <= rowIndex <= 33
 #
 #
 
