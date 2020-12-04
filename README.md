@@ -1,7 +1,7 @@
 # :pencil2: Leetcode Solutions with Python3,Cpp
-Update time:  2020-12-03 16:45:23
+Update time:  2020-12-04 16:42:13
 
-I have solved **231   /   1525** problems
+I have solved **233   /   1525** problems
 while there are **240** problems still locked.
 
 If you have any question, please give me an [issue](https://github.com/hlnn/leetcode/issues).
@@ -861,7 +861,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |930|[all-possible-full-binary-trees](https://leetcode.com/problems/all-possible-full-binary-trees)||[:memo:](https://leetcode.com/articles/all-possible-full-binary-trees/)|Medium|
 |931|[maximum-frequency-stack](https://leetcode.com/problems/maximum-frequency-stack)||[:memo:](https://leetcode.com/articles/maximum-frequency-stack/)|Hard|
 |932|[monotonic-array](https://leetcode.com/problems/monotonic-array)||[:memo:](https://leetcode.com/articles/monotonic-array/)|Easy|
-|933|[increasing-order-search-tree](https://leetcode.com/problems/increasing-order-search-tree)||[:memo:](https://leetcode.com/articles/increasing-order-search-tree/)|Easy|
+|933|[increasing-order-search-tree](https://leetcode.com/problems/increasing-order-search-tree)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0933-increasing-order-search-tree/increasing-order-search-tree.py)|[:memo:](https://leetcode.com/articles/increasing-order-search-tree/)|Easy|
 |934|[bitwise-ors-of-subarrays](https://leetcode.com/problems/bitwise-ors-of-subarrays)||[:memo:](https://leetcode.com/articles/bitwise-ors-of-subarrays/)|Medium|
 |935|[orderly-queue](https://leetcode.com/problems/orderly-queue)||[:memo:](https://leetcode.com/articles/orderly-queue/)|Hard|
 |936|[rle-iterator](https://leetcode.com/problems/rle-iterator)||[:memo:](https://leetcode.com/articles/rle-iterator/)|Medium|
@@ -1374,7 +1374,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |1582|[design-browser-history](https://leetcode.com/problems/design-browser-history)|||Medium|
 |1583|[paint-house-iii](https://leetcode.com/problems/paint-house-iii)|||Hard|
 |1584|[average-salary-excluding-the-minimum-and-maximum-salary](https://leetcode.com/problems/average-salary-excluding-the-minimum-and-maximum-salary)|||Easy|
-|1585|[the-kth-factor-of-n](https://leetcode.com/problems/the-kth-factor-of-n)||[:memo:](https://leetcode.com/articles/the-kth-factor-of-n/)|Medium|
+|1585|[the-kth-factor-of-n](https://leetcode.com/problems/the-kth-factor-of-n)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/1585-the-kth-factor-of-n/the-kth-factor-of-n.py)|[:memo:](https://leetcode.com/articles/the-kth-factor-of-n/)|Medium|
 |1586|[longest-subarray-of-1s-after-deleting-one-element](https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element)|||Medium|
 |1587|[parallel-courses-ii](https://leetcode.com/problems/parallel-courses-ii)|||Hard|
 |1603|[running-sum-of-1d-array](https://leetcode.com/problems/running-sum-of-1d-array)|||Easy|
@@ -1470,7 +1470,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |1709|[alert-using-same-key-card-three-or-more-times-in-a-one-hour-period](https://leetcode.com/problems/alert-using-same-key-card-three-or-more-times-in-a-one-hour-period)|||Medium|
 |1710|[find-servers-that-handled-most-number-of-requests](https://leetcode.com/problems/find-servers-that-handled-most-number-of-requests)|||Hard|
 |1711|[find-valid-matrix-given-row-and-column-sums](https://leetcode.com/problems/find-valid-matrix-given-row-and-column-sums)|||Medium|
-|1713|[dot-product-of-two-sparse-vectors](https://leetcode.com/problems/dot-product-of-two-sparse-vectors)|:lock:||Medium|
+|1713|[dot-product-of-two-sparse-vectors](https://leetcode.com/problems/dot-product-of-two-sparse-vectors)|:lock:|[:memo:](https://leetcode.com/articles/dot-product-of-two-sparse-vectors/)|Medium|
 |1714|[rearrange-spaces-between-words](https://leetcode.com/problems/rearrange-spaces-between-words)|||Easy|
 |1715|[split-a-string-into-the-max-number-of-unique-substrings](https://leetcode.com/problems/split-a-string-into-the-max-number-of-unique-substrings)|||Medium|
 |1716|[maximum-non-negative-product-in-a-matrix](https://leetcode.com/problems/maximum-non-negative-product-in-a-matrix)|||Medium|
