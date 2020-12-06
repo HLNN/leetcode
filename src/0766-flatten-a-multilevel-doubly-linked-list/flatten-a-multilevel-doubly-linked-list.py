@@ -78,8 +78,8 @@
 # Constraints:
 #
 #
-# 	Number of Nodes will not exceed 1000.
-# 	1 <= Node.val <= 10^5
+# 	The number of Nodes will not exceed 1000.
+# 	1 <= Node.val <= 105
 #
 #
 
