@@ -29,8 +29,9 @@
 # Constraints:
 #
 #
-# 	1 <= nums.length <= 30000
-# 	 Each integer in nums will appear twice, only two integers will appear once.
+# 	2 <= nums.length <= 3 * 104
+# 	-231 <= nums[i] <= 231 - 1
+# 	Each integer in nums will appear twice, only two integers will appear once.
 #
 #
 
