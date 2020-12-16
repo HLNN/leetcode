@@ -1,7 +1,7 @@
 # :pencil2: Leetcode Solutions with Python3,Cpp
-Update time:  2020-12-15 16:11:30
+Update time:  2020-12-16 16:55:12
 
-I have solved **239   /   1538** problems
+I have solved **240   /   1538** problems
 while there are **241** problems still locked.
 
 If you have any question, please give me an [issue](https://github.com/hlnn/leetcode/issues).
@@ -942,7 +942,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |1016|[subarray-sums-divisible-by-k](https://leetcode.com/problems/subarray-sums-divisible-by-k)||[:memo:](https://leetcode.com/articles/subarray-sums-divisible-by-k/)|Medium|
 |1017|[odd-even-jump](https://leetcode.com/problems/odd-even-jump)||[:memo:](https://leetcode.com/articles/odd-even-jump/)|Hard|
 |1018|[largest-perimeter-triangle](https://leetcode.com/problems/largest-perimeter-triangle)||[:memo:](https://leetcode.com/articles/largest-perimeter-triangle/)|Easy|
-|1019|[squares-of-a-sorted-array](https://leetcode.com/problems/squares-of-a-sorted-array)||[:memo:](https://leetcode.com/articles/squares-of-a-sorted-array/)|Easy|
+|1019|[squares-of-a-sorted-array](https://leetcode.com/problems/squares-of-a-sorted-array)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/1019-squares-of-a-sorted-array/squares-of-a-sorted-array.py)|[:memo:](https://leetcode.com/articles/squares-of-a-sorted-array/)|Easy|
 |1020|[longest-turbulent-subarray](https://leetcode.com/problems/longest-turbulent-subarray)||[:memo:](https://leetcode.com/articles/longest-turbulent-subarray/)|Medium|
 |1021|[distribute-coins-in-binary-tree](https://leetcode.com/problems/distribute-coins-in-binary-tree)||[:memo:](https://leetcode.com/articles/distribute-coins-in-binary-tree/)|Medium|
 |1022|[unique-paths-iii](https://leetcode.com/problems/unique-paths-iii)||[:memo:](https://leetcode.com/articles/unique-paths-iii/)|Hard|
