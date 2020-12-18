@@ -42,7 +42,7 @@
 # Constraints:
 #
 #
-# 	0 <= nums.length <= 3 * 104
+# 	1 <= nums.length <= 3 * 104
 # 	-104 <= nums[i] <= 104
 # 	nums is sorted in ascending order.
 #
