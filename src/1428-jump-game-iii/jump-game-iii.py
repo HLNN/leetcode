@@ -36,9 +36,10 @@
 # Constraints:
 #
 #
-# 	1 <= arr.length <= 5 * 10^4
+# 	1 <= arr.length <= 5 * 104
 # 	0 <= arr[i] < arr.length
 # 	0 <= start < arr.length
+#
 #
 
 

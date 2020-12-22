@@ -1,7 +1,7 @@
 # :pencil2: Leetcode Solutions with Python3,Cpp
-Update time:  2020-12-18 16:30:01
+Update time:  2020-12-22 16:12:10
 
-I have solved **241   /   1539** problems
+I have solved **244   /   1543** problems
 while there are **242** problems still locked.
 
 If you have any question, please give me an [issue](https://github.com/hlnn/leetcode/issues).
@@ -53,7 +53,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |37|[sudoku-solver](https://leetcode.com/problems/sudoku-solver)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0037-sudoku-solver/sudoku-solver.py)|[:memo:](https://leetcode.com/articles/sudoku-solver/)|Hard|
 |38|[count-and-say](https://leetcode.com/problems/count-and-say)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0038-count-and-say/count-and-say.py)|[:memo:](https://leetcode.com/articles/count-and-say/)|Easy|
 |39|[combination-sum](https://leetcode.com/problems/combination-sum)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0039-combination-sum/combination-sum.py)|[:memo:](https://leetcode.com/articles/combination-sum/)|Medium|
-|40|[combination-sum-ii](https://leetcode.com/problems/combination-sum-ii)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0040-combination-sum-ii/combination-sum-ii.py)||Medium|
+|40|[combination-sum-ii](https://leetcode.com/problems/combination-sum-ii)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0040-combination-sum-ii/combination-sum-ii.py)|[:memo:](https://leetcode.com/articles/combination-sum-ii/)|Medium|
 |41|[first-missing-positive](https://leetcode.com/problems/first-missing-positive)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0041-first-missing-positive/first-missing-positive.py)|[:memo:](https://leetcode.com/articles/first-missing-positive/)|Hard|
 |42|[trapping-rain-water](https://leetcode.com/problems/trapping-rain-water)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0042-trapping-rain-water/trapping-rain-water.py)|[:memo:](https://leetcode.com/articles/trapping-rain-water/)|Hard|
 |43|[multiply-strings](https://leetcode.com/problems/multiply-strings)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0043-multiply-strings/multiply-strings.py)||Medium|
@@ -330,7 +330,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |331|[verify-preorder-serialization-of-a-binary-tree](https://leetcode.com/problems/verify-preorder-serialization-of-a-binary-tree)||[:memo:](https://leetcode.com/articles/verify-preorder-serialization-of-a-binary-tree/)|Medium|
 |332|[reconstruct-itinerary](https://leetcode.com/problems/reconstruct-itinerary)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0332-reconstruct-itinerary/reconstruct-itinerary.py)|[:memo:](https://leetcode.com/articles/reconstruct-itinerary/)|Medium|
 |333|[largest-bst-subtree](https://leetcode.com/problems/largest-bst-subtree)|:lock:||Medium|
-|334|[increasing-triplet-subsequence](https://leetcode.com/problems/increasing-triplet-subsequence)||[:memo:](https://leetcode.com/articles/increasing-triplet-subsequence/)|Medium|
+|334|[increasing-triplet-subsequence](https://leetcode.com/problems/increasing-triplet-subsequence)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0334-increasing-triplet-subsequence/increasing-triplet-subsequence.py)|[:memo:](https://leetcode.com/articles/increasing-triplet-subsequence/)|Medium|
 |335|[self-crossing](https://leetcode.com/problems/self-crossing)|||Hard|
 |336|[palindrome-pairs](https://leetcode.com/problems/palindrome-pairs)||[:memo:](https://leetcode.com/articles/palindrome-pairs/)|Hard|
 |337|[house-robber-iii](https://leetcode.com/problems/house-robber-iii)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0337-house-robber-iii/house-robber-iii.py)|[:memo:](https://leetcode.com/articles/house-robber-iii/)|Medium|
@@ -872,9 +872,9 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |941|[sort-array-by-parity](https://leetcode.com/problems/sort-array-by-parity)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0941-sort-array-by-parity/sort-array-by-parity.py)|[:memo:](https://leetcode.com/articles/sort-array-by-parity/)|Easy|
 |942|[super-palindromes](https://leetcode.com/problems/super-palindromes)||[:memo:](https://leetcode.com/articles/super-palindromes/)|Hard|
 |943|[sum-of-subarray-minimums](https://leetcode.com/problems/sum-of-subarray-minimums)||[:memo:](https://leetcode.com/articles/sum-of-subarray-minimums/)|Medium|
-|944|[smallest-range-i](https://leetcode.com/problems/smallest-range-i)||[:memo:](https://leetcode.com/articles/smallest-range-i/)|Easy|
+|944|[smallest-range-i](https://leetcode.com/problems/smallest-range-i)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0944-smallest-range-i/smallest-range-i.py)|[:memo:](https://leetcode.com/articles/smallest-range-i/)|Easy|
 |945|[snakes-and-ladders](https://leetcode.com/problems/snakes-and-ladders)||[:memo:](https://leetcode.com/articles/snakes-and-ladders/)|Medium|
-|946|[smallest-range-ii](https://leetcode.com/problems/smallest-range-ii)||[:memo:](https://leetcode.com/articles/smallest-range-ii/)|Medium|
+|946|[smallest-range-ii](https://leetcode.com/problems/smallest-range-ii)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0946-smallest-range-ii/smallest-range-ii.py)|[:memo:](https://leetcode.com/articles/smallest-range-ii/)|Medium|
 |947|[online-election](https://leetcode.com/problems/online-election)||[:memo:](https://leetcode.com/articles/online-election/)|Medium|
 |948|[sort-an-array](https://leetcode.com/problems/sort-an-array)|||Medium|
 |949|[cat-and-mouse](https://leetcode.com/problems/cat-and-mouse)||[:memo:](https://leetcode.com/articles/cat-and-mouse-game/)|Hard|
@@ -1052,7 +1052,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |1128|[remove-all-adjacent-duplicates-in-string](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string)||[:memo:](https://leetcode.com/articles/remove-all-adjacent-duplicates-in-string/)|Easy|
 |1129|[longest-string-chain](https://leetcode.com/problems/longest-string-chain)|||Medium|
 |1130|[last-stone-weight-ii](https://leetcode.com/problems/last-stone-weight-ii)|||Medium|
-|1131|[count-substrings-with-only-one-distinct-letter](https://leetcode.com/problems/count-substrings-with-only-one-distinct-letter)|:lock:||Easy|
+|1131|[count-substrings-with-only-one-distinct-letter](https://leetcode.com/problems/count-substrings-with-only-one-distinct-letter)|:lock:|[:memo:](https://leetcode.com/articles/count-substrings-with-only-one-distinct-letter/)|Easy|
 |1132|[before-and-after-puzzle](https://leetcode.com/problems/before-and-after-puzzle)|:lock:||Medium|
 |1133|[last-substring-in-lexicographical-order](https://leetcode.com/problems/last-substring-in-lexicographical-order)|||Hard|
 |1134|[shortest-distance-to-target-color](https://leetcode.com/problems/shortest-distance-to-target-color)|:lock:||Medium|
@@ -1550,6 +1550,10 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |1807|[partitioning-into-minimum-number-of-deci-binary-numbers](https://leetcode.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers)||[:memo:](https://leetcode.com/articles/partitioning-into-minimum-number-of-deci-binary-numbers/)|Medium|
 |1808|[stone-game-vii](https://leetcode.com/problems/stone-game-vii)||[:memo:](https://leetcode.com/articles/stone-game-vii/)|Medium|
 |1810|[change-the-root-of-a-binary-tree](https://leetcode.com/problems/change-the-root-of-a-binary-tree)|:lock:||Medium|
+|1812|[reformat-phone-number](https://leetcode.com/problems/reformat-phone-number)|||Easy|
+|1813|[maximum-erasure-value](https://leetcode.com/problems/maximum-erasure-value)||[:memo:](https://leetcode.com/articles/maximum-erasure-value/)|Medium|
+|1814|[jump-game-vi](https://leetcode.com/problems/jump-game-vi)||[:memo:](https://leetcode.com/articles/jump-game-vi/)|Medium|
+|1815|[checking-existence-of-edge-length-limited-paths](https://leetcode.com/problems/checking-existence-of-edge-length-limited-paths)|||Hard|
 |1816|[lowest-common-ancestor-of-a-binary-tree-iv](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree-iv)|:lock:||Medium|
 |1822|[longest-palindromic-subsequence-ii](https://leetcode.com/problems/longest-palindromic-subsequence-ii)|:lock:||Medium|
 |1828|[count-ways-to-distribute-candies](https://leetcode.com/problems/count-ways-to-distribute-candies)|:lock:||Hard|
