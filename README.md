@@ -1,7 +1,7 @@
 # :pencil2: Leetcode Solutions with Python3,Cpp
-Update time:  2020-12-23 16:10:37
+Update time:  2020-12-24 16:10:35
 
-I have solved **245   /   1543** problems
+I have solved **246   /   1543** problems
 while there are **242** problems still locked.
 
 If you have any question, please give me an [issue](https://github.com/hlnn/leetcode/issues).
@@ -484,7 +484,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |493|[reverse-pairs](https://leetcode.com/problems/reverse-pairs)||[:memo:](https://leetcode.com/articles/reverse-pairs/)|Hard|
 |494|[target-sum](https://leetcode.com/problems/target-sum)||[:memo:](https://leetcode.com/articles/target-sum/)|Medium|
 |495|[teemo-attacking](https://leetcode.com/problems/teemo-attacking)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0495-teemo-attacking/teemo-attacking.py)|[:memo:](https://leetcode.com/articles/teemo-attacking/)|Medium|
-|496|[next-greater-element-i](https://leetcode.com/problems/next-greater-element-i)||[:memo:](https://leetcode.com/articles/greater-element-i/)|Easy|
+|496|[next-greater-element-i](https://leetcode.com/problems/next-greater-element-i)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0496-next-greater-element-i/next-greater-element-i.py)|[:memo:](https://leetcode.com/articles/greater-element-i/)|Easy|
 |498|[diagonal-traverse](https://leetcode.com/problems/diagonal-traverse)||[:memo:](https://leetcode.com/articles/diagonal-traverse/)|Medium|
 |499|[the-maze-iii](https://leetcode.com/problems/the-maze-iii)|:lock:||Hard|
 |500|[keyboard-row](https://leetcode.com/problems/keyboard-row)|||Easy|
@@ -1023,7 +1023,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |1097|[stream-of-characters](https://leetcode.com/problems/stream-of-characters)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/1097-stream-of-characters/stream-of-characters.py)|[:memo:](https://leetcode.com/articles/stream-of-characters/)|Hard|
 |1098|[largest-unique-number](https://leetcode.com/problems/largest-unique-number)|:lock:||Easy|
 |1099|[path-with-maximum-minimum-value](https://leetcode.com/problems/path-with-maximum-minimum-value)|:lock:||Medium|
-|1100|[connecting-cities-with-minimum-cost](https://leetcode.com/problems/connecting-cities-with-minimum-cost)|:lock:||Medium|
+|1100|[connecting-cities-with-minimum-cost](https://leetcode.com/problems/connecting-cities-with-minimum-cost)|:lock:|[:memo:](https://leetcode.com/articles/connecting-cities-with-minimum-cost/)|Medium|
 |1101|[parallel-courses](https://leetcode.com/problems/parallel-courses)|:lock:||Hard|
 |1102|[check-if-a-number-is-majority-element-in-a-sorted-array](https://leetcode.com/problems/check-if-a-number-is-majority-element-in-a-sorted-array)|:lock:||Easy|
 |1103|[moving-stones-until-consecutive](https://leetcode.com/problems/moving-stones-until-consecutive)|||Easy|
