@@ -9,21 +9,14 @@
 # Example 1:
 #
 #
-# Input: matrix = [[1,3,5,7],[10,11,16,20],[23,30,34,50]], target = 3
+# Input: matrix = [[1,3,5,7],[10,11,16,20],[23,30,34,60]], target = 3
 # Output: true
 #
 #
 # Example 2:
 #
 #
-# Input: matrix = [[1,3,5,7],[10,11,16,20],[23,30,34,50]], target = 13
-# Output: false
-#
-#
-# Example 3:
-#
-#
-# Input: matrix = [], target = 0
+# Input: matrix = [[1,3,5,7],[10,11,16,20],[23,30,34,60]], target = 13
 # Output: false
 #
 #
@@ -33,7 +26,7 @@
 #
 # 	m == matrix.length
 # 	n == matrix[i].length
-# 	0 <= m, n <= 100
+# 	1 <= m, n <= 100
 # 	-104 <= matrix[i][j], target <= 104
 #
 #

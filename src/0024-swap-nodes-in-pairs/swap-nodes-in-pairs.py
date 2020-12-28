@@ -31,36 +31,23 @@
 # 	The number of nodes in the list is in the range [0, 100].
 # 	0 <= Node.val <= 100
 #
-#
 
 
 # Definition for singly-linked list.
 # class ListNode:
-#     def __init__(self, x):
-#         self.val = x
-#         self.next = None
-
+#     def __init__(self, val=0, next=None):
+#         self.val = val
+#         self.next = next
 class Solution:
-    def swapPairs(self, head):
-        """
-        :type head: ListNode
-        :rtype: ListNode
-        """
-        dummy = ListNode(0)
-        dummy.next = head
-        fast = slow = head = dummy
-        while 1:
-            if not head.next or not head.next.next:
-                return dummy.next
-            else:
-                slow = head.next
-                fast = slow.next
-                
-                head.next = fast
-                head = fast.next
-
-                fast.next = slow
-                slow.next = head
-
-                head = fast = slow
-
+    def swapPairs(self, head: ListNode) -> ListNode:
+        dummy = ListNode()
+        tail = dummy
+        
+        while head and head.next:
+            tail.next, tail = head.next, head
+            head.next.next, head = head, head.next.next
+        
+        tail.next = head
+        
+        return dummy.next
+    
