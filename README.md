@@ -1,7 +1,7 @@
 # :pencil2: Leetcode Solutions with Python3,Cpp
-Update time:  2020-12-29 16:20:09
+Update time:  2020-12-30 16:16:34
 
-I have solved **248   /   1552** problems
+I have solved **249   /   1552** problems
 while there are **243** problems still locked.
 
 If you have any question, please give me an [issue](https://github.com/hlnn/leetcode/issues).
@@ -529,7 +529,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |544|[output-contest-matches](https://leetcode.com/problems/output-contest-matches)|:lock:|[:memo:](https://leetcode.com/articles/output-contest-matches/)|Medium|
 |545|[boundary-of-binary-tree](https://leetcode.com/problems/boundary-of-binary-tree)|:lock:|[:memo:](https://leetcode.com/articles/boundary-of-binary-tree/)|Medium|
 |546|[remove-boxes](https://leetcode.com/problems/remove-boxes)||[:memo:](https://leetcode.com/articles/remove-boxes/)|Hard|
-|547|[friend-circles](https://leetcode.com/problems/friend-circles)||[:memo:](https://leetcode.com/articles/friend-circles/)|Medium|
+|547|[number-of-provinces](https://leetcode.com/problems/number-of-provinces)||[:memo:](https://leetcode.com/articles/friend-circles/)|Medium|
 |548|[split-array-with-equal-sum](https://leetcode.com/problems/split-array-with-equal-sum)|:lock:|[:memo:](https://leetcode.com/articles/split-array-with-equal-sum/)|Medium|
 |549|[binary-tree-longest-consecutive-sequence-ii](https://leetcode.com/problems/binary-tree-longest-consecutive-sequence-ii)|:lock:|[:memo:](https://leetcode.com/articles/binary-tree-longest-consecutive-sequence-ii/)|Medium|
 |551|[student-attendance-record-i](https://leetcode.com/problems/student-attendance-record-i)||[:memo:](https://leetcode.com/articles/student-attendance-record-i/)|Easy|
@@ -1361,7 +1361,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |1563|[maximum-number-of-darts-inside-of-a-circular-dartboard](https://leetcode.com/problems/maximum-number-of-darts-inside-of-a-circular-dartboard)|||Hard|
 |1566|[check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://leetcode.com/problems/check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence)|||Easy|
 |1567|[maximum-number-of-vowels-in-a-substring-of-given-length](https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length)|||Medium|
-|1568|[pseudo-palindromic-paths-in-a-binary-tree](https://leetcode.com/problems/pseudo-palindromic-paths-in-a-binary-tree)||[:memo:](https://leetcode.com/articles/pseudo-palindromic-paths-in-a-binary-tree/)|Medium|
+|1568|[pseudo-palindromic-paths-in-a-binary-tree](https://leetcode.com/problems/pseudo-palindromic-paths-in-a-binary-tree)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/1568-pseudo-palindromic-paths-in-a-binary-tree/pseudo-palindromic-paths-in-a-binary-tree.py)|[:memo:](https://leetcode.com/articles/pseudo-palindromic-paths-in-a-binary-tree/)|Medium|
 |1569|[max-dot-product-of-two-subsequences](https://leetcode.com/problems/max-dot-product-of-two-subsequences)|||Hard|
 |1570|[final-prices-with-a-special-discount-in-a-shop](https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop)|||Easy|
 |1571|[allocate-mailboxes](https://leetcode.com/problems/allocate-mailboxes)|||Hard|
