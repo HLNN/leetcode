@@ -1,7 +1,5 @@
 # Given a linked list, swap every two adjacent nodes and return its head.
 #
-# You may not modify the values in the list's nodes. Only nodes itself may be changed.
-#
 #  
 # Example 1:
 #
@@ -31,6 +29,9 @@
 # 	The number of nodes in the list is in the range [0, 100].
 # 	0 <= Node.val <= 100
 #
+#
+#  
+# Follow up: Can you solve the problem without modifying the values in the list's nodes? (i.e., Only nodes themselves may be changed.)
 
 
 # Definition for singly-linked list.

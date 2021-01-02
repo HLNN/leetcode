@@ -55,8 +55,8 @@
 # Constraints:
 #
 #
-# 	1 <= arr.length <= 5 * 10^4
-# 	-10^8 <= arr[i] <= 10^8
+# 	1 <= arr.length <= 5 * 104
+# 	-108 <= arr[i] <= 108
 #
 #
 

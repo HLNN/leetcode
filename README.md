@@ -1,7 +1,7 @@
 # :pencil2: Leetcode Solutions with Python3,Cpp
-Update time:  2020-12-31 16:16:27
+Update time:  2021-01-02 16:16:46
 
-I have solved **251   /   1553** problems
+I have solved **252   /   1553** problems
 while there are **244** problems still locked.
 
 If you have any question, please give me an [issue](https://github.com/hlnn/leetcode/issues).
@@ -1511,7 +1511,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |1756|[minimum-deletions-to-make-string-balanced](https://leetcode.com/problems/minimum-deletions-to-make-string-balanced)|||Medium|
 |1757|[minimum-jumps-to-reach-home](https://leetcode.com/problems/minimum-jumps-to-reach-home)|||Medium|
 |1758|[distribute-repeating-integers](https://leetcode.com/problems/distribute-repeating-integers)|||Hard|
-|1760|[check-array-formation-through-concatenation](https://leetcode.com/problems/check-array-formation-through-concatenation)||[:memo:](https://leetcode.com/articles/check-array-formation-through-concatenation/)|Easy|
+|1760|[check-array-formation-through-concatenation](https://leetcode.com/problems/check-array-formation-through-concatenation)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/1760-check-array-formation-through-concatenation/check-array-formation-through-concatenation.py)|[:memo:](https://leetcode.com/articles/check-array-formation-through-concatenation/)|Easy|
 |1761|[count-sorted-vowel-strings](https://leetcode.com/problems/count-sorted-vowel-strings)||[:memo:](https://leetcode.com/articles/count-sorted-vowel-strings/)|Medium|
 |1762|[furthest-building-you-can-reach](https://leetcode.com/problems/furthest-building-you-can-reach)||[:memo:](https://leetcode.com/articles/furthest-building-you-can-reach/)|Medium|
 |1764|[maximum-repeating-substring](https://leetcode.com/problems/maximum-repeating-substring)|||Easy|
@@ -1566,4 +1566,4 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |1826|[maximum-xor-with-an-element-from-array](https://leetcode.com/problems/maximum-xor-with-an-element-from-array)|||Hard|
 |1828|[count-ways-to-distribute-candies](https://leetcode.com/problems/count-ways-to-distribute-candies)|:lock:||Hard|
 |1838|[number-of-distinct-substrings-in-a-string](https://leetcode.com/problems/number-of-distinct-substrings-in-a-string)|:lock:||Medium|
-|1847|[largest-subarray-length-k](https://leetcode.com/problems/largest-subarray-length-k)|:lock:||Medium|
+|1847|[largest-subarray-length-k](https://leetcode.com/problems/largest-subarray-length-k)|:lock:||Easy|
