@@ -1,7 +1,7 @@
 # :pencil2: Leetcode Solutions with Python3,Cpp
-Update time:  2021-01-02 16:16:46
+Update time:  2021-01-03 16:16:49
 
-I have solved **252   /   1553** problems
+I have solved **253   /   1557** problems
 while there are **244** problems still locked.
 
 If you have any question, please give me an [issue](https://github.com/hlnn/leetcode/issues).
@@ -1076,7 +1076,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |1157|[insufficient-nodes-in-root-to-leaf-paths](https://leetcode.com/problems/insufficient-nodes-in-root-to-leaf-paths)|||Medium|
 |1159|[smallest-subsequence-of-distinct-characters](https://leetcode.com/problems/smallest-subsequence-of-distinct-characters)|||Medium|
 |1160|[letter-tile-possibilities](https://leetcode.com/problems/letter-tile-possibilities)|||Medium|
-|1164|[missing-number-in-arithmetic-progression](https://leetcode.com/problems/missing-number-in-arithmetic-progression)|:lock:||Easy|
+|1164|[missing-number-in-arithmetic-progression](https://leetcode.com/problems/missing-number-in-arithmetic-progression)|:lock:|[:memo:](https://leetcode.com/articles/missing-number-in-arithmetic-progression/)|Easy|
 |1165|[meeting-scheduler](https://leetcode.com/problems/meeting-scheduler)|:lock:||Medium|
 |1166|[toss-strange-coins](https://leetcode.com/problems/toss-strange-coins)|:lock:||Medium|
 |1167|[minimum-time-to-build-blocks](https://leetcode.com/problems/minimum-time-to-build-blocks)|:lock:||Hard|
@@ -1304,7 +1304,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |1493|[frog-position-after-t-seconds](https://leetcode.com/problems/frog-position-after-t-seconds)|||Hard|
 |1496|[lucky-numbers-in-a-matrix](https://leetcode.com/problems/lucky-numbers-in-a-matrix)|||Easy|
 |1497|[design-a-stack-with-increment-operation](https://leetcode.com/problems/design-a-stack-with-increment-operation)|||Medium|
-|1498|[find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://leetcode.com/problems/find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree)||[:memo:](https://leetcode.com/articles/find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/)|Medium|
+|1498|[find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://leetcode.com/problems/find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree.py)|[:memo:](https://leetcode.com/articles/find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/)|Medium|
 |1499|[maximum-performance-of-a-team](https://leetcode.com/problems/maximum-performance-of-a-team)|||Hard|
 |1500|[count-largest-group](https://leetcode.com/problems/count-largest-group)|||Easy|
 |1501|[circle-and-rectangle-overlapping](https://leetcode.com/problems/circle-and-rectangle-overlapping)|||Medium|
@@ -1565,5 +1565,9 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |1824|[maximum-number-of-eaten-apples](https://leetcode.com/problems/maximum-number-of-eaten-apples)||[:memo:](https://leetcode.com/articles/maximum-number-of-eaten-apples/)|Medium|
 |1826|[maximum-xor-with-an-element-from-array](https://leetcode.com/problems/maximum-xor-with-an-element-from-array)|||Hard|
 |1828|[count-ways-to-distribute-candies](https://leetcode.com/problems/count-ways-to-distribute-candies)|:lock:||Hard|
+|1829|[maximum-units-on-a-truck](https://leetcode.com/problems/maximum-units-on-a-truck)||[:memo:](https://leetcode.com/articles/maximum-units-on-a-truck/)|Easy|
+|1830|[count-good-meals](https://leetcode.com/problems/count-good-meals)|||Medium|
+|1831|[ways-to-split-array-into-three-subarrays](https://leetcode.com/problems/ways-to-split-array-into-three-subarrays)||[:memo:](https://leetcode.com/articles/ways-to-split-array-into-three-subarrays/)|Medium|
+|1832|[minimum-operations-to-make-a-subsequence](https://leetcode.com/problems/minimum-operations-to-make-a-subsequence)|||Hard|
 |1838|[number-of-distinct-substrings-in-a-string](https://leetcode.com/problems/number-of-distinct-substrings-in-a-string)|:lock:||Medium|
 |1847|[largest-subarray-length-k](https://leetcode.com/problems/largest-subarray-length-k)|:lock:||Easy|
