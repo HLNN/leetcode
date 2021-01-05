@@ -1,4 +1,4 @@
-# You are given an integer array nums sorted in ascending order, and an integer target.
+# You are given an integer array nums sorted in ascending order (with distinct values), and an integer target.
 #
 # Suppose that nums is rotated at some pivot unknown to you beforehand (i.e., [0,1,2,4,5,6,7] might become [4,5,6,7,0,1,2]).
 #
@@ -20,10 +20,10 @@
 #
 #
 # 	1 <= nums.length <= 5000
-# 	-10^4 <= nums[i] <= 10^4
+# 	-104 <= nums[i] <= 104
 # 	All values of nums are unique.
-# 	nums is guranteed to be rotated at some pivot.
-# 	-10^4 <= target <= 10^4
+# 	nums is guaranteed to be rotated at some pivot.
+# 	-104 <= target <= 104
 #
 #
 

@@ -1,7 +1,7 @@
 # :pencil2: Leetcode Solutions with Python3,Cpp
-Update time:  2021-01-04 16:16:31
+Update time:  2021-01-05 16:16:54
 
-I have solved **254   /   1557** problems
+I have solved **257   /   1557** problems
 while there are **244** problems still locked.
 
 If you have any question, please give me an [issue](https://github.com/hlnn/leetcode/issues).
@@ -114,11 +114,11 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |98|[validate-binary-search-tree](https://leetcode.com/problems/validate-binary-search-tree)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0098-validate-binary-search-tree/validate-binary-search-tree.py)|[:memo:](https://leetcode.com/articles/validate-binary-search-tree/)|Medium|
 |99|[recover-binary-search-tree](https://leetcode.com/problems/recover-binary-search-tree)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0099-recover-binary-search-tree/recover-binary-search-tree.py)|[:memo:](https://leetcode.com/articles/recover-binary-search-tree/)|Hard|
 |100|[same-tree](https://leetcode.com/problems/same-tree)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0100-same-tree/same-tree.py)|[:memo:](https://leetcode.com/articles/same-tree/)|Easy|
-|101|[symmetric-tree](https://leetcode.com/problems/symmetric-tree)||[:memo:](https://leetcode.com/articles/symmetric-tree/)|Easy|
-|102|[binary-tree-level-order-traversal](https://leetcode.com/problems/binary-tree-level-order-traversal)||[:memo:](https://leetcode.com/articles/binary-tree-level-order-traversal/)|Medium|
+|101|[symmetric-tree](https://leetcode.com/problems/symmetric-tree)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0101-symmetric-tree/symmetric-tree.py)|[:memo:](https://leetcode.com/articles/symmetric-tree/)|Easy|
+|102|[binary-tree-level-order-traversal](https://leetcode.com/problems/binary-tree-level-order-traversal)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0102-binary-tree-level-order-traversal/binary-tree-level-order-traversal.py)|[:memo:](https://leetcode.com/articles/binary-tree-level-order-traversal/)|Medium|
 |103|[binary-tree-zigzag-level-order-traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0103-binary-tree-zigzag-level-order-traversal/binary-tree-zigzag-level-order-traversal.py)|[:memo:](https://leetcode.com/articles/binary-tree-zigzag-level-order-traversal/)|Medium|
 |104|[maximum-depth-of-binary-tree](https://leetcode.com/problems/maximum-depth-of-binary-tree)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0104-maximum-depth-of-binary-tree/maximum-depth-of-binary-tree.py)|[:memo:](https://leetcode.com/articles/maximum-depth-of-binary-tree/)|Easy|
-|105|[construct-binary-tree-from-preorder-and-inorder-traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal)||[:memo:](https://leetcode.com/articles/construct-binary-tree-from-preorder-and-inorder-traversal/)|Medium|
+|105|[construct-binary-tree-from-preorder-and-inorder-traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0105-construct-binary-tree-from-preorder-and-inorder-traversal/construct-binary-tree-from-preorder-and-inorder-traversal.py)|[:memo:](https://leetcode.com/articles/construct-binary-tree-from-preorder-and-inorder-traversal/)|Medium|
 |106|[construct-binary-tree-from-inorder-and-postorder-traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal)||[:memo:](https://leetcode.com/articles/construct-binary-tree-from-inorder-and-postorder-traversal/)|Medium|
 |107|[binary-tree-level-order-traversal-ii](https://leetcode.com/problems/binary-tree-level-order-traversal-ii)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0107-binary-tree-level-order-traversal-ii/binary-tree-level-order-traversal-ii.py)|[:memo:](https://leetcode.com/articles/binary-tree-level-order-traversal-ii/)|Easy|
 |108|[convert-sorted-array-to-binary-search-tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree)||[:memo:](https://leetcode.com/articles/convert-sorted-array-to-bst/)|Easy|

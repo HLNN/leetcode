@@ -34,8 +34,8 @@
 # Constraints:
 #
 #
-# 	The given binary tree will have between 1 and 10^5 nodes.
-# 	Node values are digits from 1 to 9.
+# 	The number of nodes in the tree is in the range [1, 105].
+# 	1 <= Node.val <= 9
 #
 #
 
