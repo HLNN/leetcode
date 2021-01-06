@@ -28,14 +28,25 @@
 #         self.right = right
 class Solution:
     def buildTree(self, preorder: List[int], inorder: List[int]) -> TreeNode:
-        if not preorder: return None
-        root = TreeNode(preorder[0])
+#         if not preorder: return None
+#         root = TreeNode(preorder[0])
         
-        index = inorder.index(preorder[0])
-        left, right = inorder[:index], inorder[index + 1:]
+#         index = inorder.index(preorder[0])
+#         left, right = inorder[:index], inorder[index + 1:]
         
-        if left: root.left = self.buildTree(preorder[1:len(left) + 1], left)
-        if right: root.right = self.buildTree(preorder[-len(right):], right)
+#         if left: root.left = self.buildTree(preorder[1:len(left) + 1], left)
+#         if right: root.right = self.buildTree(preorder[-len(right):], right)
         
-        return root
+#         return root
+    
+        def build(stop):
+            if inorder and inorder[-1] != stop:
+                root = TreeNode(preorder.pop())
+                root.left = build(root.val)
+                inorder.pop()
+                root.right = build(stop)
+                return root
+        preorder.reverse()
+        inorder.reverse()
+        return build(None)
     

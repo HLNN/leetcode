@@ -28,25 +28,22 @@
 
 # Definition for singly-linked list.
 # class ListNode:
-#     def __init__(self, x):
-#         self.val = x
-#         self.next = None
-
+#     def __init__(self, val=0, next=None):
+#         self.val = val
+#         self.next = next
 class Solution:
-    def deleteDuplicates(self, head):
-        """
-        :type head: ListNode
-        :rtype: ListNode
-        """
-        last = dummy = ListNode(0)
+    def deleteDuplicates(self, head: ListNode) -> ListNode:
+        dummy = curr = ListNode()
+        
         while head and head.next:
-            if head.val == head.next.val:
+            if head.val != head.next.val:
+                curr.next, curr, head = head, head, head.next
+            else:
                 val = head.val
                 while head and head.val == val:
                     head = head.next
-            else:
-                last.next = head
-                last = last.next
-                head = head.next
-        last.next = head
+        
+        curr.next = head
+        
         return dummy.next
+    
