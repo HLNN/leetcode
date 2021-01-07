@@ -1,7 +1,7 @@
 # :pencil2: Leetcode Solutions with Python3,Cpp
-Update time:  2021-01-06 16:16:50
+Update time:  2021-01-07 16:16:23
 
-I have solved **259   /   1557** problems
+I have solved **260   /   1557** problems
 while there are **244** problems still locked.
 
 If you have any question, please give me an [issue](https://github.com/hlnn/leetcode/issues).
@@ -1414,7 +1414,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |1643|[number-of-nodes-in-the-sub-tree-with-the-same-label](https://leetcode.com/problems/number-of-nodes-in-the-sub-tree-with-the-same-label)|||Medium|
 |1644|[maximum-number-of-non-overlapping-substrings](https://leetcode.com/problems/maximum-number-of-non-overlapping-substrings)|||Hard|
 |1645|[find-a-value-of-a-mysterious-function-closest-to-target](https://leetcode.com/problems/find-a-value-of-a-mysterious-function-closest-to-target)|||Hard|
-|1646|[kth-missing-positive-number](https://leetcode.com/problems/kth-missing-positive-number)||[:memo:](https://leetcode.com/articles/kth-missing-positive-number/)|Easy|
+|1646|[kth-missing-positive-number](https://leetcode.com/problems/kth-missing-positive-number)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/1646-kth-missing-positive-number/kth-missing-positive-number.py)|[:memo:](https://leetcode.com/articles/kth-missing-positive-number/)|Easy|
 |1647|[can-convert-string-in-k-moves](https://leetcode.com/problems/can-convert-string-in-k-moves)|||Medium|
 |1648|[minimum-insertions-to-balance-a-parentheses-string](https://leetcode.com/problems/minimum-insertions-to-balance-a-parentheses-string)|||Medium|
 |1649|[maximum-number-of-non-overlapping-subarrays-with-sum-equals-target](https://leetcode.com/problems/maximum-number-of-non-overlapping-subarrays-with-sum-equals-target)|||Medium|
