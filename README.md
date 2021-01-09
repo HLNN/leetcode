@@ -1,8 +1,8 @@
 # :pencil2: Leetcode Solutions with Python3,Cpp
-Update time:  2021-01-07 16:16:23
+Update time:  2021-01-09 16:16:43
 
-I have solved **260   /   1557** problems
-while there are **244** problems still locked.
+I have solved **261   /   1558** problems
+while there are **245** problems still locked.
 
 If you have any question, please give me an [issue](https://github.com/hlnn/leetcode/issues).
 
@@ -497,7 +497,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |507|[perfect-number](https://leetcode.com/problems/perfect-number)||[:memo:](https://leetcode.com/articles/perfect-number/)|Easy|
 |508|[most-frequent-subtree-sum](https://leetcode.com/problems/most-frequent-subtree-sum)|||Medium|
 |509|[inorder-successor-in-bst-ii](https://leetcode.com/problems/inorder-successor-in-bst-ii)|:lock:|[:memo:](https://leetcode.com/articles/inorder-successor-in-a-bst-ii/)|Medium|
-|511|[all-paths-from-source-lead-to-destination](https://leetcode.com/problems/all-paths-from-source-lead-to-destination)|:lock:||Medium|
+|511|[all-paths-from-source-lead-to-destination](https://leetcode.com/problems/all-paths-from-source-lead-to-destination)|:lock:|[:memo:](https://leetcode.com/articles/all-paths-from-source-lead-to-destination/)|Medium|
 |513|[find-bottom-left-tree-value](https://leetcode.com/problems/find-bottom-left-tree-value)|||Medium|
 |514|[freedom-trail](https://leetcode.com/problems/freedom-trail)|||Hard|
 |515|[find-largest-value-in-each-tree-row](https://leetcode.com/problems/find-largest-value-in-each-tree-row)|||Medium|
@@ -1529,7 +1529,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |1777|[determine-if-two-strings-are-close](https://leetcode.com/problems/determine-if-two-strings-are-close)||[:memo:](https://leetcode.com/articles/determine-if-two-strings-are-close/)|Medium|
 |1778|[maximize-grid-happiness](https://leetcode.com/problems/maximize-grid-happiness)|||Hard|
 |1780|[lowest-common-ancestor-of-a-binary-tree-ii](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree-ii)|:lock:||Medium|
-|1781|[check-if-two-string-arrays-are-equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent)||[:memo:](https://leetcode.com/articles/check-if-two-string-arrays-are-equivalent/)|Easy|
+|1781|[check-if-two-string-arrays-are-equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/1781-check-if-two-string-arrays-are-equivalent/check-if-two-string-arrays-are-equivalent.py)|[:memo:](https://leetcode.com/articles/check-if-two-string-arrays-are-equivalent/)|Easy|
 |1782|[smallest-string-with-a-given-numeric-value](https://leetcode.com/problems/smallest-string-with-a-given-numeric-value)||[:memo:](https://leetcode.com/articles/smallest-string-with-a-given-numeric-value/)|Medium|
 |1783|[ways-to-make-a-fair-array](https://leetcode.com/problems/ways-to-make-a-fair-array)|||Medium|
 |1784|[minimum-initial-energy-to-finish-tasks](https://leetcode.com/problems/minimum-initial-energy-to-finish-tasks)|||Hard|
@@ -1554,6 +1554,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |1806|[count-of-matches-in-tournament](https://leetcode.com/problems/count-of-matches-in-tournament)|||Easy|
 |1807|[partitioning-into-minimum-number-of-deci-binary-numbers](https://leetcode.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers)||[:memo:](https://leetcode.com/articles/partitioning-into-minimum-number-of-deci-binary-numbers/)|Medium|
 |1808|[stone-game-vii](https://leetcode.com/problems/stone-game-vii)||[:memo:](https://leetcode.com/articles/stone-game-vii/)|Medium|
+|1809|[sum-of-special-evenly-spaced-elements-in-array](https://leetcode.com/problems/sum-of-special-evenly-spaced-elements-in-array)|:lock:||Hard|
 |1810|[change-the-root-of-a-binary-tree](https://leetcode.com/problems/change-the-root-of-a-binary-tree)|:lock:||Medium|
 |1812|[reformat-phone-number](https://leetcode.com/problems/reformat-phone-number)|||Easy|
 |1813|[maximum-erasure-value](https://leetcode.com/problems/maximum-erasure-value)||[:memo:](https://leetcode.com/articles/maximum-erasure-value/)|Medium|
