@@ -1,6 +1,6 @@
-# Determine whether an integer is a palindrome. An integer is a palindrome when it reads the same backward as forward.
+# Given an integer x, return true if x is palindrome integer.
 #
-# Follow up: Could you solve it without converting the integer to a string?
+# An integer is a palindrome when it reads the same backward as forward. For example, 121 is palindrome while 123 is not.
 #
 #  
 # Example 1:
@@ -40,6 +40,8 @@
 # 	-231 <= x <= 231 - 1
 #
 #
+#  
+# Follow up: Could you solve it without converting the integer to a string?
 
 
 class Solution:

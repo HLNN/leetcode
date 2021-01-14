@@ -1,29 +1,31 @@
-# Given the root node of a binary search tree (BST) and a value. You need to find the node in the BST that the node's value equals the given value. Return the subtree rooted with that node. If such node doesn't exist, you should return NULL.
+# You are given the root of a binary search tree (BST) and an integer val.
 #
-# For example, 
+# Find the node in the BST that the node's value equals val and return the subtree rooted with that node. If such a node does not exist, return null.
 #
-#
-# Given the tree:
-#         4
-#        / \
-#       2   7
-#      / \
-#     1   3
-#
-# And the value to search: 2
+#  
+# Example 1:
 #
 #
-# You should return this subtree:
+# Input: root = [4,2,7,1,3], val = 2
+# Output: [2,1,3]
 #
 #
-#       2     
-#      / \   
-#     1   3
+# Example 2:
 #
 #
-# In the example above, if we want to search the value 5, since there is no node with value 5, we should return NULL.
+# Input: root = [4,2,7,1,3], val = 5
+# Output: []
 #
-# Note that an empty tree is represented by NULL, therefore you would see the expected output (serialized tree format) as [], not null.
+#
+#  
+# Constraints:
+#
+#
+# 	The number of nodes in the tree is in the range [1, 5000].
+# 	1 <= Node.val <= 107
+# 	root is a binary search tree.
+# 	1 <= val <= 107
+#
 #
 
 

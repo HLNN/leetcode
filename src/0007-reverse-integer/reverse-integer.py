@@ -1,6 +1,6 @@
-# Given a 32-bit signed integer, reverse digits of an integer.
+# Given a signed 32-bit integer x, return x with its digits reversed. If reversing x causes the value to go outside the signed 32-bit integer range [-231, 231 - 1], then return 0.
 #
-# Note: Assume we are dealing with an environment that could only store integers within the 32-bit signed integer range: [−231,  231 − 1]. For this problem, assume that your function returns 0 when the reversed integer overflows.
+# Assume the environment does not allow you to store 64-bit integers (signed or unsigned).
 #
 #  
 # Example 1:

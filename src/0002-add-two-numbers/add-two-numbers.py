@@ -50,37 +50,25 @@ class Solution:
         """
         
         carry = 0
-        x = l1.val
-        y = l2.val
-        a = ListNode((x + y) % 10)
-        pre = a
-        carry = (x + y) // 10
-        l1 = l1.next
-        l2 = l2.next
+        dummy = curr = ListNode()
         
-        while l1 != None or l2 != None:
-            if l1 != None:
-                x = l1.val
-            else:
-                x = 0
-            if l2 != None:
-                y = l2.val
-            else:
-                y = 0
-                
-            l = ListNode((x + y + carry) % 10)
-            carry = (x + y + carry) // 10
-            pre.next = l
-            pre = l
+        while l1 and l2:
+            carry, val = divmod(l1.val + l2.val + carry, 10)
+            curr.next = ListNode(val)
             
-            if l1 != None:
-                l1 = l1.next
-            if l2 != None:
-                l2 = l2.next
-                
-        if carry:
-            l = ListNode(carry)
-            pre.next = l
-            
-        return a
+            curr, l1, l2 = curr.next, l1.next, l2.next
         
+        while carry:
+            if not l1 and not l2:
+                curr.next = ListNode(carry)
+                return dummy.next
+            else:
+                if not l1: l1, l2 = l2, l1
+                carry, val = divmod(l1.val + carry, 10)
+                curr.next = ListNode(val)
+                curr, l1 = curr.next, l1.next
+        
+        curr.next = l1 or l2
+            
+        return dummy.next
+    
