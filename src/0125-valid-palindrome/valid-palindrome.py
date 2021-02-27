@@ -1,25 +1,27 @@
-# Given a string, determine if it is a palindrome, considering only alphanumeric characters and ignoring cases.
+# Given a string s, determine if it is a palindrome, considering only alphanumeric characters and ignoring cases.
 #
-# Note: For the purpose of this problem, we define empty string as valid palindrome.
-#
+#  
 # Example 1:
 #
 #
-# Input: "A man, a plan, a canal: Panama"
+# Input: s = "A man, a plan, a canal: Panama"
 # Output: true
+# Explanation: "amanaplanacanalpanama" is a palindrome.
 #
 #
 # Example 2:
 #
 #
-# Input: "race a car"
+# Input: s = "race a car"
 # Output: false
+# Explanation: "raceacar" is not a palindrome.
 #
 #
 #  
 # Constraints:
 #
 #
+# 	1 <= s.length <= 2 * 105
 # 	s consists only of printable ASCII characters.
 #
 #

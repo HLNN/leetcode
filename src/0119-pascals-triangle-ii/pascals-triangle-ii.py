@@ -1,13 +1,6 @@
-# Given an integer rowIndex, return the rowIndexth row of the Pascal's triangle.
+# Given an integer rowIndex, return the rowIndexth (0-indexed) row of the Pascal's triangle.
 #
-# Notice that the row index starts from 0.
-#
-#
-# In Pascal's triangle, each number is the sum of the two numbers directly above it.
-#
-# Follow up:
-#
-# Could you optimize your algorithm to use only O(k) extra space?
+# In Pascal's triangle, each number is the sum of the two numbers directly above it as shown:
 #
 #  
 # Example 1:
@@ -24,8 +17,11 @@
 # Constraints:
 #
 #
-# 	0 <= rowIndex <= 33
+# 	0 <= rowIndex <= 33
 #
+#
+#  
+# Follow up: Could you optimize your algorithm to use only O(rowIndex) extra space?
 #
 
 

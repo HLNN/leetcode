@@ -11,7 +11,7 @@
 # Explanation: 
 # Tilt of node 2 : |0-0| = 0 (no children)
 # Tilt of node 3 : |0-0| = 0 (no children)
-# Tile of node 1 : |2-3| = 1 (left subtree is just left child, so sum is 2; right subtree is just right child, so sum is 3)
+# Tilt of node 1 : |2-3| = 1 (left subtree is just left child, so sum is 2; right subtree is just right child, so sum is 3)
 # Sum of every tilt : 0 + 0 + 1 = 1
 #
 #
@@ -43,6 +43,7 @@
 #
 # 	The number of nodes in the tree is in the range [0, 104].
 # 	-1000 <= Node.val <= 1000
+#
 #
 
 

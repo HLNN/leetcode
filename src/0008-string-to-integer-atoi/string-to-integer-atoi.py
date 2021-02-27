@@ -22,7 +22,7 @@
 # Example 1:
 #
 #
-# Input: str = "42"
+# Input: s = "42"
 # Output: 42
 # Explanation: The underlined characters are what is read in, the caret is the current reader position.
 # Step 1: "42" (no characters read because there is no leading whitespace)
@@ -38,7 +38,7 @@
 # Example 2:
 #
 #
-# Input: str = "   -42"
+# Input: s = "   -42"
 # Output: -42
 # Explanation:
 # Step 1: "   -42" (leading whitespace is read and ignored)
@@ -54,7 +54,7 @@
 # Example 3:
 #
 #
-# Input: str = "4193 with words"
+# Input: s = "4193 with words"
 # Output: 4193
 # Explanation:
 # Step 1: "4193 with words" (no characters read because there is no leading whitespace)
@@ -70,7 +70,7 @@
 # Example 4:
 #
 #
-# Input: str = "words and 987"
+# Input: s = "words and 987"
 # Output: 0
 # Explanation:
 # Step 1: "words and 987" (no characters read because there is no leading whitespace)
@@ -80,13 +80,13 @@
 # Step 3: "words and 987" (reading stops immediately because there is a non-digit 'w')
 #          ^
 # The parsed integer is 0 because no digits were read.
-# Since 0 is in the range [-231, 231 - 1], the final result is 4193.
+# Since 0 is in the range [-231, 231 - 1], the final result is 0.
 #
 #
 # Example 5:
 #
 #
-# Input: str = "-91283472332"
+# Input: s = "-91283472332"
 # Output: -2147483648
 # Explanation:
 # Step 1: "-91283472332" (no characters read because there is no leading whitespace)

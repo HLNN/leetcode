@@ -1,28 +1,32 @@
-# Given a 2D board containing 'X' and 'O' (the letter O), capture all regions surrounded by 'X'.
+# Given an m x n matrix board containing 'X' and 'O', capture all regions surrounded by 'X'.
 #
 # A region is captured by flipping all 'O's into 'X's in that surrounded region.
 #
-# Example:
+#  
+# Example 1:
 #
 #
-# X X X X
-# X O O X
-# X X O X
-# X O X X
+# Input: board = [["X","X","X","X"],["X","O","O","X"],["X","X","O","X"],["X","O","X","X"]]
+# Output: [["X","X","X","X"],["X","X","X","X"],["X","X","X","X"],["X","O","X","X"]]
+# Explanation: Surrounded regions should not be on the border, which means that any 'O' on the border of the board are not flipped to 'X'. Any 'O' that is not on the border and it is not connected to an 'O' on the border will be flipped to 'X'. Two cells are connected if they are adjacent cells connected horizontally or vertically.
 #
 #
-# After running your function, the board should be:
+# Example 2:
 #
 #
-# X X X X
-# X X X X
-# X X X X
-# X O X X
+# Input: board = [["X"]]
+# Output: [["X"]]
 #
 #
-# Explanation:
+#  
+# Constraints:
 #
-# Surrounded regions shouldn’t be on the border, which means that any 'O' on the border of the board are not flipped to 'X'. Any 'O' that is not on the border and it is not connected to an 'O' on the border will be flipped to 'X'. Two cells are connected if they are adjacent cells connected horizontally or vertically.
+#
+# 	m == board.length
+# 	n == board[i].length
+# 	1 <= m, n <= 200
+# 	board[i][j] is 'X' or 'O'.
+#
 #
 
 

@@ -1,8 +1,8 @@
-# You are given an integer array nums sorted in ascending order (with distinct values), and an integer target.
+# There is an integer array nums sorted in ascending order (with distinct values).
 #
-# Suppose that nums is rotated at some pivot unknown to you beforehand (i.e., [0,1,2,4,5,6,7] might become [4,5,6,7,0,1,2]).
+# Prior to being passed to your function, nums is rotated at an unknown pivot index k (0 <= k < nums.length) such that the resulting array is [nums[k], nums[k+1], ..., nums[n-1], nums[0], nums[1], ..., nums[k-1]] (0-indexed). For example, [0,1,2,4,5,6,7] might be rotated at pivot index 3 and become [4,5,6,7,0,1,2].
 #
-# If target is found in the array return its index, otherwise, return -1.
+# Given the array nums after the rotation and an integer target, return the index of target if it is in nums, or -1 if it is not in nums.
 #
 #  
 # Example 1:
@@ -26,6 +26,8 @@
 # 	-104 <= target <= 104
 #
 #
+#  
+# Follow up: Can you achieve this in O(log n) time complexity?
 
 
 class Solution:

@@ -1,37 +1,44 @@
-# Design a HashSet without using any built-in hash table libraries.
+# Design a HashSet without using any built-in hash table libraries.
 #
-# To be specific, your design should include these functions:
-#
-#
-# 	add(value): Insert a value into the HashSet. 
-# 	contains(value) : Return whether the value exists in the HashSet or not.
-# 	remove(value): Remove a value in the HashSet. If the value does not exist in the HashSet, do nothing.
+# Implement MyHashSet class:
 #
 #
-#
-# Example:
-#
-#
-# MyHashSet hashSet = new MyHashSet();
-# hashSet.add(1);         
-# hashSet.add(2);         
-# hashSet.contains(1);    // returns true
-# hashSet.contains(3);    // returns false (not found)
-# hashSet.add(2);          
-# hashSet.contains(2);    // returns true
-# hashSet.remove(2);          
-# hashSet.contains(2);    // returns false (already removed)
+# 	void add(key) Inserts the value key into the HashSet.
+# 	bool contains(key) Returns whether the value key exists in the HashSet or not.
+# 	void remove(key) Removes the value key in the HashSet. If key does not exist in the HashSet, do nothing.
 #
 #
-#
-# Note:
-#
-#
-# 	All values will be in the range of [0, 1000000].
-# 	The number of operations will be in the range of [1, 10000].
-# 	Please do not use the built-in HashSet library.
+#  
+# Example 1:
 #
 #
+# Input
+# ["MyHashSet", "add", "add", "contains", "contains", "add", "contains", "remove", "contains"]
+# [[], [1], [2], [1], [3], [2], [2], [2], [2]]
+# Output
+# [null, null, null, true, false, null, true, null, false]
+#
+# Explanation
+# MyHashSet myHashSet = new MyHashSet();
+# myHashSet.add(1);      // set = [1]
+# myHashSet.add(2);      // set = [1, 2]
+# myHashSet.contains(1); // return True
+# myHashSet.contains(3); // return False, (not found)
+# myHashSet.add(2);      // set = [1, 2]
+# myHashSet.contains(2); // return True
+# myHashSet.remove(2);   // set = [1]
+# myHashSet.contains(2); // return False, (already removed)
+#
+#  
+# Constraints:
+#
+#
+# 	0 <= key <= 106
+# 	At most 104 calls will be made to add, remove, and contains.
+#
+#
+#  
+# Follow up: Could you solve the problem without using the built-in HashSet library?
 
 
 class MyHashSet:

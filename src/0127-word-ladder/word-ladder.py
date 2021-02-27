@@ -30,7 +30,7 @@
 # Constraints:
 #
 #
-# 	1 <= beginWord.length <= 100
+# 	1 <= beginWord.length <= 10
 # 	endWord.length == beginWord.length
 # 	1 <= wordList.length <= 5000
 # 	wordList[i].length == beginWord.length
