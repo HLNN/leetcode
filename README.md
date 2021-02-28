@@ -1,7 +1,7 @@
 # :pencil2: Leetcode Solutions with Python3,Cpp
-Update time:  2021-02-27 18:18:16
+Update time:  2021-02-28 15:13:41
 
-I have solved **267   /   1609** problems
+I have solved **269   /   1613** problems
 while there are **252** problems still locked.
 
 If you have any question, please give me an [issue](https://github.com/hlnn/leetcode/issues).
@@ -1620,6 +1620,10 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |1895|[minimum-number-of-operations-to-move-all-balls-to-each-box](https://leetcode.com/problems/minimum-number-of-operations-to-move-all-balls-to-each-box)|||Medium|
 |1896|[maximum-score-from-performing-multiplication-operations](https://leetcode.com/problems/maximum-score-from-performing-multiplication-operations)|||Medium|
 |1897|[maximize-palindrome-length-from-subsequences](https://leetcode.com/problems/maximize-palindrome-length-from-subsequences)|||Hard|
+|1899|[count-items-matching-a-rule](https://leetcode.com/problems/count-items-matching-a-rule)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/1899-count-items-matching-a-rule/count-items-matching-a-rule.py)||Easy|
+|1900|[closest-dessert-cost](https://leetcode.com/problems/closest-dessert-cost)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/1900-closest-dessert-cost/closest-dessert-cost.py)||Medium|
+|1901|[equal-sum-arrays-with-minimum-number-of-operations](https://leetcode.com/problems/equal-sum-arrays-with-minimum-number-of-operations)|||Medium|
+|1902|[car-fleet-ii](https://leetcode.com/problems/car-fleet-ii)|||Hard|
 |1903|[design-most-recently-used-queue](https://leetcode.com/problems/design-most-recently-used-queue)|:lock:||Medium|
 |1909|[buildings-with-an-ocean-view](https://leetcode.com/problems/buildings-with-an-ocean-view)|:lock:||Medium|
 |1919|[sort-features-by-popularity](https://leetcode.com/problems/sort-features-by-popularity)|:lock:||Medium|
