@@ -1,7 +1,7 @@
 # :pencil2: Leetcode Solutions with Python3,Cpp
-Update time:  2021-03-03 15:13:52
+Update time:  2021-03-04 15:13:43
 
-I have solved **272   /   1613** problems
+I have solved **273   /   1613** problems
 while there are **252** problems still locked.
 
 If you have any question, please give me an [issue](https://github.com/hlnn/leetcode/issues).
@@ -264,7 +264,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |265|[paint-house-ii](https://leetcode.com/problems/paint-house-ii)|:lock:|[:memo:](https://leetcode.com/articles/paint-house-ii/)|Hard|
 |266|[palindrome-permutation](https://leetcode.com/problems/palindrome-permutation)|:lock:|[:memo:](https://leetcode.com/articles/palindrome-permutation/)|Easy|
 |267|[palindrome-permutation-ii](https://leetcode.com/problems/palindrome-permutation-ii)|:lock:|[:memo:](https://leetcode.com/articles/palindrome-permutation-ii/)|Medium|
-|268|[missing-number](https://leetcode.com/problems/missing-number)||[:memo:](https://leetcode.com/articles/missing-number/)|Easy|
+|268|[missing-number](https://leetcode.com/problems/missing-number)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0268-missing-number/missing-number.py)|[:memo:](https://leetcode.com/articles/missing-number/)|Easy|
 |269|[alien-dictionary](https://leetcode.com/problems/alien-dictionary)|:lock:|[:memo:](https://leetcode.com/articles/alien-dictionary/)|Hard|
 |270|[closest-binary-search-tree-value](https://leetcode.com/problems/closest-binary-search-tree-value)|:lock:|[:memo:](https://leetcode.com/articles/closest-bst-value/)|Easy|
 |271|[encode-and-decode-strings](https://leetcode.com/problems/encode-and-decode-strings)|:lock:|[:memo:](https://leetcode.com/articles/encode-and-decode-strings/)|Medium|
