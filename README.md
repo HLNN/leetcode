@@ -1,7 +1,7 @@
 # :pencil2: Leetcode Solutions with Python3,Cpp
-Update time:  2021-03-06 15:13:47
+Update time:  2021-03-07 15:14:45
 
-I have solved **275   /   1614** problems
+I have solved **276   /   1622** problems
 while there are **253** problems still locked.
 
 If you have any question, please give me an [issue](https://github.com/hlnn/leetcode/issues).
@@ -776,7 +776,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |836|[race-car](https://leetcode.com/problems/race-car)||[:memo:](https://leetcode.com/articles/race-car/)|Hard|
 |837|[most-common-word](https://leetcode.com/problems/most-common-word)||[:memo:](https://leetcode.com/articles/most-common-word/)|Easy|
 |838|[design-linked-list](https://leetcode.com/problems/design-linked-list)||[:memo:](https://leetcode.com/articles/design-linked-list/)|Medium|
-|839|[short-encoding-of-words](https://leetcode.com/problems/short-encoding-of-words)||[:memo:](https://leetcode.com/articles/short-encoding-of-words/)|Medium|
+|839|[short-encoding-of-words](https://leetcode.com/problems/short-encoding-of-words)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0839-short-encoding-of-words/short-encoding-of-words.py)|[:memo:](https://leetcode.com/articles/short-encoding-of-words/)|Medium|
 |841|[shortest-distance-to-a-character](https://leetcode.com/problems/shortest-distance-to-a-character)||[:memo:](https://leetcode.com/articles/shortest-distance-to-a-character/)|Easy|
 |842|[card-flipping-game](https://leetcode.com/problems/card-flipping-game)||[:memo:](https://leetcode.com/articles/card-flipping-game/)|Medium|
 |843|[binary-trees-with-factors](https://leetcode.com/problems/binary-trees-with-factors)||[:memo:](https://leetcode.com/articles/binary-trees-with-factors/)|Medium|
@@ -1615,6 +1615,10 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |1885|[count-number-of-homogenous-substrings](https://leetcode.com/problems/count-number-of-homogenous-substrings)|||Medium|
 |1886|[minimum-limit-of-balls-in-a-bag](https://leetcode.com/problems/minimum-limit-of-balls-in-a-bag)|||Medium|
 |1887|[minimum-degree-of-a-connected-trio-in-a-graph](https://leetcode.com/problems/minimum-degree-of-a-connected-trio-in-a-graph)|||Hard|
+|1888|[find-nearest-point-that-has-the-same-x-or-y-coordinate](https://leetcode.com/problems/find-nearest-point-that-has-the-same-x-or-y-coordinate)|||Easy|
+|1889|[check-if-number-is-a-sum-of-powers-of-three](https://leetcode.com/problems/check-if-number-is-a-sum-of-powers-of-three)|||Medium|
+|1890|[sum-of-beauty-of-all-substrings](https://leetcode.com/problems/sum-of-beauty-of-all-substrings)|||Medium|
+|1891|[count-pairs-of-nodes](https://leetcode.com/problems/count-pairs-of-nodes)|||Hard|
 |1893|[maximum-subarray-sum-after-one-operation](https://leetcode.com/problems/maximum-subarray-sum-after-one-operation)|:lock:||Medium|
 |1894|[merge-strings-alternately](https://leetcode.com/problems/merge-strings-alternately)|||Easy|
 |1895|[minimum-number-of-operations-to-move-all-balls-to-each-box](https://leetcode.com/problems/minimum-number-of-operations-to-move-all-balls-to-each-box)|||Medium|
@@ -1626,5 +1630,9 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |1902|[car-fleet-ii](https://leetcode.com/problems/car-fleet-ii)|||Hard|
 |1903|[design-most-recently-used-queue](https://leetcode.com/problems/design-most-recently-used-queue)|:lock:||Medium|
 |1909|[buildings-with-an-ocean-view](https://leetcode.com/problems/buildings-with-an-ocean-view)|:lock:||Medium|
+|1910|[check-if-binary-string-has-at-most-one-segment-of-ones](https://leetcode.com/problems/check-if-binary-string-has-at-most-one-segment-of-ones)|||Easy|
+|1911|[minimum-elements-to-add-to-form-a-given-sum](https://leetcode.com/problems/minimum-elements-to-add-to-form-a-given-sum)|||Medium|
+|1912|[number-of-restricted-paths-from-first-to-last-node](https://leetcode.com/problems/number-of-restricted-paths-from-first-to-last-node)|||Medium|
+|1913|[make-the-xor-of-all-segments-equal-to-zero](https://leetcode.com/problems/make-the-xor-of-all-segments-equal-to-zero)|||Hard|
 |1919|[sort-features-by-popularity](https://leetcode.com/problems/sort-features-by-popularity)|:lock:||Medium|
 |1931|[shortest-path-in-a-hidden-grid](https://leetcode.com/problems/shortest-path-in-a-hidden-grid)|:lock:||Medium|

@@ -54,14 +54,7 @@
 #
 #
 #  
-#
-# Follow up:
-#
-#
-# 	Could you solve it in-place with O(1) extra space?
-#
-#
-#  
+# Follow up: Could you solve it in-place with O(1) extra space?
 #
 
 
