@@ -26,7 +26,7 @@
 # Constraints:
 #
 #
-# 	1 <= nums.length <= 3 * 104
+# 	1 <= nums.length <= 1000
 # 	0 <= nums[i] <= 105
 #
 #

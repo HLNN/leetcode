@@ -19,22 +19,8 @@
 # Example 3:
 #
 #
-# Input: nums = [0]
-# Output: 0
-#
-#
-# Example 4:
-#
-#
-# Input: nums = [-1]
-# Output: -1
-#
-#
-# Example 5:
-#
-#
-# Input: nums = [-100000]
-# Output: -100000
+# Input: nums = [5,4,-1,7,8]
+# Output: 23
 #
 #
 #  

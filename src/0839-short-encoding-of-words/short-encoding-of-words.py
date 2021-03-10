@@ -28,7 +28,6 @@
 # Explanation: A valid encoding would be s = "t#" and indices = [0].
 #
 #
-#
 #  
 # Constraints:
 #
