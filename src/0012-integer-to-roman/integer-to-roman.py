@@ -81,3 +81,4 @@ class Solution:
                 s.append(strs[i])
                 
         return "".join(s)
+    

@@ -12,7 +12,7 @@
 #
 #
 # Input: inorder = [-1], postorder = [-1]
-# Output: []
+# Output: [-1]
 #
 #
 #  

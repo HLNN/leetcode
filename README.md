@@ -1,8 +1,8 @@
 # :pencil2: Leetcode Solutions with Python3,Cpp
-Update time:  2021-03-10 18:12:00
+Update time:  2021-03-14 18:45:32
 
-I have solved **278   /   1622** problems
-while there are **253** problems still locked.
+I have solved **281   /   1627** problems
+while there are **254** problems still locked.
 
 If you have any question, please give me an [issue](https://github.com/hlnn/leetcode/issues).
 
@@ -318,7 +318,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |319|[bulb-switcher](https://leetcode.com/problems/bulb-switcher)|||Medium|
 |320|[generalized-abbreviation](https://leetcode.com/problems/generalized-abbreviation)|:lock:|[:memo:](https://leetcode.com/articles/generalized-abbreviation/)|Medium|
 |321|[create-maximum-number](https://leetcode.com/problems/create-maximum-number)|||Hard|
-|322|[coin-change](https://leetcode.com/problems/coin-change)||[:memo:](https://leetcode.com/articles/coin-change/)|Medium|
+|322|[coin-change](https://leetcode.com/problems/coin-change)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0322-coin-change/coin-change.py)|[:memo:](https://leetcode.com/articles/coin-change/)|Medium|
 |323|[number-of-connected-components-in-an-undirected-graph](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph)|:lock:||Medium|
 |324|[wiggle-sort-ii](https://leetcode.com/problems/wiggle-sort-ii)|||Medium|
 |325|[maximum-size-subarray-sum-equals-k](https://leetcode.com/problems/maximum-size-subarray-sum-equals-k)|:lock:||Medium|
@@ -779,7 +779,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |839|[short-encoding-of-words](https://leetcode.com/problems/short-encoding-of-words)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0839-short-encoding-of-words/short-encoding-of-words.py)|[:memo:](https://leetcode.com/articles/short-encoding-of-words/)|Medium|
 |841|[shortest-distance-to-a-character](https://leetcode.com/problems/shortest-distance-to-a-character)||[:memo:](https://leetcode.com/articles/shortest-distance-to-a-character/)|Easy|
 |842|[card-flipping-game](https://leetcode.com/problems/card-flipping-game)||[:memo:](https://leetcode.com/articles/card-flipping-game/)|Medium|
-|843|[binary-trees-with-factors](https://leetcode.com/problems/binary-trees-with-factors)||[:memo:](https://leetcode.com/articles/binary-trees-with-factors/)|Medium|
+|843|[binary-trees-with-factors](https://leetcode.com/problems/binary-trees-with-factors)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0843-binary-trees-with-factors/binary-trees-with-factors.py)|[:memo:](https://leetcode.com/articles/binary-trees-with-factors/)|Medium|
 |850|[insert-into-a-sorted-circular-linked-list](https://leetcode.com/problems/insert-into-a-sorted-circular-linked-list)|:lock:|[:memo:](https://leetcode.com/articles/insert-into-a-cyclic-sorted-list/)|Medium|
 |851|[goat-latin](https://leetcode.com/problems/goat-latin)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0851-goat-latin/goat-latin.py)|[:memo:](https://leetcode.com/articles/goat-latin/)|Easy|
 |852|[friends-of-appropriate-ages](https://leetcode.com/problems/friends-of-appropriate-ages)||[:memo:](https://leetcode.com/articles/friends-of-appropriate-ages/)|Medium|
@@ -1355,7 +1355,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |1554|[minimum-time-to-collect-all-apples-in-a-tree](https://leetcode.com/problems/minimum-time-to-collect-all-apples-in-a-tree)|||Medium|
 |1555|[number-of-ways-of-cutting-a-pizza](https://leetcode.com/problems/number-of-ways-of-cutting-a-pizza)|||Hard|
 |1556|[make-two-arrays-equal-by-reversing-sub-arrays](https://leetcode.com/problems/make-two-arrays-equal-by-reversing-sub-arrays)|||Easy|
-|1557|[check-if-a-string-contains-all-binary-codes-of-size-k](https://leetcode.com/problems/check-if-a-string-contains-all-binary-codes-of-size-k)||[:memo:](https://leetcode.com/articles/check-if-a-string-contains-all-binary-codes-of-size-k/)|Medium|
+|1557|[check-if-a-string-contains-all-binary-codes-of-size-k](https://leetcode.com/problems/check-if-a-string-contains-all-binary-codes-of-size-k)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/1557-check-if-a-string-contains-all-binary-codes-of-size-k/check-if-a-string-contains-all-binary-codes-of-size-k.py)|[:memo:](https://leetcode.com/articles/check-if-a-string-contains-all-binary-codes-of-size-k/)|Medium|
 |1558|[course-schedule-iv](https://leetcode.com/problems/course-schedule-iv)|||Medium|
 |1559|[cherry-pickup-ii](https://leetcode.com/problems/cherry-pickup-ii)||[:memo:](https://leetcode.com/articles/cherry-pickup-ii/)|Hard|
 |1560|[number-of-students-doing-homework-at-a-given-time](https://leetcode.com/problems/number-of-students-doing-homework-at-a-given-time)|||Easy|
@@ -1634,5 +1634,10 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |1911|[minimum-elements-to-add-to-form-a-given-sum](https://leetcode.com/problems/minimum-elements-to-add-to-form-a-given-sum)|||Medium|
 |1912|[number-of-restricted-paths-from-first-to-last-node](https://leetcode.com/problems/number-of-restricted-paths-from-first-to-last-node)|||Medium|
 |1913|[make-the-xor-of-all-segments-equal-to-zero](https://leetcode.com/problems/make-the-xor-of-all-segments-equal-to-zero)|||Hard|
+|1915|[check-if-one-string-swap-can-make-strings-equal](https://leetcode.com/problems/check-if-one-string-swap-can-make-strings-equal)|||Easy|
+|1916|[find-center-of-star-graph](https://leetcode.com/problems/find-center-of-star-graph)|||Medium|
+|1917|[maximum-average-pass-ratio](https://leetcode.com/problems/maximum-average-pass-ratio)|||Medium|
+|1918|[maximum-score-of-a-good-subarray](https://leetcode.com/problems/maximum-score-of-a-good-subarray)|||Hard|
 |1919|[sort-features-by-popularity](https://leetcode.com/problems/sort-features-by-popularity)|:lock:||Medium|
 |1931|[shortest-path-in-a-hidden-grid](https://leetcode.com/problems/shortest-path-in-a-hidden-grid)|:lock:||Medium|
+|1937|[maximize-the-beauty-of-the-garden](https://leetcode.com/problems/maximize-the-beauty-of-the-garden)|:lock:||Hard|

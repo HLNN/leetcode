@@ -40,10 +40,10 @@
 #
 # 	The number of nodes of listA is in the m.
 # 	The number of nodes of listB is in the n.
-# 	1 <= m, n <= 3 * 104
+# 	0 <= m, n <= 3 * 104
 # 	1 <= Node.val <= 105
-# 	1 <= skipA <= m
-# 	1 <= skipB <= n
+# 	0 <= skipA <= m
+# 	0 <= skipB <= n
 # 	intersectVal is 0 if listA and listB do not intersect.
 # 	intersectVal == listA[skipA + 1] == listB[skipB + 1] if listA and listB intersect.
 #
