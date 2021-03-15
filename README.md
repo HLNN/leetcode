@@ -1,7 +1,7 @@
 # :pencil2: Leetcode Solutions with Python3,Cpp
-Update time:  2021-03-14 18:45:32
+Update time:  2021-03-15 16:09:41
 
-I have solved **281   /   1627** problems
+I have solved **282   /   1627** problems
 while there are **254** problems still locked.
 
 If you have any question, please give me an [issue](https://github.com/hlnn/leetcode/issues).
@@ -512,7 +512,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |525|[contiguous-array](https://leetcode.com/problems/contiguous-array)||[:memo:](https://leetcode.com/articles/contiguous-array/)|Medium|
 |526|[beautiful-arrangement](https://leetcode.com/problems/beautiful-arrangement)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0526-beautiful-arrangement/beautiful-arrangement.py)|[:memo:](https://leetcode.com/articles/beautiful-arrangement/)|Medium|
 |527|[word-abbreviation](https://leetcode.com/problems/word-abbreviation)|:lock:|[:memo:](https://leetcode.com/articles/word-abbreviation/)|Hard|
-|528|[swapping-nodes-in-a-linked-list](https://leetcode.com/problems/swapping-nodes-in-a-linked-list)||[:memo:](https://leetcode.com/articles/swapping-nodes-in-a-linked-list/)|Medium|
+|528|[swapping-nodes-in-a-linked-list](https://leetcode.com/problems/swapping-nodes-in-a-linked-list)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0528-swapping-nodes-in-a-linked-list/swapping-nodes-in-a-linked-list.py)|[:memo:](https://leetcode.com/articles/swapping-nodes-in-a-linked-list/)|Medium|
 |529|[minesweeper](https://leetcode.com/problems/minesweeper)|||Medium|
 |530|[minimum-absolute-difference-in-bst](https://leetcode.com/problems/minimum-absolute-difference-in-bst)|||Easy|
 |531|[lonely-pixel-i](https://leetcode.com/problems/lonely-pixel-i)|:lock:||Medium|
