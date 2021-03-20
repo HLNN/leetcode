@@ -24,7 +24,7 @@
 # Constraints:
 #
 #
-# 	The number of nodes in the linked list will be in the range [1, 104]
+# 	The number of nodes in the linked list will be in the range [1, 104].
 # 	-104 <= Node.val <= 104
 # 	At most 104 calls will be made to getRandom.
 #

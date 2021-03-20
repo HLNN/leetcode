@@ -25,6 +25,7 @@
 #
 # 	1 <= arr.length <= 1000
 # 	2 <= arr[i] <= 109
+# 	All the values of arr are unique.
 #
 #
 

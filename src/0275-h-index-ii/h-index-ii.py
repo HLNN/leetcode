@@ -18,7 +18,7 @@
 #
 #
 # Input: citations = [1,2,100]
-# Output: 0
+# Output: 2
 #
 #
 #  

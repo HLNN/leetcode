@@ -1,6 +1,6 @@
 # Given a binary string s and an integer k.
 #
-# Return True if every binary code of length k is a substring of s. Otherwise, return False.
+# Return true if every binary code of length k is a substring of s. Otherwise, return false.
 #
 #  
 # Example 1:
@@ -45,8 +45,8 @@
 # Constraints:
 #
 #
-# 	1 <= s.length <= 5 * 10^5
-# 	s consists of 0's and 1's only.
+# 	1 <= s.length <= 5 * 105
+# 	s[i] is either '0' or '1'.
 # 	1 <= k <= 20
 #
 #

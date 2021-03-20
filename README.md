@@ -1,8 +1,8 @@
 # :pencil2: Leetcode Solutions with Python3,Cpp
-Update time:  2021-03-15 16:09:41
+Update time:  2021-03-20 14:58:19
 
-I have solved **282   /   1627** problems
-while there are **254** problems still locked.
+I have solved **287   /   1628** problems
+while there are **255** problems still locked.
 
 If you have any question, please give me an [issue](https://github.com/hlnn/leetcode/issues).
 
@@ -372,7 +372,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |373|[find-k-pairs-with-smallest-sums](https://leetcode.com/problems/find-k-pairs-with-smallest-sums)|||Medium|
 |374|[guess-number-higher-or-lower](https://leetcode.com/problems/guess-number-higher-or-lower)||[:memo:](https://leetcode.com/articles/guess-number-higher-or-lower/)|Easy|
 |375|[guess-number-higher-or-lower-ii](https://leetcode.com/problems/guess-number-higher-or-lower-ii)||[:memo:](https://leetcode.com/articles/guess-higher-or-lower-number-ii/)|Medium|
-|376|[wiggle-subsequence](https://leetcode.com/problems/wiggle-subsequence)||[:memo:](https://leetcode.com/articles/wiggle-subsequence/)|Medium|
+|376|[wiggle-subsequence](https://leetcode.com/problems/wiggle-subsequence)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0376-wiggle-subsequence/wiggle-subsequence.py)|[:memo:](https://leetcode.com/articles/wiggle-subsequence/)|Medium|
 |377|[combination-sum-iv](https://leetcode.com/problems/combination-sum-iv)||[:memo:](https://leetcode.com/articles/combination-sum-iv/)|Medium|
 |378|[kth-smallest-element-in-a-sorted-matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix)||[:memo:](https://leetcode.com/articles/kth-smallest-element-in-a-sorted-matrix/)|Medium|
 |379|[design-phone-directory](https://leetcode.com/problems/design-phone-directory)|:lock:||Medium|
@@ -518,7 +518,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |531|[lonely-pixel-i](https://leetcode.com/problems/lonely-pixel-i)|:lock:||Medium|
 |532|[k-diff-pairs-in-an-array](https://leetcode.com/problems/k-diff-pairs-in-an-array)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0532-k-diff-pairs-in-an-array/k-diff-pairs-in-an-array.py)|[:memo:](https://leetcode.com/articles/k-diff-pairs-in-an-array/)|Medium|
 |533|[lonely-pixel-ii](https://leetcode.com/problems/lonely-pixel-ii)|:lock:||Medium|
-|535|[encode-and-decode-tinyurl](https://leetcode.com/problems/encode-and-decode-tinyurl)||[:memo:](https://leetcode.com/articles/encode-and-decode-tinyurl/)|Medium|
+|535|[encode-and-decode-tinyurl](https://leetcode.com/problems/encode-and-decode-tinyurl)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0535-encode-and-decode-tinyurl/encode-and-decode-tinyurl.py)|[:memo:](https://leetcode.com/articles/encode-and-decode-tinyurl/)|Medium|
 |536|[construct-binary-tree-from-string](https://leetcode.com/problems/construct-binary-tree-from-string)|:lock:|[:memo:](https://leetcode.com/articles/construct-binary-tree-from-string/)|Medium|
 |537|[complex-number-multiplication](https://leetcode.com/problems/complex-number-multiplication)||[:memo:](https://leetcode.com/articles/complex-number-multiplication/)|Medium|
 |538|[convert-bst-to-greater-tree](https://leetcode.com/problems/convert-bst-to-greater-tree)||[:memo:](https://leetcode.com/articles/convert-bst-to-greater-tree/)|Medium|
@@ -651,7 +651,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |711|[number-of-distinct-islands-ii](https://leetcode.com/problems/number-of-distinct-islands-ii)|:lock:|[:memo:](https://leetcode.com/articles/number-of-distinct-islands-ii/)|Hard|
 |712|[minimum-ascii-delete-sum-for-two-strings](https://leetcode.com/problems/minimum-ascii-delete-sum-for-two-strings)||[:memo:](https://leetcode.com/articles/minimum-ascii-delete-sum-for-two-strings/)|Medium|
 |713|[subarray-product-less-than-k](https://leetcode.com/problems/subarray-product-less-than-k)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0713-subarray-product-less-than-k/subarray-product-less-than-k.py)|[:memo:](https://leetcode.com/articles/subarray-product-less-than-k/)|Medium|
-|714|[best-time-to-buy-and-sell-stock-with-transaction-fee](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee)||[:memo:](https://leetcode.com/articles/best-time-to-buy-and-sell-stock-with-transaction-fee/)|Medium|
+|714|[best-time-to-buy-and-sell-stock-with-transaction-fee](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/best-time-to-buy-and-sell-stock-with-transaction-fee.py)|[:memo:](https://leetcode.com/articles/best-time-to-buy-and-sell-stock-with-transaction-fee/)|Medium|
 |715|[range-module](https://leetcode.com/problems/range-module)||[:memo:](https://leetcode.com/articles/range-module/)|Hard|
 |716|[max-stack](https://leetcode.com/problems/max-stack)|:lock:|[:memo:](https://leetcode.com/articles/max-stack/)|Easy|
 |717|[1-bit-and-2-bit-characters](https://leetcode.com/problems/1-bit-and-2-bit-characters)||[:memo:](https://leetcode.com/articles/1-bit-and-2-bit-characters/)|Easy|
@@ -801,7 +801,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |868|[push-dominoes](https://leetcode.com/problems/push-dominoes)||[:memo:](https://leetcode.com/articles/push-dominoes/)|Medium|
 |869|[similar-string-groups](https://leetcode.com/problems/similar-string-groups)||[:memo:](https://leetcode.com/articles/similar-string-groups/)|Hard|
 |870|[magic-squares-in-grid](https://leetcode.com/problems/magic-squares-in-grid)||[:memo:](https://leetcode.com/articles/magic-squares-in-grid/)|Medium|
-|871|[keys-and-rooms](https://leetcode.com/problems/keys-and-rooms)||[:memo:](https://leetcode.com/articles/keys-and-rooms/)|Medium|
+|871|[keys-and-rooms](https://leetcode.com/problems/keys-and-rooms)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0871-keys-and-rooms/keys-and-rooms.py)|[:memo:](https://leetcode.com/articles/keys-and-rooms/)|Medium|
 |872|[split-array-into-fibonacci-sequence](https://leetcode.com/problems/split-array-into-fibonacci-sequence)||[:memo:](https://leetcode.com/articles/split-array-into-fibonacci-sequence/)|Medium|
 |873|[guess-the-word](https://leetcode.com/problems/guess-the-word)||[:memo:](https://leetcode.com/articles/guess-the-word/)|Hard|
 |874|[backspace-string-compare](https://leetcode.com/problems/backspace-string-compare)||[:memo:](https://leetcode.com/articles/backspace-string-compare/)|Easy|
@@ -845,7 +845,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |912|[random-pick-with-weight](https://leetcode.com/problems/random-pick-with-weight)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0912-random-pick-with-weight/random-pick-with-weight.py)|[:memo:](https://leetcode.com/articles/random-pick-with-weight/)|Medium|
 |913|[random-flip-matrix](https://leetcode.com/problems/random-flip-matrix)||[:memo:](https://leetcode.com/articles/random-flip-matrix/)|Medium|
 |914|[random-point-in-non-overlapping-rectangles](https://leetcode.com/problems/random-point-in-non-overlapping-rectangles)||[:memo:](https://leetcode.com/articles/random-point-in-non-overlapping-rectangles/)|Medium|
-|915|[generate-random-point-in-a-circle](https://leetcode.com/problems/generate-random-point-in-a-circle)||[:memo:](https://leetcode.com/articles/generate-random-point-in-a-circle/)|Medium|
+|915|[generate-random-point-in-a-circle](https://leetcode.com/problems/generate-random-point-in-a-circle)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0915-generate-random-point-in-a-circle/generate-random-point-in-a-circle.py)|[:memo:](https://leetcode.com/articles/generate-random-point-in-a-circle/)|Medium|
 |916|[decoded-string-at-index](https://leetcode.com/problems/decoded-string-at-index)||[:memo:](https://leetcode.com/articles/decoded-string-at-index/)|Medium|
 |917|[boats-to-save-people](https://leetcode.com/problems/boats-to-save-people)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0917-boats-to-save-people/boats-to-save-people.py)|[:memo:](https://leetcode.com/articles/boats-to-save-people/)|Medium|
 |918|[reachable-nodes-in-subdivided-graph](https://leetcode.com/problems/reachable-nodes-in-subdivided-graph)||[:memo:](https://leetcode.com/articles/reachable-nodes-in-subdivided-graph/)|Hard|
@@ -1641,3 +1641,4 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |1919|[sort-features-by-popularity](https://leetcode.com/problems/sort-features-by-popularity)|:lock:||Medium|
 |1931|[shortest-path-in-a-hidden-grid](https://leetcode.com/problems/shortest-path-in-a-hidden-grid)|:lock:||Medium|
 |1937|[maximize-the-beauty-of-the-garden](https://leetcode.com/problems/maximize-the-beauty-of-the-garden)|:lock:||Hard|
+|1943|[count-pairs-of-equal-substrings-with-minimum-difference](https://leetcode.com/problems/count-pairs-of-equal-substrings-with-minimum-difference)|:lock:||Medium|
