@@ -1,7 +1,7 @@
 # :pencil2: Leetcode Solutions with Python3,Cpp
-Update time:  2021-03-20 14:58:19
+Update time:  2021-03-21 16:10:57
 
-I have solved **287   /   1628** problems
+I have solved **289   /   1636** problems
 while there are **255** problems still locked.
 
 If you have any question, please give me an [issue](https://github.com/hlnn/leetcode/issues).
@@ -830,7 +830,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |897|[prime-palindrome](https://leetcode.com/problems/prime-palindrome)||[:memo:](https://leetcode.com/articles/prime-palindrome/)|Medium|
 |898|[transpose-matrix](https://leetcode.com/problems/transpose-matrix)||[:memo:](https://leetcode.com/articles/transpose-matrix/)|Easy|
 |899|[binary-gap](https://leetcode.com/problems/binary-gap)||[:memo:](https://leetcode.com/articles/binary-gap/)|Easy|
-|900|[reordered-power-of-2](https://leetcode.com/problems/reordered-power-of-2)||[:memo:](https://leetcode.com/articles/reordered-power-of-2/)|Medium|
+|900|[reordered-power-of-2](https://leetcode.com/problems/reordered-power-of-2)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0900-reordered-power-of-2/reordered-power-of-2.py)|[:memo:](https://leetcode.com/articles/reordered-power-of-2/)|Medium|
 |901|[advantage-shuffle](https://leetcode.com/problems/advantage-shuffle)||[:memo:](https://leetcode.com/articles/advantage-shuffle/)|Medium|
 |902|[minimum-number-of-refueling-stops](https://leetcode.com/problems/minimum-number-of-refueling-stops)||[:memo:](https://leetcode.com/articles/minimum-number-of-refueling-stops/)|Hard|
 |903|[implement-rand10-using-rand7](https://leetcode.com/problems/implement-rand10-using-rand7)||[:memo:](https://leetcode.com/articles/implement-rand10-using-rand7/)|Medium|
@@ -1318,7 +1318,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |1508|[longest-happy-prefix](https://leetcode.com/problems/longest-happy-prefix)|||Hard|
 |1510|[find-lucky-integer-in-an-array](https://leetcode.com/problems/find-lucky-integer-in-an-array)||[:memo:](https://leetcode.com/articles/find-lucky-integer-in-an-array/)|Easy|
 |1511|[count-number-of-teams](https://leetcode.com/problems/count-number-of-teams)|||Medium|
-|1512|[design-underground-system](https://leetcode.com/problems/design-underground-system)||[:memo:](https://leetcode.com/articles/design-underground-system/)|Medium|
+|1512|[design-underground-system](https://leetcode.com/problems/design-underground-system)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/1512-design-underground-system/design-underground-system.py)|[:memo:](https://leetcode.com/articles/design-underground-system/)|Medium|
 |1513|[find-all-good-strings](https://leetcode.com/problems/find-all-good-strings)|||Hard|
 |1514|[minimum-value-to-get-positive-step-by-step-sum](https://leetcode.com/problems/minimum-value-to-get-positive-step-by-step-sum)|||Easy|
 |1515|[find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k](https://leetcode.com/problems/find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k)|||Medium|
@@ -1629,6 +1629,10 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |1901|[equal-sum-arrays-with-minimum-number-of-operations](https://leetcode.com/problems/equal-sum-arrays-with-minimum-number-of-operations)|||Medium|
 |1902|[car-fleet-ii](https://leetcode.com/problems/car-fleet-ii)|||Hard|
 |1903|[design-most-recently-used-queue](https://leetcode.com/problems/design-most-recently-used-queue)|:lock:||Medium|
+|1904|[second-largest-digit-in-a-string](https://leetcode.com/problems/second-largest-digit-in-a-string)|||Easy|
+|1905|[design-authentication-manager](https://leetcode.com/problems/design-authentication-manager)|||Medium|
+|1906|[maximize-score-after-n-operations](https://leetcode.com/problems/maximize-score-after-n-operations)|||Hard|
+|1907|[count-pairs-with-xor-in-a-range](https://leetcode.com/problems/count-pairs-with-xor-in-a-range)|||Hard|
 |1909|[buildings-with-an-ocean-view](https://leetcode.com/problems/buildings-with-an-ocean-view)|:lock:||Medium|
 |1910|[check-if-binary-string-has-at-most-one-segment-of-ones](https://leetcode.com/problems/check-if-binary-string-has-at-most-one-segment-of-ones)|||Easy|
 |1911|[minimum-elements-to-add-to-form-a-given-sum](https://leetcode.com/problems/minimum-elements-to-add-to-form-a-given-sum)|||Medium|
@@ -1639,6 +1643,10 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |1917|[maximum-average-pass-ratio](https://leetcode.com/problems/maximum-average-pass-ratio)|||Medium|
 |1918|[maximum-score-of-a-good-subarray](https://leetcode.com/problems/maximum-score-of-a-good-subarray)|||Hard|
 |1919|[sort-features-by-popularity](https://leetcode.com/problems/sort-features-by-popularity)|:lock:||Medium|
+|1927|[maximum-ascending-subarray-sum](https://leetcode.com/problems/maximum-ascending-subarray-sum)|||Easy|
+|1928|[number-of-orders-in-the-backlog](https://leetcode.com/problems/number-of-orders-in-the-backlog)|||Medium|
+|1929|[maximum-value-at-a-given-index-in-a-bounded-array](https://leetcode.com/problems/maximum-value-at-a-given-index-in-a-bounded-array)|||Medium|
+|1930|[maximum-number-of-consecutive-values-you-can-make](https://leetcode.com/problems/maximum-number-of-consecutive-values-you-can-make)|||Medium|
 |1931|[shortest-path-in-a-hidden-grid](https://leetcode.com/problems/shortest-path-in-a-hidden-grid)|:lock:||Medium|
 |1937|[maximize-the-beauty-of-the-garden](https://leetcode.com/problems/maximize-the-beauty-of-the-garden)|:lock:||Hard|
 |1943|[count-pairs-of-equal-substrings-with-minimum-difference](https://leetcode.com/problems/count-pairs-of-equal-substrings-with-minimum-difference)|:lock:||Medium|
