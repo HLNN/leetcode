@@ -1,8 +1,9 @@
 # coding:utf-8
 #
-# Author: BONFY<foreverbonfy@163.com>
-# Github: https://github.com/bonfy
-# Repo:   https://github.com/bonfy/leetcode
+# Author: HLNN<huangln555@gmail.com>
+# Github: https://github.com/HLNN
+# Repo:   https://github.com/HLNN/leetcode
+# Fork:   https://github.com/bonfy/leetcode
 # Usage:  Leetcode solution downloader and auto generate readme
 #
 import requests
@@ -171,6 +172,8 @@ class Leetcode:
     def __init__(self):
         self.items = []
         self.submissions = []
+        self.load_all_submissions = True
+        self.load_part_nums = 100
         self.num_solved = 0
         self.num_total = 0
         self.num_lock = 0
@@ -264,6 +267,7 @@ class Leetcode:
             self.login()
         self.load_items_from_api()
         self.load_submissions()
+        # self.load_all_submissions = False
         self.load_solutions_to_items()
 
         cmd_git_pull = "git pull"
@@ -321,7 +325,7 @@ class Leetcode:
         limit = 20
         offset = 0
         last_key = ''
-        while True:
+        while self.load_all_submissions or offset < self.load_part_nums:
             print('try to load submissions from ', offset, ' to ', offset+limit)
             submissions_url = '{}/api/submissions/?format=json&limit={}&offset={}&last_key={}'.format(
                 self.base_url, limit, offset, last_key
