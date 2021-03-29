@@ -1,37 +1,33 @@
-# Given an m x n matrix of non-negative integers representing the height of each unit cell in a continent, the "Pacific ocean" touches the left and top edges of the matrix and the "Atlantic ocean" touches the right and bottom edges.
+# You are given an m x n integer matrix heights representing the height of each unit cell in a continent. The Pacific ocean touches the continent's left and top edges, and the Atlantic ocean touches the continent's right and bottom edges.
 #
-# Water can only flow in four directions (up, down, left, or right) from a cell to another one with height equal or lower.
+# Water can only flow in four directions: up, down, left, and right. Water flows from a cell to an adjacent one with an equal or lower height.
 #
-# Find the list of grid coordinates where water can flow to both the Pacific and Atlantic ocean.
+# Return a list of grid coordinates where water can flow to both the Pacific and Atlantic oceans.
 #
-# Note:
+#  
+# Example 1:
 #
 #
-# 	The order of returned grid coordinates does not matter.
-# 	Both m and n are less than 150.
+# Input: heights = [[1,2,2,3,5],[3,2,3,4,4],[2,4,5,3,1],[6,7,1,4,5],[5,1,1,2,4]]
+# Output: [[0,4],[1,3],[1,4],[2,2],[3,0],[3,1],[4,0]]
+#
+#
+# Example 2:
+#
+#
+# Input: heights = [[2,1],[1,2]]
+# Output: [[0,0],[0,1],[1,0],[1,1]]
 #
 #
 #  
-#
-# Example:
-#
-#
-# Given the following 5x5 matrix:
-#
-#   Pacific ~   ~   ~   ~   ~ 
-#        ~  1   2   2   3  (5) *
-#        ~  3   2   3  (4) (4) *
-#        ~  2   4  (5)  3   1  *
-#        ~ (6) (7)  1   4   5  *
-#        ~ (5)  1   1   2   4  *
-#           *   *   *   *   * Atlantic
-#
-# Return:
-#
-# [[0, 4], [1, 3], [1, 4], [2, 2], [3, 0], [3, 1], [4, 0]] (positions with parentheses in above matrix).
+# Constraints:
 #
 #
-#  
+# 	m == heights.length
+# 	n == heights[i].length
+# 	1 <= m, n <= 200
+# 	1 <= heights[i][j] <= 105
+#
 #
 
 
