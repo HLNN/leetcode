@@ -1,4 +1,4 @@
-# You have an initial power of P, an initial score of 0, and a bag of tokens where tokens[i] is the value of the ith token (0-indexed).
+# You have an initial power of power, an initial score of 0, and a bag of tokens where tokens[i] is the value of the ith token (0-indexed).
 #
 # Your goal is to maximize your total score by potentially playing each token in one of two ways:
 #
@@ -15,7 +15,7 @@
 # Example 1:
 #
 #
-# Input: tokens = [100], P = 50
+# Input: tokens = [100], power = 50
 # Output: 0
 # Explanation: Playing the only token in the bag is impossible because you either have too little power or too little score.
 #
@@ -23,7 +23,7 @@
 # Example 2:
 #
 #
-# Input: tokens = [100,200], P = 150
+# Input: tokens = [100,200], power = 150
 # Output: 1
 # Explanation: Play the 0th token (100) face up, your power becomes 50 and score becomes 1.
 # There is no need to play the 1st token since you cannot play it face up to add to your score.
@@ -32,7 +32,7 @@
 # Example 3:
 #
 #
-# Input: tokens = [100,200,300,400], P = 200
+# Input: tokens = [100,200,300,400], power = 200
 # Output: 2
 # Explanation: Play the tokens in this order to get a score of 2:
 # 1. Play the 0th token (100) face up, your power becomes 100 and score becomes 1.
@@ -46,7 +46,8 @@
 #
 #
 # 	0 <= tokens.length <= 1000
-# 	0 <= tokens[i], P < 104
+# 	0 <= tokens[i], power < 104
+#
 #
 
 

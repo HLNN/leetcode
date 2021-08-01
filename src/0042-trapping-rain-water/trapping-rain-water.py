@@ -28,26 +28,20 @@
 
 
 class Solution:
-    def trap(self, height):
-        """
-        :type height: List[int]
-        :rtype: int
-        """
-        sum = 0
-        h = []
-        n = -1
-        if height:
-            for i in range(len(height)):
-                while n >= 0 and height[i] > height[h[n]]:
-                    top = h[n]
-                    h.pop()
-                    n -= 1
-                    if n < 0:
+    def trap(self, height: List[int]) -> int:
+        stack = []
+        res = 0
+        
+        for i in range(len(height)):
+            if stack:
+                while height[i] > stack[-1][1]:
+                    iLast, hLast = stack.pop()
+                    if not stack:
                         break
-                    dis = i - h[n] - 1
-                    hei = min(height[i], height[h[n]]) - height[top]
-                    sum += dis * hei
-                
-                h.append(i)
-                n += 1
-        return sum
+                    dH = min(stack[-1][1], height[i]) - hLast
+                    dD = i - stack[-1][0] -1
+                    res += dH * dD
+            stack.append((i, height[i]))
+        
+        return res
+    

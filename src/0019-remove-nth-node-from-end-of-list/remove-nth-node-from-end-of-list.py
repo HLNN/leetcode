@@ -1,7 +1,5 @@
 # Given the head of a linked list, remove the nth node from the end of the list and return its head.
 #
-# Follow up: Could you do this in one pass?
-#
 #  
 # Example 1:
 #
@@ -33,6 +31,9 @@
 # 	0 <= Node.val <= 100
 # 	1 <= n <= sz
 #
+#
+#  
+# Follow up: Could you do this in one pass?
 #
 
 

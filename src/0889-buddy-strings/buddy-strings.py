@@ -1,36 +1,40 @@
-# Given two strings a and b, return true if you can swap two letters in a so the result is equal to b, otherwise, return false.
+# Given two strings s and goal, return true if you can swap two letters in s so the result is equal to goal, otherwise, return false.
 #
-# Swapping letters is defined as taking two indices i and j (0-indexed) such that i != j and swapping the characters at a[i] and b[j]. For example, swapping at indices 0 and 2 in "abcd" results in "cbad".
+# Swapping letters is defined as taking two indices i and j (0-indexed) such that i != j and swapping the characters at s[i] and s[j].
+#
+#
+# 	For example, swapping at indices 0 and 2 in "abcd" results in "cbad".
+#
 #
 #  
 # Example 1:
 #
 #
-# Input: a = "ab", b = "ba"
+# Input: s = "ab", goal = "ba"
 # Output: true
-# Explanation: You can swap a[0] = 'a' and a[1] = 'b' to get "ba", which is equal to b.
+# Explanation: You can swap s[0] = 'a' and s[1] = 'b' to get "ba", which is equal to goal.
 #
 #
 # Example 2:
 #
 #
-# Input: a = "ab", b = "ab"
+# Input: s = "ab", goal = "ab"
 # Output: false
-# Explanation: The only letters you can swap are a[0] = 'a' and a[1] = 'b', which results in "ba" != b.
+# Explanation: The only letters you can swap are s[0] = 'a' and s[1] = 'b', which results in "ba" != goal.
 #
 #
 # Example 3:
 #
 #
-# Input: a = "aa", b = "aa"
+# Input: s = "aa", goal = "aa"
 # Output: true
-# Explanation: You can swap a[0] = 'a' and a[1] = 'a' to get "aa", which is equal to b.
+# Explanation: You can swap s[0] = 'a' and s[1] = 'a' to get "aa", which is equal to goal.
 #
 #
 # Example 4:
 #
 #
-# Input: a = "aaaaaaabc", b = "aaaaaaacb"
+# Input: s = "aaaaaaabc", goal = "aaaaaaacb"
 # Output: true
 #
 #
@@ -38,8 +42,8 @@
 # Constraints:
 #
 #
-# 	1 <= a.length, b.length <= 2 * 104
-# 	a and b consist of lowercase letters.
+# 	1 <= s.length, goal.length <= 2 * 104
+# 	s and goal consist of lowercase letters.
 #
 #
 

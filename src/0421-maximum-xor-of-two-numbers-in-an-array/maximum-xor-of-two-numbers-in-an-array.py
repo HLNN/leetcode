@@ -1,6 +1,4 @@
-# Given an integer array nums, return the maximum result of nums[i] XOR nums[j], where 0 ≤ i ≤ j < n.
-#
-# Follow up: Could you do this in O(n) runtime?
+# Given an integer array nums, return the maximum result of nums[i] XOR nums[j], where 0 <= i <= j < n.
 #
 #  
 # Example 1:
@@ -42,7 +40,7 @@
 # Constraints:
 #
 #
-# 	1 <= nums.length <= 2 * 104
+# 	1 <= nums.length <= 2 * 105
 # 	0 <= nums[i] <= 231 - 1
 #
 #

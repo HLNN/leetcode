@@ -1,8 +1,6 @@
-# Given an array of non-negative integers nums, you are initially positioned at the first index of the array.
+# You are given an integer array nums. You are initially positioned at the array's first index, and each element in the array represents your maximum jump length at that position.
 #
-# Each element in the array represents your maximum jump length at that position.
-#
-# Determine if you are able to reach the last index.
+# Return true if you can reach the last index, or false otherwise.
 #
 #  
 # Example 1:
@@ -25,7 +23,7 @@
 # Constraints:
 #
 #
-# 	1 <= nums.length <= 3 * 104
+# 	1 <= nums.length <= 104
 # 	0 <= nums[i] <= 105
 #
 #

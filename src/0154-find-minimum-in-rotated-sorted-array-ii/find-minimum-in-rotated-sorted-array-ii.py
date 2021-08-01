@@ -9,6 +9,8 @@
 #
 # Given the sorted rotated array nums that may contain duplicates, return the minimum element of this array.
 #
+# You must decrease the overall operation steps as much as possible.
+#
 #  
 # Example 1:
 # Input: nums = [1,3,5]
@@ -28,7 +30,10 @@
 #
 #
 #  
-# Follow up: This is the same as Find Minimum in Rotated Sorted Array but with duplicates. Would allow duplicates affect the run-time complexity? How and why?
+# Follow up: This problem is similar to Find Minimum in Rotated Sorted Array, but nums may contain duplicates. Would this affect the runtime complexity? How and why?
+#
+#  
+#
 
 
 class Solution:

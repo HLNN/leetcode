@@ -1,4 +1,6 @@
-# Given an unsorted integer array nums, find the smallest missing positive integer.
+# Given an unsorted integer array nums, return the smallest missing positive integer.
+#
+# You must implement an algorithm that runs in O(n) time and uses constant extra space.
 #
 #  
 # Example 1:
@@ -15,12 +17,9 @@
 # Constraints:
 #
 #
-# 	0 <= nums.length <= 300
+# 	1 <= nums.length <= 5 * 105
 # 	-231 <= nums[i] <= 231 - 1
 #
-#
-#  
-# Follow up: Could you implement an algorithm that runs in O(n) time and uses constant extra space?
 #
 
 

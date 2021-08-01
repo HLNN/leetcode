@@ -45,13 +45,7 @@
 #
 #
 #  
-#
-# Follow up:
-#
-# Recursive solution is trivial, could you do it iteratively?
-#
-#  
-#
+# Follow up: Recursive solution is trivial, could you do it iteratively?
 
 
 # Definition for a binary tree node.

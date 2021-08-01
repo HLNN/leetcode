@@ -2,8 +2,6 @@
 #
 # Return true if there is a 132 pattern in nums, otherwise, return false.
 #
-# Follow up: The O(n^2) is trivial, could you come up with the O(n logn) or the O(n) solution?
-#
 #  
 # Example 1:
 #
@@ -34,7 +32,7 @@
 #
 #
 # 	n == nums.length
-# 	1 <= n <= 104
+# 	1 <= n <= 2 * 105
 # 	-109 <= nums[i] <= 109
 #
 #

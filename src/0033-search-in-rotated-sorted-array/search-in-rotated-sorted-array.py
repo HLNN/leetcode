@@ -4,6 +4,8 @@
 #
 # Given the array nums after the rotation and an integer target, return the index of target if it is in nums, or -1 if it is not in nums.
 #
+# You must write an algorithm with O(log n) runtime complexity.
+#
 #  
 # Example 1:
 # Input: nums = [4,5,6,7,0,1,2], target = 0
@@ -26,8 +28,6 @@
 # 	-104 <= target <= 104
 #
 #
-#  
-# Follow up: Can you achieve this in O(log n) time complexity?
 
 
 class Solution:

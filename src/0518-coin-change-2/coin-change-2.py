@@ -1,14 +1,16 @@
-# You are given coins of different denominations and a total amount of money. Write a function to compute the number of combinations that make up that amount. You may assume that you have infinite number of each kind of coin.
+# You are given an integer array coins representing coins of different denominations and an integer amount representing a total amount of money.
 #
+# Return the number of combinations that make up that amount. If that amount of money cannot be made up by any combination of the coins, return 0.
 #
+# You may assume that you have an infinite number of each kind of coin.
 #
+# The answer is guaranteed to fit into a signed 32-bit integer.
 #
 #  
-#
 # Example 1:
 #
 #
-# Input: amount = 5, coins = [1, 2, 5]
+# Input: amount = 5, coins = [1,2,5]
 # Output: 4
 # Explanation: there are four ways to make up the amount:
 # 5=5
@@ -28,21 +30,18 @@
 # Example 3:
 #
 #
-# Input: amount = 10, coins = [10] 
+# Input: amount = 10, coins = [10]
 # Output: 1
 #
 #
 #  
-#
-# Note:
-#
-# You can assume that
+# Constraints:
 #
 #
+# 	1 <= coins.length <= 300
+# 	1 <= coins[i] <= 5000
+# 	All the values of coins are unique.
 # 	0 <= amount <= 5000
-# 	1 <= coin <= 5000
-# 	the number of coins is less than 500
-# 	the answer is guaranteed to fit into signed 32-bit integer
 #
 #
 

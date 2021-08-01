@@ -1,51 +1,43 @@
-# Given an array A of integers, for each integer A[i] we may choose any x with -K <= x <= K, and add x to A[i].
+# You are given an integer array nums and an integer k.
 #
-# After this process, we have some array B.
+# In one operation, you can choose any index i where 0 <= i < nums.length and change nums[i] to nums[i] + x where x is an integer from the range [-k, k]. You can apply this operation at most once for each index i.
 #
-# Return the smallest possible difference between the maximum value of B and the minimum value of B.
+# The score of nums is the difference between the maximum and minimum elements in nums.
+#
+# Return the minimum score of nums after applying the mentioned operation at most once for each index in it.
 #
 #  
-#
-#
-#
-#
-#
 # Example 1:
 #
 #
-# Input: A = [1], K = 0
+# Input: nums = [1], k = 0
 # Output: 0
-# Explanation: B = [1]
-#
+# Explanation: The score is max(nums) - min(nums) = 1 - 1 = 0.
 #
 #
 # Example 2:
 #
 #
-# Input: A = [0,10], K = 2
+# Input: nums = [0,10], k = 2
 # Output: 6
-# Explanation: B = [2,8]
-#
+# Explanation: Change nums to be [2, 8]. The score is max(nums) - min(nums) = 8 - 2 = 6.
 #
 #
 # Example 3:
 #
 #
-# Input: A = [1,3,6], K = 3
+# Input: nums = [1,3,6], k = 3
 # Output: 0
-# Explanation: B = [3,3,3] or B = [4,4,4]
+# Explanation: Change nums to be [4, 4, 4]. The score is max(nums) - min(nums) = 4 - 4 = 0.
 #
 #
 #  
-#
-# Note:
-#
-#
-# 	1 <= A.length <= 10000
-# 	0 <= A[i] <= 10000
-# 	0 <= K <= 10000
+# Constraints:
 #
 #
+# 	1 <= nums.length <= 104
+# 	0 <= nums[i] <= 104
+# 	0 <= k <= 104
 #
 #
 

@@ -4,6 +4,8 @@
 #
 # If there are several possible values for h, the maximum one is taken as the h-index.
 #
+# You must write an algorithm that runs in logarithmic time.
+#
 #  
 # Example 1:
 #
@@ -30,9 +32,6 @@
 # 	0 <= citations[i] <= 1000
 # 	citations is sorted in ascending order.
 #
-#
-#  
-# Follow up: Could you solve it in logarithmic time complexity?
 #
 
 

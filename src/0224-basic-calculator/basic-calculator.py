@@ -1,4 +1,6 @@
-# Given a string s representing an expression, implement a basic calculator to evaluate it.
+# Given a string s representing a valid expression, implement a basic calculator to evaluate it, and return the result of the evaluation.
+#
+# Note: You are not allowed to use any built-in function which evaluates strings as mathematical expressions, such as eval().
 #
 #  
 # Example 1:
@@ -29,6 +31,9 @@
 # 	1 <= s.length <= 3 * 105
 # 	s consists of digits, '+', '-', '(', ')', and ' '.
 # 	s represents a valid expression.
+# 	'+' is not used as a unary operation.
+# 	'-' could be used as a unary operation but it has to be followed by parentheses.
+# 	Every number and running calculation will fit in a signed 32-bit integer.
 #
 #
 

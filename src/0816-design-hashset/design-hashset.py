@@ -37,8 +37,6 @@
 # 	At most 104 calls will be made to add, remove, and contains.
 #
 #
-#  
-# Follow up: Could you solve the problem without using the built-in HashSet library?
 
 
 class MyHashSet:

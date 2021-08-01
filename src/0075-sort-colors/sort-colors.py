@@ -2,6 +2,8 @@
 #
 # We will use the integers 0, 1, and 2 to represent the color red, white, and blue, respectively.
 #
+# You must solve this problem without using the library's sort function.
+#
 #  
 # Example 1:
 # Input: nums = [2,0,2,1,1,0]
@@ -26,12 +28,7 @@
 #
 #
 #  
-# Follow up:
-#
-#
-# 	Could you solve this problem without using the library's sort function?
-# 	Could you come up with a one-pass algorithm using only O(1) constant space?
-#
+# Follow up: Could you come up with a one-pass algorithm using only constant extra space?
 #
 
 

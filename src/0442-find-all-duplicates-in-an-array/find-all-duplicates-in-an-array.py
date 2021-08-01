@@ -1,16 +1,27 @@
-# Given an array of integers, 1 ≤ a[i] ≤ n (n = size of array), some elements appear twice and others appear once.
+# Given an integer array nums of length n where all the integers of nums are in the range [1, n] and each integer appears once or twice, return an array of all the integers that appears twice.
 #
-# Find all the elements that appear twice in this array.
+# You must write an algorithm that runs in O(n) time and uses only constant extra space.
 #
-# Could you do it without extra space and in O(n) runtime?
+#  
+# Example 1:
+# Input: nums = [4,3,2,7,8,2,3,1]
+# Output: [2,3]
+# Example 2:
+# Input: nums = [1,1,2]
+# Output: [1]
+# Example 3:
+# Input: nums = [1]
+# Output: []
 #
-# Example:
+#  
+# Constraints:
 #
-# Input:
-# [4,3,2,7,8,2,3,1]
 #
-# Output:
-# [2,3]
+# 	n == nums.length
+# 	1 <= n <= 105
+# 	1 <= nums[i] <= n
+# 	Each element in nums appears once or twice.
+#
 #
 
 

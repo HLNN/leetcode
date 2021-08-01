@@ -2,7 +2,7 @@
 #
 # An arrow can be shot up exactly vertically from different points along the x-axis. A balloon with xstart and xend bursts by an arrow shot at x if xstart ≤ x ≤ xend. There is no limit to the number of arrows that can be shot. An arrow once shot keeps traveling up infinitely.
 #
-# Given an array points where points[i] = [xstart, xend], return the minimum number of arrows that must be shot to burst all balloons.
+# Given an array points where points[i] = [xstart, xend], return the minimum number of arrows that must be shot to burst all balloons.
 #
 #  
 # Example 1:
@@ -27,27 +27,13 @@
 # Output: 2
 #
 #
-# Example 4:
-#
-#
-# Input: points = [[1,2]]
-# Output: 1
-#
-#
-# Example 5:
-#
-#
-# Input: points = [[2,3],[2,3]]
-# Output: 1
-#
-#
 #  
 # Constraints:
 #
 #
-# 	0 <= points.length <= 104
+# 	1 <= points.length <= 104
 # 	points[i].length == 2
-# 	-231 <= xstart < xend <= 231 - 1
+# 	-231 <= xstart < xend <= 231 - 1
 #
 #
 

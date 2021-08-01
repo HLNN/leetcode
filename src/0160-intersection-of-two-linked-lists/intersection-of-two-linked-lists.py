@@ -2,9 +2,23 @@
 #
 # For example, the following two linked lists begin to intersect at node c1:
 #
-# It is guaranteed that there are no cycles anywhere in the entire linked structure.
+# The test cases are generated such that there are no cycles anywhere in the entire linked structure.
 #
 # Note that the linked lists must retain their original structure after the function returns.
+#
+# Custom Judge:
+#
+# The inputs to the judge are given as follows (your program is not given these inputs):
+#
+#
+# 	intersectVal - The value of the node where the intersection occurs. This is 0 if there is no intersected node.
+# 	listA - The first linked list.
+# 	listB - The second linked list.
+# 	skipA - The number of nodes to skip ahead in listA (starting from the head) to get to the intersected node.
+# 	skipB - The number of nodes to skip ahead in listB (starting from the head) to get to the intersected node.
+#
+#
+# The judge will then create the linked structure based on these inputs and pass the two heads, headA and headB to your program. If you correctly return the intersected node, then your solution will be accepted.
 #
 #  
 # Example 1:
@@ -45,7 +59,7 @@
 # 	0 <= skipA <= m
 # 	0 <= skipB <= n
 # 	intersectVal is 0 if listA and listB do not intersect.
-# 	intersectVal == listA[skipA + 1] == listB[skipB + 1] if listA and listB intersect.
+# 	intersectVal == listA[skipA] == listB[skipB] if listA and listB intersect.
 #
 #
 #  

@@ -1,6 +1,6 @@
-# Given an integer n, return the nth ugly number.
+# An ugly number is a positive integer whose prime factors are limited to 2, 3, and 5.
 #
-# Ugly number is a positive number whose prime factors only include 2, 3, and/or 5.
+# Given an integer n, return the nth ugly number.
 #
 #  
 # Example 1:
@@ -16,7 +16,7 @@
 #
 # Input: n = 1
 # Output: 1
-# Explanation: 1 is typically treated as an ugly number.
+# Explanation: 1 has no prime factors, therefore all of its prime factors are limited to 2, 3, and 5.
 #
 #
 #  
