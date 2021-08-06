@@ -22,19 +22,14 @@
 
 class Solution:
     def subsetsWithDup(self, nums: List[int]) -> List[List[int]]:
-        def bt(i, ans):
-            if i == n: return res.append(ans[:])
-            bt(i + 1, ans)
-            for _ in range(s[l[i]]):
-                ans.append(l[i])
-                bt(i + 1, ans)
-            for _ in range(s[l[i]]):
-                ans.pop()
+        def dfs(n, ans, res):
+            res.append(ans)
+            for i in range(n, len(nums)):
+                if i > n and nums[i] == nums[i-1]: continue
+                dfs(i+1, ans+[nums[i]], res)
         
         res = []
-        s = defaultdict(int)
-        for num in nums: s[num] += 1
-        
-        l, n = list(s), len(s)
-        bt(0, [])
+        nums.sort()
+        dfs(0, [], res)
         return res
+    

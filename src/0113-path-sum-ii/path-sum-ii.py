@@ -42,18 +42,15 @@
 #         self.left = left
 #         self.right = right
 class Solution:
-    def pathSum(self, root: TreeNode, sum: int) -> List[List[int]]:
-        def dfs(root, s, ans):
-            if not root: return
-            if not root.left and not root.right:
-                if s == root.val: self.res.append(ans + [root.val])
-            
-            ans.append(root.val)
-            dfs(root.left, s - root.val, ans)
-            dfs(root.right, s - root.val, ans)
-            ans.pop()
+    def pathSum(self, root: TreeNode, targetSum: int) -> List[List[int]]:
+        def dfs(node, path, s, res):
+            if not node: return
+            if not node.left and not node.right and s == node.val:
+                res.append(path + [node.val])
+            dfs(node.right, path + [node.val], s - node.val, res)
+            dfs(node.left, path + [node.val], s - node.val, res)
         
-        self.res = []
-        dfs(root, sum, [])
-        return self.res
+        res = []
+        dfs(root, [], targetSum, res)
+        return res
     
