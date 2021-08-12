@@ -1,6 +1,6 @@
-# Given a string s, the power of the string is the maximum length of a non-empty substring that contains only one unique character.
+# The power of the string is the maximum length of a non-empty substring that contains only one unique character.
 #
-# Return the power of the string.
+# Given a string s, return the power of s.
 #
 #  
 # Example 1:
@@ -45,7 +45,8 @@
 #
 #
 # 	1 <= s.length <= 500
-# 	s contains only lowercase English letters.
+# 	s consists of only lowercase English letters.
+#
 #
 
 

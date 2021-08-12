@@ -32,7 +32,8 @@
 # 	s consists of digits, '+', '-', '(', ')', and ' '.
 # 	s represents a valid expression.
 # 	'+' is not used as a unary operation.
-# 	'-' could be used as a unary operation but it has to be followed by parentheses.
+# 	'-' could be used as a unary operation but it has to be inside parentheses.
+# 	There will be no two consecutive operators in the input.
 # 	Every number and running calculation will fit in a signed 32-bit integer.
 #
 #

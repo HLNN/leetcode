@@ -1,8 +1,8 @@
-# Given a list of intervals, remove all intervals that are covered by another interval in the list.
+# Given an array intervals where intervals[i] = [li, ri] represent the interval [li, ri), remove all intervals that are covered by another interval in the list.
 #
-# Interval [a,b) is covered by interval [c,d) if and only if c <= a and b <= d.
+# The interval [a, b) is covered by the interval [c, d) if and only if c <= a and b <= d.
 #
-# After doing so, return the number of remaining intervals.
+# Return the number of remaining intervals.
 #
 #  
 # Example 1:
@@ -47,8 +47,9 @@
 #
 # 	1 <= intervals.length <= 1000
 # 	intervals[i].length == 2
-# 	0 <= intervals[i][0] < intervals[i][1] <= 10^5
-# 	All the intervals are unique.
+# 	0 <= li <= ri <= 105
+# 	All the given intervals are unique.
+#
 #
 
 
