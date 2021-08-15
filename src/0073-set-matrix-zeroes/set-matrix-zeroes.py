@@ -43,33 +43,27 @@ class Solution:
         """
         Do not return anything, modify matrix in-place instead.
         """
-        if not matrix: return matrix
-        n, m = len(matrix), len(matrix[0])
-        r, c = False, False
-        for i in range(n):
-            if matrix[i][0] == 0:
-                r = True
-        for j in range(m):
-            if matrix[0][j] == 0:
-                c = True
+        m, n = len(matrix), len(matrix[0])
+        origin = any(matrix[0][j] == 0 for j in range(n)), any(matrix[i][0] == 0 for i in range(m))
         
-        for i, j in product(range(1, n), range(1, m)):
+        for i, j in product(range(1, m), range(1, n)):
             if matrix[i][j] == 0:
                 matrix[i][0] = 0
                 matrix[0][j] = 0
-        for i in range(1, n):
+        
+        for i in range(1, m):
             if matrix[i][0] == 0:
-                for j in range(1, m):
+                for j in range(n):
                     matrix[i][j] = 0
-        for j in range(1, m):
+        for j in range(1, n):
             if matrix[0][j] == 0:
-                for i in range(1, n):
+                for i in range(m):
                     matrix[i][j] = 0
         
-        if r:
-            for i in range(n):
-                matrix[i][0] = 0
-        if c:
-            for j in range(m):
+        if origin[0]:
+            for j in range(n):
                 matrix[0][j] = 0
+        if origin[1]:
+            for i in range(m):
+                matrix[i][0] = 0
         

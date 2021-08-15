@@ -1,7 +1,7 @@
 # :pencil2: Leetcode Solutions with Python3,Cpp
-Update time:  2021-08-12 20:14:04
+Update time:  2021-08-15 15:43:00
 
-I have solved **301   /   1779** problems
+I have solved **302   /   1783** problems
 while there are **276** problems still locked.
 
 If you have any question, please give me an [issue](https://github.com/hlnn/leetcode/issues).
@@ -529,7 +529,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |543|[diameter-of-binary-tree](https://leetcode.com/problems/diameter-of-binary-tree)||[:memo:](https://leetcode.com/articles/diameter-of-binary-tree/)|Easy|
 |544|[output-contest-matches](https://leetcode.com/problems/output-contest-matches)|:lock:|[:memo:](https://leetcode.com/articles/output-contest-matches/)|Medium|
 |545|[boundary-of-binary-tree](https://leetcode.com/problems/boundary-of-binary-tree)|:lock:|[:memo:](https://leetcode.com/articles/boundary-of-binary-tree/)|Medium|
-|546|[remove-boxes](https://leetcode.com/problems/remove-boxes)||[:memo:](https://leetcode.com/articles/remove-boxes/)|Hard|
+|546|[remove-boxes](https://leetcode.com/problems/remove-boxes)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0546-remove-boxes/remove-boxes.py)|[:memo:](https://leetcode.com/articles/remove-boxes/)|Hard|
 |547|[number-of-provinces](https://leetcode.com/problems/number-of-provinces)||[:memo:](https://leetcode.com/articles/friend-circles/)|Medium|
 |548|[split-array-with-equal-sum](https://leetcode.com/problems/split-array-with-equal-sum)|:lock:|[:memo:](https://leetcode.com/articles/split-array-with-equal-sum/)|Hard|
 |549|[binary-tree-longest-consecutive-sequence-ii](https://leetcode.com/problems/binary-tree-longest-consecutive-sequence-ii)|:lock:|[:memo:](https://leetcode.com/articles/binary-tree-longest-consecutive-sequence-ii/)|Medium|
@@ -1787,9 +1787,13 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |2081|[minimum-total-space-wasted-with-k-resizing-operations](https://leetcode.com/problems/minimum-total-space-wasted-with-k-resizing-operations)|||Medium|
 |2083|[three-divisors](https://leetcode.com/problems/three-divisors)|||Easy|
 |2084|[maximum-number-of-weeks-for-which-you-can-work](https://leetcode.com/problems/maximum-number-of-weeks-for-which-you-can-work)|||Medium|
+|2085|[array-with-elements-not-equal-to-average-of-neighbors](https://leetcode.com/problems/array-with-elements-not-equal-to-average-of-neighbors)|||Medium|
 |2086|[count-number-of-special-subsequences](https://leetcode.com/problems/count-number-of-special-subsequences)|||Hard|
 |2093|[check-if-string-is-a-prefix-of-array](https://leetcode.com/problems/check-if-string-is-a-prefix-of-array)|||Easy|
 |2094|[remove-stones-to-minimize-the-total](https://leetcode.com/problems/remove-stones-to-minimize-the-total)|||Medium|
 |2095|[minimum-number-of-swaps-to-make-the-string-balanced](https://leetcode.com/problems/minimum-number-of-swaps-to-make-the-string-balanced)|||Medium|
 |2096|[find-the-longest-valid-obstacle-course-at-each-position](https://leetcode.com/problems/find-the-longest-valid-obstacle-course-at-each-position)|||Hard|
+|2099|[number-of-strings-that-appear-as-substrings-in-word](https://leetcode.com/problems/number-of-strings-that-appear-as-substrings-in-word)|||Easy|
+|2100|[minimum-non-zero-product-of-the-array-elements](https://leetcode.com/problems/minimum-non-zero-product-of-the-array-elements)|||Medium|
+|2101|[last-day-where-you-can-still-cross](https://leetcode.com/problems/last-day-where-you-can-still-cross)|||Hard|
 |2111|[binary-searchable-numbers-in-an-unsorted-array](https://leetcode.com/problems/binary-searchable-numbers-in-an-unsorted-array)|:lock:||Medium|

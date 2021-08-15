@@ -2,7 +2,9 @@
 #
 # The integer division should truncate toward zero.
 #
-# Note: You are not allowed to use any built-in function which evaluates strings as mathematical expressions, such as eval().
+# You may assume that the given expression is always valid. All intermediate results will be in the range of [-231, 231 - 1].
+#
+# Note: You are not allowed to use any built-in function which evaluates strings as mathematical expressions, such as eval().
 #
 #  
 # Example 1:
