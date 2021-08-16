@@ -1,7 +1,7 @@
 # :pencil2: Leetcode Solutions with Python3,Cpp
-Update time:  2021-08-15 15:43:00
+Update time:  2021-08-16 15:14:34
 
-I have solved **302   /   1783** problems
+I have solved **303   /   1783** problems
 while there are **276** problems still locked.
 
 If you have any question, please give me an [issue](https://github.com/hlnn/leetcode/issues).
@@ -89,7 +89,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |73|[set-matrix-zeroes](https://leetcode.com/problems/set-matrix-zeroes)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0073-set-matrix-zeroes/set-matrix-zeroes.py)|[:memo:](https://leetcode.com/articles/set-matrix-zeroes/)|Medium|
 |74|[search-a-2d-matrix](https://leetcode.com/problems/search-a-2d-matrix)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0074-search-a-2d-matrix/search-a-2d-matrix.py)|[:memo:](https://leetcode.com/articles/search-in-2d-matrix/)|Medium|
 |75|[sort-colors](https://leetcode.com/problems/sort-colors)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0075-sort-colors/sort-colors.py)|[:memo:](https://leetcode.com/articles/sort-colors/)|Medium|
-|76|[minimum-window-substring](https://leetcode.com/problems/minimum-window-substring)||[:memo:](https://leetcode.com/articles/minimum-window-substring/)|Hard|
+|76|[minimum-window-substring](https://leetcode.com/problems/minimum-window-substring)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0076-minimum-window-substring/minimum-window-substring.py)|[:memo:](https://leetcode.com/articles/minimum-window-substring/)|Hard|
 |77|[combinations](https://leetcode.com/problems/combinations)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0077-combinations/combinations.py)|[:memo:](https://leetcode.com/articles/combinations/)|Medium|
 |78|[subsets](https://leetcode.com/problems/subsets)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0078-subsets/subsets.py)|[:memo:](https://leetcode.com/articles/subsets/)|Medium|
 |79|[word-search](https://leetcode.com/problems/word-search)||[:memo:](https://leetcode.com/articles/word-search/)|Medium|
