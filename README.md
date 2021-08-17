@@ -1,7 +1,7 @@
 # :pencil2: Leetcode Solutions with Python3,Cpp
-Update time:  2021-08-16 15:14:34
+Update time:  2021-08-17 15:12:10
 
-I have solved **303   /   1783** problems
+I have solved **304   /   1784** problems
 while there are **276** problems still locked.
 
 If you have any question, please give me an [issue](https://github.com/hlnn/leetcode/issues).
@@ -299,7 +299,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |300|[longest-increasing-subsequence](https://leetcode.com/problems/longest-increasing-subsequence)||[:memo:](https://leetcode.com/articles/longest-increasing-subsequence/)|Medium|
 |301|[remove-invalid-parentheses](https://leetcode.com/problems/remove-invalid-parentheses)||[:memo:](https://leetcode.com/articles/remove-invalid-parentheses/)|Hard|
 |302|[smallest-rectangle-enclosing-black-pixels](https://leetcode.com/problems/smallest-rectangle-enclosing-black-pixels)|:lock:|[:memo:](https://leetcode.com/articles/smallest-rectangle-enclosing-black-pixels/)|Hard|
-|303|[range-sum-query-immutable](https://leetcode.com/problems/range-sum-query-immutable)||[:memo:](https://leetcode.com/articles/range-sum-query-immutable/)|Easy|
+|303|[range-sum-query-immutable](https://leetcode.com/problems/range-sum-query-immutable)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0303-range-sum-query-immutable/range-sum-query-immutable.py) [Cpp](https://github.com/hlnn/leetcode/blob/master/src/0303-range-sum-query-immutable/range-sum-query-immutable.cpp)|[:memo:](https://leetcode.com/articles/range-sum-query-immutable/)|Easy|
 |304|[range-sum-query-2d-immutable](https://leetcode.com/problems/range-sum-query-2d-immutable)||[:memo:](https://leetcode.com/articles/range-sum-query-2d-immutable/)|Medium|
 |305|[number-of-islands-ii](https://leetcode.com/problems/number-of-islands-ii)|:lock:|[:memo:](https://leetcode.com/articles/number-of-islands-ii/)|Hard|
 |306|[additive-number](https://leetcode.com/problems/additive-number)|||Medium|
@@ -1797,3 +1797,4 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |2100|[minimum-non-zero-product-of-the-array-elements](https://leetcode.com/problems/minimum-non-zero-product-of-the-array-elements)|||Medium|
 |2101|[last-day-where-you-can-still-cross](https://leetcode.com/problems/last-day-where-you-can-still-cross)|||Hard|
 |2111|[binary-searchable-numbers-in-an-unsorted-array](https://leetcode.com/problems/binary-searchable-numbers-in-an-unsorted-array)|:lock:||Medium|
+|2121|[find-if-path-exists-in-graph](https://leetcode.com/problems/find-if-path-exists-in-graph)|||Easy|
