@@ -1,7 +1,7 @@
 # :pencil2: Leetcode Solutions with Python3,Cpp
-Update time:  2021-08-17 15:12:10
+Update time:  2021-08-18 15:12:49
 
-I have solved **304   /   1784** problems
+I have solved **305   /   1784** problems
 while there are **276** problems still locked.
 
 If you have any question, please give me an [issue](https://github.com/hlnn/leetcode/issues).
@@ -1352,7 +1352,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |1539|[diagonal-traverse-ii](https://leetcode.com/problems/diagonal-traverse-ii)|||Medium|
 |1542|[consecutive-characters](https://leetcode.com/problems/consecutive-characters)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/1542-consecutive-characters/consecutive-characters.py)|[:memo:](https://leetcode.com/articles/consecutive-characters/)|Easy|
 |1543|[simplified-fractions](https://leetcode.com/problems/simplified-fractions)|||Medium|
-|1544|[count-good-nodes-in-binary-tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree)||[:memo:](https://leetcode.com/articles/count-good-nodes-in-binary-tree/)|Medium|
+|1544|[count-good-nodes-in-binary-tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/1544-count-good-nodes-in-binary-tree/count-good-nodes-in-binary-tree.py)|[:memo:](https://leetcode.com/articles/count-good-nodes-in-binary-tree/)|Medium|
 |1545|[form-largest-integer-with-digits-that-add-up-to-target](https://leetcode.com/problems/form-largest-integer-with-digits-that-add-up-to-target)|||Hard|
 |1547|[destination-city](https://leetcode.com/problems/destination-city)|||Easy|
 |1548|[check-if-all-1s-are-at-least-length-k-places-away](https://leetcode.com/problems/check-if-all-1s-are-at-least-length-k-places-away)||[:memo:](https://leetcode.com/articles/check-if-all-ones-are-at-least-k-places-away/)|Easy|
