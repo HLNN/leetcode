@@ -23,8 +23,8 @@
 # Example 3:
 #
 #
-# Input: nums = [0]
-# Output: 0
+# Input: nums = [1,2,3]
+# Output: 3
 #
 #
 #  
