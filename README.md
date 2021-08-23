@@ -1,7 +1,7 @@
 # :pencil2: Leetcode Solutions with Python3,Cpp
-Update time:  2021-08-21 15:17:15
+Update time:  2021-08-23 15:18:30
 
-I have solved **306   /   1785** problems
+I have solved **307   /   1793** problems
 while there are **277** problems still locked.
 
 If you have any question, please give me an [issue](https://github.com/hlnn/leetcode/issues).
@@ -810,7 +810,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |877|[shortest-path-visiting-all-nodes](https://leetcode.com/problems/shortest-path-visiting-all-nodes)||[:memo:](https://leetcode.com/articles/shortest-path-visiting-all-nodes/)|Hard|
 |878|[shifting-letters](https://leetcode.com/problems/shifting-letters)||[:memo:](https://leetcode.com/articles/shifting-letters/)|Medium|
 |879|[maximize-distance-to-closest-person](https://leetcode.com/problems/maximize-distance-to-closest-person)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0879-maximize-distance-to-closest-person/maximize-distance-to-closest-person.py)|[:memo:](https://leetcode.com/articles/maximize-distance-to-closest-person/)|Medium|
-|880|[rectangle-area-ii](https://leetcode.com/problems/rectangle-area-ii)||[:memo:](https://leetcode.com/articles/rectangle-area-ii/)|Hard|
+|880|[rectangle-area-ii](https://leetcode.com/problems/rectangle-area-ii)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0880-rectangle-area-ii/rectangle-area-ii.py)|[:memo:](https://leetcode.com/articles/rectangle-area-ii/)|Hard|
 |881|[loud-and-rich](https://leetcode.com/problems/loud-and-rich)||[:memo:](https://leetcode.com/articles/loud-and-rich/)|Medium|
 |882|[peak-index-in-a-mountain-array](https://leetcode.com/problems/peak-index-in-a-mountain-array)||[:memo:](https://leetcode.com/articles/peak-index-in-a-mountain-array/)|Easy|
 |883|[car-fleet](https://leetcode.com/problems/car-fleet)||[:memo:](https://leetcode.com/articles/car-fleet/)|Medium|
@@ -1789,6 +1789,10 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |2084|[maximum-number-of-weeks-for-which-you-can-work](https://leetcode.com/problems/maximum-number-of-weeks-for-which-you-can-work)|||Medium|
 |2085|[array-with-elements-not-equal-to-average-of-neighbors](https://leetcode.com/problems/array-with-elements-not-equal-to-average-of-neighbors)|||Medium|
 |2086|[count-number-of-special-subsequences](https://leetcode.com/problems/count-number-of-special-subsequences)|||Hard|
+|2088|[minimum-time-to-type-word-using-special-typewriter](https://leetcode.com/problems/minimum-time-to-type-word-using-special-typewriter)|||Easy|
+|2089|[maximum-matrix-sum](https://leetcode.com/problems/maximum-matrix-sum)|||Medium|
+|2090|[number-of-ways-to-arrive-at-destination](https://leetcode.com/problems/number-of-ways-to-arrive-at-destination)|||Medium|
+|2091|[number-of-ways-to-separate-numbers](https://leetcode.com/problems/number-of-ways-to-separate-numbers)|||Hard|
 |2093|[check-if-string-is-a-prefix-of-array](https://leetcode.com/problems/check-if-string-is-a-prefix-of-array)|||Easy|
 |2094|[remove-stones-to-minimize-the-total](https://leetcode.com/problems/remove-stones-to-minimize-the-total)|||Medium|
 |2095|[minimum-number-of-swaps-to-make-the-string-balanced](https://leetcode.com/problems/minimum-number-of-swaps-to-make-the-string-balanced)|||Medium|
@@ -1796,6 +1800,10 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |2099|[number-of-strings-that-appear-as-substrings-in-word](https://leetcode.com/problems/number-of-strings-that-appear-as-substrings-in-word)|||Easy|
 |2100|[minimum-non-zero-product-of-the-array-elements](https://leetcode.com/problems/minimum-non-zero-product-of-the-array-elements)|||Medium|
 |2101|[last-day-where-you-can-still-cross](https://leetcode.com/problems/last-day-where-you-can-still-cross)|||Hard|
+|2106|[find-greatest-common-divisor-of-array](https://leetcode.com/problems/find-greatest-common-divisor-of-array)|||Easy|
+|2107|[find-unique-binary-string](https://leetcode.com/problems/find-unique-binary-string)|||Medium|
+|2108|[minimize-the-difference-between-target-and-chosen-elements](https://leetcode.com/problems/minimize-the-difference-between-target-and-chosen-elements)|||Medium|
+|2109|[find-array-given-subset-sums](https://leetcode.com/problems/find-array-given-subset-sums)|||Hard|
 |2111|[binary-searchable-numbers-in-an-unsorted-array](https://leetcode.com/problems/binary-searchable-numbers-in-an-unsorted-array)|:lock:||Medium|
 |2121|[find-if-path-exists-in-graph](https://leetcode.com/problems/find-if-path-exists-in-graph)|||Easy|
 |2126|[count-nodes-equal-to-sum-of-descendants](https://leetcode.com/problems/count-nodes-equal-to-sum-of-descendants)|:lock:||Medium|
