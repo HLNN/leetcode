@@ -1,6 +1,4 @@
-# You are given the root of a binary search tree (BST), where exactly two nodes of the tree were swapped by mistake. Recover the tree without changing its structure.
-#
-# Follow up: A solution using O(n) space is pretty straight forward. Could you devise a constant space solution?
+# You are given the root of a binary search tree (BST), where the values of exactly two nodes of the tree were swapped by mistake. Recover the tree without changing its structure.
 #
 #  
 # Example 1:
@@ -27,6 +25,8 @@
 # 	-231 <= Node.val <= 231 - 1
 #
 #
+#  
+# Follow up: A solution using O(n) space is pretty straight-forward. Could you devise a constant O(1) space solution?
 
 
 # Definition for a binary tree node.
