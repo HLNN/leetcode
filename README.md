@@ -1,7 +1,7 @@
 # :pencil2: Leetcode Solutions with Python3,Cpp
-Update time:  2021-09-06 15:04:14
+Update time:  2021-09-07 15:03:31
 
-I have solved **318   /   1807** problems
+I have solved **319   /   1807** problems
 while there are **279** problems still locked.
 
 If you have any question, please give me an [issue](https://github.com/hlnn/leetcode/issues).
@@ -1517,7 +1517,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |1747|[lexicographically-smallest-string-after-applying-operations](https://leetcode.com/problems/lexicographically-smallest-string-after-applying-operations)|||Medium|
 |1748|[best-team-with-no-conflicts](https://leetcode.com/problems/best-team-with-no-conflicts)|||Medium|
 |1750|[check-if-two-expression-trees-are-equivalent](https://leetcode.com/problems/check-if-two-expression-trees-are-equivalent)|:lock:||Medium|
-|1751|[slowest-key](https://leetcode.com/problems/slowest-key)||[:memo:](https://leetcode.com/articles/slowest-key/)|Easy|
+|1751|[slowest-key](https://leetcode.com/problems/slowest-key)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/1751-slowest-key/slowest-key.py)|[:memo:](https://leetcode.com/articles/slowest-key/)|Easy|
 |1752|[arithmetic-subarrays](https://leetcode.com/problems/arithmetic-subarrays)|||Medium|
 |1753|[path-with-minimum-effort](https://leetcode.com/problems/path-with-minimum-effort)||[:memo:](https://leetcode.com/articles/path-with-minimum-effort/)|Medium|
 |1755|[defuse-the-bomb](https://leetcode.com/problems/defuse-the-bomb)|||Easy|
