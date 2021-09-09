@@ -1,7 +1,7 @@
 # :pencil2: Leetcode Solutions with Python3,Cpp
-Update time:  2021-09-08 15:04:59
+Update time:  2021-09-09 15:04:11
 
-I have solved **320   /   1807** problems
+I have solved **321   /   1807** problems
 while there are **279** problems still locked.
 
 If you have any question, please give me an [issue](https://github.com/hlnn/leetcode/issues).
@@ -809,7 +809,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |875|[longest-mountain-in-array](https://leetcode.com/problems/longest-mountain-in-array)||[:memo:](https://leetcode.com/articles/longest-mountain-in-array/)|Medium|
 |876|[hand-of-straights](https://leetcode.com/problems/hand-of-straights)||[:memo:](https://leetcode.com/articles/hand-of-straights/)|Medium|
 |877|[shortest-path-visiting-all-nodes](https://leetcode.com/problems/shortest-path-visiting-all-nodes)||[:memo:](https://leetcode.com/articles/shortest-path-visiting-all-nodes/)|Hard|
-|878|[shifting-letters](https://leetcode.com/problems/shifting-letters)||[:memo:](https://leetcode.com/articles/shifting-letters/)|Medium|
+|878|[shifting-letters](https://leetcode.com/problems/shifting-letters)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0878-shifting-letters/shifting-letters.py)|[:memo:](https://leetcode.com/articles/shifting-letters/)|Medium|
 |879|[maximize-distance-to-closest-person](https://leetcode.com/problems/maximize-distance-to-closest-person)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0879-maximize-distance-to-closest-person/maximize-distance-to-closest-person.py)|[:memo:](https://leetcode.com/articles/maximize-distance-to-closest-person/)|Medium|
 |880|[rectangle-area-ii](https://leetcode.com/problems/rectangle-area-ii)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0880-rectangle-area-ii/rectangle-area-ii.py)|[:memo:](https://leetcode.com/articles/rectangle-area-ii/)|Hard|
 |881|[loud-and-rich](https://leetcode.com/problems/loud-and-rich)||[:memo:](https://leetcode.com/articles/loud-and-rich/)|Medium|
@@ -993,7 +993,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |1064|[smallest-integer-divisible-by-k](https://leetcode.com/problems/smallest-integer-divisible-by-k)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/1064-smallest-integer-divisible-by-k/smallest-integer-divisible-by-k.py)|[:memo:](https://leetcode.com/articles/smallest-integer-divisible-by-k/)|Medium|
 |1065|[binary-string-with-substrings-representing-1-to-n](https://leetcode.com/problems/binary-string-with-substrings-representing-1-to-n)|||Medium|
 |1066|[fixed-point](https://leetcode.com/problems/fixed-point)|:lock:||Easy|
-|1067|[campus-bikes-ii](https://leetcode.com/problems/campus-bikes-ii)|:lock:||Medium|
+|1067|[campus-bikes-ii](https://leetcode.com/problems/campus-bikes-ii)|:lock:|[:memo:](https://leetcode.com/articles/campus-bikes-ii/)|Medium|
 |1068|[digit-count-in-range](https://leetcode.com/problems/digit-count-in-range)|:lock:||Hard|
 |1069|[confusing-number](https://leetcode.com/problems/confusing-number)|:lock:||Easy|
 |1070|[convert-to-base-2](https://leetcode.com/problems/convert-to-base-2)|||Medium|
