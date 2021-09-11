@@ -1,8 +1,8 @@
 # :pencil2: Leetcode Solutions with Python3,Cpp
-Update time:  2021-09-09 15:04:11
+Update time:  2021-09-11 15:08:42
 
-I have solved **321   /   1807** problems
-while there are **279** problems still locked.
+I have solved **322   /   1808** problems
+while there are **280** problems still locked.
 
 If you have any question, please give me an [issue](https://github.com/hlnn/leetcode/issues).
 
@@ -436,7 +436,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |443|[string-compression](https://leetcode.com/problems/string-compression)||[:memo:](https://leetcode.com/articles/string-compression/)|Medium|
 |444|[sequence-reconstruction](https://leetcode.com/problems/sequence-reconstruction)|:lock:||Medium|
 |445|[add-two-numbers-ii](https://leetcode.com/problems/add-two-numbers-ii)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0445-add-two-numbers-ii/add-two-numbers-ii.py)|[:memo:](https://leetcode.com/articles/add-two-numbers-ii/)|Medium|
-|446|[arithmetic-slices-ii-subsequence](https://leetcode.com/problems/arithmetic-slices-ii-subsequence)||[:memo:](https://leetcode.com/articles/arithmetic-slices-ii-subsequence/)|Hard|
+|446|[arithmetic-slices-ii-subsequence](https://leetcode.com/problems/arithmetic-slices-ii-subsequence)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0446-arithmetic-slices-ii-subsequence/arithmetic-slices-ii-subsequence.py)|[:memo:](https://leetcode.com/articles/arithmetic-slices-ii-subsequence/)|Hard|
 |447|[number-of-boomerangs](https://leetcode.com/problems/number-of-boomerangs)|||Medium|
 |448|[find-all-numbers-disappeared-in-an-array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0448-find-all-numbers-disappeared-in-an-array/find-all-numbers-disappeared-in-an-array.py)|[:memo:](https://leetcode.com/articles/find-all-numbers-disappeared-in-an-array/)|Easy|
 |449|[serialize-and-deserialize-bst](https://leetcode.com/problems/serialize-and-deserialize-bst)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0449-serialize-and-deserialize-bst/serialize-and-deserialize-bst.py)|[:memo:](https://leetcode.com/articles/serialize-and-deserialize-bst/)|Medium|
@@ -1821,3 +1821,4 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |2124|[first-day-where-you-have-been-in-all-the-rooms](https://leetcode.com/problems/first-day-where-you-have-been-in-all-the-rooms)|||Medium|
 |2125|[gcd-sort-of-an-array](https://leetcode.com/problems/gcd-sort-of-an-array)|||Hard|
 |2126|[count-nodes-equal-to-sum-of-descendants](https://leetcode.com/problems/count-nodes-equal-to-sum-of-descendants)|:lock:||Medium|
+|2141|[smallest-greater-multiple-made-of-two-digits](https://leetcode.com/problems/smallest-greater-multiple-made-of-two-digits)|:lock:||Medium|
