@@ -35,36 +35,25 @@ class Solution:
         """
         Do not return anything, modify board in-place instead.
         """
-        if len(board) < 2 or len(board[0]) < 2: return
-        def valid(i, j):
-            return  i >=0 and j >= 0 and i < len(board) and j < len(board[0])
+        def dfs(i, j):
+            if board[i][j] == 'O':
+                board[i][j] = 'Z'
+                nei = [(1, 0), (-1, 0), (0, 1), (0, -1)]
+                for di, dj in nei:
+                    ii, jj = i + di, j + dj
+                    if 0 <= ii < n and 0 <= jj < m:
+                        dfs(ii, jj)
         
-        def dfs(i, j, diff):
-            board[i][j] = "Y"
-            for n in range(4):
-                ni = i + diff[n][0]
-                nj = j + diff[n][1]
-                if valid(ni, nj) and board[ni][nj] == "O":
-                    dfs(ni, nj, diff)
-            
-        diff = [[-1, 0], [0, -1], [1, 0], [0, 1]]
+        n, m = len(board), len(board[0])
         
-        for i in range(len(board)):
-            if board[i][0] == "O":
-                dfs(i, 0, diff)
-            if board[i][len(board[0]) - 1] == "O":
-                dfs(i, len(board[0]) - 1, diff)
-            
-        for j in range(1, len(board[0])):
-            if board[0][j] == "O":
-                dfs(0, j, diff)
-            if board[len(board) - 1][j] == "O":
-                dfs(len(board) - 1, j, diff)
-                
-        for i, j in product(range(len(board)), range(len(board[0]))):
-            if board[i][j] == "O":
-                board[i][j] = "X"
-            elif board[i][j] == "Y":
-                board[i][j] = "O"
-                
+        for i in range(n):
+            dfs(i, 0)
+            dfs(i, m - 1)
+        for j in range(m):
+            dfs(0, j)
+            dfs(n - 1, j)
         
+        for i in range(n):
+            for j in range(m):
+                board[i][j] = 'O' if board[i][j] == 'Z' else 'X'
+    

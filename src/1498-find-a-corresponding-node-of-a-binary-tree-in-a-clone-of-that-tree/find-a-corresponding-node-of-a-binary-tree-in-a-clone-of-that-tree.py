@@ -6,8 +6,6 @@
 #
 # Note that you are not allowed to change any of the two trees or the target node and the answer must be a reference to a node in the cloned tree.
 #
-# Follow up: Solve the problem if repeated values on the tree are allowed.
-#
 #  
 # Example 1:
 #
@@ -49,9 +47,13 @@
 # Constraints:
 #
 #
-# 	The number of nodes in the tree is in the range [1, 10^4].
+# 	The number of nodes in the tree is in the range [1, 104].
 # 	The values of the nodes of the tree are unique.
-# 	target node is a node from the original tree and is not null.
+# 	target node is a node from the original tree and is not null.
+#
+#
+#  
+# Follow up: Could you solve the problem if repeated values on the tree are allowed?
 #
 
 

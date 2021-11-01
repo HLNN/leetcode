@@ -7,8 +7,6 @@
 # 	If the node is found, delete the node.
 #
 #
-# Follow up: Can you solve it with time complexity O(height of tree)?
-#
 #  
 # Example 1:
 #
@@ -46,6 +44,9 @@
 # 	root is a valid binary search tree.
 # 	-105 <= key <= 105
 #
+#
+#  
+# Follow up: Could you solve it with time complexity O(height of tree)?
 #
 
 
