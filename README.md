@@ -1,7 +1,7 @@
 # :pencil2: Leetcode Solutions with Python3,Cpp
-Update time:  2021-11-01 23:39:58
+Update time:  2021-11-02 23:40:18
 
-I have solved **325   /   1863** problems
+I have solved **329   /   1863** problems
 while there are **287** problems still locked.
 
 If you have any question, please give me an [issue](https://github.com/hlnn/leetcode/issues).
@@ -300,7 +300,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |301|[remove-invalid-parentheses](https://leetcode.com/problems/remove-invalid-parentheses)||[:memo:](https://leetcode.com/articles/remove-invalid-parentheses/)|Hard|
 |302|[smallest-rectangle-enclosing-black-pixels](https://leetcode.com/problems/smallest-rectangle-enclosing-black-pixels)|:lock:|[:memo:](https://leetcode.com/articles/smallest-rectangle-enclosing-black-pixels/)|Hard|
 |303|[range-sum-query-immutable](https://leetcode.com/problems/range-sum-query-immutable)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0303-range-sum-query-immutable/range-sum-query-immutable.py) [Cpp](https://github.com/hlnn/leetcode/blob/master/src/0303-range-sum-query-immutable/range-sum-query-immutable.cpp)|[:memo:](https://leetcode.com/articles/range-sum-query-immutable/)|Easy|
-|304|[range-sum-query-2d-immutable](https://leetcode.com/problems/range-sum-query-2d-immutable)||[:memo:](https://leetcode.com/articles/range-sum-query-2d-immutable/)|Medium|
+|304|[range-sum-query-2d-immutable](https://leetcode.com/problems/range-sum-query-2d-immutable)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0304-range-sum-query-2d-immutable/range-sum-query-2d-immutable.py)|[:memo:](https://leetcode.com/articles/range-sum-query-2d-immutable/)|Medium|
 |305|[number-of-islands-ii](https://leetcode.com/problems/number-of-islands-ii)|:lock:|[:memo:](https://leetcode.com/articles/number-of-islands-ii/)|Hard|
 |306|[additive-number](https://leetcode.com/problems/additive-number)|||Medium|
 |307|[range-sum-query-mutable](https://leetcode.com/problems/range-sum-query-mutable)||[:memo:](https://leetcode.com/articles/range-sum-query-mutable/)|Medium|
@@ -493,7 +493,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |503|[next-greater-element-ii](https://leetcode.com/problems/next-greater-element-ii)||[:memo:](https://leetcode.com/articles/next-greater-element-ii/)|Medium|
 |504|[base-7](https://leetcode.com/problems/base-7)|||Easy|
 |505|[the-maze-ii](https://leetcode.com/problems/the-maze-ii)|:lock:|[:memo:](https://leetcode.com/articles/the-maze-ii/)|Medium|
-|506|[relative-ranks](https://leetcode.com/problems/relative-ranks)|||Easy|
+|506|[relative-ranks](https://leetcode.com/problems/relative-ranks)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0506-relative-ranks/relative-ranks.py)||Easy|
 |507|[perfect-number](https://leetcode.com/problems/perfect-number)||[:memo:](https://leetcode.com/articles/perfect-number/)|Easy|
 |508|[most-frequent-subtree-sum](https://leetcode.com/problems/most-frequent-subtree-sum)|||Medium|
 |509|[inorder-successor-in-bst-ii](https://leetcode.com/problems/inorder-successor-in-bst-ii)|:lock:|[:memo:](https://leetcode.com/articles/inorder-successor-in-a-bst-ii/)|Medium|
@@ -544,7 +544,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |555|[split-concatenated-strings](https://leetcode.com/problems/split-concatenated-strings)|:lock:|[:memo:](https://leetcode.com/articles/split-concatenated-strings/)|Medium|
 |556|[next-greater-element-iii](https://leetcode.com/problems/next-greater-element-iii)||[:memo:](https://leetcode.com/articles/next-greater-element-iii/)|Medium|
 |557|[reverse-words-in-a-string-iii](https://leetcode.com/problems/reverse-words-in-a-string-iii)||[:memo:](https://leetcode.com/articles/reverse-words-in-a-string-iii/)|Easy|
-|560|[subarray-sum-equals-k](https://leetcode.com/problems/subarray-sum-equals-k)||[:memo:](https://leetcode.com/articles/subarray-sum-equals-k/)|Medium|
+|560|[subarray-sum-equals-k](https://leetcode.com/problems/subarray-sum-equals-k)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0560-subarray-sum-equals-k/subarray-sum-equals-k.py)|[:memo:](https://leetcode.com/articles/subarray-sum-equals-k/)|Medium|
 |561|[array-partition-i](https://leetcode.com/problems/array-partition-i)||[:memo:](https://leetcode.com/articles/array-partition-i/)|Easy|
 |562|[longest-line-of-consecutive-one-in-matrix](https://leetcode.com/problems/longest-line-of-consecutive-one-in-matrix)|:lock:|[:memo:](https://leetcode.com/articles/longest-line-of-consecutive-one-in-matrix/)|Medium|
 |563|[binary-tree-tilt](https://leetcode.com/problems/binary-tree-tilt)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0563-binary-tree-tilt/binary-tree-tilt.py)|[:memo:](https://leetcode.com/articles/binary-tree-tilt/)|Easy|
@@ -950,7 +950,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |1019|[squares-of-a-sorted-array](https://leetcode.com/problems/squares-of-a-sorted-array)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/1019-squares-of-a-sorted-array/squares-of-a-sorted-array.py)|[:memo:](https://leetcode.com/articles/squares-of-a-sorted-array/)|Easy|
 |1020|[longest-turbulent-subarray](https://leetcode.com/problems/longest-turbulent-subarray)||[:memo:](https://leetcode.com/articles/longest-turbulent-subarray/)|Medium|
 |1021|[distribute-coins-in-binary-tree](https://leetcode.com/problems/distribute-coins-in-binary-tree)||[:memo:](https://leetcode.com/articles/distribute-coins-in-binary-tree/)|Medium|
-|1022|[unique-paths-iii](https://leetcode.com/problems/unique-paths-iii)||[:memo:](https://leetcode.com/articles/unique-paths-iii/)|Hard|
+|1022|[unique-paths-iii](https://leetcode.com/problems/unique-paths-iii)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/1022-unique-paths-iii/unique-paths-iii.py)|[:memo:](https://leetcode.com/articles/unique-paths-iii/)|Hard|
 |1023|[time-based-key-value-store](https://leetcode.com/problems/time-based-key-value-store)||[:memo:](https://leetcode.com/articles/time-based-key-value-store/)|Medium|
 |1024|[triples-with-bitwise-and-equal-to-zero](https://leetcode.com/problems/triples-with-bitwise-and-equal-to-zero)|||Hard|
 |1025|[minimum-cost-for-tickets](https://leetcode.com/problems/minimum-cost-for-tickets)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/1025-minimum-cost-for-tickets/minimum-cost-for-tickets.py)|[:memo:](https://leetcode.com/articles/minimum-cost-for-tickets/)|Medium|
