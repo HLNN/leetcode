@@ -66,3 +66,4 @@ class Solution:
         if root.right:
             res += self.dfs(root.right, s * 10 + root.val)
         return res
+    
