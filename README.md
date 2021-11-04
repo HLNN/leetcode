@@ -1,8 +1,8 @@
 # :pencil2: Leetcode Solutions with Python3,Cpp
-Update time:  2021-11-03 23:39:59
+Update time:  2021-11-04 23:39:20
 
-I have solved **330   /   1863** problems
-while there are **287** problems still locked.
+I have solved **331   /   1864** problems
+while there are **288** problems still locked.
 
 If you have any question, please give me an [issue](https://github.com/hlnn/leetcode/issues).
 
@@ -360,7 +360,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |361|[bomb-enemy](https://leetcode.com/problems/bomb-enemy)|:lock:|[:memo:](https://leetcode.com/articles/bomb-enemy/)|Medium|
 |362|[design-hit-counter](https://leetcode.com/problems/design-hit-counter)|:lock:|[:memo:](https://leetcode.com/articles/design-hit-counter/)|Medium|
 |363|[max-sum-of-rectangle-no-larger-than-k](https://leetcode.com/problems/max-sum-of-rectangle-no-larger-than-k)||[:memo:](https://leetcode.com/articles/max-sum-of-rectangle-no-larger-than-k/)|Hard|
-|364|[nested-list-weight-sum-ii](https://leetcode.com/problems/nested-list-weight-sum-ii)|:lock:||Medium|
+|364|[nested-list-weight-sum-ii](https://leetcode.com/problems/nested-list-weight-sum-ii)|:lock:|[:memo:](https://leetcode.com/articles/nested-list-weight-sum-ii/)|Medium|
 |365|[water-and-jug-problem](https://leetcode.com/problems/water-and-jug-problem)|||Medium|
 |366|[find-leaves-of-binary-tree](https://leetcode.com/problems/find-leaves-of-binary-tree)|:lock:|[:memo:](https://leetcode.com/articles/find-leaves-of-binary-tree/)|Medium|
 |367|[valid-perfect-square](https://leetcode.com/problems/valid-perfect-square)||[:memo:](https://leetcode.com/articles/valid-perfect-square/)|Easy|
@@ -641,7 +641,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |687|[longest-univalue-path](https://leetcode.com/problems/longest-univalue-path)||[:memo:](https://leetcode.com/articles/longest-univalue-path/)|Medium|
 |688|[knight-probability-in-chessboard](https://leetcode.com/problems/knight-probability-in-chessboard)||[:memo:](https://leetcode.com/articles/knight-probability-in-chessboard/)|Medium|
 |689|[maximum-sum-of-3-non-overlapping-subarrays](https://leetcode.com/problems/maximum-sum-of-3-non-overlapping-subarrays)||[:memo:](https://leetcode.com/articles/maximum-sum-of-3-non-overlapping-intervals/)|Hard|
-|690|[employee-importance](https://leetcode.com/problems/employee-importance)||[:memo:](https://leetcode.com/articles/employee-importance/)|Easy|
+|690|[employee-importance](https://leetcode.com/problems/employee-importance)||[:memo:](https://leetcode.com/articles/employee-importance/)|Medium|
 |691|[stickers-to-spell-word](https://leetcode.com/problems/stickers-to-spell-word)||[:memo:](https://leetcode.com/articles/stickers-to-spell-word/)|Hard|
 |692|[top-k-frequent-words](https://leetcode.com/problems/top-k-frequent-words)||[:memo:](https://leetcode.com/articles/top-k-frequent-words/)|Medium|
 |693|[binary-number-with-alternating-bits](https://leetcode.com/problems/binary-number-with-alternating-bits)||[:memo:](https://leetcode.com/articles/binary-number-with-alternating-bits/)|Easy|
@@ -1110,7 +1110,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |1201|[delete-tree-nodes](https://leetcode.com/problems/delete-tree-nodes)|:lock:||Medium|
 |1202|[palindrome-removal](https://leetcode.com/problems/palindrome-removal)|:lock:||Hard|
 |1205|[defanging-an-ip-address](https://leetcode.com/problems/defanging-an-ip-address)|||Easy|
-|1206|[corporate-flight-bookings](https://leetcode.com/problems/corporate-flight-bookings)|||Medium|
+|1206|[corporate-flight-bookings](https://leetcode.com/problems/corporate-flight-bookings)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/1206-corporate-flight-bookings/corporate-flight-bookings.py)||Medium|
 |1207|[delete-nodes-and-return-forest](https://leetcode.com/problems/delete-nodes-and-return-forest)|||Medium|
 |1208|[maximum-nesting-depth-of-two-valid-parentheses-strings](https://leetcode.com/problems/maximum-nesting-depth-of-two-valid-parentheses-strings)|||Medium|
 |1210|[mean-of-array-after-removing-some-elements](https://leetcode.com/problems/mean-of-array-after-removing-some-elements)|||Easy|
@@ -1877,3 +1877,4 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |2182|[find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://leetcode.com/problems/find-the-minimum-and-maximum-number-of-nodes-between-critical-points)|||Medium|
 |2183|[minimum-operations-to-convert-number](https://leetcode.com/problems/minimum-operations-to-convert-number)|||Medium|
 |2184|[check-if-an-original-string-exists-given-two-encoded-strings](https://leetcode.com/problems/check-if-an-original-string-exists-given-two-encoded-strings)|||Hard|
+|2203|[number-of-spaces-cleaning-robot-cleaned](https://leetcode.com/problems/number-of-spaces-cleaning-robot-cleaned)|:lock:||Medium|
