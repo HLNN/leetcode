@@ -44,18 +44,17 @@
 
 
 class Solution:
-    def lengthOfLongestSubstring(self, s):
-        """
-        :type s: str
-        :rtype: int
-        """
-        m = ""
-        cur = ""
-        for ch in s:
-            if ch in cur:
-                if len(cur) > len(m):
-                    m = cur
-                cur = cur[cur.index(ch) + 1:] + ch
-            else:
-                cur += ch
-        return max(len(cur), len(m))
+    def lengthOfLongestSubstring(self, s: str) -> int:
+        window = defaultdict(int)
+        res, l, r = 0, 0, 0
+        
+        for c in s:
+            window[c] += 1
+            r += 1
+            while window[c] > 1:
+                window[s[l]] -= 1
+                l += 1
+            res = max(res, r - l)
+        
+        return res
+    
