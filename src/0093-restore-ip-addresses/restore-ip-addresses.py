@@ -23,7 +23,7 @@
 # Constraints:
 #
 #
-# 	0 <= s.length <= 3000
+# 	0 <= s.length <= 20
 # 	s consists of digits only.
 #
 #

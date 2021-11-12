@@ -39,13 +39,15 @@
 #         self.val = val
 #         self.next = next
 class Solution:
-    def removeElements(self, head: ListNode, val: int) -> ListNode:
-        dummy = ListNode(next=head)        
-        n = dummy
-        while n.next:
-            if n.next.val == val:
-                n.next = n.next.next
-            else:
-                n = n.next
-        return dummy.next
+    def removeElements(self, head: Optional[ListNode], val: int) -> Optional[ListNode]:
+        dummy = ListNode(next=head)
+        curr  = dummy
         
+        while head:
+            if head.val == val:
+                curr.next, head = head.next, head.next
+            else:
+                curr, head = curr.next, head.next
+        
+        return dummy.next
+    

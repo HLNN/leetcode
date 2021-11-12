@@ -1,8 +1,8 @@
 # :pencil2: Leetcode Solutions with Python3,Cpp
-Update time:  2021-11-08 23:39:59
+Update time:  2021-11-12 23:42:01
 
-I have solved **335   /   1868** problems
-while there are **288** problems still locked.
+I have solved **342   /   1869** problems
+while there are **289** problems still locked.
 
 If you have any question, please give me an [issue](https://github.com/hlnn/leetcode/issues).
 
@@ -127,7 +127,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |111|[minimum-depth-of-binary-tree](https://leetcode.com/problems/minimum-depth-of-binary-tree)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0111-minimum-depth-of-binary-tree/minimum-depth-of-binary-tree.py)|[:memo:](https://leetcode.com/articles/minimum-depth-of-binary-tree/)|Easy|
 |112|[path-sum](https://leetcode.com/problems/path-sum)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0112-path-sum/path-sum.py)|[:memo:](https://leetcode.com/articles/path-sum/)|Easy|
 |113|[path-sum-ii](https://leetcode.com/problems/path-sum-ii)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0113-path-sum-ii/path-sum-ii.py)|[:memo:](https://leetcode.com/articles/path-sum-ii/)|Medium|
-|114|[flatten-binary-tree-to-linked-list](https://leetcode.com/problems/flatten-binary-tree-to-linked-list)||[:memo:](https://leetcode.com/articles/flatten-binary-tree-to-linked-list/)|Medium|
+|114|[flatten-binary-tree-to-linked-list](https://leetcode.com/problems/flatten-binary-tree-to-linked-list)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0114-flatten-binary-tree-to-linked-list/flatten-binary-tree-to-linked-list.py)|[:memo:](https://leetcode.com/articles/flatten-binary-tree-to-linked-list/)|Medium|
 |115|[distinct-subsequences](https://leetcode.com/problems/distinct-subsequences)||[:memo:](https://leetcode.com/articles/distinct-subsequences/)|Hard|
 |116|[populating-next-right-pointers-in-each-node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0116-populating-next-right-pointers-in-each-node/populating-next-right-pointers-in-each-node.py)|[:memo:](https://leetcode.com/articles/populating-next-right-pointers-in-each-node/)|Medium|
 |117|[populating-next-right-pointers-in-each-node-ii](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0117-populating-next-right-pointers-in-each-node-ii/populating-next-right-pointers-in-each-node-ii.py)|[:memo:](https://leetcode.com/articles/populating-next-right-pointers-in-each-node-ii/)|Medium|
@@ -222,14 +222,14 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |222|[count-complete-tree-nodes](https://leetcode.com/problems/count-complete-tree-nodes)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0222-count-complete-tree-nodes/count-complete-tree-nodes.py)|[:memo:](https://leetcode.com/articles/count-complete-tree-nodes/)|Medium|
 |223|[rectangle-area](https://leetcode.com/problems/rectangle-area)|||Medium|
 |224|[basic-calculator](https://leetcode.com/problems/basic-calculator)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0224-basic-calculator/basic-calculator.py)|[:memo:](https://leetcode.com/articles/basic-calculator/)|Hard|
-|225|[implement-stack-using-queues](https://leetcode.com/problems/implement-stack-using-queues)||[:memo:](https://leetcode.com/articles/implement-stack-using-queues/)|Easy|
+|225|[implement-stack-using-queues](https://leetcode.com/problems/implement-stack-using-queues)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0225-implement-stack-using-queues/implement-stack-using-queues.py)|[:memo:](https://leetcode.com/articles/implement-stack-using-queues/)|Easy|
 |226|[invert-binary-tree](https://leetcode.com/problems/invert-binary-tree)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0226-invert-binary-tree/invert-binary-tree.py)|[:memo:](https://leetcode.com/articles/invert-binary-tree/)|Easy|
 |227|[basic-calculator-ii](https://leetcode.com/problems/basic-calculator-ii)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0227-basic-calculator-ii/basic-calculator-ii.py)|[:memo:](https://leetcode.com/articles/basic-calculator-ii/)|Medium|
 |228|[summary-ranges](https://leetcode.com/problems/summary-ranges)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0228-summary-ranges/summary-ranges.py)|[:memo:](https://leetcode.com/articles/summary-ranges/)|Easy|
 |229|[majority-element-ii](https://leetcode.com/problems/majority-element-ii)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0229-majority-element-ii/majority-element-ii.py)|[:memo:](https://leetcode.com/articles/majority-element-ii/)|Medium|
 |230|[kth-smallest-element-in-a-bst](https://leetcode.com/problems/kth-smallest-element-in-a-bst)||[:memo:](https://leetcode.com/articles/kth-smallest-element-in-a-bst/)|Medium|
 |231|[power-of-two](https://leetcode.com/problems/power-of-two)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0231-power-of-two/power-of-two.py)|[:memo:](https://leetcode.com/articles/power-of-two/)|Easy|
-|232|[implement-queue-using-stacks](https://leetcode.com/problems/implement-queue-using-stacks)||[:memo:](https://leetcode.com/articles/implement-queue-using-stacks/)|Easy|
+|232|[implement-queue-using-stacks](https://leetcode.com/problems/implement-queue-using-stacks)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0232-implement-queue-using-stacks/implement-queue-using-stacks.py)|[:memo:](https://leetcode.com/articles/implement-queue-using-stacks/)|Easy|
 |233|[number-of-digit-one](https://leetcode.com/problems/number-of-digit-one)||[:memo:](https://leetcode.com/articles/number-of-digit-one/)|Hard|
 |234|[palindrome-linked-list](https://leetcode.com/problems/palindrome-linked-list)||[:memo:](https://leetcode.com/articles/palindrome-linked-list/)|Easy|
 |235|[lowest-common-ancestor-of-a-binary-search-tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree)||[:memo:](https://leetcode.com/articles/lowest-common-ancestor-of-a-binary-search-tree/)|Easy|
@@ -679,7 +679,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |736|[parse-lisp-expression](https://leetcode.com/problems/parse-lisp-expression)||[:memo:](https://leetcode.com/articles/parse-lisp-expression/)|Hard|
 |737|[sentence-similarity-ii](https://leetcode.com/problems/sentence-similarity-ii)|:lock:|[:memo:](https://leetcode.com/articles/sentence-similarity-ii/)|Medium|
 |738|[monotone-increasing-digits](https://leetcode.com/problems/monotone-increasing-digits)||[:memo:](https://leetcode.com/articles/monotone-increasing-digits/)|Medium|
-|739|[daily-temperatures](https://leetcode.com/problems/daily-temperatures)||[:memo:](https://leetcode.com/articles/daily-temperatures/)|Medium|
+|739|[daily-temperatures](https://leetcode.com/problems/daily-temperatures)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0739-daily-temperatures/daily-temperatures.py)|[:memo:](https://leetcode.com/articles/daily-temperatures/)|Medium|
 |740|[delete-and-earn](https://leetcode.com/problems/delete-and-earn)||[:memo:](https://leetcode.com/articles/delete-and-earn/)|Medium|
 |741|[cherry-pickup](https://leetcode.com/problems/cherry-pickup)||[:memo:](https://leetcode.com/articles/cherry-pickup/)|Hard|
 |742|[to-lower-case](https://leetcode.com/problems/to-lower-case)||[:memo:](https://leetcode.com/articles/to-lower-case/)|Easy|
@@ -724,7 +724,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |781|[basic-calculator-iv](https://leetcode.com/problems/basic-calculator-iv)||[:memo:](https://leetcode.com/articles/basic-calculator-iv/)|Hard|
 |782|[jewels-and-stones](https://leetcode.com/problems/jewels-and-stones)||[:memo:](https://leetcode.com/articles/jewels-and-stones/)|Easy|
 |783|[search-in-a-binary-search-tree](https://leetcode.com/problems/search-in-a-binary-search-tree)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0783-search-in-a-binary-search-tree/search-in-a-binary-search-tree.py)|[:memo:](https://leetcode.com/articles/search-in-a-bst/)|Easy|
-|784|[insert-into-a-binary-search-tree](https://leetcode.com/problems/insert-into-a-binary-search-tree)||[:memo:](https://leetcode.com/articles/insert-into-a-bst/)|Medium|
+|784|[insert-into-a-binary-search-tree](https://leetcode.com/problems/insert-into-a-binary-search-tree)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0784-insert-into-a-binary-search-tree/insert-into-a-binary-search-tree.py)|[:memo:](https://leetcode.com/articles/insert-into-a-bst/)|Medium|
 |785|[basic-calculator-iii](https://leetcode.com/problems/basic-calculator-iii)|:lock:||Hard|
 |786|[search-in-a-sorted-array-of-unknown-size](https://leetcode.com/problems/search-in-a-sorted-array-of-unknown-size)|:lock:|[:memo:](https://leetcode.com/articles/search-in-a-sorted-array-of-unknown-size/)|Medium|
 |787|[sliding-puzzle](https://leetcode.com/problems/sliding-puzzle)||[:memo:](https://leetcode.com/articles/sliding-puzzle/)|Hard|
@@ -1169,7 +1169,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |1279|[prime-arrangements](https://leetcode.com/problems/prime-arrangements)|||Easy|
 |1280|[diet-plan-performance](https://leetcode.com/problems/diet-plan-performance)|:lock:||Easy|
 |1281|[can-make-palindrome-from-substring](https://leetcode.com/problems/can-make-palindrome-from-substring)|||Medium|
-|1282|[number-of-valid-words-for-each-puzzle](https://leetcode.com/problems/number-of-valid-words-for-each-puzzle)||[:memo:](https://leetcode.com/articles/number-of-valid-words-for-each-puzzle/)|Hard|
+|1282|[number-of-valid-words-for-each-puzzle](https://leetcode.com/problems/number-of-valid-words-for-each-puzzle)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/1282-number-of-valid-words-for-each-puzzle/number-of-valid-words-for-each-puzzle.py)|[:memo:](https://leetcode.com/articles/number-of-valid-words-for-each-puzzle/)|Hard|
 |1283|[reformat-date](https://leetcode.com/problems/reformat-date)|||Easy|
 |1284|[four-divisors](https://leetcode.com/problems/four-divisors)|||Medium|
 |1285|[balance-a-binary-search-tree](https://leetcode.com/problems/balance-a-binary-search-tree)|||Medium|
@@ -1331,7 +1331,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |1511|[count-number-of-teams](https://leetcode.com/problems/count-number-of-teams)|||Medium|
 |1512|[design-underground-system](https://leetcode.com/problems/design-underground-system)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/1512-design-underground-system/design-underground-system.py)|[:memo:](https://leetcode.com/articles/design-underground-system/)|Medium|
 |1513|[find-all-good-strings](https://leetcode.com/problems/find-all-good-strings)|||Hard|
-|1514|[minimum-value-to-get-positive-step-by-step-sum](https://leetcode.com/problems/minimum-value-to-get-positive-step-by-step-sum)||[:memo:](https://leetcode.com/articles/minimum-value-to-get-positive-step-by-step-total/)|Easy|
+|1514|[minimum-value-to-get-positive-step-by-step-sum](https://leetcode.com/problems/minimum-value-to-get-positive-step-by-step-sum)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/1514-minimum-value-to-get-positive-step-by-step-sum/minimum-value-to-get-positive-step-by-step-sum.py)|[:memo:](https://leetcode.com/articles/minimum-value-to-get-positive-step-by-step-total/)|Easy|
 |1515|[find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k](https://leetcode.com/problems/find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k)|||Medium|
 |1516|[the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://leetcode.com/problems/the-k-th-lexicographical-string-of-all-happy-strings-of-length-n)|||Medium|
 |1517|[restore-the-array](https://leetcode.com/problems/restore-the-array)|||Hard|
@@ -1882,3 +1882,4 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |2188|[minimized-maximum-of-products-distributed-to-any-store](https://leetcode.com/problems/minimized-maximum-of-products-distributed-to-any-store)|||Medium|
 |2189|[maximum-path-quality-of-a-graph](https://leetcode.com/problems/maximum-path-quality-of-a-graph)|||Hard|
 |2203|[number-of-spaces-cleaning-robot-cleaned](https://leetcode.com/problems/number-of-spaces-cleaning-robot-cleaned)|:lock:||Medium|
+|2209|[number-of-equal-count-substrings](https://leetcode.com/problems/number-of-equal-count-substrings)|:lock:||Medium|
