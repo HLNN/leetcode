@@ -1,7 +1,7 @@
 # :pencil2: Leetcode Solutions with Python3,Cpp
-Update time:  2021-11-12 23:42:01
+Update time:  2021-11-13 23:40:39
 
-I have solved **342   /   1869** problems
+I have solved **343   /   1869** problems
 while there are **289** problems still locked.
 
 If you have any question, please give me an [issue](https://github.com/hlnn/leetcode/issues).
@@ -693,7 +693,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |750|[contain-virus](https://leetcode.com/problems/contain-virus)||[:memo:](https://leetcode.com/articles/contain-virus/)|Hard|
 |751|[number-of-corner-rectangles](https://leetcode.com/problems/number-of-corner-rectangles)|:lock:|[:memo:](https://leetcode.com/articles/number-of-corner-rectangles/)|Medium|
 |752|[ip-to-cidr](https://leetcode.com/problems/ip-to-cidr)|:lock:|[:memo:](https://leetcode.com/articles/ip-to-cidr/)|Medium|
-|753|[open-the-lock](https://leetcode.com/problems/open-the-lock)||[:memo:](https://leetcode.com/articles/open-the-lock/)|Medium|
+|753|[open-the-lock](https://leetcode.com/problems/open-the-lock)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0753-open-the-lock/open-the-lock.py)|[:memo:](https://leetcode.com/articles/open-the-lock/)|Medium|
 |754|[cracking-the-safe](https://leetcode.com/problems/cracking-the-safe)||[:memo:](https://leetcode.com/articles/cracking-the-safe/)|Hard|
 |755|[reach-a-number](https://leetcode.com/problems/reach-a-number)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0755-reach-a-number/reach-a-number.py)|[:memo:](https://leetcode.com/articles/reach-a-number/)|Medium|
 |756|[pour-water](https://leetcode.com/problems/pour-water)|:lock:|[:memo:](https://leetcode.com/articles/pour-water/)|Medium|
