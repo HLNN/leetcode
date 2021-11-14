@@ -1,7 +1,7 @@
 # :pencil2: Leetcode Solutions with Python3,Cpp
-Update time:  2021-11-13 23:40:39
+Update time:  2021-11-14 23:41:08
 
-I have solved **343   /   1869** problems
+I have solved **344   /   1877** problems
 while there are **289** problems still locked.
 
 If you have any question, please give me an [issue](https://github.com/hlnn/leetcode/issues).
@@ -960,7 +960,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |1029|[vertical-order-traversal-of-a-binary-tree](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/1029-vertical-order-traversal-of-a-binary-tree/vertical-order-traversal-of-a-binary-tree.py)|[:memo:](https://leetcode.com/articles/vertical-order-traversal-of-a-binary-tree/)|Hard|
 |1030|[smallest-string-starting-from-leaf](https://leetcode.com/problems/smallest-string-starting-from-leaf)||[:memo:](https://leetcode.com/articles/smallest-string-starting-from-leaf/)|Medium|
 |1031|[add-to-array-form-of-integer](https://leetcode.com/problems/add-to-array-form-of-integer)||[:memo:](https://leetcode.com/articles/add-to-array-form-of-integer/)|Easy|
-|1032|[satisfiability-of-equality-equations](https://leetcode.com/problems/satisfiability-of-equality-equations)||[:memo:](https://leetcode.com/articles/satisfiability-of-equality-equations/)|Medium|
+|1032|[satisfiability-of-equality-equations](https://leetcode.com/problems/satisfiability-of-equality-equations)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/1032-satisfiability-of-equality-equations/satisfiability-of-equality-equations.py)|[:memo:](https://leetcode.com/articles/satisfiability-of-equality-equations/)|Medium|
 |1033|[broken-calculator](https://leetcode.com/problems/broken-calculator)||[:memo:](https://leetcode.com/articles/broken-calculator/)|Medium|
 |1034|[subarrays-with-k-different-integers](https://leetcode.com/problems/subarrays-with-k-different-integers)||[:memo:](https://leetcode.com/articles/subarrays-with-k-different-integers/)|Hard|
 |1035|[cousins-in-binary-tree](https://leetcode.com/problems/cousins-in-binary-tree)||[:memo:](https://leetcode.com/articles/cousins-in-binary-tree/)|Easy|
@@ -1873,6 +1873,10 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |2174|[next-greater-numerically-balanced-number](https://leetcode.com/problems/next-greater-numerically-balanced-number)|||Medium|
 |2175|[count-nodes-with-the-highest-score](https://leetcode.com/problems/count-nodes-with-the-highest-score)|||Medium|
 |2176|[parallel-courses-iii](https://leetcode.com/problems/parallel-courses-iii)|||Hard|
+|2177|[check-whether-two-strings-are-almost-equivalent](https://leetcode.com/problems/check-whether-two-strings-are-almost-equivalent)|||Easy|
+|2178|[walking-robot-simulation-ii](https://leetcode.com/problems/walking-robot-simulation-ii)|||Medium|
+|2179|[most-beautiful-item-for-each-query](https://leetcode.com/problems/most-beautiful-item-for-each-query)|||Medium|
+|2180|[maximum-number-of-tasks-you-can-assign](https://leetcode.com/problems/maximum-number-of-tasks-you-can-assign)|||Hard|
 |2181|[smallest-index-with-equal-value](https://leetcode.com/problems/smallest-index-with-equal-value)|||Easy|
 |2182|[find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://leetcode.com/problems/find-the-minimum-and-maximum-number-of-nodes-between-critical-points)|||Medium|
 |2183|[minimum-operations-to-convert-number](https://leetcode.com/problems/minimum-operations-to-convert-number)|||Medium|
@@ -1881,5 +1885,9 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |2187|[vowels-of-all-substrings](https://leetcode.com/problems/vowels-of-all-substrings)|||Medium|
 |2188|[minimized-maximum-of-products-distributed-to-any-store](https://leetcode.com/problems/minimized-maximum-of-products-distributed-to-any-store)|||Medium|
 |2189|[maximum-path-quality-of-a-graph](https://leetcode.com/problems/maximum-path-quality-of-a-graph)|||Hard|
+|2195|[time-needed-to-buy-tickets](https://leetcode.com/problems/time-needed-to-buy-tickets)|||Easy|
+|2196|[reverse-nodes-in-even-length-groups](https://leetcode.com/problems/reverse-nodes-in-even-length-groups)|||Medium|
+|2197|[decode-the-slanted-ciphertext](https://leetcode.com/problems/decode-the-slanted-ciphertext)|||Medium|
+|2198|[process-restricted-friend-requests](https://leetcode.com/problems/process-restricted-friend-requests)|||Hard|
 |2203|[number-of-spaces-cleaning-robot-cleaned](https://leetcode.com/problems/number-of-spaces-cleaning-robot-cleaned)|:lock:||Medium|
 |2209|[number-of-equal-count-substrings](https://leetcode.com/problems/number-of-equal-count-substrings)|:lock:||Medium|
