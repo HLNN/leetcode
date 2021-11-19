@@ -24,19 +24,18 @@
 
 class Solution:
     def permute(self, nums: List[int]) -> List[List[int]]:
-        def bt(nums, ans, res, used):
-            if len(ans) == len(nums):
-                res.append(ans[:])
-                return
-            for i in range(len(nums)):
-                if i in used: 
-                    continue
-                ans.append(nums[i])
-                used.add(i)
-                bt(nums, ans, res, used)
-                ans.pop()
-                used.remove(i)
-        res = []
-        bt(nums, [], res, set())
+        def bt(x, ans):
+            if x == n:
+                res.append(ans)
+            else:
+                for i in range(n):
+                    if not used[i]:
+                        used[i] = True
+                        bt(x + 1, ans + [nums[i]])
+                        used[i] = False
+
+        res, n = [], len(nums)
+        used = [False] * n
+        bt(0, [])
         return res
-            
+    

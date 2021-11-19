@@ -1,8 +1,8 @@
 # :pencil2: Leetcode Solutions with Python3,Cpp
-Update time:  2021-11-15 23:41:24
+Update time:  2021-11-19 13:53:17
 
-I have solved **345   /   1877** problems
-while there are **289** problems still locked.
+I have solved **349   /   1878** problems
+while there are **290** problems still locked.
 
 If you have any question, please give me an [issue](https://github.com/hlnn/leetcode/issues).
 
@@ -450,7 +450,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |457|[circular-array-loop](https://leetcode.com/problems/circular-array-loop)|||Medium|
 |458|[poor-pigs](https://leetcode.com/problems/poor-pigs)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0458-poor-pigs/poor-pigs.py)|[:memo:](https://leetcode.com/articles/poor-pigs/)|Hard|
 |459|[repeated-substring-pattern](https://leetcode.com/problems/repeated-substring-pattern)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0459-repeated-substring-pattern/repeated-substring-pattern.py)|[:memo:](https://leetcode.com/articles/repeated-substring-pattern/)|Easy|
-|460|[lfu-cache](https://leetcode.com/problems/lfu-cache)|||Hard|
+|460|[lfu-cache](https://leetcode.com/problems/lfu-cache)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0460-lfu-cache/lfu-cache.py)||Hard|
 |461|[hamming-distance](https://leetcode.com/problems/hamming-distance)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0461-hamming-distance/hamming-distance.py)|[:memo:](https://leetcode.com/articles/hamming-distance/)|Easy|
 |462|[minimum-moves-to-equal-array-elements-ii](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii)||[:memo:](https://leetcode.com/articles/minimum-moves-to-equal-array-elements-ii/)|Medium|
 |463|[island-perimeter](https://leetcode.com/problems/island-perimeter)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0463-island-perimeter/island-perimeter.py)|[:memo:](https://leetcode.com/articles/island-perimeter/)|Easy|
@@ -619,7 +619,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |665|[non-decreasing-array](https://leetcode.com/problems/non-decreasing-array)||[:memo:](https://leetcode.com/articles/non-decreasing-array/)|Medium|
 |666|[path-sum-iv](https://leetcode.com/problems/path-sum-iv)|:lock:|[:memo:](https://leetcode.com/articles/path-sum-iv/)|Medium|
 |667|[beautiful-arrangement-ii](https://leetcode.com/problems/beautiful-arrangement-ii)||[:memo:](https://leetcode.com/articles/beautiful-arrangement-ii/)|Medium|
-|668|[kth-smallest-number-in-multiplication-table](https://leetcode.com/problems/kth-smallest-number-in-multiplication-table)||[:memo:](https://leetcode.com/articles/kth-smallest-number-in-multiplication-table/)|Hard|
+|668|[kth-smallest-number-in-multiplication-table](https://leetcode.com/problems/kth-smallest-number-in-multiplication-table)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0668-kth-smallest-number-in-multiplication-table/kth-smallest-number-in-multiplication-table.py)|[:memo:](https://leetcode.com/articles/kth-smallest-number-in-multiplication-table/)|Hard|
 |669|[trim-a-binary-search-tree](https://leetcode.com/problems/trim-a-binary-search-tree)||[:memo:](https://leetcode.com/articles/trim-a-binary-search-tree/)|Medium|
 |670|[maximum-swap](https://leetcode.com/problems/maximum-swap)||[:memo:](https://leetcode.com/articles/maximum-swap/)|Medium|
 |671|[second-minimum-node-in-a-binary-tree](https://leetcode.com/problems/second-minimum-node-in-a-binary-tree)||[:memo:](https://leetcode.com/articles/second-minimum-node-in-a-binary-tree/)|Easy|
@@ -649,7 +649,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |695|[max-area-of-island](https://leetcode.com/problems/max-area-of-island)||[:memo:](https://leetcode.com/articles/max-area-of-island/)|Medium|
 |696|[count-binary-substrings](https://leetcode.com/problems/count-binary-substrings)||[:memo:](https://leetcode.com/articles/count-binary-substrings/)|Easy|
 |697|[degree-of-an-array](https://leetcode.com/problems/degree-of-an-array)||[:memo:](https://leetcode.com/articles/degree-of-an-array/)|Easy|
-|698|[partition-to-k-equal-sum-subsets](https://leetcode.com/problems/partition-to-k-equal-sum-subsets)||[:memo:](https://leetcode.com/articles/partition-to-k-equal-sum-subsets/)|Medium|
+|698|[partition-to-k-equal-sum-subsets](https://leetcode.com/problems/partition-to-k-equal-sum-subsets)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0698-partition-to-k-equal-sum-subsets/partition-to-k-equal-sum-subsets.py)|[:memo:](https://leetcode.com/articles/partition-to-k-equal-sum-subsets/)|Medium|
 |699|[falling-squares](https://leetcode.com/problems/falling-squares)||[:memo:](https://leetcode.com/articles/falling-squares/)|Hard|
 |711|[number-of-distinct-islands-ii](https://leetcode.com/problems/number-of-distinct-islands-ii)|:lock:|[:memo:](https://leetcode.com/articles/number-of-distinct-islands-ii/)|Hard|
 |712|[minimum-ascii-delete-sum-for-two-strings](https://leetcode.com/problems/minimum-ascii-delete-sum-for-two-strings)||[:memo:](https://leetcode.com/articles/minimum-ascii-delete-sum-for-two-strings/)|Medium|
@@ -942,7 +942,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |1010|[powerful-integers](https://leetcode.com/problems/powerful-integers)||[:memo:](https://leetcode.com/articles/powerful-integers/)|Medium|
 |1011|[flip-binary-tree-to-match-preorder-traversal](https://leetcode.com/problems/flip-binary-tree-to-match-preorder-traversal)||[:memo:](https://leetcode.com/articles/flip-binary-tree-to-match-preorder-traversal/)|Medium|
 |1012|[equal-rational-numbers](https://leetcode.com/problems/equal-rational-numbers)||[:memo:](https://leetcode.com/articles/equal-rational-numbers/)|Hard|
-|1013|[fibonacci-number](https://leetcode.com/problems/fibonacci-number)||[:memo:](https://leetcode.com/articles/fibonacci-number/)|Easy|
+|1013|[fibonacci-number](https://leetcode.com/problems/fibonacci-number)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/1013-fibonacci-number/fibonacci-number.py)|[:memo:](https://leetcode.com/articles/fibonacci-number/)|Easy|
 |1014|[k-closest-points-to-origin](https://leetcode.com/problems/k-closest-points-to-origin)||[:memo:](https://leetcode.com/articles/k-closest-points-to-origin/)|Medium|
 |1016|[subarray-sums-divisible-by-k](https://leetcode.com/problems/subarray-sums-divisible-by-k)||[:memo:](https://leetcode.com/articles/subarray-sums-divisible-by-k/)|Medium|
 |1017|[odd-even-jump](https://leetcode.com/problems/odd-even-jump)||[:memo:](https://leetcode.com/articles/odd-even-jump/)|Hard|
@@ -1891,3 +1891,4 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |2198|[process-restricted-friend-requests](https://leetcode.com/problems/process-restricted-friend-requests)|||Hard|
 |2203|[number-of-spaces-cleaning-robot-cleaned](https://leetcode.com/problems/number-of-spaces-cleaning-robot-cleaned)|:lock:||Medium|
 |2209|[number-of-equal-count-substrings](https://leetcode.com/problems/number-of-equal-count-substrings)|:lock:||Medium|
+|2218|[paths-in-maze-that-lead-to-same-room](https://leetcode.com/problems/paths-in-maze-that-lead-to-same-room)|:lock:||Medium|
