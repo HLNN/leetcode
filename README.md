@@ -1,7 +1,7 @@
 # :pencil2: Leetcode Solutions with Python3,Cpp
-Update time:  2021-11-20 13:53:19
+Update time:  2021-11-21 13:57:20
 
-I have solved **350   /   1878** problems
+I have solved **351   /   1882** problems
 while there are **290** problems still locked.
 
 If you have any question, please give me an [issue](https://github.com/hlnn/leetcode/issues).
@@ -296,7 +296,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |297|[serialize-and-deserialize-binary-tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree)||[:memo:](https://leetcode.com/articles/serialize-and-deserialize-binary-tree/)|Hard|
 |298|[binary-tree-longest-consecutive-sequence](https://leetcode.com/problems/binary-tree-longest-consecutive-sequence)|:lock:|[:memo:](https://leetcode.com/articles/binary-tree-longest-consecutive-sequence/)|Medium|
 |299|[bulls-and-cows](https://leetcode.com/problems/bulls-and-cows)||[:memo:](https://leetcode.com/articles/bulls-and-cows/)|Medium|
-|300|[longest-increasing-subsequence](https://leetcode.com/problems/longest-increasing-subsequence)||[:memo:](https://leetcode.com/articles/longest-increasing-subsequence/)|Medium|
+|300|[longest-increasing-subsequence](https://leetcode.com/problems/longest-increasing-subsequence)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0300-longest-increasing-subsequence/longest-increasing-subsequence.py)|[:memo:](https://leetcode.com/articles/longest-increasing-subsequence/)|Medium|
 |301|[remove-invalid-parentheses](https://leetcode.com/problems/remove-invalid-parentheses)||[:memo:](https://leetcode.com/articles/remove-invalid-parentheses/)|Hard|
 |302|[smallest-rectangle-enclosing-black-pixels](https://leetcode.com/problems/smallest-rectangle-enclosing-black-pixels)|:lock:|[:memo:](https://leetcode.com/articles/smallest-rectangle-enclosing-black-pixels/)|Hard|
 |303|[range-sum-query-immutable](https://leetcode.com/problems/range-sum-query-immutable)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0303-range-sum-query-immutable/range-sum-query-immutable.py) [Cpp](https://github.com/hlnn/leetcode/blob/master/src/0303-range-sum-query-immutable/range-sum-query-immutable.cpp)|[:memo:](https://leetcode.com/articles/range-sum-query-immutable/)|Easy|
@@ -1179,6 +1179,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |1289|[day-of-the-week](https://leetcode.com/problems/day-of-the-week)|||Easy|
 |1290|[make-array-strictly-increasing](https://leetcode.com/problems/make-array-strictly-increasing)|||Hard|
 |1293|[three-consecutive-odds](https://leetcode.com/problems/three-consecutive-odds)|||Easy|
+|1294|[range-frequency-queries](https://leetcode.com/problems/range-frequency-queries)|||Medium|
 |1295|[minimum-garden-perimeter-to-collect-enough-apples](https://leetcode.com/problems/minimum-garden-perimeter-to-collect-enough-apples)|||Medium|
 |1296|[kth-ancestor-of-a-tree-node](https://leetcode.com/problems/kth-ancestor-of-a-tree-node)|||Hard|
 |1297|[maximum-number-of-balloons](https://leetcode.com/problems/maximum-number-of-balloons)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/1297-maximum-number-of-balloons/maximum-number-of-balloons.py)|[:memo:](https://leetcode.com/articles/maximum-number-of-balloons/)|Easy|
@@ -1188,10 +1189,11 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |1302|[delete-characters-to-make-fancy-string](https://leetcode.com/problems/delete-characters-to-make-fancy-string)|||Easy|
 |1304|[longest-happy-string](https://leetcode.com/problems/longest-happy-string)|||Medium|
 |1305|[number-of-visible-people-in-a-queue](https://leetcode.com/problems/number-of-visible-people-in-a-queue)|||Hard|
-|1306|[minimum-absolute-difference](https://leetcode.com/problems/minimum-absolute-difference)|||Easy|
+|1306|[minimum-absolute-difference](https://leetcode.com/problems/minimum-absolute-difference)||[:memo:](https://leetcode.com/articles/minimum-absolute-difference/)|Easy|
 |1307|[ugly-number-iii](https://leetcode.com/problems/ugly-number-iii)|||Medium|
 |1308|[smallest-string-with-swaps](https://leetcode.com/problems/smallest-string-with-swaps)|||Medium|
 |1309|[sort-items-by-groups-respecting-dependencies](https://leetcode.com/problems/sort-items-by-groups-respecting-dependencies)|||Hard|
+|1310|[watering-plants](https://leetcode.com/problems/watering-plants)|||Medium|
 |1311|[largest-magic-square](https://leetcode.com/problems/largest-magic-square)|||Medium|
 |1313|[count-ways-to-build-rooms-in-an-ant-colony](https://leetcode.com/problems/count-ways-to-build-rooms-in-an-ant-colony)|||Hard|
 |1319|[unique-number-of-occurrences](https://leetcode.com/problems/unique-number-of-occurrences)|||Easy|
@@ -1889,6 +1891,8 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |2196|[reverse-nodes-in-even-length-groups](https://leetcode.com/problems/reverse-nodes-in-even-length-groups)|||Medium|
 |2197|[decode-the-slanted-ciphertext](https://leetcode.com/problems/decode-the-slanted-ciphertext)|||Medium|
 |2198|[process-restricted-friend-requests](https://leetcode.com/problems/process-restricted-friend-requests)|||Hard|
+|2199|[two-furthest-houses-with-different-colors](https://leetcode.com/problems/two-furthest-houses-with-different-colors)|||Easy|
+|2202|[sum-of-k-mirror-numbers](https://leetcode.com/problems/sum-of-k-mirror-numbers)|||Hard|
 |2203|[number-of-spaces-cleaning-robot-cleaned](https://leetcode.com/problems/number-of-spaces-cleaning-robot-cleaned)|:lock:||Medium|
 |2209|[number-of-equal-count-substrings](https://leetcode.com/problems/number-of-equal-count-substrings)|:lock:||Medium|
 |2218|[paths-in-maze-that-lead-to-same-room](https://leetcode.com/problems/paths-in-maze-that-lead-to-same-room)|:lock:||Medium|
