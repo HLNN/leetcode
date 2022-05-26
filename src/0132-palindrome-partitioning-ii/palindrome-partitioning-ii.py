@@ -30,7 +30,7 @@
 #
 #
 # 	1 <= s.length <= 2000
-# 	s consists of lower-case English letters only.
+# 	s consists of lowercase English letters only.
 #
 #
 

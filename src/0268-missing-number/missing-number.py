@@ -25,14 +25,6 @@
 # Explanation: n = 9 since there are 9 numbers, so all numbers are in the range [0,9]. 8 is the missing number in the range since it does not appear in nums.
 #
 #
-# Example 4:
-#
-#
-# Input: nums = [0]
-# Output: 1
-# Explanation: n = 1 since there is 1 number, so all numbers are in the range [0,1]. 1 is the missing number in the range since it does not appear in nums.
-#
-#
 #  
 # Constraints:
 #

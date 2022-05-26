@@ -38,13 +38,6 @@
 # Explanation: In the canonical path, multiple consecutive slashes are replaced by a single one.
 #
 #
-# Example 4:
-#
-#
-# Input: path = "/a/./b/../../c/"
-# Output: "/c"
-#
-#
 #  
 # Constraints:
 #

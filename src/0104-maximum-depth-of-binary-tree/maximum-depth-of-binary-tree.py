@@ -17,20 +17,6 @@
 # Output: 2
 #
 #
-# Example 3:
-#
-#
-# Input: root = []
-# Output: 0
-#
-#
-# Example 4:
-#
-#
-# Input: root = [0]
-# Output: 1
-#
-#
 #  
 # Constraints:
 #

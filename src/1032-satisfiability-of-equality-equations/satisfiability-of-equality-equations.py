@@ -20,27 +20,6 @@
 # Explanation: We could assign a = 1 and b = 1 to satisfy both equations.
 #
 #
-# Example 3:
-#
-#
-# Input: equations = ["a==b","b==c","a==c"]
-# Output: true
-#
-#
-# Example 4:
-#
-#
-# Input: equations = ["a==b","b!=c","c==a"]
-# Output: false
-#
-#
-# Example 5:
-#
-#
-# Input: equations = ["c==c","b==d","x!=z"]
-# Output: true
-#
-#
 #  
 # Constraints:
 #

@@ -26,16 +26,6 @@
 # Example 3:
 #
 #
-# Input: digits = [0]
-# Output: [1]
-# Explanation: The array represents the integer 0.
-# Incrementing by one gives 0 + 1 = 1.
-# Thus, the result should be [1].
-#
-#
-# Example 4:
-#
-#
 # Input: digits = [9]
 # Output: [1,0]
 # Explanation: The array represents the integer 9.

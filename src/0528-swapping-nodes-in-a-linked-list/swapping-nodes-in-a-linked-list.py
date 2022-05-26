@@ -17,27 +17,6 @@
 # Output: [7,9,6,6,8,7,3,0,9,5]
 #
 #
-# Example 3:
-#
-#
-# Input: head = [1], k = 1
-# Output: [1]
-#
-#
-# Example 4:
-#
-#
-# Input: head = [1,2], k = 1
-# Output: [2,1]
-#
-#
-# Example 5:
-#
-#
-# Input: head = [1,2,3], k = 2
-# Output: [1,2,3]
-#
-#
 #  
 # Constraints:
 #

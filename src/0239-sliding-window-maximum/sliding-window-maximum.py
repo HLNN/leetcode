@@ -26,27 +26,6 @@
 # Output: [1]
 #
 #
-# Example 3:
-#
-#
-# Input: nums = [1,-1], k = 1
-# Output: [1,-1]
-#
-#
-# Example 4:
-#
-#
-# Input: nums = [9,11], k = 2
-# Output: [11]
-#
-#
-# Example 5:
-#
-#
-# Input: nums = [4,-2], k = 2
-# Output: [4]
-#
-#
 #  
 # Constraints:
 #

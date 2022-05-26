@@ -29,20 +29,6 @@
 # Output: false
 #
 #
-# Example 4:
-#
-#
-# Input: s = "([)]"
-# Output: false
-#
-#
-# Example 5:
-#
-#
-# Input: s = "{[]}"
-# Output: true
-#
-#
 #  
 # Constraints:
 #

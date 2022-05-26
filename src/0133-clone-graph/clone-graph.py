@@ -50,13 +50,6 @@
 # Explanation: This an empty graph, it does not have any nodes.
 #
 #
-# Example 4:
-#
-#
-# Input: adjList = [[2],[1]]
-# Output: [[2],[1]]
-#
-#
 #  
 # Constraints:
 #

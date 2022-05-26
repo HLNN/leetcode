@@ -3,8 +3,8 @@
 # Implement the Solution class:
 #
 #
-# 	Solution(ListNode head) Initializes the object with the integer array nums.
-# 	int getRandom() Chooses a node randomly from the list and returns its value. All the nodes of the list should be equally likely to be choosen.
+# 	Solution(ListNode head) Initializes the object with the head of the singly-linked list head.
+# 	int getRandom() Chooses a node randomly from the list and returns its value. All the nodes of the list should be equally likely to be chosen.
 #
 #
 #  

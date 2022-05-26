@@ -20,27 +20,13 @@
 # Output: "y"
 #
 #
-# Example 3:
-#
-#
-# Input: s = "a", t = "aa"
-# Output: "a"
-#
-#
-# Example 4:
-#
-#
-# Input: s = "ae", t = "aea"
-# Output: "a"
-#
-#
 #  
 # Constraints:
 #
 #
 # 	0 <= s.length <= 1000
 # 	t.length == s.length + 1
-# 	s and t consist of lower-case English letters.
+# 	s and t consist of lowercase English letters.
 #
 #
 

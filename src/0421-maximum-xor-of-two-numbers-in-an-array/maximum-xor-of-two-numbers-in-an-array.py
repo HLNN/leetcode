@@ -8,28 +8,8 @@
 # Output: 28
 # Explanation: The maximum result is 5 XOR 25 = 28.
 #
+#
 # Example 2:
-#
-#
-# Input: nums = [0]
-# Output: 0
-#
-#
-# Example 3:
-#
-#
-# Input: nums = [2,4]
-# Output: 6
-#
-#
-# Example 4:
-#
-#
-# Input: nums = [8,10,2]
-# Output: 10
-#
-#
-# Example 5:
 #
 #
 # Input: nums = [14,70,53,83,49,91,36,80,92,51,66,70]

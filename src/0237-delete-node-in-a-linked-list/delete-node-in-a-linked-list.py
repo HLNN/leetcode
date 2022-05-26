@@ -19,27 +19,6 @@
 # Explanation: You are given the third node with value 1, the linked list should become 4 -> 5 -> 9 after calling your function.
 #
 #
-# Example 3:
-#
-#
-# Input: head = [1,2,3,4], node = 3
-# Output: [1,2,4]
-#
-#
-# Example 4:
-#
-#
-# Input: head = [0,1], node = 0
-# Output: [1]
-#
-#
-# Example 5:
-#
-#
-# Input: head = [-3,5,-99], node = -3
-# Output: [5,-99]
-#
-#
 #  
 # Constraints:
 #

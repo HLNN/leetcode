@@ -14,7 +14,7 @@
 # 	The rank should be as small as possible.
 #
 #
-# It is guaranteed that answer is unique under the given rules.
+# The test cases are generated so that answer is unique under the given rules.
 #
 #  
 # Example 1:
@@ -41,13 +41,6 @@
 #
 # Input: matrix = [[20,-21,14],[-19,4,19],[22,-47,24],[-19,4,19]]
 # Output: [[4,2,3],[1,3,4],[5,1,6],[1,3,4]]
-#
-#
-# Example 4:
-#
-#
-# Input: matrix = [[7,3,6],[1,4,5],[9,8,2]]
-# Output: [[5,1,4],[1,2,3],[6,3,1]]
 #
 #
 #  

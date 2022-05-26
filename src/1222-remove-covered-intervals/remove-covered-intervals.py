@@ -20,34 +20,13 @@
 # Output: 1
 #
 #
-# Example 3:
-#
-#
-# Input: intervals = [[0,10],[5,12]]
-# Output: 2
-#
-#
-# Example 4:
-#
-#
-# Input: intervals = [[3,10],[4,10],[5,11]]
-# Output: 2
-#
-#
-# Example 5:
-#
-#
-# Input: intervals = [[1,2],[1,4],[3,4]]
-# Output: 1
-#
-#
 #  
 # Constraints:
 #
 #
 # 	1 <= intervals.length <= 1000
 # 	intervals[i].length == 2
-# 	0 <= li <= ri <= 105
+# 	0 <= li < ri <= 105
 # 	All the given intervals are unique.
 #
 #

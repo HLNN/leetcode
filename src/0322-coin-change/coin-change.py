@@ -27,20 +27,6 @@
 # Output: 0
 #
 #
-# Example 4:
-#
-#
-# Input: coins = [1], amount = 1
-# Output: 1
-#
-#
-# Example 5:
-#
-#
-# Input: coins = [1], amount = 2
-# Output: 2
-#
-#
 #  
 # Constraints:
 #

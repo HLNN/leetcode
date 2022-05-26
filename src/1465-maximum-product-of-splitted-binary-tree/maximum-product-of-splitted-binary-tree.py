@@ -21,20 +21,6 @@
 # Explanation: Remove the red edge and get 2 binary trees with sum 15 and 6.Their product is 90 (15*6)
 #
 #
-# Example 3:
-#
-#
-# Input: root = [2,3,9,10,7,8,6,5,4,11,1]
-# Output: 1025
-#
-#
-# Example 4:
-#
-#
-# Input: root = [1,1]
-# Output: 1
-#
-#
 #  
 # Constraints:
 #

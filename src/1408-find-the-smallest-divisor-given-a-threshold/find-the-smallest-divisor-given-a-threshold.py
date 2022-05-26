@@ -2,7 +2,7 @@
 #
 # Each result of the division is rounded to the nearest integer greater than or equal to that element. (For example: 7/3 = 3 and 10/2 = 5).
 #
-# It is guaranteed that there will be an answer.
+# The test cases are generated so that there will be an answer.
 #
 #  
 # Example 1:
@@ -19,20 +19,6 @@
 #
 # Input: nums = [44,22,33,11,1], threshold = 5
 # Output: 44
-#
-#
-# Example 3:
-#
-#
-# Input: nums = [21212,10101,12121], threshold = 1000000
-# Output: 1
-#
-#
-# Example 4:
-#
-#
-# Input: nums = [2,3,5,7,11], threshold = 11
-# Output: 3
 #
 #
 #  

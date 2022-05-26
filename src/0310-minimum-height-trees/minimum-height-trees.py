@@ -22,20 +22,6 @@
 # Output: [3,4]
 #
 #
-# Example 3:
-#
-#
-# Input: n = 1, edges = []
-# Output: [0]
-#
-#
-# Example 4:
-#
-#
-# Input: n = 2, edges = [[0,1]]
-# Output: [0,1]
-#
-#
 #  
 # Constraints:
 #

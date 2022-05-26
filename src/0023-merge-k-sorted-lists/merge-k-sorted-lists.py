@@ -37,11 +37,11 @@
 #
 #
 # 	k == lists.length
-# 	0 <= k <= 10^4
+# 	0 <= k <= 104
 # 	0 <= lists[i].length <= 500
-# 	-10^4 <= lists[i][j] <= 10^4
+# 	-104 <= lists[i][j] <= 104
 # 	lists[i] is sorted in ascending order.
-# 	The sum of lists[i].length won't exceed 10^4.
+# 	The sum of lists[i].length will not exceed 104.
 #
 #
 

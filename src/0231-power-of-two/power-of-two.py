@@ -26,20 +26,6 @@
 # Output: false
 #
 #
-# Example 4:
-#
-#
-# Input: n = 4
-# Output: true
-#
-#
-# Example 5:
-#
-#
-# Input: n = 5
-# Output: false
-#
-#
 #  
 # Constraints:
 #

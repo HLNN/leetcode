@@ -19,27 +19,6 @@
 # Explanation: The substring "eeeee" is of length 5 with the character 'e' only.
 #
 #
-# Example 3:
-#
-#
-# Input: s = "triplepillooooow"
-# Output: 5
-#
-#
-# Example 4:
-#
-#
-# Input: s = "hooraaaaaaaaaaay"
-# Output: 11
-#
-#
-# Example 5:
-#
-#
-# Input: s = "tourist"
-# Output: 1
-#
-#
 #  
 # Constraints:
 #

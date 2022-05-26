@@ -26,7 +26,7 @@
 #
 # Input: arr = [7]
 # Output: 0
-# Explanation: Start index is the last index. You don't need to jump.
+# Explanation: Start index is the last index. You do not need to jump.
 #
 #
 # Example 3:
@@ -35,20 +35,6 @@
 # Input: arr = [7,6,9,6,9,6,9,7]
 # Output: 1
 # Explanation: You can jump directly from index 0 to index 7 which is last index of the array.
-#
-#
-# Example 4:
-#
-#
-# Input: arr = [6,1,9]
-# Output: 2
-#
-#
-# Example 5:
-#
-#
-# Input: arr = [11,22,7,7,7,7,7,7,7,22,13]
-# Output: 3
 #
 #
 #  

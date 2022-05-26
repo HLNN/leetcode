@@ -22,20 +22,6 @@
 # Output: [1]
 #
 #
-# Example 4:
-#
-#
-# Input: root = [1,2]
-# Output: [2,1]
-#
-#
-# Example 5:
-#
-#
-# Input: root = [1,null,2]
-# Output: [1,2]
-#
-#
 #  
 # Constraints:
 #

@@ -29,20 +29,6 @@
 # Output: 4
 #
 #
-# Example 4:
-#
-#
-# Input: tree = [1,2,3,4,5,6,7,8,9,10], target = 5
-# Output: 5
-#
-#
-# Example 5:
-#
-#
-# Input: tree = [1,2,null,3], target = 2
-# Output: 2
-#
-#
 #  
 # Constraints:
 #

@@ -18,7 +18,7 @@
 #
 # Given a string s containing only digits, return the number of ways to decode it.
 #
-# The answer is guaranteed to fit in a 32-bit integer.
+# The test cases are generated so that the answer fits in a 32-bit integer.
 #
 #  
 # Example 1:
@@ -38,16 +38,6 @@
 #
 #
 # Example 3:
-#
-#
-# Input: s = "0"
-# Output: 0
-# Explanation: There is no character that is mapped to a number starting with 0.
-# The only valid mappings with 0 are 'J' -> "10" and 'T' -> "20", neither of which start with 0.
-# Hence, there are no valid ways to decode this since all digits need to be mapped.
-#
-#
-# Example 4:
 #
 #
 # Input: s = "06"

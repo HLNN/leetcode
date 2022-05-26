@@ -12,20 +12,18 @@
 #
 #  
 # Example 1:
+#
+#
 # Input: words1 = ["amazon","apple","facebook","google","leetcode"], words2 = ["e","o"]
 # Output: ["facebook","google","leetcode"]
+#
+#
 # Example 2:
+#
+#
 # Input: words1 = ["amazon","apple","facebook","google","leetcode"], words2 = ["l","e"]
 # Output: ["apple","google","leetcode"]
-# Example 3:
-# Input: words1 = ["amazon","apple","facebook","google","leetcode"], words2 = ["e","oo"]
-# Output: ["facebook","google"]
-# Example 4:
-# Input: words1 = ["amazon","apple","facebook","google","leetcode"], words2 = ["lo","eo"]
-# Output: ["google","leetcode"]
-# Example 5:
-# Input: words1 = ["amazon","apple","facebook","google","leetcode"], words2 = ["ec","oc","ceo"]
-# Output: ["facebook","leetcode"]
+#
 #
 #  
 # Constraints:

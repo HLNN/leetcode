@@ -32,21 +32,6 @@
 # Explanation: '?' matches 'c', but the second letter is 'a', which does not match 'b'.
 #
 #
-# Example 4:
-#
-#
-# Input: s = "adceb", p = "*a*b"
-# Output: true
-# Explanation: The first '*' matches the empty sequence, while the second '*' matches the substring "dce".
-#
-#
-# Example 5:
-#
-#
-# Input: s = "acdcb", p = "a*c?b"
-# Output: false
-#
-#
 #  
 # Constraints:
 #

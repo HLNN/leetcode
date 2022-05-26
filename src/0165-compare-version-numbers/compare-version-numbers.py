@@ -37,21 +37,7 @@
 #
 # Input: version1 = "0.1", version2 = "1.1"
 # Output: -1
-# Explanation: version1's revision 0 is "0", while version2's revision 0 is "1". 0 < 1, so version1 < version2.
-#
-#
-# Example 4:
-#
-#
-# Input: version1 = "1.0.1", version2 = "1"
-# Output: 1
-#
-#
-# Example 5:
-#
-#
-# Input: version1 = "7.5.2.4", version2 = "7.5.3"
-# Output: -1
+# Explanation: version1's revision 0 is "0", while version2's revision 0 is "1". 0 < 1, so version1 < version2.
 #
 #
 #  

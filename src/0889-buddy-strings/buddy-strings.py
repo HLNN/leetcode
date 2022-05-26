@@ -31,13 +31,6 @@
 # Explanation: You can swap s[0] = 'a' and s[1] = 'a' to get "aa", which is equal to goal.
 #
 #
-# Example 4:
-#
-#
-# Input: s = "aaaaaaabc", goal = "aaaaaaacb"
-# Output: true
-#
-#
 #  
 # Constraints:
 #

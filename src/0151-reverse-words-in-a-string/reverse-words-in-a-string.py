@@ -30,20 +30,6 @@
 # Explanation: You need to reduce multiple spaces between two words to a single space in the reversed string.
 #
 #
-# Example 4:
-#
-#
-# Input: s = "  Bob    Loves  Alice   "
-# Output: "Alice Loves Bob"
-#
-#
-# Example 5:
-#
-#
-# Input: s = "Alice does not even like bob"
-# Output: "bob like even not does Alice"
-#
-#
 #  
 # Constraints:
 #

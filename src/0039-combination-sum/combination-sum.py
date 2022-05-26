@@ -30,20 +30,6 @@
 # Output: []
 #
 #
-# Example 4:
-#
-#
-# Input: candidates = [1], target = 1
-# Output: [[1]]
-#
-#
-# Example 5:
-#
-#
-# Input: candidates = [1], target = 2
-# Output: [[1,1]]
-#
-#
 #  
 # Constraints:
 #

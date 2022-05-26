@@ -1,4 +1,4 @@
-# Given a string columnTitle that represents the column title as appear in an Excel sheet, return its corresponding column number.
+# Given a string columnTitle that represents the column title as appears in an Excel sheet, return its corresponding column number.
 #
 # For example:
 #
@@ -33,13 +33,6 @@
 #
 # Input: columnTitle = "ZY"
 # Output: 701
-#
-#
-# Example 4:
-#
-#
-# Input: columnTitle = "FXSHRXW"
-# Output: 2147483647
 #
 #
 #  

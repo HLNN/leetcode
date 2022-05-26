@@ -17,27 +17,6 @@
 # Output: false
 #
 #
-# Example 3:
-#
-#
-# Input: n = 16
-# Output: true
-#
-#
-# Example 4:
-#
-#
-# Input: n = 24
-# Output: false
-#
-#
-# Example 5:
-#
-#
-# Input: n = 46
-# Output: true
-#
-#
 #  
 # Constraints:
 #

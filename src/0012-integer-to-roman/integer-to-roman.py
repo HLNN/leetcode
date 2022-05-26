@@ -28,23 +28,10 @@
 #
 # Input: num = 3
 # Output: "III"
+# Explanation: 3 is represented as 3 ones.
 #
 #
 # Example 2:
-#
-#
-# Input: num = 4
-# Output: "IV"
-#
-#
-# Example 3:
-#
-#
-# Input: num = 9
-# Output: "IX"
-#
-#
-# Example 4:
 #
 #
 # Input: num = 58
@@ -52,7 +39,7 @@
 # Explanation: L = 50, V = 5, III = 3.
 #
 #
-# Example 5:
+# Example 3:
 #
 #
 # Input: num = 1994

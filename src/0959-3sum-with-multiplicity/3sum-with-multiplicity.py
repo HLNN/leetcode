@@ -27,6 +27,14 @@
 # and two 2s from [2,2,2,2] in 6 ways.
 #
 #
+# Example 3:
+#
+#
+# Input: arr = [2,1,3], target = 6
+# Output: 1
+# Explanation: (1, 2, 3) occured one time in the array so we return 1.
+#
+#
 #  
 # Constraints:
 #

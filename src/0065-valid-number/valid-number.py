@@ -51,13 +51,6 @@
 # Output: false
 #
 #
-# Example 4:
-#
-#
-# Input: s = ".1"
-# Output: true
-#
-#
 #  
 # Constraints:
 #
