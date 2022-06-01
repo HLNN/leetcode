@@ -34,6 +34,11 @@
 # 	1 <= k <= n <= 1000
 #
 #
+#  
+# Follow up:
+#
+# Could you solve this problem in less than O(n) complexity?
+#
 
 
 class Solution:

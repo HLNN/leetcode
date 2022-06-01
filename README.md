@@ -1,8 +1,8 @@
 # :pencil2: Leetcode Solutions with Python3,Cpp
-Update time:  2022-05-27 23:46:16
+Update time:  2022-06-01 23:42:38
 
-I have solved **356   /   2066** problems
-while there are **317** problems still locked.
+I have solved **357   /   2076** problems
+while there are **318** problems still locked.
 
 If you have any question, please give me an [issue](https://github.com/hlnn/leetcode/issues).
 
@@ -351,6 +351,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |352|[data-stream-as-disjoint-intervals](https://leetcode.com/problems/data-stream-as-disjoint-intervals)|||Hard|
 |353|[design-snake-game](https://leetcode.com/problems/design-snake-game)|:lock:|[:memo:](https://leetcode.com/articles/design-snake-game/)|Medium|
 |354|[russian-doll-envelopes](https://leetcode.com/problems/russian-doll-envelopes)||[:memo:](https://leetcode.com/articles/russian-doll-envelopes/)|Hard|
+|355|[design-twitter](https://leetcode.com/problems/design-twitter)|||Medium|
 |356|[line-reflection](https://leetcode.com/problems/line-reflection)|:lock:||Medium|
 |357|[count-numbers-with-unique-digits](https://leetcode.com/problems/count-numbers-with-unique-digits)|||Medium|
 |358|[rearrange-string-k-distance-apart](https://leetcode.com/problems/rearrange-string-k-distance-apart)|:lock:||Hard|
@@ -1414,7 +1415,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |1585|[the-kth-factor-of-n](https://leetcode.com/problems/the-kth-factor-of-n)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/1585-the-kth-factor-of-n/the-kth-factor-of-n.py)|[:memo:](https://leetcode.com/articles/the-kth-factor-of-n/)|Medium|
 |1586|[longest-subarray-of-1s-after-deleting-one-element](https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element)|||Medium|
 |1587|[parallel-courses-ii](https://leetcode.com/problems/parallel-courses-ii)|||Hard|
-|1603|[running-sum-of-1d-array](https://leetcode.com/problems/running-sum-of-1d-array)||[:memo:](https://leetcode.com/articles/running-sum-of-1d-array/)|Easy|
+|1603|[running-sum-of-1d-array](https://leetcode.com/problems/running-sum-of-1d-array)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/1603-running-sum-of-1d-array/running-sum-of-1d-array.py)|[:memo:](https://leetcode.com/articles/running-sum-of-1d-array/)|Easy|
 |1604|[least-number-of-unique-integers-after-k-removals](https://leetcode.com/problems/least-number-of-unique-integers-after-k-removals)|||Medium|
 |1605|[minimum-number-of-days-to-make-m-bouquets](https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets)|||Medium|
 |1609|[find-all-the-lonely-nodes](https://leetcode.com/problems/find-all-the-lonely-nodes)|:lock:||Easy|
@@ -2073,6 +2074,14 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |2367|[minimum-lines-to-represent-a-line-chart](https://leetcode.com/problems/minimum-lines-to-represent-a-line-chart)|||Medium|
 |2368|[sum-of-total-strength-of-wizards](https://leetcode.com/problems/sum-of-total-strength-of-wizards)|||Hard|
 |2369|[maximum-sum-score-of-array](https://leetcode.com/problems/maximum-sum-score-of-array)|:lock:||Medium|
+|2372|[rearrange-characters-to-make-target-string](https://leetcode.com/problems/rearrange-characters-to-make-target-string)|||Easy|
+|2373|[apply-discount-to-prices](https://leetcode.com/problems/apply-discount-to-prices)|||Medium|
+|2374|[steps-to-make-array-non-decreasing](https://leetcode.com/problems/steps-to-make-array-non-decreasing)|||Medium|
+|2375|[minimum-obstacle-removal-to-reach-corner](https://leetcode.com/problems/minimum-obstacle-removal-to-reach-corner)|||Hard|
+|2377|[check-if-number-has-equal-digit-count-and-digit-value](https://leetcode.com/problems/check-if-number-has-equal-digit-count-and-digit-value)|||Easy|
+|2378|[sender-with-largest-word-count](https://leetcode.com/problems/sender-with-largest-word-count)|||Medium|
+|2379|[maximum-total-importance-of-roads](https://leetcode.com/problems/maximum-total-importance-of-roads)|||Medium|
+|2380|[booking-concert-tickets-in-groups](https://leetcode.com/problems/booking-concert-tickets-in-groups)|||Hard|
 |2383|[add-two-integers](https://leetcode.com/problems/add-two-integers)|||Easy|
 |2384|[root-equals-sum-of-children](https://leetcode.com/problems/root-equals-sum-of-children)|||Easy|
 |2385|[count-positions-on-street-with-required-brightness](https://leetcode.com/problems/count-positions-on-street-with-required-brightness)|:lock:||Medium|
@@ -2080,3 +2089,4 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |2405|[minimum-number-of-keypresses](https://leetcode.com/problems/minimum-number-of-keypresses)|:lock:||Medium|
 |2420|[closest-node-to-path-in-tree](https://leetcode.com/problems/closest-node-to-path-in-tree)|:lock:||Hard|
 |2425|[number-of-people-that-can-be-seen-in-a-grid](https://leetcode.com/problems/number-of-people-that-can-be-seen-in-a-grid)|:lock:||Medium|
+|2426|[maximum-profit-from-trading-stocks](https://leetcode.com/problems/maximum-profit-from-trading-stocks)|:lock:||Medium|
