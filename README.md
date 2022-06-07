@@ -1,7 +1,7 @@
 # :pencil2: Leetcode Solutions with Python3,Cpp
-Update time:  2022-06-02 23:42:41
+Update time:  2022-06-07 23:43:26
 
-I have solved **358   /   2076** problems
+I have solved **360   /   2080** problems
 while there are **318** problems still locked.
 
 If you have any question, please give me an [issue](https://github.com/hlnn/leetcode/issues).
@@ -900,7 +900,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |964|[minimize-malware-spread-ii](https://leetcode.com/problems/minimize-malware-spread-ii)||[:memo:](https://leetcode.com/articles/minimize-malware-spread-ii/)|Hard|
 |965|[unique-email-addresses](https://leetcode.com/problems/unique-email-addresses)||[:memo:](https://leetcode.com/articles/unique-email-addresses/)|Easy|
 |966|[binary-subarrays-with-sum](https://leetcode.com/problems/binary-subarrays-with-sum)||[:memo:](https://leetcode.com/articles/binary-subarrays-with-sum/)|Medium|
-|967|[minimum-falling-path-sum](https://leetcode.com/problems/minimum-falling-path-sum)|||Medium|
+|967|[minimum-falling-path-sum](https://leetcode.com/problems/minimum-falling-path-sum)||[:memo:](https://leetcode.com/articles/minimum-falling-path-sum/)|Medium|
 |968|[beautiful-array](https://leetcode.com/problems/beautiful-array)||[:memo:](https://leetcode.com/articles/beautiful-array/)|Medium|
 |969|[number-of-recent-calls](https://leetcode.com/problems/number-of-recent-calls)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0969-number-of-recent-calls/number-of-recent-calls.py)|[:memo:](https://leetcode.com/articles/number-of-recent-calls/)|Easy|
 |971|[shortest-bridge](https://leetcode.com/problems/shortest-bridge)||[:memo:](https://leetcode.com/articles/shortest-bridge/)|Medium|
@@ -1214,7 +1214,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |1336|[maximum-product-of-the-length-of-two-palindromic-substrings](https://leetcode.com/problems/maximum-product-of-the-length-of-two-palindromic-substrings)|||Hard|
 |1337|[design-skiplist](https://leetcode.com/problems/design-skiplist)|||Hard|
 |1341|[split-a-string-in-balanced-strings](https://leetcode.com/problems/split-a-string-in-balanced-strings)|||Easy|
-|1342|[queens-that-can-attack-the-king](https://leetcode.com/problems/queens-that-can-attack-the-king)|||Medium|
+|1342|[queens-that-can-attack-the-king](https://leetcode.com/problems/queens-that-can-attack-the-king)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/1342-queens-that-can-attack-the-king/queens-that-can-attack-the-king.py)||Medium|
 |1343|[dice-roll-simulation](https://leetcode.com/problems/dice-roll-simulation)|||Hard|
 |1344|[maximum-equal-frequency](https://leetcode.com/problems/maximum-equal-frequency)|||Hard|
 |1345|[perform-string-shifts](https://leetcode.com/problems/perform-string-shifts)|:lock:|[:memo:](https://leetcode.com/articles/performing-string-shifts/)|Easy|
@@ -1902,7 +1902,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |2180|[maximum-number-of-tasks-you-can-assign](https://leetcode.com/problems/maximum-number-of-tasks-you-can-assign)|||Hard|
 |2181|[smallest-index-with-equal-value](https://leetcode.com/problems/smallest-index-with-equal-value)|||Easy|
 |2182|[find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://leetcode.com/problems/find-the-minimum-and-maximum-number-of-nodes-between-critical-points)|||Medium|
-|2183|[minimum-operations-to-convert-number](https://leetcode.com/problems/minimum-operations-to-convert-number)|||Medium|
+|2183|[minimum-operations-to-convert-number](https://leetcode.com/problems/minimum-operations-to-convert-number)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/2183-minimum-operations-to-convert-number/minimum-operations-to-convert-number.py)||Medium|
 |2184|[check-if-an-original-string-exists-given-two-encoded-strings](https://leetcode.com/problems/check-if-an-original-string-exists-given-two-encoded-strings)|||Hard|
 |2186|[count-vowel-substrings-of-a-string](https://leetcode.com/problems/count-vowel-substrings-of-a-string)|||Easy|
 |2187|[vowels-of-all-substrings](https://leetcode.com/problems/vowels-of-all-substrings)|||Medium|
@@ -2085,6 +2085,10 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |2383|[add-two-integers](https://leetcode.com/problems/add-two-integers)|||Easy|
 |2384|[root-equals-sum-of-children](https://leetcode.com/problems/root-equals-sum-of-children)|||Easy|
 |2385|[count-positions-on-street-with-required-brightness](https://leetcode.com/problems/count-positions-on-street-with-required-brightness)|:lock:||Medium|
+|2386|[min-max-game](https://leetcode.com/problems/min-max-game)|||Easy|
+|2387|[partition-array-such-that-maximum-difference-is-k](https://leetcode.com/problems/partition-array-such-that-maximum-difference-is-k)|||Medium|
+|2388|[replace-elements-in-an-array](https://leetcode.com/problems/replace-elements-in-an-array)|||Medium|
+|2389|[design-a-text-editor](https://leetcode.com/problems/design-a-text-editor)|||Hard|
 |2396|[design-video-sharing-platform](https://leetcode.com/problems/design-video-sharing-platform)|:lock:||Hard|
 |2405|[minimum-number-of-keypresses](https://leetcode.com/problems/minimum-number-of-keypresses)|:lock:||Medium|
 |2420|[closest-node-to-path-in-tree](https://leetcode.com/problems/closest-node-to-path-in-tree)|:lock:||Hard|

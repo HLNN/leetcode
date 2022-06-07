@@ -29,6 +29,11 @@
 # 	arr[i] < arr[j] for 1 <= i < j <= arr.length
 #
 #
+#  
+# Follow up:
+#
+# Could you solve this problem in less than O(n) complexity?
+#
 
 
 class Solution:

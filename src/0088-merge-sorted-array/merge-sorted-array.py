@@ -55,8 +55,7 @@ class Solution:
         Do not return anything, modify nums1 in-place instead.
         """
         if m == 0:
-            for i in range(len(nums1)):
-                nums1[i] = nums2[i]
+            nums1[:] = nums2[:]
             return
         if n == 0: return
         
@@ -64,13 +63,11 @@ class Solution:
         while p1 >= 0 and p2 >= 0:
             if nums1[p1] > nums2[p2]:
                 nums1[t] = nums1[p1]
-                t -= 1
-                p1 -= 1
+                t, p1 = t - 1, p1 - 1
             else:
                 nums1[t] = nums2[p2]
-                t -= 1
-                p2 -= 1
-        while p2 >= 0:
-            nums1[p2] = nums2[p2]
-            p2 -= 1
+                t, p2 = t - 1, p2 - 1
         
+        if p2 >= 0:
+            nums1[:p2+1] = nums2[:p2+1]
+    
