@@ -4,7 +4,7 @@
 #
 # Extra spaces between words should be distributed as evenly as possible. If the number of spaces on a line does not divide evenly between words, the empty slots on the left will be assigned more spaces than the slots on the right.
 #
-# For the last line of text, it should be left-justified and no extra space is inserted between words.
+# For the last line of text, it should be left-justified, and no extra space is inserted between words.
 #
 # Note:
 #
@@ -37,7 +37,7 @@
 #   "shall be        "
 # ]
 # Explanation: Note that the last line is "shall be    " instead of "shall     be", because the last line must be left-justified instead of fully-justified.
-# Note that the second line is also left-justified becase it contains only one word.
+# Note that the second line is also left-justified because it contains only one word.
 #
 # Example 3:
 #

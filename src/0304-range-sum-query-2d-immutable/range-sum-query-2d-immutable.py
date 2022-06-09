@@ -35,8 +35,7 @@
 # 	m == matrix.length
 # 	n == matrix[i].length
 # 	1 <= m, n <= 200
-# 	-105 <= matrix[i][j] <= 105
-# 	-109 <= sum(matrix[i][j]) <= 109
+# 	-104 <= matrix[i][j] <= 104
 # 	0 <= row1 <= row2 < m
 # 	0 <= col1 <= col2 < n
 # 	At most 104 calls will be made to sumRegion.

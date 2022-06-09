@@ -1,8 +1,8 @@
 # :pencil2: Leetcode Solutions with Python3,Cpp
-Update time:  2022-06-07 23:43:26
+Update time:  2022-06-09 23:42:53
 
-I have solved **360   /   2080** problems
-while there are **318** problems still locked.
+I have solved **362   /   2081** problems
+while there are **319** problems still locked.
 
 If you have any question, please give me an [issue](https://github.com/hlnn/leetcode/issues).
 
@@ -180,7 +180,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |164|[maximum-gap](https://leetcode.com/problems/maximum-gap)||[:memo:](https://leetcode.com/articles/maximum-gap/)|Hard|
 |165|[compare-version-numbers](https://leetcode.com/problems/compare-version-numbers)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0165-compare-version-numbers/compare-version-numbers.py)|[:memo:](https://leetcode.com/articles/compare-version-numbers/)|Medium|
 |166|[fraction-to-recurring-decimal](https://leetcode.com/problems/fraction-to-recurring-decimal)||[:memo:](https://leetcode.com/articles/fraction-to-recurring-decimal/)|Medium|
-|167|[two-sum-ii-input-array-is-sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted)||[:memo:](https://leetcode.com/articles/two-sum-ii-input-array-is-sorted/)|Medium|
+|167|[two-sum-ii-input-array-is-sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0167-two-sum-ii-input-array-is-sorted/two-sum-ii-input-array-is-sorted.py)|[:memo:](https://leetcode.com/articles/two-sum-ii-input-array-is-sorted/)|Medium|
 |168|[excel-sheet-column-title](https://leetcode.com/problems/excel-sheet-column-title)|||Easy|
 |169|[majority-element](https://leetcode.com/problems/majority-element)||[:memo:](https://leetcode.com/articles/majority-element/)|Easy|
 |170|[two-sum-iii-data-structure-design](https://leetcode.com/problems/two-sum-iii-data-structure-design)|:lock:|[:memo:](https://leetcode.com/articles/two-sum-iii-data-structure-design/)|Easy|
@@ -630,7 +630,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |676|[implement-magic-dictionary](https://leetcode.com/problems/implement-magic-dictionary)||[:memo:](https://leetcode.com/articles/implement-magic-dictionary/)|Medium|
 |677|[map-sum-pairs](https://leetcode.com/problems/map-sum-pairs)||[:memo:](https://leetcode.com/articles/map-sum-pairs/)|Medium|
 |678|[valid-parenthesis-string](https://leetcode.com/problems/valid-parenthesis-string)||[:memo:](https://leetcode.com/articles/valid-parenthesis-string/)|Medium|
-|679|[24-game](https://leetcode.com/problems/24-game)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0679-24-game/24-game.py)||Hard|
+|679|[24-game](https://leetcode.com/problems/24-game)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0679-24-game/24-game.py)|[:memo:](https://leetcode.com/articles/24-game/)|Hard|
 |680|[valid-palindrome-ii](https://leetcode.com/problems/valid-palindrome-ii)||[:memo:](https://leetcode.com/articles/valid-palindrome-ii/)|Easy|
 |681|[next-closest-time](https://leetcode.com/problems/next-closest-time)|:lock:|[:memo:](https://leetcode.com/articles/next-closest-time/)|Medium|
 |682|[baseball-game](https://leetcode.com/problems/baseball-game)||[:memo:](https://leetcode.com/articles/baseball-game/)|Easy|
@@ -1376,7 +1376,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |1538|[maximum-points-you-can-obtain-from-cards](https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards)||[:memo:](https://leetcode.com/articles/maximum-points-you-can-obtain-from-cards/)|Medium|
 |1539|[diagonal-traverse-ii](https://leetcode.com/problems/diagonal-traverse-ii)|||Medium|
 |1542|[consecutive-characters](https://leetcode.com/problems/consecutive-characters)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/1542-consecutive-characters/consecutive-characters.py)|[:memo:](https://leetcode.com/articles/consecutive-characters/)|Easy|
-|1543|[simplified-fractions](https://leetcode.com/problems/simplified-fractions)|||Medium|
+|1543|[simplified-fractions](https://leetcode.com/problems/simplified-fractions)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/1543-simplified-fractions/simplified-fractions.py)||Medium|
 |1544|[count-good-nodes-in-binary-tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/1544-count-good-nodes-in-binary-tree/count-good-nodes-in-binary-tree.py)|[:memo:](https://leetcode.com/articles/count-good-nodes-in-binary-tree/)|Medium|
 |1545|[form-largest-integer-with-digits-that-add-up-to-target](https://leetcode.com/problems/form-largest-integer-with-digits-that-add-up-to-target)|||Hard|
 |1547|[destination-city](https://leetcode.com/problems/destination-city)|||Easy|
@@ -1793,6 +1793,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |2053|[check-if-all-characters-have-equal-number-of-occurrences](https://leetcode.com/problems/check-if-all-characters-have-equal-number-of-occurrences)|||Easy|
 |2054|[the-number-of-the-smallest-unoccupied-chair](https://leetcode.com/problems/the-number-of-the-smallest-unoccupied-chair)|||Medium|
 |2055|[describe-the-painting](https://leetcode.com/problems/describe-the-painting)|||Medium|
+|2056|[jump-game-ix](https://leetcode.com/problems/jump-game-ix)|:lock:||Medium|
 |2058|[concatenation-of-array](https://leetcode.com/problems/concatenation-of-array)|||Easy|
 |2059|[unique-length-3-palindromic-subsequences](https://leetcode.com/problems/unique-length-3-palindromic-subsequences)|||Medium|
 |2060|[merge-bsts-to-create-single-bst](https://leetcode.com/problems/merge-bsts-to-create-single-bst)|||Hard|
