@@ -1,8 +1,8 @@
 # :pencil2: Leetcode Solutions with Python3,Cpp
-Update time:  2022-06-09 23:42:53
+Update time:  2022-06-12 23:43:31
 
-I have solved **362   /   2081** problems
-while there are **319** problems still locked.
+I have solved **363   /   2090** problems
+while there are **320** problems still locked.
 
 If you have any question, please give me an [issue](https://github.com/hlnn/leetcode/issues).
 
@@ -1246,6 +1246,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |1379|[reconstruct-a-2-row-binary-matrix](https://leetcode.com/problems/reconstruct-a-2-row-binary-matrix)|||Medium|
 |1380|[number-of-closed-islands](https://leetcode.com/problems/number-of-closed-islands)|||Medium|
 |1381|[maximum-score-words-formed-by-letters](https://leetcode.com/problems/maximum-score-words-formed-by-letters)|||Hard|
+|1382|[calculate-amount-paid-in-taxes](https://leetcode.com/problems/calculate-amount-paid-in-taxes)|||Easy|
 |1383|[number-of-single-divisor-triplets](https://leetcode.com/problems/number-of-single-divisor-triplets)|:lock:||Medium|
 |1384|[maximum-font-to-fit-a-sentence-in-a-screen](https://leetcode.com/problems/maximum-font-to-fit-a-sentence-in-a-screen)|:lock:||Medium|
 |1385|[number-of-ways-to-build-house-of-cards](https://leetcode.com/problems/number-of-ways-to-build-house-of-cards)|:lock:||Medium|
@@ -1256,6 +1257,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |1391|[counting-elements](https://leetcode.com/problems/counting-elements)|:lock:|[:memo:](https://leetcode.com/articles/counting-elements/)|Easy|
 |1392|[find-the-difference-of-two-arrays](https://leetcode.com/problems/find-the-difference-of-two-arrays)|||Easy|
 |1393|[maximum-value-of-k-coins-from-piles](https://leetcode.com/problems/maximum-value-of-k-coins-from-piles)|||Hard|
+|1394|[minimum-path-cost-in-a-grid](https://leetcode.com/problems/minimum-path-cost-in-a-grid)|||Medium|
 |1395|[minimum-time-visiting-all-points](https://leetcode.com/problems/minimum-time-visiting-all-points)|||Easy|
 |1396|[count-servers-that-communicate](https://leetcode.com/problems/count-servers-that-communicate)|||Medium|
 |1397|[search-suggestions-system](https://leetcode.com/problems/search-suggestions-system)||[:memo:](https://leetcode.com/articles/search-suggestions-system/)|Medium|
@@ -1273,6 +1275,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |1413|[maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://leetcode.com/problems/maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold)|||Medium|
 |1414|[shortest-path-in-a-grid-with-obstacles-elimination](https://leetcode.com/problems/shortest-path-in-a-grid-with-obstacles-elimination)||[:memo:](https://leetcode.com/articles/shortest-path-in-a-grid-with-obstacles-elimination/)|Hard|
 |1416|[check-if-an-array-is-consecutive](https://leetcode.com/problems/check-if-an-array-is-consecutive)|:lock:||Easy|
+|1418|[fair-distribution-of-cookies](https://leetcode.com/problems/fair-distribution-of-cookies)|||Medium|
 |1419|[make-array-non-decreasing-or-non-increasing](https://leetcode.com/problems/make-array-non-decreasing-or-non-increasing)|:lock:||Hard|
 |1421|[find-numbers-with-even-number-of-digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits)|||Easy|
 |1422|[divide-array-in-sets-of-k-consecutive-numbers](https://leetcode.com/problems/divide-array-in-sets-of-k-consecutive-numbers)|||Medium|
@@ -1594,7 +1597,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |1809|[sum-of-special-evenly-spaced-elements-in-array](https://leetcode.com/problems/sum-of-special-evenly-spaced-elements-in-array)|:lock:||Hard|
 |1810|[change-the-root-of-a-binary-tree](https://leetcode.com/problems/change-the-root-of-a-binary-tree)|:lock:||Medium|
 |1812|[reformat-phone-number](https://leetcode.com/problems/reformat-phone-number)|||Easy|
-|1813|[maximum-erasure-value](https://leetcode.com/problems/maximum-erasure-value)||[:memo:](https://leetcode.com/articles/maximum-erasure-value/)|Medium|
+|1813|[maximum-erasure-value](https://leetcode.com/problems/maximum-erasure-value)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/1813-maximum-erasure-value/maximum-erasure-value.py) [Cpp](https://github.com/hlnn/leetcode/blob/master/src/1813-maximum-erasure-value/maximum-erasure-value.cpp)|[:memo:](https://leetcode.com/articles/maximum-erasure-value/)|Medium|
 |1814|[jump-game-vi](https://leetcode.com/problems/jump-game-vi)||[:memo:](https://leetcode.com/articles/jump-game-vi/)|Medium|
 |1815|[checking-existence-of-edge-length-limited-paths](https://leetcode.com/problems/checking-existence-of-edge-length-limited-paths)|||Hard|
 |1816|[lowest-common-ancestor-of-a-binary-tree-iv](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree-iv)|:lock:||Medium|
@@ -2090,8 +2093,14 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |2387|[partition-array-such-that-maximum-difference-is-k](https://leetcode.com/problems/partition-array-such-that-maximum-difference-is-k)|||Medium|
 |2388|[replace-elements-in-an-array](https://leetcode.com/problems/replace-elements-in-an-array)|||Medium|
 |2389|[design-a-text-editor](https://leetcode.com/problems/design-a-text-editor)|||Hard|
+|2390|[naming-a-company](https://leetcode.com/problems/naming-a-company)|||Hard|
+|2391|[strong-password-checker-ii](https://leetcode.com/problems/strong-password-checker-ii)|||Easy|
+|2392|[successful-pairs-of-spells-and-potions](https://leetcode.com/problems/successful-pairs-of-spells-and-potions)|||Medium|
+|2393|[match-substring-after-replacement](https://leetcode.com/problems/match-substring-after-replacement)|||Hard|
+|2394|[count-subarrays-with-score-less-than-k](https://leetcode.com/problems/count-subarrays-with-score-less-than-k)|||Hard|
 |2396|[design-video-sharing-platform](https://leetcode.com/problems/design-video-sharing-platform)|:lock:||Hard|
 |2405|[minimum-number-of-keypresses](https://leetcode.com/problems/minimum-number-of-keypresses)|:lock:||Medium|
 |2420|[closest-node-to-path-in-tree](https://leetcode.com/problems/closest-node-to-path-in-tree)|:lock:||Hard|
 |2425|[number-of-people-that-can-be-seen-in-a-grid](https://leetcode.com/problems/number-of-people-that-can-be-seen-in-a-grid)|:lock:||Medium|
 |2426|[maximum-profit-from-trading-stocks](https://leetcode.com/problems/maximum-profit-from-trading-stocks)|:lock:||Medium|
+|2440|[tasks-count-in-the-weekend](https://leetcode.com/problems/tasks-count-in-the-weekend)|:lock:||Medium|
