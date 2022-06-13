@@ -1,8 +1,8 @@
 # :pencil2: Leetcode Solutions with Python3,Cpp
-Update time:  2022-06-12 23:43:31
+Update time:  2022-06-13 23:43:22
 
-I have solved **363   /   2090** problems
-while there are **320** problems still locked.
+I have solved **364   /   2089** problems
+while there are **319** problems still locked.
 
 If you have any question, please give me an [issue](https://github.com/hlnn/leetcode/issues).
 
@@ -133,7 +133,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |117|[populating-next-right-pointers-in-each-node-ii](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0117-populating-next-right-pointers-in-each-node-ii/populating-next-right-pointers-in-each-node-ii.py)|[:memo:](https://leetcode.com/articles/populating-next-right-pointers-in-each-node-ii/)|Medium|
 |118|[pascals-triangle](https://leetcode.com/problems/pascals-triangle)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0118-pascals-triangle/pascals-triangle.py)|[:memo:](https://leetcode.com/articles/pascals-triangle/)|Easy|
 |119|[pascals-triangle-ii](https://leetcode.com/problems/pascals-triangle-ii)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0119-pascals-triangle-ii/pascals-triangle-ii.py)|[:memo:](https://leetcode.com/articles/pascals-triangle-ii/)|Easy|
-|120|[triangle](https://leetcode.com/problems/triangle)||[:memo:](https://leetcode.com/articles/triangle/)|Medium|
+|120|[triangle](https://leetcode.com/problems/triangle)|[Cpp](https://github.com/hlnn/leetcode/blob/master/src/0120-triangle/triangle.cpp) [Python3](https://github.com/hlnn/leetcode/blob/master/src/0120-triangle/triangle.py)|[:memo:](https://leetcode.com/articles/triangle/)|Medium|
 |121|[best-time-to-buy-and-sell-stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock)||[:memo:](https://leetcode.com/articles/best-time-to-buy-and-sell-stock/)|Easy|
 |122|[best-time-to-buy-and-sell-stock-ii](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0122-best-time-to-buy-and-sell-stock-ii/best-time-to-buy-and-sell-stock-ii.py)|[:memo:](https://leetcode.com/articles/best-time-to-buy-and-sell-stock-ii/)|Medium|
 |123|[best-time-to-buy-and-sell-stock-iii](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii)||[:memo:](https://leetcode.com/articles/best-time-to-buy-and-sell-stock-iii/)|Hard|
@@ -2103,4 +2103,3 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |2420|[closest-node-to-path-in-tree](https://leetcode.com/problems/closest-node-to-path-in-tree)|:lock:||Hard|
 |2425|[number-of-people-that-can-be-seen-in-a-grid](https://leetcode.com/problems/number-of-people-that-can-be-seen-in-a-grid)|:lock:||Medium|
 |2426|[maximum-profit-from-trading-stocks](https://leetcode.com/problems/maximum-profit-from-trading-stocks)|:lock:||Medium|
-|2440|[tasks-count-in-the-weekend](https://leetcode.com/problems/tasks-count-in-the-weekend)|:lock:||Medium|
