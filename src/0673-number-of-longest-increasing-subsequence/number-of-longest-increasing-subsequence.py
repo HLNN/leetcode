@@ -16,8 +16,7 @@
 #
 # Input: nums = [2,2,2,2,2]
 # Output: 5
-# Explanation: The length of longest continuous increasing subsequence is 1, and there are 5 subsequences' length is 1, so output 5.
-#
+# Explanation: The length of the longest increasing subsequence is 1, and there are 5 increasing subsequences of length 1, so output 5.
 #
 #
 #  
