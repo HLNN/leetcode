@@ -1,7 +1,7 @@
 # :pencil2: Leetcode Solutions with Python3,Cpp
-Update time:  2022-06-14 23:43:28
+Update time:  2022-06-15 23:43:42
 
-I have solved **365   /   2089** problems
+I have solved **366   /   2089** problems
 while there are **319** problems still locked.
 
 If you have any question, please give me an [issue](https://github.com/hlnn/leetcode/issues).
@@ -1055,7 +1055,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |1126|[minimum-cost-to-connect-sticks](https://leetcode.com/problems/minimum-cost-to-connect-sticks)|:lock:|[:memo:](https://leetcode.com/articles/minimum-cost-to-connect-sticks/)|Medium|
 |1127|[last-stone-weight](https://leetcode.com/problems/last-stone-weight)||[:memo:](https://leetcode.com/articles/last-stone-weight/)|Easy|
 |1128|[remove-all-adjacent-duplicates-in-string](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string)||[:memo:](https://leetcode.com/articles/remove-all-adjacent-duplicates-in-string/)|Easy|
-|1129|[longest-string-chain](https://leetcode.com/problems/longest-string-chain)||[:memo:](https://leetcode.com/articles/longest-string-chain/)|Medium|
+|1129|[longest-string-chain](https://leetcode.com/problems/longest-string-chain)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/1129-longest-string-chain/longest-string-chain.py)|[:memo:](https://leetcode.com/articles/longest-string-chain/)|Medium|
 |1130|[last-stone-weight-ii](https://leetcode.com/problems/last-stone-weight-ii)|||Medium|
 |1131|[count-substrings-with-only-one-distinct-letter](https://leetcode.com/problems/count-substrings-with-only-one-distinct-letter)|:lock:|[:memo:](https://leetcode.com/articles/count-substrings-with-only-one-distinct-letter/)|Easy|
 |1132|[before-and-after-puzzle](https://leetcode.com/problems/before-and-after-puzzle)|:lock:||Medium|
