@@ -1,8 +1,8 @@
 # :pencil2: Leetcode Solutions with Python3,Cpp
-Update time:  2022-06-15 23:43:42
+Update time:  2022-06-19 10:00:25
 
-I have solved **366   /   2089** problems
-while there are **319** problems still locked.
+I have solved **369   /   2090** problems
+while there are **320** problems still locked.
 
 If you have any question, please give me an [issue](https://github.com/hlnn/leetcode/issues).
 
@@ -194,7 +194,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |188|[best-time-to-buy-and-sell-stock-iv](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0188-best-time-to-buy-and-sell-stock-iv/best-time-to-buy-and-sell-stock-iv.py)|[:memo:](https://leetcode.com/articles/best-time-to-buy-and-sell-stock-iv/)|Hard|
 |189|[rotate-array](https://leetcode.com/problems/rotate-array)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0189-rotate-array/rotate-array.py)|[:memo:](https://leetcode.com/articles/rotate-array/)|Medium|
 |190|[reverse-bits](https://leetcode.com/problems/reverse-bits)||[:memo:](https://leetcode.com/articles/reverse-bits/)|Easy|
-|191|[number-of-1-bits](https://leetcode.com/problems/number-of-1-bits)|[Cpp](https://github.com/hlnn/leetcode/blob/master/src/0191-number-of-1-bits/number-of-1-bits.cpp) [Python3](https://github.com/hlnn/leetcode/blob/master/src/0191-number-of-1-bits/number-of-1-bits.py)|[:memo:](https://leetcode.com/articles/number-of-1-bits/)|Easy|
+|191|[number-of-1-bits](https://leetcode.com/problems/number-of-1-bits)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0191-number-of-1-bits/number-of-1-bits.py) [Cpp](https://github.com/hlnn/leetcode/blob/master/src/0191-number-of-1-bits/number-of-1-bits.cpp)|[:memo:](https://leetcode.com/articles/number-of-1-bits/)|Easy|
 |198|[house-robber](https://leetcode.com/problems/house-robber)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0198-house-robber/house-robber.py)|[:memo:](https://leetcode.com/articles/house-robber/)|Medium|
 |199|[binary-tree-right-side-view](https://leetcode.com/problems/binary-tree-right-side-view)||[:memo:](https://leetcode.com/articles/binary-tree-right-side-view/)|Medium|
 |200|[number-of-islands](https://leetcode.com/problems/number-of-islands)||[:memo:](https://leetcode.com/articles/number-of-islands/)|Medium|
@@ -686,7 +686,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |743|[closest-leaf-in-a-binary-tree](https://leetcode.com/problems/closest-leaf-in-a-binary-tree)|:lock:|[:memo:](https://leetcode.com/articles/closest-leaf-in-binary-tree/)|Medium|
 |744|[network-delay-time](https://leetcode.com/problems/network-delay-time)||[:memo:](https://leetcode.com/articles/network-delay-time/)|Medium|
 |745|[find-smallest-letter-greater-than-target](https://leetcode.com/problems/find-smallest-letter-greater-than-target)||[:memo:](https://leetcode.com/articles/find-smallest-letter-greater-than-target/)|Easy|
-|746|[prefix-and-suffix-search](https://leetcode.com/problems/prefix-and-suffix-search)||[:memo:](https://leetcode.com/articles/prefix-and-suffix-search/)|Hard|
+|746|[prefix-and-suffix-search](https://leetcode.com/problems/prefix-and-suffix-search)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0746-prefix-and-suffix-search/prefix-and-suffix-search.py)|[:memo:](https://leetcode.com/articles/prefix-and-suffix-search/)|Hard|
 |747|[min-cost-climbing-stairs](https://leetcode.com/problems/min-cost-climbing-stairs)||[:memo:](https://leetcode.com/articles/min-cost-climbing-stairs/)|Easy|
 |748|[largest-number-at-least-twice-of-others](https://leetcode.com/problems/largest-number-at-least-twice-of-others)||[:memo:](https://leetcode.com/articles/largest-number-at-least-twice-of-others/)|Easy|
 |749|[shortest-completing-word](https://leetcode.com/problems/shortest-completing-word)||[:memo:](https://leetcode.com/articles/shortest-completing-word/)|Easy|
@@ -742,7 +742,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |799|[minimum-distance-between-bst-nodes](https://leetcode.com/problems/minimum-distance-between-bst-nodes)||[:memo:](https://leetcode.com/articles/minimum-distance-between-bst-nodes/)|Easy|
 |800|[letter-case-permutation](https://leetcode.com/problems/letter-case-permutation)||[:memo:](https://leetcode.com/articles/letter-case-permutation/)|Medium|
 |801|[is-graph-bipartite](https://leetcode.com/problems/is-graph-bipartite)||[:memo:](https://leetcode.com/articles/is-graph-bipartite/)|Medium|
-|802|[k-th-smallest-prime-fraction](https://leetcode.com/problems/k-th-smallest-prime-fraction)||[:memo:](https://leetcode.com/articles/k-th-smallest-prime-fraction/)|Hard|
+|802|[k-th-smallest-prime-fraction](https://leetcode.com/problems/k-th-smallest-prime-fraction)||[:memo:](https://leetcode.com/articles/k-th-smallest-prime-fraction/)|Medium|
 |803|[cheapest-flights-within-k-stops](https://leetcode.com/problems/cheapest-flights-within-k-stops)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0803-cheapest-flights-within-k-stops/cheapest-flights-within-k-stops.py)|[:memo:](https://leetcode.com/articles/cheapest-flights-within-k-stops/)|Medium|
 |804|[rotated-digits](https://leetcode.com/problems/rotated-digits)||[:memo:](https://leetcode.com/articles/rotated-digits/)|Medium|
 |805|[escape-the-ghosts](https://leetcode.com/problems/escape-the-ghosts)||[:memo:](https://leetcode.com/articles/escape-the-ghosts/)|Medium|
@@ -937,7 +937,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |1005|[univalued-binary-tree](https://leetcode.com/problems/univalued-binary-tree)||[:memo:](https://leetcode.com/articles/univalued-binary-tree/)|Easy|
 |1006|[vowel-spellchecker](https://leetcode.com/problems/vowel-spellchecker)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/1006-vowel-spellchecker/vowel-spellchecker.py)|[:memo:](https://leetcode.com/articles/vowel-spellchecker/)|Medium|
 |1007|[numbers-with-same-consecutive-differences](https://leetcode.com/problems/numbers-with-same-consecutive-differences)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/1007-numbers-with-same-consecutive-differences/numbers-with-same-consecutive-differences.py)|[:memo:](https://leetcode.com/articles/numbers-with-same-consecutive-differences/)|Medium|
-|1008|[binary-tree-cameras](https://leetcode.com/problems/binary-tree-cameras)||[:memo:](https://leetcode.com/articles/binary-tree-cameras/)|Hard|
+|1008|[binary-tree-cameras](https://leetcode.com/problems/binary-tree-cameras)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/1008-binary-tree-cameras/binary-tree-cameras.py)|[:memo:](https://leetcode.com/articles/binary-tree-cameras/)|Hard|
 |1009|[pancake-sorting](https://leetcode.com/problems/pancake-sorting)||[:memo:](https://leetcode.com/articles/pancake-sorting/)|Medium|
 |1010|[powerful-integers](https://leetcode.com/problems/powerful-integers)||[:memo:](https://leetcode.com/articles/powerful-integers/)|Medium|
 |1011|[flip-binary-tree-to-match-preorder-traversal](https://leetcode.com/problems/flip-binary-tree-to-match-preorder-traversal)||[:memo:](https://leetcode.com/articles/flip-binary-tree-to-match-preorder-traversal/)|Medium|
@@ -949,7 +949,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |1018|[largest-perimeter-triangle](https://leetcode.com/problems/largest-perimeter-triangle)||[:memo:](https://leetcode.com/articles/largest-perimeter-triangle/)|Easy|
 |1019|[squares-of-a-sorted-array](https://leetcode.com/problems/squares-of-a-sorted-array)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/1019-squares-of-a-sorted-array/squares-of-a-sorted-array.py)|[:memo:](https://leetcode.com/articles/squares-of-a-sorted-array/)|Easy|
 |1020|[longest-turbulent-subarray](https://leetcode.com/problems/longest-turbulent-subarray)||[:memo:](https://leetcode.com/articles/longest-turbulent-subarray/)|Medium|
-|1021|[distribute-coins-in-binary-tree](https://leetcode.com/problems/distribute-coins-in-binary-tree)||[:memo:](https://leetcode.com/articles/distribute-coins-in-binary-tree/)|Medium|
+|1021|[distribute-coins-in-binary-tree](https://leetcode.com/problems/distribute-coins-in-binary-tree)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/1021-distribute-coins-in-binary-tree/distribute-coins-in-binary-tree.py)|[:memo:](https://leetcode.com/articles/distribute-coins-in-binary-tree/)|Medium|
 |1022|[unique-paths-iii](https://leetcode.com/problems/unique-paths-iii)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/1022-unique-paths-iii/unique-paths-iii.py)|[:memo:](https://leetcode.com/articles/unique-paths-iii/)|Hard|
 |1023|[time-based-key-value-store](https://leetcode.com/problems/time-based-key-value-store)||[:memo:](https://leetcode.com/articles/time-based-key-value-store/)|Medium|
 |1024|[triples-with-bitwise-and-equal-to-zero](https://leetcode.com/problems/triples-with-bitwise-and-equal-to-zero)|||Hard|
@@ -1796,12 +1796,13 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |2053|[check-if-all-characters-have-equal-number-of-occurrences](https://leetcode.com/problems/check-if-all-characters-have-equal-number-of-occurrences)|||Easy|
 |2054|[the-number-of-the-smallest-unoccupied-chair](https://leetcode.com/problems/the-number-of-the-smallest-unoccupied-chair)|||Medium|
 |2055|[describe-the-painting](https://leetcode.com/problems/describe-the-painting)|||Medium|
-|2056|[jump-game-ix](https://leetcode.com/problems/jump-game-ix)|:lock:||Medium|
+|2056|[jump-game-viii](https://leetcode.com/problems/jump-game-viii)|:lock:||Medium|
 |2058|[concatenation-of-array](https://leetcode.com/problems/concatenation-of-array)|||Easy|
 |2059|[unique-length-3-palindromic-subsequences](https://leetcode.com/problems/unique-length-3-palindromic-subsequences)|||Medium|
 |2060|[merge-bsts-to-create-single-bst](https://leetcode.com/problems/merge-bsts-to-create-single-bst)|||Hard|
 |2061|[painting-a-grid-with-three-different-colors](https://leetcode.com/problems/painting-a-grid-with-three-different-colors)|||Hard|
 |2062|[game-of-nim](https://leetcode.com/problems/game-of-nim)|:lock:||Medium|
+|2065|[check-for-contradictions-in-equations](https://leetcode.com/problems/check-for-contradictions-in-equations)|:lock:||Hard|
 |2066|[add-minimum-number-of-rungs](https://leetcode.com/problems/add-minimum-number-of-rungs)|||Medium|
 |2067|[maximum-number-of-points-with-cost](https://leetcode.com/problems/maximum-number-of-points-with-cost)|||Medium|
 |2068|[maximum-genetic-difference-query](https://leetcode.com/problems/maximum-genetic-difference-query)|||Hard|
