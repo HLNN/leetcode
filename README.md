@@ -1,7 +1,7 @@
 # :pencil2: Leetcode Solutions with Python3,Cpp
-Update time:  2022-06-19 10:00:25
+Update time:  2022-06-20 10:00:36
 
-I have solved **369   /   2090** problems
+I have solved **371   /   2094** problems
 while there are **320** problems still locked.
 
 If you have any question, please give me an [issue](https://github.com/hlnn/leetcode/issues).
@@ -1210,6 +1210,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |1331|[path-with-maximum-gold](https://leetcode.com/problems/path-with-maximum-gold)|||Medium|
 |1332|[count-vowels-permutation](https://leetcode.com/problems/count-vowels-permutation)||[:memo:](https://leetcode.com/articles/count-vowels-permutation/)|Hard|
 |1333|[sort-the-jumbled-numbers](https://leetcode.com/problems/sort-the-jumbled-numbers)|||Medium|
+|1334|[sum-of-numbers-with-units-digit-k](https://leetcode.com/problems/sum-of-numbers-with-units-digit-k)|||Medium|
 |1335|[maximum-candies-allocated-to-k-children](https://leetcode.com/problems/maximum-candies-allocated-to-k-children)|||Medium|
 |1336|[maximum-product-of-the-length-of-two-palindromic-substrings](https://leetcode.com/problems/maximum-product-of-the-length-of-two-palindromic-substrings)|||Hard|
 |1337|[design-skiplist](https://leetcode.com/problems/design-skiplist)|||Hard|
@@ -1233,6 +1234,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |1360|[maximum-length-of-a-concatenated-string-with-unique-characters](https://leetcode.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters)||[:memo:](https://leetcode.com/articles/maximum-length-of-a-concatenated-string-with-unique-characters/)|Medium|
 |1361|[tiling-a-rectangle-with-the-fewest-squares](https://leetcode.com/problems/tiling-a-rectangle-with-the-fewest-squares)|||Hard|
 |1362|[airplane-seat-assignment-probability](https://leetcode.com/problems/airplane-seat-assignment-probability)|||Medium|
+|1363|[greatest-english-letter-in-upper-and-lower-case](https://leetcode.com/problems/greatest-english-letter-in-upper-and-lower-case)|||Easy|
 |1364|[tuple-with-same-product](https://leetcode.com/problems/tuple-with-same-product)|||Medium|
 |1366|[first-unique-number](https://leetcode.com/problems/first-unique-number)|:lock:|[:memo:](https://leetcode.com/articles/first-unique-number/)|Medium|
 |1367|[maximum-height-by-stacking-cuboids](https://leetcode.com/problems/maximum-height-by-stacking-cuboids)|||Hard|
@@ -1242,6 +1244,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |1372|[check-if-it-is-a-good-array](https://leetcode.com/problems/check-if-it-is-a-good-array)|||Hard|
 |1374|[leftmost-column-with-at-least-a-one](https://leetcode.com/problems/leftmost-column-with-at-least-a-one)|:lock:|[:memo:](https://leetcode.com/articles/leftmost-column-with-a-at-least-a-one/)|Medium|
 |1375|[find-palindrome-with-fixed-length](https://leetcode.com/problems/find-palindrome-with-fixed-length)|||Medium|
+|1376|[selling-pieces-of-wood](https://leetcode.com/problems/selling-pieces-of-wood)|||Hard|
 |1378|[cells-with-odd-values-in-a-matrix](https://leetcode.com/problems/cells-with-odd-values-in-a-matrix)|||Easy|
 |1379|[reconstruct-a-2-row-binary-matrix](https://leetcode.com/problems/reconstruct-a-2-row-binary-matrix)|||Medium|
 |1380|[number-of-closed-islands](https://leetcode.com/problems/number-of-closed-islands)|||Medium|
@@ -1260,7 +1263,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |1394|[minimum-path-cost-in-a-grid](https://leetcode.com/problems/minimum-path-cost-in-a-grid)|||Medium|
 |1395|[minimum-time-visiting-all-points](https://leetcode.com/problems/minimum-time-visiting-all-points)|||Easy|
 |1396|[count-servers-that-communicate](https://leetcode.com/problems/count-servers-that-communicate)|||Medium|
-|1397|[search-suggestions-system](https://leetcode.com/problems/search-suggestions-system)||[:memo:](https://leetcode.com/articles/search-suggestions-system/)|Medium|
+|1397|[search-suggestions-system](https://leetcode.com/problems/search-suggestions-system)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/1397-search-suggestions-system/search-suggestions-system.py)|[:memo:](https://leetcode.com/articles/search-suggestions-system/)|Medium|
 |1398|[number-of-ways-to-stay-in-the-same-place-after-some-steps](https://leetcode.com/problems/number-of-ways-to-stay-in-the-same-place-after-some-steps)|||Hard|
 |1400|[find-winner-on-a-tic-tac-toe-game](https://leetcode.com/problems/find-winner-on-a-tic-tac-toe-game)||[:memo:](https://leetcode.com/articles/find-winner-on-a-tic-tac-toe-game/)|Easy|
 |1401|[number-of-burgers-with-no-waste-of-ingredients](https://leetcode.com/problems/number-of-burgers-with-no-waste-of-ingredients)|||Medium|
@@ -1648,7 +1651,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |1881|[closest-subsequence-sum](https://leetcode.com/problems/closest-subsequence-sum)|||Hard|
 |1883|[find-distance-in-a-binary-tree](https://leetcode.com/problems/find-distance-in-a-binary-tree)|:lock:||Medium|
 |1884|[minimum-changes-to-make-alternating-binary-string](https://leetcode.com/problems/minimum-changes-to-make-alternating-binary-string)|||Easy|
-|1885|[count-number-of-homogenous-substrings](https://leetcode.com/problems/count-number-of-homogenous-substrings)|||Medium|
+|1885|[count-number-of-homogenous-substrings](https://leetcode.com/problems/count-number-of-homogenous-substrings)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/1885-count-number-of-homogenous-substrings/count-number-of-homogenous-substrings.py)||Medium|
 |1886|[minimum-limit-of-balls-in-a-bag](https://leetcode.com/problems/minimum-limit-of-balls-in-a-bag)|||Medium|
 |1887|[minimum-degree-of-a-connected-trio-in-a-graph](https://leetcode.com/problems/minimum-degree-of-a-connected-trio-in-a-graph)|||Hard|
 |1888|[find-nearest-point-that-has-the-same-x-or-y-coordinate](https://leetcode.com/problems/find-nearest-point-that-has-the-same-x-or-y-coordinate)|||Easy|
@@ -2099,6 +2102,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |2392|[successful-pairs-of-spells-and-potions](https://leetcode.com/problems/successful-pairs-of-spells-and-potions)|||Medium|
 |2393|[match-substring-after-replacement](https://leetcode.com/problems/match-substring-after-replacement)|||Hard|
 |2394|[count-subarrays-with-score-less-than-k](https://leetcode.com/problems/count-subarrays-with-score-less-than-k)|||Hard|
+|2395|[longest-binary-subsequence-less-than-or-equal-to-k](https://leetcode.com/problems/longest-binary-subsequence-less-than-or-equal-to-k)|||Medium|
 |2396|[design-video-sharing-platform](https://leetcode.com/problems/design-video-sharing-platform)|:lock:||Hard|
 |2405|[minimum-number-of-keypresses](https://leetcode.com/problems/minimum-number-of-keypresses)|:lock:||Medium|
 |2420|[closest-node-to-path-in-tree](https://leetcode.com/problems/closest-node-to-path-in-tree)|:lock:||Hard|
