@@ -1,7 +1,7 @@
 # :pencil2: Leetcode Solutions with Python3,Cpp
-Update time:  2022-07-01 09:48:08
+Update time:  2022-07-01 10:25:43
 
-I have solved **381   /   2104** problems
+I have solved **382   /   2104** problems
 while there are **322** problems still locked.
 
 If you have any question, please give me an [issue](https://github.com/hlnn/leetcode/issues).
@@ -2021,7 +2021,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |2300|[construct-string-with-repeat-limit](https://leetcode.com/problems/construct-string-with-repeat-limit)|||Medium|
 |2301|[count-array-pairs-divisible-by-k](https://leetcode.com/problems/count-array-pairs-divisible-by-k)|||Hard|
 |2303|[unique-substrings-with-equal-digit-frequency](https://leetcode.com/problems/unique-substrings-with-equal-digit-frequency)|:lock:||Medium|
-|2304|[cells-in-a-range-on-an-excel-sheet](https://leetcode.com/problems/cells-in-a-range-on-an-excel-sheet)|||Easy|
+|2304|[cells-in-a-range-on-an-excel-sheet](https://leetcode.com/problems/cells-in-a-range-on-an-excel-sheet)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/2304-cells-in-a-range-on-an-excel-sheet/cells-in-a-range-on-an-excel-sheet.py)||Easy|
 |2305|[append-k-integers-with-minimal-sum](https://leetcode.com/problems/append-k-integers-with-minimal-sum)|||Medium|
 |2306|[create-binary-tree-from-descriptions](https://leetcode.com/problems/create-binary-tree-from-descriptions)|||Medium|
 |2307|[replace-non-coprime-numbers-in-array](https://leetcode.com/problems/replace-non-coprime-numbers-in-array)|||Hard|
