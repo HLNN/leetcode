@@ -1,7 +1,7 @@
 # :pencil2: Leetcode Solutions with Python3,Cpp
-Update time:  2022-07-01 10:25:43
+Update time:  2022-07-03 10:25:38
 
-I have solved **382   /   2104** problems
+I have solved **383   /   2104** problems
 while there are **322** problems still locked.
 
 If you have any question, please give me an [issue](https://github.com/hlnn/leetcode/issues).
@@ -1411,7 +1411,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |1572|[subrectangle-queries](https://leetcode.com/problems/subrectangle-queries)|||Medium|
 |1573|[find-two-non-overlapping-sub-arrays-each-with-target-sum](https://leetcode.com/problems/find-two-non-overlapping-sub-arrays-each-with-target-sum)|||Medium|
 |1574|[maximum-product-of-two-elements-in-an-array](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array)|||Easy|
-|1575|[maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts](https://leetcode.com/problems/maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts)||[:memo:](https://leetcode.com/articles/maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts/)|Medium|
+|1575|[maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts](https://leetcode.com/problems/maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/1575-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts/maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts.py)|[:memo:](https://leetcode.com/articles/maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts/)|Medium|
 |1576|[reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://leetcode.com/problems/reorder-routes-to-make-all-paths-lead-to-the-city-zero)|||Medium|
 |1577|[probability-of-a-two-boxes-having-the-same-number-of-distinct-balls](https://leetcode.com/problems/probability-of-a-two-boxes-having-the-same-number-of-distinct-balls)|||Hard|
 |1580|[shuffle-the-array](https://leetcode.com/problems/shuffle-the-array)|||Easy|
