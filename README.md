@@ -1,7 +1,7 @@
 # :pencil2: Leetcode Solutions with Python3,Cpp
-Update time:  2022-07-03 10:25:38
+Update time:  2022-07-04 10:25:56
 
-I have solved **383   /   2104** problems
+I have solved **384   /   2108** problems
 while there are **322** problems still locked.
 
 If you have any question, please give me an [issue](https://github.com/hlnn/leetcode/issues).
@@ -148,7 +148,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |132|[palindrome-partitioning-ii](https://leetcode.com/problems/palindrome-partitioning-ii)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0132-palindrome-partitioning-ii/palindrome-partitioning-ii.py)|[:memo:](https://leetcode.com/articles/palindrome-partitioning-ii/)|Hard|
 |133|[clone-graph](https://leetcode.com/problems/clone-graph)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0133-clone-graph/clone-graph.py)|[:memo:](https://leetcode.com/articles/clone-graph/)|Medium|
 |134|[gas-station](https://leetcode.com/problems/gas-station)||[:memo:](https://leetcode.com/articles/gas-station/)|Medium|
-|135|[candy](https://leetcode.com/problems/candy)||[:memo:](https://leetcode.com/articles/candy/)|Hard|
+|135|[candy](https://leetcode.com/problems/candy)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0135-candy/candy.py)|[:memo:](https://leetcode.com/articles/candy/)|Hard|
 |136|[single-number](https://leetcode.com/problems/single-number)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0136-single-number/single-number.py)|[:memo:](https://leetcode.com/articles/single-number/)|Easy|
 |137|[single-number-ii](https://leetcode.com/problems/single-number-ii)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0137-single-number-ii/single-number-ii.py)|[:memo:](https://leetcode.com/articles/single-number-ii/)|Medium|
 |138|[copy-list-with-random-pointer](https://leetcode.com/problems/copy-list-with-random-pointer)||[:memo:](https://leetcode.com/articles/copy-list-with-random-pointer/)|Medium|
@@ -2114,6 +2114,10 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |2403|[count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://leetcode.com/problems/count-unreachable-pairs-of-nodes-in-an-undirected-graph)|||Medium|
 |2404|[number-of-distinct-roll-sequences](https://leetcode.com/problems/number-of-distinct-roll-sequences)|||Hard|
 |2405|[minimum-number-of-keypresses](https://leetcode.com/problems/minimum-number-of-keypresses)|:lock:||Medium|
+|2406|[decode-the-message](https://leetcode.com/problems/decode-the-message)|||Easy|
+|2408|[number-of-people-aware-of-a-secret](https://leetcode.com/problems/number-of-people-aware-of-a-secret)|||Medium|
+|2409|[number-of-increasing-paths-in-a-grid](https://leetcode.com/problems/number-of-increasing-paths-in-a-grid)|||Hard|
+|2411|[spiral-matrix-iv](https://leetcode.com/problems/spiral-matrix-iv)|||Medium|
 |2420|[closest-node-to-path-in-tree](https://leetcode.com/problems/closest-node-to-path-in-tree)|:lock:||Hard|
 |2425|[number-of-people-that-can-be-seen-in-a-grid](https://leetcode.com/problems/number-of-people-that-can-be-seen-in-a-grid)|:lock:||Medium|
 |2426|[maximum-profit-from-trading-stocks](https://leetcode.com/problems/maximum-profit-from-trading-stocks)|:lock:||Medium|
