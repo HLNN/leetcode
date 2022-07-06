@@ -1,7 +1,7 @@
 # :pencil2: Leetcode Solutions with Python3,Cpp
-Update time:  2022-07-04 10:25:56
+Update time:  2022-07-06 10:25:57
 
-I have solved **384   /   2108** problems
+I have solved **386   /   2108** problems
 while there are **322** problems still locked.
 
 If you have any question, please give me an [issue](https://github.com/hlnn/leetcode/issues).
@@ -141,7 +141,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |125|[valid-palindrome](https://leetcode.com/problems/valid-palindrome)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0125-valid-palindrome/valid-palindrome.py)|[:memo:](https://leetcode.com/articles/valid-palindrome/)|Easy|
 |126|[word-ladder-ii](https://leetcode.com/problems/word-ladder-ii)||[:memo:](https://leetcode.com/articles/word-ladder-ii/)|Hard|
 |127|[word-ladder](https://leetcode.com/problems/word-ladder)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0127-word-ladder/word-ladder.py)|[:memo:](https://leetcode.com/articles/word-ladder/)|Hard|
-|128|[longest-consecutive-sequence](https://leetcode.com/problems/longest-consecutive-sequence)||[:memo:](https://leetcode.com/articles/longest-consecutive-sequence/)|Medium|
+|128|[longest-consecutive-sequence](https://leetcode.com/problems/longest-consecutive-sequence)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0128-longest-consecutive-sequence/longest-consecutive-sequence.py)|[:memo:](https://leetcode.com/articles/longest-consecutive-sequence/)|Medium|
 |129|[sum-root-to-leaf-numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0129-sum-root-to-leaf-numbers/sum-root-to-leaf-numbers.py)|[:memo:](https://leetcode.com/articles/sum-root-to-leaf-numbers/)|Medium|
 |130|[surrounded-regions](https://leetcode.com/problems/surrounded-regions)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0130-surrounded-regions/surrounded-regions.py)|[:memo:](https://leetcode.com/articles/surrounded-regions/)|Medium|
 |131|[palindrome-partitioning](https://leetcode.com/problems/palindrome-partitioning)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0131-palindrome-partitioning/palindrome-partitioning.py)|[:memo:](https://leetcode.com/articles/palindrome-partitioning/)|Medium|
@@ -545,7 +545,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |556|[next-greater-element-iii](https://leetcode.com/problems/next-greater-element-iii)||[:memo:](https://leetcode.com/articles/next-greater-element-iii/)|Medium|
 |557|[reverse-words-in-a-string-iii](https://leetcode.com/problems/reverse-words-in-a-string-iii)||[:memo:](https://leetcode.com/articles/reverse-words-in-a-string-iii/)|Easy|
 |560|[subarray-sum-equals-k](https://leetcode.com/problems/subarray-sum-equals-k)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0560-subarray-sum-equals-k/subarray-sum-equals-k.py)|[:memo:](https://leetcode.com/articles/subarray-sum-equals-k/)|Medium|
-|561|[array-partition-i](https://leetcode.com/problems/array-partition-i)||[:memo:](https://leetcode.com/articles/array-partition-i/)|Easy|
+|561|[array-partition](https://leetcode.com/problems/array-partition)||[:memo:](https://leetcode.com/articles/array-partition-i/)|Easy|
 |562|[longest-line-of-consecutive-one-in-matrix](https://leetcode.com/problems/longest-line-of-consecutive-one-in-matrix)|:lock:|[:memo:](https://leetcode.com/articles/longest-line-of-consecutive-one-in-matrix/)|Medium|
 |563|[binary-tree-tilt](https://leetcode.com/problems/binary-tree-tilt)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0563-binary-tree-tilt/binary-tree-tilt.py)|[:memo:](https://leetcode.com/articles/binary-tree-tilt/)|Easy|
 |564|[find-the-closest-palindrome](https://leetcode.com/problems/find-the-closest-palindrome)||[:memo:](https://leetcode.com/articles/find-the-closest-palindrome/)|Hard|
@@ -669,7 +669,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |726|[number-of-atoms](https://leetcode.com/problems/number-of-atoms)||[:memo:](https://leetcode.com/articles/number-of-atoms/)|Hard|
 |727|[minimum-window-subsequence](https://leetcode.com/problems/minimum-window-subsequence)|:lock:|[:memo:](https://leetcode.com/articles/minimum-window-subsequence/)|Hard|
 |728|[self-dividing-numbers](https://leetcode.com/problems/self-dividing-numbers)||[:memo:](https://leetcode.com/articles/self-dividing-numbers/)|Easy|
-|729|[my-calendar-i](https://leetcode.com/problems/my-calendar-i)||[:memo:](https://leetcode.com/articles/my-calendar-i/)|Medium|
+|729|[my-calendar-i](https://leetcode.com/problems/my-calendar-i)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0729-my-calendar-i/my-calendar-i.py)|[:memo:](https://leetcode.com/articles/my-calendar-i/)|Medium|
 |730|[count-different-palindromic-subsequences](https://leetcode.com/problems/count-different-palindromic-subsequences)||[:memo:](https://leetcode.com/articles/count-different-palindromic-subsequences/)|Hard|
 |731|[my-calendar-ii](https://leetcode.com/problems/my-calendar-ii)||[:memo:](https://leetcode.com/articles/my-calendar-ii/)|Medium|
 |732|[my-calendar-iii](https://leetcode.com/problems/my-calendar-iii)||[:memo:](https://leetcode.com/articles/my-calendar-iii/)|Hard|
