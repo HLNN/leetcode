@@ -1,7 +1,7 @@
 # :pencil2: Leetcode Solutions with Python3,Cpp
-Update time:  2022-07-09 10:25:53
+Update time:  2022-07-10 10:25:43
 
-I have solved **387   /   2109** problems
+I have solved **388   /   2113** problems
 while there are **323** problems still locked.
 
 If you have any question, please give me an [issue](https://github.com/hlnn/leetcode/issues).
@@ -1602,7 +1602,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |1810|[change-the-root-of-a-binary-tree](https://leetcode.com/problems/change-the-root-of-a-binary-tree)|:lock:||Medium|
 |1812|[reformat-phone-number](https://leetcode.com/problems/reformat-phone-number)|||Easy|
 |1813|[maximum-erasure-value](https://leetcode.com/problems/maximum-erasure-value)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/1813-maximum-erasure-value/maximum-erasure-value.py) [Cpp](https://github.com/hlnn/leetcode/blob/master/src/1813-maximum-erasure-value/maximum-erasure-value.cpp)|[:memo:](https://leetcode.com/articles/maximum-erasure-value/)|Medium|
-|1814|[jump-game-vi](https://leetcode.com/problems/jump-game-vi)||[:memo:](https://leetcode.com/articles/jump-game-vi/)|Medium|
+|1814|[jump-game-vi](https://leetcode.com/problems/jump-game-vi)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/1814-jump-game-vi/jump-game-vi.py)|[:memo:](https://leetcode.com/articles/jump-game-vi/)|Medium|
 |1815|[checking-existence-of-edge-length-limited-paths](https://leetcode.com/problems/checking-existence-of-edge-length-limited-paths)|||Hard|
 |1816|[lowest-common-ancestor-of-a-binary-tree-iv](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree-iv)|:lock:||Medium|
 |1817|[calculate-money-in-leetcode-bank](https://leetcode.com/problems/calculate-money-in-leetcode-bank)|||Easy|
@@ -2118,6 +2118,10 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |2408|[number-of-people-aware-of-a-secret](https://leetcode.com/problems/number-of-people-aware-of-a-secret)|||Medium|
 |2409|[number-of-increasing-paths-in-a-grid](https://leetcode.com/problems/number-of-increasing-paths-in-a-grid)|||Hard|
 |2411|[spiral-matrix-iv](https://leetcode.com/problems/spiral-matrix-iv)|||Medium|
+|2416|[evaluate-boolean-binary-tree](https://leetcode.com/problems/evaluate-boolean-binary-tree)|||Easy|
+|2417|[the-latest-time-to-catch-a-bus](https://leetcode.com/problems/the-latest-time-to-catch-a-bus)|||Medium|
+|2418|[minimum-sum-of-squared-difference](https://leetcode.com/problems/minimum-sum-of-squared-difference)|||Medium|
+|2419|[subarray-with-elements-greater-than-varying-threshold](https://leetcode.com/problems/subarray-with-elements-greater-than-varying-threshold)|||Hard|
 |2420|[closest-node-to-path-in-tree](https://leetcode.com/problems/closest-node-to-path-in-tree)|:lock:||Hard|
 |2425|[number-of-people-that-can-be-seen-in-a-grid](https://leetcode.com/problems/number-of-people-that-can-be-seen-in-a-grid)|:lock:||Medium|
 |2426|[maximum-profit-from-trading-stocks](https://leetcode.com/problems/maximum-profit-from-trading-stocks)|:lock:||Medium|
