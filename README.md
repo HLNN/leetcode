@@ -1,7 +1,7 @@
 # :pencil2: Leetcode Solutions with Python3,Cpp
-Update time:  2022-07-10 10:25:43
+Update time:  2022-07-11 10:25:57
 
-I have solved **388   /   2113** problems
+I have solved **390   /   2117** problems
 while there are **323** problems still locked.
 
 If you have any question, please give me an [issue](https://github.com/hlnn/leetcode/issues).
@@ -687,7 +687,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |744|[network-delay-time](https://leetcode.com/problems/network-delay-time)||[:memo:](https://leetcode.com/articles/network-delay-time/)|Medium|
 |745|[find-smallest-letter-greater-than-target](https://leetcode.com/problems/find-smallest-letter-greater-than-target)||[:memo:](https://leetcode.com/articles/find-smallest-letter-greater-than-target/)|Easy|
 |746|[prefix-and-suffix-search](https://leetcode.com/problems/prefix-and-suffix-search)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0746-prefix-and-suffix-search/prefix-and-suffix-search.py)|[:memo:](https://leetcode.com/articles/prefix-and-suffix-search/)|Hard|
-|747|[min-cost-climbing-stairs](https://leetcode.com/problems/min-cost-climbing-stairs)||[:memo:](https://leetcode.com/articles/min-cost-climbing-stairs/)|Easy|
+|747|[min-cost-climbing-stairs](https://leetcode.com/problems/min-cost-climbing-stairs)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0747-min-cost-climbing-stairs/min-cost-climbing-stairs.py)|[:memo:](https://leetcode.com/articles/min-cost-climbing-stairs/)|Easy|
 |748|[largest-number-at-least-twice-of-others](https://leetcode.com/problems/largest-number-at-least-twice-of-others)||[:memo:](https://leetcode.com/articles/largest-number-at-least-twice-of-others/)|Easy|
 |749|[shortest-completing-word](https://leetcode.com/problems/shortest-completing-word)||[:memo:](https://leetcode.com/articles/shortest-completing-word/)|Easy|
 |750|[contain-virus](https://leetcode.com/problems/contain-virus)||[:memo:](https://leetcode.com/articles/contain-virus/)|Hard|
@@ -832,7 +832,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |896|[smallest-subtree-with-all-the-deepest-nodes](https://leetcode.com/problems/smallest-subtree-with-all-the-deepest-nodes)||[:memo:](https://leetcode.com/articles/smallest-subtree-with-all-the-deepest-nodes/)|Medium|
 |897|[prime-palindrome](https://leetcode.com/problems/prime-palindrome)||[:memo:](https://leetcode.com/articles/prime-palindrome/)|Medium|
 |898|[transpose-matrix](https://leetcode.com/problems/transpose-matrix)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0898-transpose-matrix/transpose-matrix.py)|[:memo:](https://leetcode.com/articles/transpose-matrix/)|Easy|
-|899|[binary-gap](https://leetcode.com/problems/binary-gap)||[:memo:](https://leetcode.com/articles/binary-gap/)|Easy|
+|899|[binary-gap](https://leetcode.com/problems/binary-gap)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0899-binary-gap/binary-gap.py)|[:memo:](https://leetcode.com/articles/binary-gap/)|Easy|
 |900|[reordered-power-of-2](https://leetcode.com/problems/reordered-power-of-2)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0900-reordered-power-of-2/reordered-power-of-2.py)|[:memo:](https://leetcode.com/articles/reordered-power-of-2/)|Medium|
 |901|[advantage-shuffle](https://leetcode.com/problems/advantage-shuffle)||[:memo:](https://leetcode.com/articles/advantage-shuffle/)|Medium|
 |902|[minimum-number-of-refueling-stops](https://leetcode.com/problems/minimum-number-of-refueling-stops)||[:memo:](https://leetcode.com/articles/minimum-number-of-refueling-stops/)|Hard|
@@ -2118,6 +2118,10 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |2408|[number-of-people-aware-of-a-secret](https://leetcode.com/problems/number-of-people-aware-of-a-secret)|||Medium|
 |2409|[number-of-increasing-paths-in-a-grid](https://leetcode.com/problems/number-of-increasing-paths-in-a-grid)|||Hard|
 |2411|[spiral-matrix-iv](https://leetcode.com/problems/spiral-matrix-iv)|||Medium|
+|2412|[minimum-amount-of-time-to-fill-cups](https://leetcode.com/problems/minimum-amount-of-time-to-fill-cups)|||Easy|
+|2413|[smallest-number-in-infinite-set](https://leetcode.com/problems/smallest-number-in-infinite-set)|||Medium|
+|2414|[move-pieces-to-obtain-a-string](https://leetcode.com/problems/move-pieces-to-obtain-a-string)|||Medium|
+|2415|[count-the-number-of-ideal-arrays](https://leetcode.com/problems/count-the-number-of-ideal-arrays)|||Hard|
 |2416|[evaluate-boolean-binary-tree](https://leetcode.com/problems/evaluate-boolean-binary-tree)|||Easy|
 |2417|[the-latest-time-to-catch-a-bus](https://leetcode.com/problems/the-latest-time-to-catch-a-bus)|||Medium|
 |2418|[minimum-sum-of-squared-difference](https://leetcode.com/problems/minimum-sum-of-squared-difference)|||Medium|
