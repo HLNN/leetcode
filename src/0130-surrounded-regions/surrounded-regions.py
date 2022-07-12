@@ -8,7 +8,11 @@
 #
 # Input: board = [["X","X","X","X"],["X","O","O","X"],["X","X","O","X"],["X","O","X","X"]]
 # Output: [["X","X","X","X"],["X","X","X","X"],["X","X","X","X"],["X","O","X","X"]]
-# Explanation: Surrounded regions should not be on the border, which means that any 'O' on the border of the board are not flipped to 'X'. Any 'O' that is not on the border and it is not connected to an 'O' on the border will be flipped to 'X'. Two cells are connected if they are adjacent cells connected horizontally or vertically.
+# Explanation: Notice that an 'O' should not be flipped if:
+# - It is on the border, or
+# - It is adjacent to an 'O' that should not be flipped.
+# The bottom 'O' is on the border, so it is not flipped.
+# The other three 'O' form a surrounded region, so they are flipped.
 #
 #
 # Example 2:
