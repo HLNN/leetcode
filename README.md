@@ -1,8 +1,8 @@
 # :pencil2: Leetcode Solutions with Python3,Cpp
-Update time:  2022-07-20 14:55:28
+Update time:  2022-07-23 14:55:21
 
-I have solved **397   /   2122** problems
-while there are **324** problems still locked.
+I have solved **398   /   2123** problems
+while there are **325** problems still locked.
 
 If you have any question, please give me an [issue](https://github.com/hlnn/leetcode/issues).
 
@@ -311,7 +311,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |312|[burst-balloons](https://leetcode.com/problems/burst-balloons)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0312-burst-balloons/burst-balloons.py)|[:memo:](https://leetcode.com/articles/burst-balloons/)|Hard|
 |313|[super-ugly-number](https://leetcode.com/problems/super-ugly-number)|||Medium|
 |314|[binary-tree-vertical-order-traversal](https://leetcode.com/problems/binary-tree-vertical-order-traversal)|:lock:|[:memo:](https://leetcode.com/articles/binary-tree-vertical-order-traversal/)|Medium|
-|315|[count-of-smaller-numbers-after-self](https://leetcode.com/problems/count-of-smaller-numbers-after-self)||[:memo:](https://leetcode.com/articles/count-of-smaller-numbers-after-self/)|Hard|
+|315|[count-of-smaller-numbers-after-self](https://leetcode.com/problems/count-of-smaller-numbers-after-self)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0315-count-of-smaller-numbers-after-self/count-of-smaller-numbers-after-self.py)|[:memo:](https://leetcode.com/articles/count-of-smaller-numbers-after-self/)|Hard|
 |316|[remove-duplicate-letters](https://leetcode.com/problems/remove-duplicate-letters)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0316-remove-duplicate-letters/remove-duplicate-letters.py)|[:memo:](https://leetcode.com/articles/remove-duplicate-letters/)|Medium|
 |317|[shortest-distance-from-all-buildings](https://leetcode.com/problems/shortest-distance-from-all-buildings)|:lock:|[:memo:](https://leetcode.com/articles/shortest-distance-from-all-buildings/)|Hard|
 |318|[maximum-product-of-word-lengths](https://leetcode.com/problems/maximum-product-of-word-lengths)||[:memo:](https://leetcode.com/articles/maximum-product-of-word-lengths/)|Medium|
@@ -2136,3 +2136,4 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |2468|[valid-palindrome-iv](https://leetcode.com/problems/valid-palindrome-iv)|:lock:||Medium|
 |2473|[max-sum-of-a-pair-with-equal-sum-of-digits](https://leetcode.com/problems/max-sum-of-a-pair-with-equal-sum-of-digits)|||Medium|
 |2474|[minimum-adjacent-swaps-to-make-a-valid-array](https://leetcode.com/problems/minimum-adjacent-swaps-to-make-a-valid-array)|:lock:||Medium|
+|2485|[finding-the-number-of-visible-mountains](https://leetcode.com/problems/finding-the-number-of-visible-mountains)|:lock:||Medium|

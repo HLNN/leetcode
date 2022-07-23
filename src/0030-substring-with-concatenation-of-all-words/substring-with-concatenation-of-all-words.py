@@ -31,10 +31,9 @@
 #
 #
 # 	1 <= s.length <= 104
-# 	s consists of lower-case English letters.
 # 	1 <= words.length <= 5000
 # 	1 <= words[i].length <= 30
-# 	words[i] consists of lower-case English letters.
+# 	s and words[i] consist of lowercase English letters.
 #
 #
 
