@@ -1,7 +1,7 @@
 # :pencil2: Leetcode Solutions with Python3,Cpp
-Update time:  2022-07-23 14:55:21
+Update time:  2022-07-24 14:56:51
 
-I have solved **398   /   2123** problems
+I have solved **399   /   2131** problems
 while there are **325** problems still locked.
 
 If you have any question, please give me an [issue](https://github.com/hlnn/leetcode/issues).
@@ -237,7 +237,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |237|[delete-node-in-a-linked-list](https://leetcode.com/problems/delete-node-in-a-linked-list)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0237-delete-node-in-a-linked-list/delete-node-in-a-linked-list.py)|[:memo:](https://leetcode.com/articles/delete-node-linked-list/)|Easy|
 |238|[product-of-array-except-self](https://leetcode.com/problems/product-of-array-except-self)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0238-product-of-array-except-self/product-of-array-except-self.py)|[:memo:](https://leetcode.com/articles/product-of-array-except-self/)|Medium|
 |239|[sliding-window-maximum](https://leetcode.com/problems/sliding-window-maximum)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0239-sliding-window-maximum/sliding-window-maximum.py)|[:memo:](https://leetcode.com/articles/sliding-window-maximum/)|Hard|
-|240|[search-a-2d-matrix-ii](https://leetcode.com/problems/search-a-2d-matrix-ii)||[:memo:](https://leetcode.com/articles/search-a-2d-matrix-ii/)|Medium|
+|240|[search-a-2d-matrix-ii](https://leetcode.com/problems/search-a-2d-matrix-ii)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0240-search-a-2d-matrix-ii/search-a-2d-matrix-ii.py)|[:memo:](https://leetcode.com/articles/search-a-2d-matrix-ii/)|Medium|
 |241|[different-ways-to-add-parentheses](https://leetcode.com/problems/different-ways-to-add-parentheses)|||Medium|
 |242|[valid-anagram](https://leetcode.com/problems/valid-anagram)||[:memo:](https://leetcode.com/articles/valid-anagram/)|Easy|
 |243|[shortest-word-distance](https://leetcode.com/problems/shortest-word-distance)|:lock:|[:memo:](https://leetcode.com/articles/shortest-word-distance/)|Easy|
@@ -2132,6 +2132,14 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |2423|[minimum-deletions-to-make-array-divisible](https://leetcode.com/problems/minimum-deletions-to-make-array-divisible)|||Hard|
 |2425|[number-of-people-that-can-be-seen-in-a-grid](https://leetcode.com/problems/number-of-people-that-can-be-seen-in-a-grid)|:lock:||Medium|
 |2426|[maximum-profit-from-trading-stocks](https://leetcode.com/problems/maximum-profit-from-trading-stocks)|:lock:||Medium|
+|2427|[first-letter-to-appear-twice](https://leetcode.com/problems/first-letter-to-appear-twice)|||Easy|
+|2428|[equal-row-and-column-pairs](https://leetcode.com/problems/equal-row-and-column-pairs)|||Medium|
+|2429|[design-a-food-rating-system](https://leetcode.com/problems/design-a-food-rating-system)|||Medium|
+|2430|[number-of-excellent-pairs](https://leetcode.com/problems/number-of-excellent-pairs)|||Hard|
+|2432|[number-of-zero-filled-subarrays](https://leetcode.com/problems/number-of-zero-filled-subarrays)|||Medium|
+|2433|[best-poker-hand](https://leetcode.com/problems/best-poker-hand)|||Easy|
+|2434|[design-a-number-container-system](https://leetcode.com/problems/design-a-number-container-system)|||Medium|
+|2435|[shortest-impossible-sequence-of-rolls](https://leetcode.com/problems/shortest-impossible-sequence-of-rolls)|||Hard|
 |2458|[find-minimum-time-to-finish-all-jobs-ii](https://leetcode.com/problems/find-minimum-time-to-finish-all-jobs-ii)|:lock:||Medium|
 |2468|[valid-palindrome-iv](https://leetcode.com/problems/valid-palindrome-iv)|:lock:||Medium|
 |2473|[max-sum-of-a-pair-with-equal-sum-of-digits](https://leetcode.com/problems/max-sum-of-a-pair-with-equal-sum-of-digits)|||Medium|
