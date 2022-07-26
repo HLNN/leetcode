@@ -1,7 +1,7 @@
 # :pencil2: Leetcode Solutions with Python3,Cpp
-Update time:  2022-07-24 14:56:51
+Update time:  2022-07-26 14:56:05
 
-I have solved **399   /   2131** problems
+I have solved **401   /   2131** problems
 while there are **325** problems still locked.
 
 If you have any question, please give me an [issue](https://github.com/hlnn/leetcode/issues).
@@ -232,8 +232,8 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |232|[implement-queue-using-stacks](https://leetcode.com/problems/implement-queue-using-stacks)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0232-implement-queue-using-stacks/implement-queue-using-stacks.py)|[:memo:](https://leetcode.com/articles/implement-queue-using-stacks/)|Easy|
 |233|[number-of-digit-one](https://leetcode.com/problems/number-of-digit-one)||[:memo:](https://leetcode.com/articles/number-of-digit-one/)|Hard|
 |234|[palindrome-linked-list](https://leetcode.com/problems/palindrome-linked-list)||[:memo:](https://leetcode.com/articles/palindrome-linked-list/)|Easy|
-|235|[lowest-common-ancestor-of-a-binary-search-tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree)||[:memo:](https://leetcode.com/articles/lowest-common-ancestor-of-a-binary-search-tree/)|Easy|
-|236|[lowest-common-ancestor-of-a-binary-tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree)||[:memo:](https://leetcode.com/articles/lowest-common-ancestor-of-a-binary-tree/)|Medium|
+|235|[lowest-common-ancestor-of-a-binary-search-tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0235-lowest-common-ancestor-of-a-binary-search-tree/lowest-common-ancestor-of-a-binary-search-tree.py)|[:memo:](https://leetcode.com/articles/lowest-common-ancestor-of-a-binary-search-tree/)|Easy|
+|236|[lowest-common-ancestor-of-a-binary-tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0236-lowest-common-ancestor-of-a-binary-tree/lowest-common-ancestor-of-a-binary-tree.py)|[:memo:](https://leetcode.com/articles/lowest-common-ancestor-of-a-binary-tree/)|Medium|
 |237|[delete-node-in-a-linked-list](https://leetcode.com/problems/delete-node-in-a-linked-list)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0237-delete-node-in-a-linked-list/delete-node-in-a-linked-list.py)|[:memo:](https://leetcode.com/articles/delete-node-linked-list/)|Easy|
 |238|[product-of-array-except-self](https://leetcode.com/problems/product-of-array-except-self)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0238-product-of-array-except-self/product-of-array-except-self.py)|[:memo:](https://leetcode.com/articles/product-of-array-except-self/)|Medium|
 |239|[sliding-window-maximum](https://leetcode.com/problems/sliding-window-maximum)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0239-sliding-window-maximum/sliding-window-maximum.py)|[:memo:](https://leetcode.com/articles/sliding-window-maximum/)|Hard|
