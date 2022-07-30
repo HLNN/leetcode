@@ -1,7 +1,7 @@
 # :pencil2: Leetcode Solutions with Python3,Cpp
-Update time:  2022-07-28 14:56:00
+Update time:  2022-07-30 14:55:28
 
-I have solved **402   /   2132** problems
+I have solved **403   /   2132** problems
 while there are **326** problems still locked.
 
 If you have any question, please give me an [issue](https://github.com/hlnn/leetcode/issues).
@@ -859,7 +859,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |923|[super-egg-drop](https://leetcode.com/problems/super-egg-drop)||[:memo:](https://leetcode.com/articles/super-egg-drop/)|Hard|
 |924|[fair-candy-swap](https://leetcode.com/problems/fair-candy-swap)||[:memo:](https://leetcode.com/articles/fair-candy-swap/)|Easy|
 |925|[construct-binary-tree-from-preorder-and-postorder-traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-postorder-traversal)||[:memo:](https://leetcode.com/articles/construct-binary-tree-from-preorder-and-postorder-traversal/)|Medium|
-|926|[find-and-replace-pattern](https://leetcode.com/problems/find-and-replace-pattern)||[:memo:](https://leetcode.com/articles/find-and-replace-pattern/)|Medium|
+|926|[find-and-replace-pattern](https://leetcode.com/problems/find-and-replace-pattern)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0926-find-and-replace-pattern/find-and-replace-pattern.py)|[:memo:](https://leetcode.com/articles/find-and-replace-pattern/)|Medium|
 |927|[sum-of-subsequence-widths](https://leetcode.com/problems/sum-of-subsequence-widths)||[:memo:](https://leetcode.com/articles/sum-of-subsequence-widths/)|Hard|
 |928|[surface-area-of-3d-shapes](https://leetcode.com/problems/surface-area-of-3d-shapes)||[:memo:](https://leetcode.com/articles/surface-area-of-3d-shapes/)|Easy|
 |929|[groups-of-special-equivalent-strings](https://leetcode.com/problems/groups-of-special-equivalent-strings)||[:memo:](https://leetcode.com/articles/groups-of-special-equivalent-strings/)|Medium|
@@ -1853,7 +1853,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |2114|[minimum-number-of-work-sessions-to-finish-the-tasks](https://leetcode.com/problems/minimum-number-of-work-sessions-to-finish-the-tasks)|||Medium|
 |2115|[number-of-unique-good-subsequences](https://leetcode.com/problems/number-of-unique-good-subsequences)|||Hard|
 |2116|[count-number-of-pairs-with-absolute-difference-k](https://leetcode.com/problems/count-number-of-pairs-with-absolute-difference-k)|||Easy|
-|2117|[find-original-array-from-doubled-array](https://leetcode.com/problems/find-original-array-from-doubled-array)|||Medium|
+|2117|[find-original-array-from-doubled-array](https://leetcode.com/problems/find-original-array-from-doubled-array)||[:memo:](https://leetcode.com/articles/find-original-array-from-doubled-array/)|Medium|
 |2118|[maximum-earnings-from-taxi](https://leetcode.com/problems/maximum-earnings-from-taxi)|||Medium|
 |2119|[minimum-number-of-operations-to-make-array-continuous](https://leetcode.com/problems/minimum-number-of-operations-to-make-array-continuous)|||Hard|
 |2121|[find-if-path-exists-in-graph](https://leetcode.com/problems/find-if-path-exists-in-graph)|||Easy|
