@@ -1,7 +1,7 @@
 # :pencil2: Leetcode Solutions with Python3,Cpp
-Update time:  2022-07-30 14:55:28
+Update time:  2022-07-31 14:58:41
 
-I have solved **403   /   2132** problems
+I have solved **406   /   2136** problems
 while there are **326** problems still locked.
 
 If you have any question, please give me an [issue](https://github.com/hlnn/leetcode/issues).
@@ -303,7 +303,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |304|[range-sum-query-2d-immutable](https://leetcode.com/problems/range-sum-query-2d-immutable)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0304-range-sum-query-2d-immutable/range-sum-query-2d-immutable.py)|[:memo:](https://leetcode.com/articles/range-sum-query-2d-immutable/)|Medium|
 |305|[number-of-islands-ii](https://leetcode.com/problems/number-of-islands-ii)|:lock:|[:memo:](https://leetcode.com/articles/number-of-islands-ii/)|Hard|
 |306|[additive-number](https://leetcode.com/problems/additive-number)|||Medium|
-|307|[range-sum-query-mutable](https://leetcode.com/problems/range-sum-query-mutable)||[:memo:](https://leetcode.com/articles/range-sum-query-mutable/)|Medium|
+|307|[range-sum-query-mutable](https://leetcode.com/problems/range-sum-query-mutable)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0307-range-sum-query-mutable/range-sum-query-mutable.py)|[:memo:](https://leetcode.com/articles/range-sum-query-mutable/)|Medium|
 |308|[range-sum-query-2d-mutable](https://leetcode.com/problems/range-sum-query-2d-mutable)|:lock:|[:memo:](https://leetcode.com/articles/range-sum-query-2d-mutable/)|Hard|
 |309|[best-time-to-buy-and-sell-stock-with-cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown)||[:memo:](https://leetcode.com/articles/best-time-to-buy-and-sell-stock-with-cooldown/)|Medium|
 |310|[minimum-height-trees](https://leetcode.com/problems/minimum-height-trees)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0310-minimum-height-trees/minimum-height-trees.py)|[:memo:](https://leetcode.com/articles/minimum-height-trees/)|Medium|
@@ -2140,6 +2140,10 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |2433|[best-poker-hand](https://leetcode.com/problems/best-poker-hand)|||Easy|
 |2434|[design-a-number-container-system](https://leetcode.com/problems/design-a-number-container-system)|||Medium|
 |2435|[shortest-impossible-sequence-of-rolls](https://leetcode.com/problems/shortest-impossible-sequence-of-rolls)|||Hard|
+|2436|[make-array-zero-by-subtracting-equal-amounts](https://leetcode.com/problems/make-array-zero-by-subtracting-equal-amounts)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/2436-make-array-zero-by-subtracting-equal-amounts/make-array-zero-by-subtracting-equal-amounts.py)||Easy|
+|2437|[maximum-number-of-groups-entering-a-competition](https://leetcode.com/problems/maximum-number-of-groups-entering-a-competition)|||Medium|
+|2438|[find-closest-node-to-given-two-nodes](https://leetcode.com/problems/find-closest-node-to-given-two-nodes)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/2438-find-closest-node-to-given-two-nodes/find-closest-node-to-given-two-nodes.py)||Medium|
+|2439|[longest-cycle-in-a-graph](https://leetcode.com/problems/longest-cycle-in-a-graph)|||Hard|
 |2458|[find-minimum-time-to-finish-all-jobs-ii](https://leetcode.com/problems/find-minimum-time-to-finish-all-jobs-ii)|:lock:||Medium|
 |2468|[valid-palindrome-iv](https://leetcode.com/problems/valid-palindrome-iv)|:lock:||Medium|
 |2473|[max-sum-of-a-pair-with-equal-sum-of-digits](https://leetcode.com/problems/max-sum-of-a-pair-with-equal-sum-of-digits)|||Medium|
