@@ -1,7 +1,7 @@
 # :pencil2: Leetcode Solutions with Python3,Cpp
-Update time:  2022-07-31 14:58:41
+Update time:  2022-08-02 14:55:39
 
-I have solved **406   /   2136** problems
+I have solved **407   /   2136** problems
 while there are **326** problems still locked.
 
 If you have any question, please give me an [issue](https://github.com/hlnn/leetcode/issues).
@@ -374,7 +374,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |375|[guess-number-higher-or-lower-ii](https://leetcode.com/problems/guess-number-higher-or-lower-ii)||[:memo:](https://leetcode.com/articles/guess-higher-or-lower-number-ii/)|Medium|
 |376|[wiggle-subsequence](https://leetcode.com/problems/wiggle-subsequence)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0376-wiggle-subsequence/wiggle-subsequence.py)|[:memo:](https://leetcode.com/articles/wiggle-subsequence/)|Medium|
 |377|[combination-sum-iv](https://leetcode.com/problems/combination-sum-iv)||[:memo:](https://leetcode.com/articles/combination-sum-iv/)|Medium|
-|378|[kth-smallest-element-in-a-sorted-matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix)||[:memo:](https://leetcode.com/articles/kth-smallest-element-in-a-sorted-matrix/)|Medium|
+|378|[kth-smallest-element-in-a-sorted-matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0378-kth-smallest-element-in-a-sorted-matrix/kth-smallest-element-in-a-sorted-matrix.py)|[:memo:](https://leetcode.com/articles/kth-smallest-element-in-a-sorted-matrix/)|Medium|
 |379|[design-phone-directory](https://leetcode.com/problems/design-phone-directory)|:lock:||Medium|
 |380|[insert-delete-getrandom-o1](https://leetcode.com/problems/insert-delete-getrandom-o1)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0380-insert-delete-getrandom-o1/insert-delete-getrandom-o1.py)|[:memo:](https://leetcode.com/articles/insert-delete-getrandom-o1/)|Medium|
 |381|[insert-delete-getrandom-o1-duplicates-allowed](https://leetcode.com/problems/insert-delete-getrandom-o1-duplicates-allowed)||[:memo:](https://leetcode.com/articles/insert-delete-getrandom-o1-duplicates-allowed/)|Hard|
