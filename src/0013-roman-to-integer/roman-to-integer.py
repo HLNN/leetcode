@@ -60,24 +60,26 @@
 
 class Solution:
     def romanToInt(self, s: str) -> int:
-        if len(s) == 0:
-            return 0
-        res = self.toNum(s[0])
-        for i in range(1, len(s)):
-            if self.toNum(s[i]) > self.toNum(s[i-1]):
-                res = res + self.toNum(s[i]) - 2 * self.toNum(s[i - 1])
+        if len(s) == 0: return 0
+        
+        d = {
+            "I" : 1,
+            "V" : 5,
+            "X" : 10,
+            "L" : 50,
+            "C" : 100,
+            "D" : 500,
+            "M" : 1000
+        }
+        
+        nums = list(map(d.__getitem__, s))[::-1]
+        
+        res = nums[0]
+        for i in range(1, len(nums)):
+            if nums[i] < nums[i-1]:
+                res -= nums[i]
             else:
-                res += self.toNum(s[i])
+                res += nums[i]
+        
         return res
                 
-    def toNum(self, s):
-            d = {
-                "I" : 1,
-                "V" : 5,
-                "X" : 10,
-                "L" : 50,
-                "C" : 100,
-                "D" : 500,
-                "M" : 1000
-            }
-            return d[s]

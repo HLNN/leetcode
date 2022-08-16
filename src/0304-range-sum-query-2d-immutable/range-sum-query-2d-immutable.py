@@ -11,6 +11,8 @@
 # 	int sumRegion(int row1, int col1, int row2, int col2) Returns the sum of the elements of matrix inside the rectangle defined by its upper left corner (row1, col1) and lower right corner (row2, col2).
 #
 #
+# You must design an algorithm where sumRegion works on O(1) time complexity.
+#
 #  
 # Example 1:
 #

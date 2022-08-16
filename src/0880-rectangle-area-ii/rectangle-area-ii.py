@@ -10,7 +10,7 @@
 #
 # Input: rectangles = [[0,0,2,2],[1,0,2,3],[1,0,3,1]]
 # Output: 6
-# Explanation: A total area of 6 is covered by all three rectangales, as illustrated in the picture.
+# Explanation: A total area of 6 is covered by all three rectangles, as illustrated in the picture.
 # From (1,1) to (2,2), the green and red rectangles overlap.
 # From (1,0) to (2,3), all three rectangles overlap.
 #

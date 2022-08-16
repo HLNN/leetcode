@@ -5,10 +5,10 @@
 #
 # 	LRUCache(int capacity) Initialize the LRU cache with positive size capacity.
 # 	int get(int key) Return the value of the key if the key exists, otherwise return -1.
-# 	void put(int key, int value) Update the value of the key if the key exists. Otherwise, add the key-value pair to the cache. If the number of keys exceeds the capacity from this operation, evict the least recently used key.
+# 	void put(int key, int value) Update the value of the key if the key exists. Otherwise, add the key-value pair to the cache. If the number of keys exceeds the capacity from this operation, evict the least recently used key.
 #
 #
-# The functions get and put must each run in O(1) average time complexity.
+# The functions get and put must each run in O(1) average time complexity.
 #
 #  
 # Example 1:
@@ -40,7 +40,7 @@
 # 	1 <= capacity <= 3000
 # 	0 <= key <= 104
 # 	0 <= value <= 105
-# 	At most 2 * 105 calls will be made to get and put.
+# 	At most 2 * 105 calls will be made to get and put.
 #
 #
 
