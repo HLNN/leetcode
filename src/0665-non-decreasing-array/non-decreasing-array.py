@@ -16,7 +16,7 @@
 #
 # Input: nums = [4,2,1]
 # Output: false
-# Explanation: You can't get a non-decreasing array by modify at most one element.
+# Explanation: You cannot get a non-decreasing array by modifying at most one element.
 #
 #
 #  
