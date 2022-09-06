@@ -1,7 +1,7 @@
 # :pencil2: Leetcode Solutions with Python3,Cpp
-Update time:  2022-09-05 16:46:01
+Update time:  2022-09-06 16:45:17
 
-I have solved **420   /   2173** problems
+I have solved **422   /   2173** problems
 while there are **331** problems still locked.
 
 If you have any question, please give me an [issue](https://github.com/hlnn/leetcode/issues).
@@ -772,7 +772,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |829|[subdomain-visit-count](https://leetcode.com/problems/subdomain-visit-count)||[:memo:](https://leetcode.com/articles/subdomain-visit-count/)|Medium|
 |830|[largest-triangle-area](https://leetcode.com/problems/largest-triangle-area)||[:memo:](https://leetcode.com/articles/largest-triangle-area/)|Easy|
 |831|[largest-sum-of-averages](https://leetcode.com/problems/largest-sum-of-averages)||[:memo:](https://leetcode.com/articles/largest-sum-of-averages/)|Medium|
-|832|[binary-tree-pruning](https://leetcode.com/problems/binary-tree-pruning)||[:memo:](https://leetcode.com/articles/binary-tree-pruning/)|Medium|
+|832|[binary-tree-pruning](https://leetcode.com/problems/binary-tree-pruning)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0832-binary-tree-pruning/binary-tree-pruning.py)|[:memo:](https://leetcode.com/articles/binary-tree-pruning/)|Medium|
 |833|[bus-routes](https://leetcode.com/problems/bus-routes)||[:memo:](https://leetcode.com/articles/bus-routes/)|Hard|
 |834|[ambiguous-coordinates](https://leetcode.com/problems/ambiguous-coordinates)||[:memo:](https://leetcode.com/articles/ambiguous-coordinates/)|Medium|
 |835|[linked-list-components](https://leetcode.com/problems/linked-list-components)||[:memo:](https://leetcode.com/articles/linked-list-components/)|Medium|
@@ -788,7 +788,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |852|[friends-of-appropriate-ages](https://leetcode.com/problems/friends-of-appropriate-ages)||[:memo:](https://leetcode.com/articles/friends-of-appropriate-ages/)|Medium|
 |853|[most-profit-assigning-work](https://leetcode.com/problems/most-profit-assigning-work)||[:memo:](https://leetcode.com/articles/most-profit-assigning-work/)|Medium|
 |854|[making-a-large-island](https://leetcode.com/problems/making-a-large-island)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0854-making-a-large-island/making-a-large-island.py)|[:memo:](https://leetcode.com/articles/making-a-large-island/)|Hard|
-|855|[count-unique-characters-of-all-substrings-of-a-given-string](https://leetcode.com/problems/count-unique-characters-of-all-substrings-of-a-given-string)||[:memo:](https://leetcode.com/articles/unique-letter-string/)|Hard|
+|855|[count-unique-characters-of-all-substrings-of-a-given-string](https://leetcode.com/problems/count-unique-characters-of-all-substrings-of-a-given-string)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0855-count-unique-characters-of-all-substrings-of-a-given-string/count-unique-characters-of-all-substrings-of-a-given-string.py)|[:memo:](https://leetcode.com/articles/unique-letter-string/)|Hard|
 |856|[consecutive-numbers-sum](https://leetcode.com/problems/consecutive-numbers-sum)||[:memo:](https://leetcode.com/articles/consecutive-numbers-sum/)|Hard|
 |857|[positions-of-large-groups](https://leetcode.com/problems/positions-of-large-groups)||[:memo:](https://leetcode.com/articles/positions-of-large-groups/)|Easy|
 |858|[masking-personal-information](https://leetcode.com/problems/masking-personal-information)||[:memo:](https://leetcode.com/articles/masking-personal-information/)|Medium|
