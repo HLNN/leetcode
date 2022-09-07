@@ -1,7 +1,7 @@
 # :pencil2: Leetcode Solutions with Python3,Cpp
-Update time:  2022-09-06 16:45:17
+Update time:  2022-09-07 16:45:23
 
-I have solved **422   /   2173** problems
+I have solved **424   /   2173** problems
 while there are **331** problems still locked.
 
 If you have any question, please give me an [issue](https://github.com/hlnn/leetcode/issues).
@@ -505,7 +505,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |515|[find-largest-value-in-each-tree-row](https://leetcode.com/problems/find-largest-value-in-each-tree-row)|||Medium|
 |516|[longest-palindromic-subsequence](https://leetcode.com/problems/longest-palindromic-subsequence)|||Medium|
 |517|[super-washing-machines](https://leetcode.com/problems/super-washing-machines)||[:memo:](https://leetcode.com/articles/super-washing-machines/)|Hard|
-|518|[coin-change-2](https://leetcode.com/problems/coin-change-2)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0518-coin-change-2/coin-change-2.py)|[:memo:](https://leetcode.com/articles/coin-change-ii/)|Medium|
+|518|[coin-change-ii](https://leetcode.com/problems/coin-change-ii)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0518-coin-change-ii/coin-change-ii.py)|[:memo:](https://leetcode.com/articles/coin-change-ii/)|Medium|
 |519|[widest-pair-of-indices-with-equal-range-sum](https://leetcode.com/problems/widest-pair-of-indices-with-equal-range-sum)|:lock:||Medium|
 |520|[detect-capital](https://leetcode.com/problems/detect-capital)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0520-detect-capital/detect-capital.py)|[:memo:](https://leetcode.com/articles/detect-capital/)|Easy|
 |521|[longest-uncommon-subsequence-i](https://leetcode.com/problems/longest-uncommon-subsequence-i)||[:memo:](https://leetcode.com/articles/longest-uncommon-subsequence-i/)|Easy|
@@ -571,7 +571,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |600|[non-negative-integers-without-consecutive-ones](https://leetcode.com/problems/non-negative-integers-without-consecutive-ones)||[:memo:](https://leetcode.com/articles/non-negative-integers-without-consecutive-ones/)|Hard|
 |604|[design-compressed-string-iterator](https://leetcode.com/problems/design-compressed-string-iterator)|:lock:|[:memo:](https://leetcode.com/articles/design-compressed-string-iterator/)|Easy|
 |605|[can-place-flowers](https://leetcode.com/problems/can-place-flowers)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0605-can-place-flowers/can-place-flowers.py)|[:memo:](https://leetcode.com/articles/can-place-flowers/)|Easy|
-|606|[construct-string-from-binary-tree](https://leetcode.com/problems/construct-string-from-binary-tree)||[:memo:](https://leetcode.com/articles/construct-string-from-binary-tree/)|Easy|
+|606|[construct-string-from-binary-tree](https://leetcode.com/problems/construct-string-from-binary-tree)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0606-construct-string-from-binary-tree/construct-string-from-binary-tree.py)|[:memo:](https://leetcode.com/articles/construct-string-from-binary-tree/)|Easy|
 |609|[find-duplicate-file-in-system](https://leetcode.com/problems/find-duplicate-file-in-system)||[:memo:](https://leetcode.com/articles/find-duplicate-file-in-system/)|Medium|
 |611|[valid-triangle-number](https://leetcode.com/problems/valid-triangle-number)||[:memo:](https://leetcode.com/articles/valid-triangle-number/)|Medium|
 |616|[add-bold-tag-in-string](https://leetcode.com/problems/add-bold-tag-in-string)|:lock:|[:memo:](https://leetcode.com/articles/add-bold-tag-in-a-string/)|Medium|
@@ -1516,7 +1516,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |1710|[find-servers-that-handled-most-number-of-requests](https://leetcode.com/problems/find-servers-that-handled-most-number-of-requests)|||Hard|
 |1711|[find-valid-matrix-given-row-and-column-sums](https://leetcode.com/problems/find-valid-matrix-given-row-and-column-sums)|||Medium|
 |1713|[dot-product-of-two-sparse-vectors](https://leetcode.com/problems/dot-product-of-two-sparse-vectors)|:lock:|[:memo:](https://leetcode.com/articles/dot-product-of-two-sparse-vectors/)|Medium|
-|1714|[rearrange-spaces-between-words](https://leetcode.com/problems/rearrange-spaces-between-words)|||Easy|
+|1714|[rearrange-spaces-between-words](https://leetcode.com/problems/rearrange-spaces-between-words)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/1714-rearrange-spaces-between-words/rearrange-spaces-between-words.py)||Easy|
 |1715|[split-a-string-into-the-max-number-of-unique-substrings](https://leetcode.com/problems/split-a-string-into-the-max-number-of-unique-substrings)|||Medium|
 |1716|[maximum-non-negative-product-in-a-matrix](https://leetcode.com/problems/maximum-non-negative-product-in-a-matrix)|||Medium|
 |1717|[minimum-cost-to-connect-two-groups-of-points](https://leetcode.com/problems/minimum-cost-to-connect-two-groups-of-points)|||Hard|
