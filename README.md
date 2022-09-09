@@ -1,7 +1,7 @@
 # :pencil2: Leetcode Solutions with Python3,Cpp
-Update time:  2022-09-08 16:45:30
+Update time:  2022-09-09 16:45:43
 
-I have solved **425   /   2174** problems
+I have solved **427   /   2174** problems
 while there are **332** problems still locked.
 
 If you have any question, please give me an [issue](https://github.com/hlnn/leetcode/issues).
@@ -1504,7 +1504,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |1697|[strings-differ-by-one-character](https://leetcode.com/problems/strings-differ-by-one-character)|:lock:||Medium|
 |1698|[replace-all-s-to-avoid-consecutive-repeating-characters](https://leetcode.com/problems/replace-all-s-to-avoid-consecutive-repeating-characters)|||Easy|
 |1699|[number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers](https://leetcode.com/problems/number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers)|||Medium|
-|1700|[minimum-time-to-make-rope-colorful](https://leetcode.com/problems/minimum-time-to-make-rope-colorful)|||Medium|
+|1700|[minimum-time-to-make-rope-colorful](https://leetcode.com/problems/minimum-time-to-make-rope-colorful)||[:memo:](https://leetcode.com/articles/minimum-time-to-make-rope-colorful/)|Medium|
 |1701|[remove-max-number-of-edges-to-keep-graph-fully-traversable](https://leetcode.com/problems/remove-max-number-of-edges-to-keep-graph-fully-traversable)|||Hard|
 |1703|[put-boxes-into-the-warehouse-i](https://leetcode.com/problems/put-boxes-into-the-warehouse-i)|:lock:|[:memo:](https://leetcode.com/articles/put-boxes-into-the-warehouse-i/)|Medium|
 |1704|[special-positions-in-a-binary-matrix](https://leetcode.com/problems/special-positions-in-a-binary-matrix)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/1704-special-positions-in-a-binary-matrix/special-positions-in-a-binary-matrix.py)||Easy|
@@ -1521,7 +1521,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |1716|[maximum-non-negative-product-in-a-matrix](https://leetcode.com/problems/maximum-non-negative-product-in-a-matrix)|||Medium|
 |1717|[minimum-cost-to-connect-two-groups-of-points](https://leetcode.com/problems/minimum-cost-to-connect-two-groups-of-points)|||Hard|
 |1719|[put-boxes-into-the-warehouse-ii](https://leetcode.com/problems/put-boxes-into-the-warehouse-ii)|:lock:||Medium|
-|1720|[crawler-log-folder](https://leetcode.com/problems/crawler-log-folder)|||Easy|
+|1720|[crawler-log-folder](https://leetcode.com/problems/crawler-log-folder)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/1720-crawler-log-folder/crawler-log-folder.py) [Cpp](https://github.com/hlnn/leetcode/blob/master/src/1720-crawler-log-folder/crawler-log-folder.cpp)||Easy|
 |1721|[maximum-profit-of-operating-a-centennial-wheel](https://leetcode.com/problems/maximum-profit-of-operating-a-centennial-wheel)|||Medium|
 |1722|[throne-inheritance](https://leetcode.com/problems/throne-inheritance)|||Medium|
 |1723|[maximum-number-of-achievable-transfer-requests](https://leetcode.com/problems/maximum-number-of-achievable-transfer-requests)|||Hard|
@@ -1858,7 +1858,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |2119|[minimum-number-of-operations-to-make-array-continuous](https://leetcode.com/problems/minimum-number-of-operations-to-make-array-continuous)|||Hard|
 |2121|[find-if-path-exists-in-graph](https://leetcode.com/problems/find-if-path-exists-in-graph)|||Easy|
 |2122|[count-special-quadruplets](https://leetcode.com/problems/count-special-quadruplets)|||Easy|
-|2123|[the-number-of-weak-characters-in-the-game](https://leetcode.com/problems/the-number-of-weak-characters-in-the-game)||[:memo:](https://leetcode.com/articles/the-number-of-weak-characters-in-the-game/)|Medium|
+|2123|[the-number-of-weak-characters-in-the-game](https://leetcode.com/problems/the-number-of-weak-characters-in-the-game)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/2123-the-number-of-weak-characters-in-the-game/the-number-of-weak-characters-in-the-game.py)|[:memo:](https://leetcode.com/articles/the-number-of-weak-characters-in-the-game/)|Medium|
 |2124|[first-day-where-you-have-been-in-all-the-rooms](https://leetcode.com/problems/first-day-where-you-have-been-in-all-the-rooms)|||Medium|
 |2125|[gcd-sort-of-an-array](https://leetcode.com/problems/gcd-sort-of-an-array)|||Hard|
 |2126|[count-nodes-equal-to-sum-of-descendants](https://leetcode.com/problems/count-nodes-equal-to-sum-of-descendants)|:lock:||Medium|
