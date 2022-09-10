@@ -1,7 +1,7 @@
 # :pencil2: Leetcode Solutions with Python3,Cpp
-Update time:  2022-09-09 16:45:43
+Update time:  2022-09-10 16:45:34
 
-I have solved **427   /   2174** problems
+I have solved **428   /   2174** problems
 while there are **332** problems still locked.
 
 If you have any question, please give me an [issue](https://github.com/hlnn/leetcode/issues).
@@ -620,7 +620,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |666|[path-sum-iv](https://leetcode.com/problems/path-sum-iv)|:lock:|[:memo:](https://leetcode.com/articles/path-sum-iv/)|Medium|
 |667|[beautiful-arrangement-ii](https://leetcode.com/problems/beautiful-arrangement-ii)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0667-beautiful-arrangement-ii/beautiful-arrangement-ii.py)|[:memo:](https://leetcode.com/articles/beautiful-arrangement-ii/)|Medium|
 |668|[kth-smallest-number-in-multiplication-table](https://leetcode.com/problems/kth-smallest-number-in-multiplication-table)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0668-kth-smallest-number-in-multiplication-table/kth-smallest-number-in-multiplication-table.py)|[:memo:](https://leetcode.com/articles/kth-smallest-number-in-multiplication-table/)|Hard|
-|669|[trim-a-binary-search-tree](https://leetcode.com/problems/trim-a-binary-search-tree)||[:memo:](https://leetcode.com/articles/trim-a-binary-search-tree/)|Medium|
+|669|[trim-a-binary-search-tree](https://leetcode.com/problems/trim-a-binary-search-tree)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0669-trim-a-binary-search-tree/trim-a-binary-search-tree.py)|[:memo:](https://leetcode.com/articles/trim-a-binary-search-tree/)|Medium|
 |670|[maximum-swap](https://leetcode.com/problems/maximum-swap)||[:memo:](https://leetcode.com/articles/maximum-swap/)|Medium|
 |671|[second-minimum-node-in-a-binary-tree](https://leetcode.com/problems/second-minimum-node-in-a-binary-tree)||[:memo:](https://leetcode.com/articles/second-minimum-node-in-a-binary-tree/)|Easy|
 |672|[bulb-switcher-ii](https://leetcode.com/problems/bulb-switcher-ii)||[:memo:](https://leetcode.com/articles/bulb-switcher-ii/)|Medium|
