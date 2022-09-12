@@ -1,7 +1,7 @@
 # :pencil2: Leetcode Solutions with Python3,Cpp
-Update time:  2022-09-10 16:45:34
+Update time:  2022-09-12 16:45:35
 
-I have solved **428   /   2174** problems
+I have solved **429   /   2178** problems
 while there are **332** problems still locked.
 
 If you have any question, please give me an [issue](https://github.com/hlnn/leetcode/issues).
@@ -1348,7 +1348,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |1496|[lucky-numbers-in-a-matrix](https://leetcode.com/problems/lucky-numbers-in-a-matrix)|||Easy|
 |1497|[design-a-stack-with-increment-operation](https://leetcode.com/problems/design-a-stack-with-increment-operation)|||Medium|
 |1498|[find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://leetcode.com/problems/find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree.py)|[:memo:](https://leetcode.com/articles/find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/)|Easy|
-|1499|[maximum-performance-of-a-team](https://leetcode.com/problems/maximum-performance-of-a-team)||[:memo:](https://leetcode.com/articles/maximum-performance-of-a-team/)|Hard|
+|1499|[maximum-performance-of-a-team](https://leetcode.com/problems/maximum-performance-of-a-team)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/1499-maximum-performance-of-a-team/maximum-performance-of-a-team.py)|[:memo:](https://leetcode.com/articles/maximum-performance-of-a-team/)|Hard|
 |1500|[count-largest-group](https://leetcode.com/problems/count-largest-group)|||Easy|
 |1501|[circle-and-rectangle-overlapping](https://leetcode.com/problems/circle-and-rectangle-overlapping)|||Medium|
 |1502|[construct-k-palindrome-strings](https://leetcode.com/problems/construct-k-palindrome-strings)|||Medium|
@@ -2181,10 +2181,14 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |2482|[maximum-rows-covered-by-columns](https://leetcode.com/problems/maximum-rows-covered-by-columns)|||Medium|
 |2483|[task-scheduler-ii](https://leetcode.com/problems/task-scheduler-ii)|||Medium|
 |2485|[finding-the-number-of-visible-mountains](https://leetcode.com/problems/finding-the-number-of-visible-mountains)|:lock:||Medium|
+|2486|[most-frequent-even-element](https://leetcode.com/problems/most-frequent-even-element)|||Easy|
+|2487|[optimal-partition-of-string](https://leetcode.com/problems/optimal-partition-of-string)|||Medium|
+|2488|[divide-intervals-into-minimum-number-of-groups](https://leetcode.com/problems/divide-intervals-into-minimum-number-of-groups)|||Medium|
 |2490|[maximum-number-of-books-you-can-take](https://leetcode.com/problems/maximum-number-of-books-you-can-take)|:lock:||Hard|
 |2500|[minimum-costs-using-the-train-line](https://leetcode.com/problems/minimum-costs-using-the-train-line)|:lock:||Hard|
 |2506|[minimize-maximum-value-in-a-grid](https://leetcode.com/problems/minimize-maximum-value-in-a-grid)|:lock:||Hard|
 |2517|[choose-edges-to-maximize-score-in-a-tree](https://leetcode.com/problems/choose-edges-to-maximize-score-in-a-tree)|:lock:||Medium|
 |2522|[median-of-a-row-wise-sorted-matrix](https://leetcode.com/problems/median-of-a-row-wise-sorted-matrix)|:lock:||Medium|
+|2526|[longest-increasing-subsequence-ii](https://leetcode.com/problems/longest-increasing-subsequence-ii)|||Hard|
 |2535|[count-strictly-increasing-subarrays](https://leetcode.com/problems/count-strictly-increasing-subarrays)|:lock:||Medium|
 |2537|[minimum-time-to-kill-all-monsters](https://leetcode.com/problems/minimum-time-to-kill-all-monsters)|:lock:||Hard|
