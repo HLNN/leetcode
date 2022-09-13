@@ -1,7 +1,7 @@
 # :pencil2: Leetcode Solutions with Python3,Cpp
-Update time:  2022-09-12 16:45:35
+Update time:  2022-09-13 16:45:43
 
-I have solved **429   /   2178** problems
+I have solved **431   /   2178** problems
 while there are **332** problems still locked.
 
 If you have any question, please give me an [issue](https://github.com/hlnn/leetcode/issues).
@@ -389,7 +389,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |390|[elimination-game](https://leetcode.com/problems/elimination-game)|||Medium|
 |391|[perfect-rectangle](https://leetcode.com/problems/perfect-rectangle)|||Hard|
 |392|[is-subsequence](https://leetcode.com/problems/is-subsequence)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0392-is-subsequence/is-subsequence.py)|[:memo:](https://leetcode.com/articles/is-subsequence/)|Easy|
-|393|[utf-8-validation](https://leetcode.com/problems/utf-8-validation)||[:memo:](https://leetcode.com/articles/utf-8-validation/)|Medium|
+|393|[utf-8-validation](https://leetcode.com/problems/utf-8-validation)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0393-utf-8-validation/utf-8-validation.py)|[:memo:](https://leetcode.com/articles/utf-8-validation/)|Medium|
 |394|[decode-string](https://leetcode.com/problems/decode-string)||[:memo:](https://leetcode.com/articles/decode-string/)|Medium|
 |395|[longest-substring-with-at-least-k-repeating-characters](https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters)||[:memo:](https://leetcode.com/articles/longest-substring-with-at-least-k-repeating-characters/)|Medium|
 |396|[rotate-function](https://leetcode.com/problems/rotate-function)|||Medium|
@@ -621,7 +621,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |667|[beautiful-arrangement-ii](https://leetcode.com/problems/beautiful-arrangement-ii)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0667-beautiful-arrangement-ii/beautiful-arrangement-ii.py)|[:memo:](https://leetcode.com/articles/beautiful-arrangement-ii/)|Medium|
 |668|[kth-smallest-number-in-multiplication-table](https://leetcode.com/problems/kth-smallest-number-in-multiplication-table)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0668-kth-smallest-number-in-multiplication-table/kth-smallest-number-in-multiplication-table.py)|[:memo:](https://leetcode.com/articles/kth-smallest-number-in-multiplication-table/)|Hard|
 |669|[trim-a-binary-search-tree](https://leetcode.com/problems/trim-a-binary-search-tree)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0669-trim-a-binary-search-tree/trim-a-binary-search-tree.py)|[:memo:](https://leetcode.com/articles/trim-a-binary-search-tree/)|Medium|
-|670|[maximum-swap](https://leetcode.com/problems/maximum-swap)||[:memo:](https://leetcode.com/articles/maximum-swap/)|Medium|
+|670|[maximum-swap](https://leetcode.com/problems/maximum-swap)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0670-maximum-swap/maximum-swap.py)|[:memo:](https://leetcode.com/articles/maximum-swap/)|Medium|
 |671|[second-minimum-node-in-a-binary-tree](https://leetcode.com/problems/second-minimum-node-in-a-binary-tree)||[:memo:](https://leetcode.com/articles/second-minimum-node-in-a-binary-tree/)|Easy|
 |672|[bulb-switcher-ii](https://leetcode.com/problems/bulb-switcher-ii)||[:memo:](https://leetcode.com/articles/bulb-switcher-ii/)|Medium|
 |673|[number-of-longest-increasing-subsequence](https://leetcode.com/problems/number-of-longest-increasing-subsequence)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0673-number-of-longest-increasing-subsequence/number-of-longest-increasing-subsequence.py)|[:memo:](https://leetcode.com/articles/number-of-longest-increasing-subsequence/)|Medium|

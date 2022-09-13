@@ -2,7 +2,7 @@
 #
 # The same number may be chosen from candidates an unlimited number of times. Two combinations are unique if the frequency of at least one of the chosen numbers is different.
 #
-# It is guaranteed that the number of unique combinations that sum up to target is less than 150 combinations for the given input.
+# The test cases are generated such that the number of unique combinations that sum up to target is less than 150 combinations for the given input.
 #
 #  
 # Example 1:
@@ -35,7 +35,7 @@
 #
 #
 # 	1 <= candidates.length <= 30
-# 	1 <= candidates[i] <= 200
+# 	2 <= candidates[i] <= 40
 # 	All elements of candidates are distinct.
 # 	1 <= target <= 500
 #
