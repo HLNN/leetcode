@@ -1,7 +1,7 @@
 # :pencil2: Leetcode Solutions with Python3,Cpp
-Update time:  2022-09-13 16:45:43
+Update time:  2022-09-14 16:45:36
 
-I have solved **431   /   2178** problems
+I have solved **432   /   2178** problems
 while there are **332** problems still locked.
 
 If you have any question, please give me an [issue](https://github.com/hlnn/leetcode/issues).
@@ -656,7 +656,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |713|[subarray-product-less-than-k](https://leetcode.com/problems/subarray-product-less-than-k)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0713-subarray-product-less-than-k/subarray-product-less-than-k.py)|[:memo:](https://leetcode.com/articles/subarray-product-less-than-k/)|Medium|
 |714|[best-time-to-buy-and-sell-stock-with-transaction-fee](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/best-time-to-buy-and-sell-stock-with-transaction-fee.py)|[:memo:](https://leetcode.com/articles/best-time-to-buy-and-sell-stock-with-transaction-fee/)|Medium|
 |715|[range-module](https://leetcode.com/problems/range-module)||[:memo:](https://leetcode.com/articles/range-module/)|Hard|
-|716|[max-stack](https://leetcode.com/problems/max-stack)|:lock:|[:memo:](https://leetcode.com/articles/max-stack/)|Hard|
+|716|[max-stack](https://leetcode.com/problems/max-stack)|:lock:||Hard|
 |717|[1-bit-and-2-bit-characters](https://leetcode.com/problems/1-bit-and-2-bit-characters)||[:memo:](https://leetcode.com/articles/1-bit-and-2-bit-characters/)|Easy|
 |718|[maximum-length-of-repeated-subarray](https://leetcode.com/problems/maximum-length-of-repeated-subarray)||[:memo:](https://leetcode.com/articles/maximum-length-of-repeated-subarray/)|Medium|
 |719|[find-k-th-smallest-pair-distance](https://leetcode.com/problems/find-k-th-smallest-pair-distance)||[:memo:](https://leetcode.com/articles/find-k-th-smallest-pair-distance/)|Hard|
@@ -1113,7 +1113,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |1206|[corporate-flight-bookings](https://leetcode.com/problems/corporate-flight-bookings)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/1206-corporate-flight-bookings/corporate-flight-bookings.py)||Medium|
 |1207|[delete-nodes-and-return-forest](https://leetcode.com/problems/delete-nodes-and-return-forest)|||Medium|
 |1208|[maximum-nesting-depth-of-two-valid-parentheses-strings](https://leetcode.com/problems/maximum-nesting-depth-of-two-valid-parentheses-strings)|||Medium|
-|1210|[mean-of-array-after-removing-some-elements](https://leetcode.com/problems/mean-of-array-after-removing-some-elements)|||Easy|
+|1210|[mean-of-array-after-removing-some-elements](https://leetcode.com/problems/mean-of-array-after-removing-some-elements)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/1210-mean-of-array-after-removing-some-elements/mean-of-array-after-removing-some-elements.py)||Easy|
 |1211|[iterator-for-combination](https://leetcode.com/problems/iterator-for-combination)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/1211-iterator-for-combination/iterator-for-combination.py)|[:memo:](https://leetcode.com/articles/iterator-for-combination/)|Medium|
 |1212|[sequential-digits](https://leetcode.com/problems/sequential-digits)||[:memo:](https://leetcode.com/articles/sequential-digits/)|Medium|
 |1213|[handshakes-that-dont-cross](https://leetcode.com/problems/handshakes-that-dont-cross)|:lock:||Hard|
@@ -1404,7 +1404,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |1563|[maximum-number-of-darts-inside-of-a-circular-dartboard](https://leetcode.com/problems/maximum-number-of-darts-inside-of-a-circular-dartboard)|||Hard|
 |1566|[check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://leetcode.com/problems/check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence)|||Easy|
 |1567|[maximum-number-of-vowels-in-a-substring-of-given-length](https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length)|||Medium|
-|1568|[pseudo-palindromic-paths-in-a-binary-tree](https://leetcode.com/problems/pseudo-palindromic-paths-in-a-binary-tree)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/1568-pseudo-palindromic-paths-in-a-binary-tree/pseudo-palindromic-paths-in-a-binary-tree.py)|[:memo:](https://leetcode.com/articles/pseudo-palindromic-paths-in-a-binary-tree/)|Medium|
+|1568|[pseudo-palindromic-paths-in-a-binary-tree](https://leetcode.com/problems/pseudo-palindromic-paths-in-a-binary-tree)|[Cpp](https://github.com/hlnn/leetcode/blob/master/src/1568-pseudo-palindromic-paths-in-a-binary-tree/pseudo-palindromic-paths-in-a-binary-tree.cpp) [Python3](https://github.com/hlnn/leetcode/blob/master/src/1568-pseudo-palindromic-paths-in-a-binary-tree/pseudo-palindromic-paths-in-a-binary-tree.py)|[:memo:](https://leetcode.com/articles/pseudo-palindromic-paths-in-a-binary-tree/)|Medium|
 |1569|[max-dot-product-of-two-subsequences](https://leetcode.com/problems/max-dot-product-of-two-subsequences)|||Hard|
 |1570|[final-prices-with-a-special-discount-in-a-shop](https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/1570-final-prices-with-a-special-discount-in-a-shop/final-prices-with-a-special-discount-in-a-shop.py)||Easy|
 |1571|[allocate-mailboxes](https://leetcode.com/problems/allocate-mailboxes)|||Hard|
