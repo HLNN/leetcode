@@ -1,8 +1,8 @@
 # :pencil2: Leetcode Solutions with Python3,Cpp
-Update time:  2022-09-14 16:45:36
+Update time:  2022-09-15 16:45:31
 
-I have solved **432   /   2178** problems
-while there are **332** problems still locked.
+I have solved **433   /   2179** problems
+while there are **333** problems still locked.
 
 If you have any question, please give me an [issue](https://github.com/hlnn/leetcode/issues).
 
@@ -623,7 +623,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |669|[trim-a-binary-search-tree](https://leetcode.com/problems/trim-a-binary-search-tree)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0669-trim-a-binary-search-tree/trim-a-binary-search-tree.py)|[:memo:](https://leetcode.com/articles/trim-a-binary-search-tree/)|Medium|
 |670|[maximum-swap](https://leetcode.com/problems/maximum-swap)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0670-maximum-swap/maximum-swap.py)|[:memo:](https://leetcode.com/articles/maximum-swap/)|Medium|
 |671|[second-minimum-node-in-a-binary-tree](https://leetcode.com/problems/second-minimum-node-in-a-binary-tree)||[:memo:](https://leetcode.com/articles/second-minimum-node-in-a-binary-tree/)|Easy|
-|672|[bulb-switcher-ii](https://leetcode.com/problems/bulb-switcher-ii)||[:memo:](https://leetcode.com/articles/bulb-switcher-ii/)|Medium|
+|672|[bulb-switcher-ii](https://leetcode.com/problems/bulb-switcher-ii)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0672-bulb-switcher-ii/bulb-switcher-ii.py)|[:memo:](https://leetcode.com/articles/bulb-switcher-ii/)|Medium|
 |673|[number-of-longest-increasing-subsequence](https://leetcode.com/problems/number-of-longest-increasing-subsequence)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0673-number-of-longest-increasing-subsequence/number-of-longest-increasing-subsequence.py)|[:memo:](https://leetcode.com/articles/number-of-longest-increasing-subsequence/)|Medium|
 |674|[longest-continuous-increasing-subsequence](https://leetcode.com/problems/longest-continuous-increasing-subsequence)||[:memo:](https://leetcode.com/articles/longest-continuous-increasing-subsequence/)|Easy|
 |675|[cut-off-trees-for-golf-event](https://leetcode.com/problems/cut-off-trees-for-golf-event)||[:memo:](https://leetcode.com/articles/cutoff-trees-for-golf-event/)|Hard|
@@ -656,7 +656,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |713|[subarray-product-less-than-k](https://leetcode.com/problems/subarray-product-less-than-k)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0713-subarray-product-less-than-k/subarray-product-less-than-k.py)|[:memo:](https://leetcode.com/articles/subarray-product-less-than-k/)|Medium|
 |714|[best-time-to-buy-and-sell-stock-with-transaction-fee](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/best-time-to-buy-and-sell-stock-with-transaction-fee.py)|[:memo:](https://leetcode.com/articles/best-time-to-buy-and-sell-stock-with-transaction-fee/)|Medium|
 |715|[range-module](https://leetcode.com/problems/range-module)||[:memo:](https://leetcode.com/articles/range-module/)|Hard|
-|716|[max-stack](https://leetcode.com/problems/max-stack)|:lock:||Hard|
+|716|[max-stack](https://leetcode.com/problems/max-stack)|:lock:|[:memo:](https://leetcode.com/articles/max-stack/)|Hard|
 |717|[1-bit-and-2-bit-characters](https://leetcode.com/problems/1-bit-and-2-bit-characters)||[:memo:](https://leetcode.com/articles/1-bit-and-2-bit-characters/)|Easy|
 |718|[maximum-length-of-repeated-subarray](https://leetcode.com/problems/maximum-length-of-repeated-subarray)||[:memo:](https://leetcode.com/articles/maximum-length-of-repeated-subarray/)|Medium|
 |719|[find-k-th-smallest-pair-distance](https://leetcode.com/problems/find-k-th-smallest-pair-distance)||[:memo:](https://leetcode.com/articles/find-k-th-smallest-pair-distance/)|Hard|
@@ -2192,3 +2192,4 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |2526|[longest-increasing-subsequence-ii](https://leetcode.com/problems/longest-increasing-subsequence-ii)|||Hard|
 |2535|[count-strictly-increasing-subarrays](https://leetcode.com/problems/count-strictly-increasing-subarrays)|:lock:||Medium|
 |2537|[minimum-time-to-kill-all-monsters](https://leetcode.com/problems/minimum-time-to-kill-all-monsters)|:lock:||Hard|
+|2555|[design-sql](https://leetcode.com/problems/design-sql)|:lock:||Medium|
