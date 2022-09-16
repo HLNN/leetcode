@@ -1,7 +1,7 @@
 # :pencil2: Leetcode Solutions with Python3,Cpp
-Update time:  2022-09-15 16:45:31
+Update time:  2022-09-16 16:45:34
 
-I have solved **433   /   2179** problems
+I have solved **435   /   2179** problems
 while there are **333** problems still locked.
 
 If you have any question, please give me an [issue](https://github.com/hlnn/leetcode/issues).
@@ -1662,7 +1662,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |1893|[maximum-subarray-sum-after-one-operation](https://leetcode.com/problems/maximum-subarray-sum-after-one-operation)|:lock:||Medium|
 |1894|[merge-strings-alternately](https://leetcode.com/problems/merge-strings-alternately)|||Easy|
 |1895|[minimum-number-of-operations-to-move-all-balls-to-each-box](https://leetcode.com/problems/minimum-number-of-operations-to-move-all-balls-to-each-box)|||Medium|
-|1896|[maximum-score-from-performing-multiplication-operations](https://leetcode.com/problems/maximum-score-from-performing-multiplication-operations)||[:memo:](https://leetcode.com/articles/maximum-score-from-performing-multiplication-operations/)|Medium|
+|1896|[maximum-score-from-performing-multiplication-operations](https://leetcode.com/problems/maximum-score-from-performing-multiplication-operations)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/1896-maximum-score-from-performing-multiplication-operations/maximum-score-from-performing-multiplication-operations.py)|[:memo:](https://leetcode.com/articles/maximum-score-from-performing-multiplication-operations/)|Medium|
 |1897|[maximize-palindrome-length-from-subsequences](https://leetcode.com/problems/maximize-palindrome-length-from-subsequences)|||Hard|
 |1899|[count-items-matching-a-rule](https://leetcode.com/problems/count-items-matching-a-rule)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/1899-count-items-matching-a-rule/count-items-matching-a-rule.py)||Easy|
 |1900|[closest-dessert-cost](https://leetcode.com/problems/closest-dessert-cost)|||Medium|
@@ -1853,7 +1853,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |2114|[minimum-number-of-work-sessions-to-finish-the-tasks](https://leetcode.com/problems/minimum-number-of-work-sessions-to-finish-the-tasks)|||Medium|
 |2115|[number-of-unique-good-subsequences](https://leetcode.com/problems/number-of-unique-good-subsequences)|||Hard|
 |2116|[count-number-of-pairs-with-absolute-difference-k](https://leetcode.com/problems/count-number-of-pairs-with-absolute-difference-k)|||Easy|
-|2117|[find-original-array-from-doubled-array](https://leetcode.com/problems/find-original-array-from-doubled-array)||[:memo:](https://leetcode.com/articles/find-original-array-from-doubled-array/)|Medium|
+|2117|[find-original-array-from-doubled-array](https://leetcode.com/problems/find-original-array-from-doubled-array)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/2117-find-original-array-from-doubled-array/find-original-array-from-doubled-array.py)|[:memo:](https://leetcode.com/articles/find-original-array-from-doubled-array/)|Medium|
 |2118|[maximum-earnings-from-taxi](https://leetcode.com/problems/maximum-earnings-from-taxi)|||Medium|
 |2119|[minimum-number-of-operations-to-make-array-continuous](https://leetcode.com/problems/minimum-number-of-operations-to-make-array-continuous)|||Hard|
 |2121|[find-if-path-exists-in-graph](https://leetcode.com/problems/find-if-path-exists-in-graph)|||Easy|
@@ -1977,7 +1977,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |2254|[check-if-every-row-and-column-contains-all-numbers](https://leetcode.com/problems/check-if-every-row-and-column-contains-all-numbers)|||Easy|
 |2255|[minimum-swaps-to-group-all-1s-together-ii](https://leetcode.com/problems/minimum-swaps-to-group-all-1s-together-ii)|||Medium|
 |2256|[count-words-obtained-after-adding-a-letter](https://leetcode.com/problems/count-words-obtained-after-adding-a-letter)|||Medium|
-|2257|[earliest-possible-day-of-full-bloom](https://leetcode.com/problems/earliest-possible-day-of-full-bloom)|||Hard|
+|2257|[earliest-possible-day-of-full-bloom](https://leetcode.com/problems/earliest-possible-day-of-full-bloom)||[:memo:](https://leetcode.com/articles/earliest-possible-day-of-full-bloom/)|Hard|
 |2258|[elements-in-array-after-removing-and-replacing-elements](https://leetcode.com/problems/elements-in-array-after-removing-and-replacing-elements)|:lock:||Medium|
 |2259|[minimum-operations-to-remove-adjacent-ones-in-matrix](https://leetcode.com/problems/minimum-operations-to-remove-adjacent-ones-in-matrix)|:lock:||Hard|
 |2260|[divide-a-string-into-groups-of-size-k](https://leetcode.com/problems/divide-a-string-into-groups-of-size-k)|||Easy|
