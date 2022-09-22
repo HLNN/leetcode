@@ -1,8 +1,8 @@
 # :pencil2: Leetcode Solutions with Python3,Cpp
-Update time:  2022-09-21 16:46:08
+Update time:  2022-09-22 16:46:10
 
-I have solved **441   /   2187** problems
-while there are **333** problems still locked.
+I have solved **442   /   2188** problems
+while there are **334** problems still locked.
 
 If you have any question, please give me an [issue](https://github.com/hlnn/leetcode/issues).
 
@@ -543,7 +543,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |554|[brick-wall](https://leetcode.com/problems/brick-wall)||[:memo:](https://leetcode.com/articles/brick-wall/)|Medium|
 |555|[split-concatenated-strings](https://leetcode.com/problems/split-concatenated-strings)|:lock:|[:memo:](https://leetcode.com/articles/split-concatenated-strings/)|Medium|
 |556|[next-greater-element-iii](https://leetcode.com/problems/next-greater-element-iii)||[:memo:](https://leetcode.com/articles/next-greater-element-iii/)|Medium|
-|557|[reverse-words-in-a-string-iii](https://leetcode.com/problems/reverse-words-in-a-string-iii)||[:memo:](https://leetcode.com/articles/reverse-words-in-a-string-iii/)|Easy|
+|557|[reverse-words-in-a-string-iii](https://leetcode.com/problems/reverse-words-in-a-string-iii)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0557-reverse-words-in-a-string-iii/reverse-words-in-a-string-iii.py)|[:memo:](https://leetcode.com/articles/reverse-words-in-a-string-iii/)|Easy|
 |560|[subarray-sum-equals-k](https://leetcode.com/problems/subarray-sum-equals-k)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0560-subarray-sum-equals-k/subarray-sum-equals-k.py)|[:memo:](https://leetcode.com/articles/subarray-sum-equals-k/)|Medium|
 |561|[array-partition](https://leetcode.com/problems/array-partition)||[:memo:](https://leetcode.com/articles/array-partition-i/)|Easy|
 |562|[longest-line-of-consecutive-one-in-matrix](https://leetcode.com/problems/longest-line-of-consecutive-one-in-matrix)|:lock:|[:memo:](https://leetcode.com/articles/longest-line-of-consecutive-one-in-matrix/)|Medium|
@@ -2201,3 +2201,4 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |2535|[count-strictly-increasing-subarrays](https://leetcode.com/problems/count-strictly-increasing-subarrays)|:lock:||Medium|
 |2537|[minimum-time-to-kill-all-monsters](https://leetcode.com/problems/minimum-time-to-kill-all-monsters)|:lock:||Hard|
 |2555|[design-sql](https://leetcode.com/problems/design-sql)|:lock:||Medium|
+|2560|[closest-fair-integer](https://leetcode.com/problems/closest-fair-integer)|:lock:||Medium|
