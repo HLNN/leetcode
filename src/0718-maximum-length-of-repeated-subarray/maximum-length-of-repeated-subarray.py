@@ -14,6 +14,7 @@
 #
 # Input: nums1 = [0,0,0,0,0], nums2 = [0,0,0,0,0]
 # Output: 5
+# Explanation: The repeated subarray with maximum length is [0,0,0,0,0].
 #
 #
 #  

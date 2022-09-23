@@ -1,7 +1,7 @@
 # :pencil2: Leetcode Solutions with Python3,Cpp
-Update time:  2022-09-22 16:46:10
+Update time:  2022-09-23 16:46:01
 
-I have solved **442   /   2188** problems
+I have solved **443   /   2188** problems
 while there are **334** problems still locked.
 
 If you have any question, please give me an [issue](https://github.com/hlnn/leetcode/issues).
@@ -778,7 +778,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |835|[linked-list-components](https://leetcode.com/problems/linked-list-components)||[:memo:](https://leetcode.com/articles/linked-list-components/)|Medium|
 |836|[race-car](https://leetcode.com/problems/race-car)||[:memo:](https://leetcode.com/articles/race-car/)|Hard|
 |837|[most-common-word](https://leetcode.com/problems/most-common-word)||[:memo:](https://leetcode.com/articles/most-common-word/)|Easy|
-|838|[design-linked-list](https://leetcode.com/problems/design-linked-list)||[:memo:](https://leetcode.com/articles/design-linked-list/)|Medium|
+|838|[design-linked-list](https://leetcode.com/problems/design-linked-list)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0838-design-linked-list/design-linked-list.py)|[:memo:](https://leetcode.com/articles/design-linked-list/)|Medium|
 |839|[short-encoding-of-words](https://leetcode.com/problems/short-encoding-of-words)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0839-short-encoding-of-words/short-encoding-of-words.py)|[:memo:](https://leetcode.com/articles/short-encoding-of-words/)|Medium|
 |841|[shortest-distance-to-a-character](https://leetcode.com/problems/shortest-distance-to-a-character)||[:memo:](https://leetcode.com/articles/shortest-distance-to-a-character/)|Easy|
 |842|[card-flipping-game](https://leetcode.com/problems/card-flipping-game)||[:memo:](https://leetcode.com/articles/card-flipping-game/)|Medium|
@@ -1662,7 +1662,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |1893|[maximum-subarray-sum-after-one-operation](https://leetcode.com/problems/maximum-subarray-sum-after-one-operation)|:lock:||Medium|
 |1894|[merge-strings-alternately](https://leetcode.com/problems/merge-strings-alternately)|||Easy|
 |1895|[minimum-number-of-operations-to-move-all-balls-to-each-box](https://leetcode.com/problems/minimum-number-of-operations-to-move-all-balls-to-each-box)|||Medium|
-|1896|[maximum-score-from-performing-multiplication-operations](https://leetcode.com/problems/maximum-score-from-performing-multiplication-operations)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/1896-maximum-score-from-performing-multiplication-operations/maximum-score-from-performing-multiplication-operations.py)|[:memo:](https://leetcode.com/articles/maximum-score-from-performing-multiplication-operations/)|Medium|
+|1896|[maximum-score-from-performing-multiplication-operations](https://leetcode.com/problems/maximum-score-from-performing-multiplication-operations)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/1896-maximum-score-from-performing-multiplication-operations/maximum-score-from-performing-multiplication-operations.py)|[:memo:](https://leetcode.com/articles/maximum-score-from-performing-multiplication-operations/)|Hard|
 |1897|[maximize-palindrome-length-from-subsequences](https://leetcode.com/problems/maximize-palindrome-length-from-subsequences)|||Hard|
 |1899|[count-items-matching-a-rule](https://leetcode.com/problems/count-items-matching-a-rule)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/1899-count-items-matching-a-rule/count-items-matching-a-rule.py)||Easy|
 |1900|[closest-dessert-cost](https://leetcode.com/problems/closest-dessert-cost)|||Medium|

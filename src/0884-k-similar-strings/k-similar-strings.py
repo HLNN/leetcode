@@ -8,6 +8,7 @@
 #
 # Input: s1 = "ab", s2 = "ba"
 # Output: 1
+# Explanation: The two string are 1-similar because we can use one swap to change s1 to s2: "ab" --> "ba".
 #
 #
 # Example 2:
@@ -15,6 +16,7 @@
 #
 # Input: s1 = "abc", s2 = "bca"
 # Output: 2
+# Explanation: The two strings are 2-similar because we can use two swaps to change s1 to s2: "abc" --> "bac" --> "bca".
 #
 #
 #  
