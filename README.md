@@ -1,7 +1,7 @@
 # :pencil2: Leetcode Solutions with Python3,Cpp
-Update time:  2022-09-23 16:46:01
+Update time:  2022-09-24 16:46:00
 
-I have solved **443   /   2188** problems
+I have solved **445   /   2188** problems
 while there are **334** problems still locked.
 
 If you have any question, please give me an [issue](https://github.com/hlnn/leetcode/issues).
@@ -778,7 +778,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |835|[linked-list-components](https://leetcode.com/problems/linked-list-components)||[:memo:](https://leetcode.com/articles/linked-list-components/)|Medium|
 |836|[race-car](https://leetcode.com/problems/race-car)||[:memo:](https://leetcode.com/articles/race-car/)|Hard|
 |837|[most-common-word](https://leetcode.com/problems/most-common-word)||[:memo:](https://leetcode.com/articles/most-common-word/)|Easy|
-|838|[design-linked-list](https://leetcode.com/problems/design-linked-list)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0838-design-linked-list/design-linked-list.py)|[:memo:](https://leetcode.com/articles/design-linked-list/)|Medium|
+|838|[design-linked-list](https://leetcode.com/problems/design-linked-list)|[Cpp](https://github.com/hlnn/leetcode/blob/master/src/0838-design-linked-list/design-linked-list.cpp) [Python3](https://github.com/hlnn/leetcode/blob/master/src/0838-design-linked-list/design-linked-list.py)|[:memo:](https://leetcode.com/articles/design-linked-list/)|Medium|
 |839|[short-encoding-of-words](https://leetcode.com/problems/short-encoding-of-words)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0839-short-encoding-of-words/short-encoding-of-words.py)|[:memo:](https://leetcode.com/articles/short-encoding-of-words/)|Medium|
 |841|[shortest-distance-to-a-character](https://leetcode.com/problems/shortest-distance-to-a-character)||[:memo:](https://leetcode.com/articles/shortest-distance-to-a-character/)|Easy|
 |842|[card-flipping-game](https://leetcode.com/problems/card-flipping-game)||[:memo:](https://leetcode.com/articles/card-flipping-game/)|Medium|
@@ -1551,7 +1551,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |1751|[slowest-key](https://leetcode.com/problems/slowest-key)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/1751-slowest-key/slowest-key.py)|[:memo:](https://leetcode.com/articles/slowest-key/)|Easy|
 |1752|[arithmetic-subarrays](https://leetcode.com/problems/arithmetic-subarrays)|||Medium|
 |1753|[path-with-minimum-effort](https://leetcode.com/problems/path-with-minimum-effort)||[:memo:](https://leetcode.com/articles/path-with-minimum-effort/)|Medium|
-|1755|[defuse-the-bomb](https://leetcode.com/problems/defuse-the-bomb)|||Easy|
+|1755|[defuse-the-bomb](https://leetcode.com/problems/defuse-the-bomb)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/1755-defuse-the-bomb/defuse-the-bomb.py)||Easy|
 |1756|[minimum-deletions-to-make-string-balanced](https://leetcode.com/problems/minimum-deletions-to-make-string-balanced)|||Medium|
 |1757|[minimum-jumps-to-reach-home](https://leetcode.com/problems/minimum-jumps-to-reach-home)|||Medium|
 |1758|[distribute-repeating-integers](https://leetcode.com/problems/distribute-repeating-integers)|||Hard|
@@ -1590,7 +1590,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |1797|[goal-parser-interpretation](https://leetcode.com/problems/goal-parser-interpretation)|||Easy|
 |1798|[max-number-of-k-sum-pairs](https://leetcode.com/problems/max-number-of-k-sum-pairs)||[:memo:](https://leetcode.com/articles/max-number-of-k-sum-pairs/)|Medium|
 |1799|[minimum-incompatibility](https://leetcode.com/problems/minimum-incompatibility)|||Hard|
-|1800|[concatenation-of-consecutive-binary-numbers](https://leetcode.com/problems/concatenation-of-consecutive-binary-numbers)||[:memo:](https://leetcode.com/articles/concatenation-of-consecutive-binary-numbers/)|Medium|
+|1800|[concatenation-of-consecutive-binary-numbers](https://leetcode.com/problems/concatenation-of-consecutive-binary-numbers)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/1800-concatenation-of-consecutive-binary-numbers/concatenation-of-consecutive-binary-numbers.py)|[:memo:](https://leetcode.com/articles/concatenation-of-consecutive-binary-numbers/)|Medium|
 |1802|[number-of-students-unable-to-eat-lunch](https://leetcode.com/problems/number-of-students-unable-to-eat-lunch)|||Easy|
 |1803|[average-waiting-time](https://leetcode.com/problems/average-waiting-time)|||Medium|
 |1804|[maximum-binary-string-after-change](https://leetcode.com/problems/maximum-binary-string-after-change)|||Medium|
@@ -1716,7 +1716,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |1956|[maximum-element-after-decreasing-and-rearranging](https://leetcode.com/problems/maximum-element-after-decreasing-and-rearranging)|||Medium|
 |1957|[closest-room](https://leetcode.com/problems/closest-room)|||Hard|
 |1959|[minimum-path-cost-in-a-hidden-grid](https://leetcode.com/problems/minimum-path-cost-in-a-hidden-grid)|:lock:||Medium|
-|1960|[check-if-the-sentence-is-pangram](https://leetcode.com/problems/check-if-the-sentence-is-pangram)|||Easy|
+|1960|[check-if-the-sentence-is-pangram](https://leetcode.com/problems/check-if-the-sentence-is-pangram)||[:memo:](https://leetcode.com/articles/check-if-the-sentence-is-pangram/)|Easy|
 |1961|[maximum-ice-cream-bars](https://leetcode.com/problems/maximum-ice-cream-bars)|||Medium|
 |1962|[single-threaded-cpu](https://leetcode.com/problems/single-threaded-cpu)||[:memo:](https://leetcode.com/articles/single-threaded-cpu/)|Medium|
 |1963|[find-xor-sum-of-all-pairs-bitwise-and](https://leetcode.com/problems/find-xor-sum-of-all-pairs-bitwise-and)|||Hard|
