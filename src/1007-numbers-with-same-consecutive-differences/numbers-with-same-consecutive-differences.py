@@ -1,8 +1,6 @@
-# Return all non-negative integers of length n such that the absolute difference between every two consecutive digits is k.
+# Given two integers n and k, return an array of all the integers of length n where the difference between every two consecutive digits is k. You may return the answer in any order.
 #
-# Note that every number in the answer must not have leading zeros. For example, 01 has one leading zero and is invalid.
-#
-# You may return the answer in any order.
+# Note that the integers should not have leading zeros. Integers as 02 and 043 are not allowed.
 #
 #  
 # Example 1:

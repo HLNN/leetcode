@@ -1,10 +1,13 @@
-# Given an array of non-negative integers nums, you are initially positioned at the first index of the array.
+# You are given a 0-indexed array of integers nums of length n. You are initially positioned at nums[0].
 #
-# Each element in the array represents your maximum jump length at that position.
+# Each element nums[i] represents the maximum length of a forward jump from index i. In other words, if you are at nums[i], you can jump to any nums[i + j] where:
 #
-# Your goal is to reach the last index in the minimum number of jumps.
 #
-# You can assume that you can always reach the last index.
+# 	1 <= j <= nums[i] and
+# 	i + j < n
+#
+#
+# Return the minimum number of jumps to reach nums[n - 1]. The test cases are generated such that you can reach nums[n - 1].
 #
 #  
 # Example 1:
