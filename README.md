@@ -1,7 +1,7 @@
 # :pencil2: Leetcode Solutions with Python3,Cpp
-Update time:  2022-10-01 22:24:02
+Update time:  2022-10-03 08:17:06
 
-I have solved **451   /   2193** problems
+I have solved **454   /   2201** problems
 while there are **335** problems still locked.
 
 If you have any question, please give me an [issue](https://github.com/hlnn/leetcode/issues).
@@ -733,7 +733,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |790|[global-and-local-inversions](https://leetcode.com/problems/global-and-local-inversions)||[:memo:](https://leetcode.com/articles/global-and-local-inversions/)|Medium|
 |791|[split-bst](https://leetcode.com/problems/split-bst)|:lock:|[:memo:](https://leetcode.com/articles/split-bst/)|Medium|
 |792|[binary-search](https://leetcode.com/problems/binary-search)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0792-binary-search/binary-search.py)|[:memo:](https://leetcode.com/articles/binary-search/)|Easy|
-|793|[swap-adjacent-in-lr-string](https://leetcode.com/problems/swap-adjacent-in-lr-string)||[:memo:](https://leetcode.com/articles/swap-adjacent-in-lr-string/)|Medium|
+|793|[swap-adjacent-in-lr-string](https://leetcode.com/problems/swap-adjacent-in-lr-string)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0793-swap-adjacent-in-lr-string/swap-adjacent-in-lr-string.py)|[:memo:](https://leetcode.com/articles/swap-adjacent-in-lr-string/)|Medium|
 |794|[swim-in-rising-water](https://leetcode.com/problems/swim-in-rising-water)||[:memo:](https://leetcode.com/articles/swim-in-rising-water/)|Hard|
 |795|[k-th-symbol-in-grammar](https://leetcode.com/problems/k-th-symbol-in-grammar)||[:memo:](https://leetcode.com/articles/k-th-symbol-in-grammar/)|Medium|
 |796|[reaching-points](https://leetcode.com/problems/reaching-points)||[:memo:](https://leetcode.com/articles/reaching-points/)|Hard|
@@ -1155,7 +1155,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |1260|[day-of-the-year](https://leetcode.com/problems/day-of-the-year)|||Easy|
 |1261|[swap-for-longest-repeated-character-substring](https://leetcode.com/problems/swap-for-longest-repeated-character-substring)|||Medium|
 |1262|[online-majority-element-in-subarray](https://leetcode.com/problems/online-majority-element-in-subarray)|||Hard|
-|1263|[number-of-dice-rolls-with-target-sum](https://leetcode.com/problems/number-of-dice-rolls-with-target-sum)||[:memo:](https://leetcode.com/articles/number-of-dice-rolls-with-target-sum/)|Medium|
+|1263|[number-of-dice-rolls-with-target-sum](https://leetcode.com/problems/number-of-dice-rolls-with-target-sum)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/1263-number-of-dice-rolls-with-target-sum/number-of-dice-rolls-with-target-sum.py)|[:memo:](https://leetcode.com/articles/number-of-dice-rolls-with-target-sum/)|Medium|
 |1264|[maximum-number-of-words-you-can-type](https://leetcode.com/problems/maximum-number-of-words-you-can-type)|||Easy|
 |1267|[remove-zero-sum-consecutive-nodes-from-linked-list](https://leetcode.com/problems/remove-zero-sum-consecutive-nodes-from-linked-list)|||Medium|
 |1270|[dinner-plate-stacks](https://leetcode.com/problems/dinner-plate-stacks)|||Hard|
@@ -1674,7 +1674,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |1906|[maximize-score-after-n-operations](https://leetcode.com/problems/maximize-score-after-n-operations)|||Hard|
 |1907|[count-pairs-with-xor-in-a-range](https://leetcode.com/problems/count-pairs-with-xor-in-a-range)|||Hard|
 |1909|[buildings-with-an-ocean-view](https://leetcode.com/problems/buildings-with-an-ocean-view)|:lock:|[:memo:](https://leetcode.com/articles/buildings-with-an-ocean-view/)|Medium|
-|1910|[check-if-binary-string-has-at-most-one-segment-of-ones](https://leetcode.com/problems/check-if-binary-string-has-at-most-one-segment-of-ones)|||Easy|
+|1910|[check-if-binary-string-has-at-most-one-segment-of-ones](https://leetcode.com/problems/check-if-binary-string-has-at-most-one-segment-of-ones)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/1910-check-if-binary-string-has-at-most-one-segment-of-ones/check-if-binary-string-has-at-most-one-segment-of-ones.py)||Easy|
 |1911|[minimum-elements-to-add-to-form-a-given-sum](https://leetcode.com/problems/minimum-elements-to-add-to-form-a-given-sum)|||Medium|
 |1912|[number-of-restricted-paths-from-first-to-last-node](https://leetcode.com/problems/number-of-restricted-paths-from-first-to-last-node)|||Medium|
 |1913|[make-the-xor-of-all-segments-equal-to-zero](https://leetcode.com/problems/make-the-xor-of-all-segments-equal-to-zero)|||Hard|
@@ -2199,9 +2199,17 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |2504|[find-all-good-indices](https://leetcode.com/problems/find-all-good-indices)|||Medium|
 |2505|[number-of-good-paths](https://leetcode.com/problems/number-of-good-paths)|||Hard|
 |2506|[minimize-maximum-value-in-a-grid](https://leetcode.com/problems/minimize-maximum-value-in-a-grid)|:lock:||Hard|
+|2507|[number-of-common-factors](https://leetcode.com/problems/number-of-common-factors)|||Easy|
+|2508|[maximum-sum-of-an-hourglass](https://leetcode.com/problems/maximum-sum-of-an-hourglass)|||Medium|
+|2509|[minimize-xor](https://leetcode.com/problems/minimize-xor)|||Medium|
+|2510|[maximum-deletions-on-a-string](https://leetcode.com/problems/maximum-deletions-on-a-string)|||Hard|
+|2512|[longest-uploaded-prefix](https://leetcode.com/problems/longest-uploaded-prefix)|||Medium|
+|2513|[number-of-pairs-satisfying-inequality](https://leetcode.com/problems/number-of-pairs-satisfying-inequality)|||Hard|
 |2517|[choose-edges-to-maximize-score-in-a-tree](https://leetcode.com/problems/choose-edges-to-maximize-score-in-a-tree)|:lock:||Medium|
 |2522|[median-of-a-row-wise-sorted-matrix](https://leetcode.com/problems/median-of-a-row-wise-sorted-matrix)|:lock:||Medium|
 |2526|[longest-increasing-subsequence-ii](https://leetcode.com/problems/longest-increasing-subsequence-ii)|||Hard|
+|2532|[remove-letter-to-equalize-frequency](https://leetcode.com/problems/remove-letter-to-equalize-frequency)|||Easy|
+|2533|[bitwise-xor-of-all-pairings](https://leetcode.com/problems/bitwise-xor-of-all-pairings)|||Medium|
 |2535|[count-strictly-increasing-subarrays](https://leetcode.com/problems/count-strictly-increasing-subarrays)|:lock:||Medium|
 |2537|[minimum-time-to-kill-all-monsters](https://leetcode.com/problems/minimum-time-to-kill-all-monsters)|:lock:||Hard|
 |2555|[design-sql](https://leetcode.com/problems/design-sql)|:lock:||Medium|
