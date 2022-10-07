@@ -1,7 +1,7 @@
 # :pencil2: Leetcode Solutions with Python3,Cpp
-Update time:  2022-10-06 11:09:19
+Update time:  2022-10-07 23:53:09
 
-I have solved **459   /   2202** problems
+I have solved **462   /   2202** problems
 while there are **336** problems still locked.
 
 If you have any question, please give me an [issue](https://github.com/hlnn/leetcode/issues).
@@ -672,7 +672,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |729|[my-calendar-i](https://leetcode.com/problems/my-calendar-i)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0729-my-calendar-i/my-calendar-i.py)|[:memo:](https://leetcode.com/articles/my-calendar-i/)|Medium|
 |730|[count-different-palindromic-subsequences](https://leetcode.com/problems/count-different-palindromic-subsequences)||[:memo:](https://leetcode.com/articles/count-different-palindromic-subsequences/)|Hard|
 |731|[my-calendar-ii](https://leetcode.com/problems/my-calendar-ii)||[:memo:](https://leetcode.com/articles/my-calendar-ii/)|Medium|
-|732|[my-calendar-iii](https://leetcode.com/problems/my-calendar-iii)||[:memo:](https://leetcode.com/articles/my-calendar-iii/)|Hard|
+|732|[my-calendar-iii](https://leetcode.com/problems/my-calendar-iii)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0732-my-calendar-iii/my-calendar-iii.py)|[:memo:](https://leetcode.com/articles/my-calendar-iii/)|Hard|
 |733|[flood-fill](https://leetcode.com/problems/flood-fill)||[:memo:](https://leetcode.com/articles/flood-fill/)|Easy|
 |734|[sentence-similarity](https://leetcode.com/problems/sentence-similarity)|:lock:|[:memo:](https://leetcode.com/articles/sentence-similarity/)|Easy|
 |735|[asteroid-collision](https://leetcode.com/problems/asteroid-collision)||[:memo:](https://leetcode.com/articles/asteroid-collision/)|Medium|
@@ -951,7 +951,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |1020|[longest-turbulent-subarray](https://leetcode.com/problems/longest-turbulent-subarray)||[:memo:](https://leetcode.com/articles/longest-turbulent-subarray/)|Medium|
 |1021|[distribute-coins-in-binary-tree](https://leetcode.com/problems/distribute-coins-in-binary-tree)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/1021-distribute-coins-in-binary-tree/distribute-coins-in-binary-tree.py)|[:memo:](https://leetcode.com/articles/distribute-coins-in-binary-tree/)|Medium|
 |1022|[unique-paths-iii](https://leetcode.com/problems/unique-paths-iii)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/1022-unique-paths-iii/unique-paths-iii.py)|[:memo:](https://leetcode.com/articles/unique-paths-iii/)|Hard|
-|1023|[time-based-key-value-store](https://leetcode.com/problems/time-based-key-value-store)||[:memo:](https://leetcode.com/articles/time-based-key-value-store/)|Medium|
+|1023|[time-based-key-value-store](https://leetcode.com/problems/time-based-key-value-store)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/1023-time-based-key-value-store/time-based-key-value-store.py)|[:memo:](https://leetcode.com/articles/time-based-key-value-store/)|Medium|
 |1024|[triples-with-bitwise-and-equal-to-zero](https://leetcode.com/problems/triples-with-bitwise-and-equal-to-zero)|||Hard|
 |1025|[minimum-cost-for-tickets](https://leetcode.com/problems/minimum-cost-for-tickets)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/1025-minimum-cost-for-tickets/minimum-cost-for-tickets.py)|[:memo:](https://leetcode.com/articles/minimum-cost-for-tickets/)|Medium|
 |1026|[string-without-aaa-or-bbb](https://leetcode.com/problems/string-without-aaa-or-bbb)||[:memo:](https://leetcode.com/articles/string-without-aaa-or-bbb/)|Medium|
@@ -1687,7 +1687,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |1923|[sentence-similarity-iii](https://leetcode.com/problems/sentence-similarity-iii)|||Medium|
 |1924|[maximum-number-of-groups-getting-fresh-donuts](https://leetcode.com/problems/maximum-number-of-groups-getting-fresh-donuts)|||Hard|
 |1925|[count-nice-pairs-in-an-array](https://leetcode.com/problems/count-nice-pairs-in-an-array)|||Medium|
-|1927|[maximum-ascending-subarray-sum](https://leetcode.com/problems/maximum-ascending-subarray-sum)|||Easy|
+|1927|[maximum-ascending-subarray-sum](https://leetcode.com/problems/maximum-ascending-subarray-sum)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/1927-maximum-ascending-subarray-sum/maximum-ascending-subarray-sum.py)||Easy|
 |1928|[number-of-orders-in-the-backlog](https://leetcode.com/problems/number-of-orders-in-the-backlog)|||Medium|
 |1929|[maximum-value-at-a-given-index-in-a-bounded-array](https://leetcode.com/problems/maximum-value-at-a-given-index-in-a-bounded-array)|||Medium|
 |1930|[maximum-number-of-consecutive-values-you-can-make](https://leetcode.com/problems/maximum-number-of-consecutive-values-you-can-make)|||Medium|

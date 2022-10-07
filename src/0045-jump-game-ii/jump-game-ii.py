@@ -3,7 +3,7 @@
 # Each element nums[i] represents the maximum length of a forward jump from index i. In other words, if you are at nums[i], you can jump to any nums[i + j] where:
 #
 #
-# 	1 <= j <= nums[i] and
+# 	0 <= j <= nums[i] and
 # 	i + j < n
 #
 #
