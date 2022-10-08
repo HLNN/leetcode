@@ -1,7 +1,7 @@
 # :pencil2: Leetcode Solutions with Python3,Cpp
-Update time:  2022-10-07 23:53:09
+Update time:  2022-10-08 22:14:31
 
-I have solved **462   /   2202** problems
+I have solved **463   /   2202** problems
 while there are **336** problems still locked.
 
 If you have any question, please give me an [issue](https://github.com/hlnn/leetcode/issues).
@@ -834,7 +834,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |898|[transpose-matrix](https://leetcode.com/problems/transpose-matrix)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0898-transpose-matrix/transpose-matrix.py)|[:memo:](https://leetcode.com/articles/transpose-matrix/)|Easy|
 |899|[binary-gap](https://leetcode.com/problems/binary-gap)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0899-binary-gap/binary-gap.py)|[:memo:](https://leetcode.com/articles/binary-gap/)|Easy|
 |900|[reordered-power-of-2](https://leetcode.com/problems/reordered-power-of-2)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0900-reordered-power-of-2/reordered-power-of-2.py)|[:memo:](https://leetcode.com/articles/reordered-power-of-2/)|Medium|
-|901|[advantage-shuffle](https://leetcode.com/problems/advantage-shuffle)||[:memo:](https://leetcode.com/articles/advantage-shuffle/)|Medium|
+|901|[advantage-shuffle](https://leetcode.com/problems/advantage-shuffle)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0901-advantage-shuffle/advantage-shuffle.py)|[:memo:](https://leetcode.com/articles/advantage-shuffle/)|Medium|
 |902|[minimum-number-of-refueling-stops](https://leetcode.com/problems/minimum-number-of-refueling-stops)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0902-minimum-number-of-refueling-stops/minimum-number-of-refueling-stops.py)|[:memo:](https://leetcode.com/articles/minimum-number-of-refueling-stops/)|Hard|
 |903|[implement-rand10-using-rand7](https://leetcode.com/problems/implement-rand10-using-rand7)||[:memo:](https://leetcode.com/articles/implement-rand10-using-rand7/)|Medium|
 |904|[leaf-similar-trees](https://leetcode.com/problems/leaf-similar-trees)||[:memo:](https://leetcode.com/articles/leaf-similar-trees/)|Easy|
