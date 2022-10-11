@@ -1,7 +1,7 @@
 # :pencil2: Leetcode Solutions with Python3,Cpp
-Update time:  2022-10-09 13:27:18
+Update time:  2022-10-11 11:43:10
 
-I have solved **465   /   2206** problems
+I have solved **467   /   2206** problems
 while there are **336** problems still locked.
 
 If you have any question, please give me an [issue](https://github.com/hlnn/leetcode/issues).
@@ -759,7 +759,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |816|[design-hashset](https://leetcode.com/problems/design-hashset)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0816-design-hashset/design-hashset.py)|[:memo:](https://leetcode.com/articles/design-hashset/)|Easy|
 |817|[design-hashmap](https://leetcode.com/problems/design-hashmap)||[:memo:](https://leetcode.com/articles/design-hashmap/)|Easy|
 |818|[similar-rgb-color](https://leetcode.com/problems/similar-rgb-color)|:lock:|[:memo:](https://leetcode.com/articles/similar-rgb-color/)|Easy|
-|819|[minimum-swaps-to-make-sequences-increasing](https://leetcode.com/problems/minimum-swaps-to-make-sequences-increasing)||[:memo:](https://leetcode.com/articles/minimum-swaps-to-make-sequences-increasing/)|Hard|
+|819|[minimum-swaps-to-make-sequences-increasing](https://leetcode.com/problems/minimum-swaps-to-make-sequences-increasing)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0819-minimum-swaps-to-make-sequences-increasing/minimum-swaps-to-make-sequences-increasing.py)|[:memo:](https://leetcode.com/articles/minimum-swaps-to-make-sequences-increasing/)|Hard|
 |820|[find-eventual-safe-states](https://leetcode.com/problems/find-eventual-safe-states)||[:memo:](https://leetcode.com/articles/find-eventual-safe-states/)|Medium|
 |821|[bricks-falling-when-hit](https://leetcode.com/problems/bricks-falling-when-hit)||[:memo:](https://leetcode.com/articles/bricks-falling-when-hit/)|Hard|
 |822|[unique-morse-code-words](https://leetcode.com/problems/unique-morse-code-words)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0822-unique-morse-code-words/unique-morse-code-words.py)|[:memo:](https://leetcode.com/articles/unique-morse-code-words/)|Easy|
@@ -1146,7 +1146,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |1249|[snapshot-array](https://leetcode.com/problems/snapshot-array)|||Medium|
 |1250|[longest-common-subsequence](https://leetcode.com/problems/longest-common-subsequence)||[:memo:](https://leetcode.com/articles/longest-common-subsequence/)|Medium|
 |1251|[longest-chunked-palindrome-decomposition](https://leetcode.com/problems/longest-chunked-palindrome-decomposition)|||Hard|
-|1252|[break-a-palindrome](https://leetcode.com/problems/break-a-palindrome)||[:memo:](https://leetcode.com/articles/break-a-palindrome/)|Medium|
+|1252|[break-a-palindrome](https://leetcode.com/problems/break-a-palindrome)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/1252-break-a-palindrome/break-a-palindrome.py)|[:memo:](https://leetcode.com/articles/break-a-palindrome/)|Medium|
 |1253|[sort-the-matrix-diagonally](https://leetcode.com/problems/sort-the-matrix-diagonally)||[:memo:](https://leetcode.com/articles/sort-the-matrix-diagonally/)|Medium|
 |1254|[deepest-leaves-sum](https://leetcode.com/problems/deepest-leaves-sum)||[:memo:](https://leetcode.com/articles/deepest-leaves-sum/)|Medium|
 |1255|[reverse-subarray-to-maximize-array-value](https://leetcode.com/problems/reverse-subarray-to-maximize-array-value)|||Hard|
