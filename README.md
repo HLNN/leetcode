@@ -1,8 +1,8 @@
 # :pencil2: Leetcode Solutions with Python3,Cpp
-Update time:  2022-10-11 11:43:10
+Update time:  2022-10-12 11:35:35
 
-I have solved **467   /   2206** problems
-while there are **336** problems still locked.
+I have solved **470   /   2207** problems
+while there are **337** problems still locked.
 
 If you have any question, please give me an [issue](https://github.com/hlnn/leetcode/issues).
 
@@ -775,7 +775,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |832|[binary-tree-pruning](https://leetcode.com/problems/binary-tree-pruning)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0832-binary-tree-pruning/binary-tree-pruning.py)|[:memo:](https://leetcode.com/articles/binary-tree-pruning/)|Medium|
 |833|[bus-routes](https://leetcode.com/problems/bus-routes)||[:memo:](https://leetcode.com/articles/bus-routes/)|Hard|
 |834|[ambiguous-coordinates](https://leetcode.com/problems/ambiguous-coordinates)||[:memo:](https://leetcode.com/articles/ambiguous-coordinates/)|Medium|
-|835|[linked-list-components](https://leetcode.com/problems/linked-list-components)||[:memo:](https://leetcode.com/articles/linked-list-components/)|Medium|
+|835|[linked-list-components](https://leetcode.com/problems/linked-list-components)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0835-linked-list-components/linked-list-components.py)|[:memo:](https://leetcode.com/articles/linked-list-components/)|Medium|
 |836|[race-car](https://leetcode.com/problems/race-car)||[:memo:](https://leetcode.com/articles/race-car/)|Hard|
 |837|[most-common-word](https://leetcode.com/problems/most-common-word)||[:memo:](https://leetcode.com/articles/most-common-word/)|Easy|
 |838|[design-linked-list](https://leetcode.com/problems/design-linked-list)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0838-design-linked-list/design-linked-list.py) [Cpp](https://github.com/hlnn/leetcode/blob/master/src/0838-design-linked-list/design-linked-list.cpp)|[:memo:](https://leetcode.com/articles/design-linked-list/)|Medium|
@@ -946,7 +946,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |1014|[k-closest-points-to-origin](https://leetcode.com/problems/k-closest-points-to-origin)||[:memo:](https://leetcode.com/articles/k-closest-points-to-origin/)|Medium|
 |1016|[subarray-sums-divisible-by-k](https://leetcode.com/problems/subarray-sums-divisible-by-k)||[:memo:](https://leetcode.com/articles/subarray-sums-divisible-by-k/)|Medium|
 |1017|[odd-even-jump](https://leetcode.com/problems/odd-even-jump)||[:memo:](https://leetcode.com/articles/odd-even-jump/)|Hard|
-|1018|[largest-perimeter-triangle](https://leetcode.com/problems/largest-perimeter-triangle)||[:memo:](https://leetcode.com/articles/largest-perimeter-triangle/)|Easy|
+|1018|[largest-perimeter-triangle](https://leetcode.com/problems/largest-perimeter-triangle)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/1018-largest-perimeter-triangle/largest-perimeter-triangle.py)|[:memo:](https://leetcode.com/articles/largest-perimeter-triangle/)|Easy|
 |1019|[squares-of-a-sorted-array](https://leetcode.com/problems/squares-of-a-sorted-array)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/1019-squares-of-a-sorted-array/squares-of-a-sorted-array.py)|[:memo:](https://leetcode.com/articles/squares-of-a-sorted-array/)|Easy|
 |1020|[longest-turbulent-subarray](https://leetcode.com/problems/longest-turbulent-subarray)||[:memo:](https://leetcode.com/articles/longest-turbulent-subarray/)|Medium|
 |1021|[distribute-coins-in-binary-tree](https://leetcode.com/problems/distribute-coins-in-binary-tree)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/1021-distribute-coins-in-binary-tree/distribute-coins-in-binary-tree.py)|[:memo:](https://leetcode.com/articles/distribute-coins-in-binary-tree/)|Medium|
@@ -1678,7 +1678,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |1911|[minimum-elements-to-add-to-form-a-given-sum](https://leetcode.com/problems/minimum-elements-to-add-to-form-a-given-sum)|||Medium|
 |1912|[number-of-restricted-paths-from-first-to-last-node](https://leetcode.com/problems/number-of-restricted-paths-from-first-to-last-node)|||Medium|
 |1913|[make-the-xor-of-all-segments-equal-to-zero](https://leetcode.com/problems/make-the-xor-of-all-segments-equal-to-zero)|||Hard|
-|1915|[check-if-one-string-swap-can-make-strings-equal](https://leetcode.com/problems/check-if-one-string-swap-can-make-strings-equal)|||Easy|
+|1915|[check-if-one-string-swap-can-make-strings-equal](https://leetcode.com/problems/check-if-one-string-swap-can-make-strings-equal)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/1915-check-if-one-string-swap-can-make-strings-equal/check-if-one-string-swap-can-make-strings-equal.py)||Easy|
 |1916|[find-center-of-star-graph](https://leetcode.com/problems/find-center-of-star-graph)|||Easy|
 |1917|[maximum-average-pass-ratio](https://leetcode.com/problems/maximum-average-pass-ratio)|||Medium|
 |1918|[maximum-score-of-a-good-subarray](https://leetcode.com/problems/maximum-score-of-a-good-subarray)|||Hard|
@@ -2220,3 +2220,4 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |2560|[closest-fair-integer](https://leetcode.com/problems/closest-fair-integer)|:lock:||Medium|
 |2565|[merge-operations-to-turn-array-into-a-palindrome](https://leetcode.com/problems/merge-operations-to-turn-array-into-a-palindrome)|:lock:||Medium|
 |2570|[maximize-total-tastiness-of-purchased-fruits](https://leetcode.com/problems/maximize-total-tastiness-of-purchased-fruits)|:lock:||Medium|
+|2579|[minimum-split-into-subarrays-with-gcd-greater-than-one](https://leetcode.com/problems/minimum-split-into-subarrays-with-gcd-greater-than-one)|:lock:||Medium|
