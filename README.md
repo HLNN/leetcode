@@ -1,7 +1,7 @@
 # :pencil2: Leetcode Solutions with Python3,Cpp
-Update time:  2022-10-12 11:35:35
+Update time:  2022-10-14 11:35:02
 
-I have solved **470   /   2207** problems
+I have solved **473   /   2207** problems
 while there are **337** problems still locked.
 
 If you have any question, please give me an [issue](https://github.com/hlnn/leetcode/issues).
@@ -720,7 +720,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |777|[toeplitz-matrix](https://leetcode.com/problems/toeplitz-matrix)||[:memo:](https://leetcode.com/articles/toeplitz-matrix/)|Easy|
 |778|[reorganize-string](https://leetcode.com/problems/reorganize-string)||[:memo:](https://leetcode.com/articles/reorganized-string/)|Medium|
 |779|[max-chunks-to-make-sorted-ii](https://leetcode.com/problems/max-chunks-to-make-sorted-ii)||[:memo:](https://leetcode.com/articles/max-chunks-to-make-sorted-ii/)|Hard|
-|780|[max-chunks-to-make-sorted](https://leetcode.com/problems/max-chunks-to-make-sorted)||[:memo:](https://leetcode.com/articles/max-chunks-to-make-sorted-i/)|Medium|
+|780|[max-chunks-to-make-sorted](https://leetcode.com/problems/max-chunks-to-make-sorted)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0780-max-chunks-to-make-sorted/max-chunks-to-make-sorted.py)|[:memo:](https://leetcode.com/articles/max-chunks-to-make-sorted-i/)|Medium|
 |781|[basic-calculator-iv](https://leetcode.com/problems/basic-calculator-iv)||[:memo:](https://leetcode.com/articles/basic-calculator-iv/)|Hard|
 |782|[jewels-and-stones](https://leetcode.com/problems/jewels-and-stones)||[:memo:](https://leetcode.com/articles/jewels-and-stones/)|Easy|
 |783|[search-in-a-binary-search-tree](https://leetcode.com/problems/search-in-a-binary-search-tree)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0783-search-in-a-binary-search-tree/search-in-a-binary-search-tree.py)|[:memo:](https://leetcode.com/articles/search-in-a-bst/)|Easy|
@@ -909,7 +909,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |974|[reorder-data-in-log-files](https://leetcode.com/problems/reorder-data-in-log-files)||[:memo:](https://leetcode.com/articles/reorder-data-in-log-files/)|Medium|
 |975|[range-sum-of-bst](https://leetcode.com/problems/range-sum-of-bst)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0975-range-sum-of-bst/range-sum-of-bst.py)|[:memo:](https://leetcode.com/articles/range-sum-of-bst/)|Easy|
 |976|[minimum-area-rectangle](https://leetcode.com/problems/minimum-area-rectangle)||[:memo:](https://leetcode.com/articles/minimum-area-rectangle/)|Medium|
-|977|[distinct-subsequences-ii](https://leetcode.com/problems/distinct-subsequences-ii)||[:memo:](https://leetcode.com/articles/distinct-subsequences-ii/)|Hard|
+|977|[distinct-subsequences-ii](https://leetcode.com/problems/distinct-subsequences-ii)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0977-distinct-subsequences-ii/distinct-subsequences-ii.py)|[:memo:](https://leetcode.com/articles/distinct-subsequences-ii/)|Hard|
 |978|[valid-mountain-array](https://leetcode.com/problems/valid-mountain-array)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0978-valid-mountain-array/valid-mountain-array.py)|[:memo:](https://leetcode.com/articles/valid-mountain-array/)|Easy|
 |979|[di-string-match](https://leetcode.com/problems/di-string-match)||[:memo:](https://leetcode.com/articles/di-string-match/)|Easy|
 |980|[find-the-shortest-superstring](https://leetcode.com/problems/find-the-shortest-superstring)||[:memo:](https://leetcode.com/articles/find-the-shortest-superstring/)|Hard|
@@ -1940,7 +1940,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |2212|[removing-minimum-and-maximum-from-array](https://leetcode.com/problems/removing-minimum-and-maximum-from-array)|||Medium|
 |2213|[find-all-people-with-secret](https://leetcode.com/problems/find-all-people-with-secret)|||Hard|
 |2215|[finding-3-digit-even-numbers](https://leetcode.com/problems/finding-3-digit-even-numbers)|||Easy|
-|2216|[delete-the-middle-node-of-a-linked-list](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list)|||Medium|
+|2216|[delete-the-middle-node-of-a-linked-list](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/2216-delete-the-middle-node-of-a-linked-list/delete-the-middle-node-of-a-linked-list.py)|[:memo:](https://leetcode.com/articles/delete-the-middle-node-of-a-linked-list/)|Medium|
 |2217|[step-by-step-directions-from-a-binary-tree-node-to-another](https://leetcode.com/problems/step-by-step-directions-from-a-binary-tree-node-to-another)|||Medium|
 |2218|[paths-in-maze-that-lead-to-same-room](https://leetcode.com/problems/paths-in-maze-that-lead-to-same-room)|:lock:||Medium|
 |2219|[maximum-number-of-words-found-in-sentences](https://leetcode.com/problems/maximum-number-of-words-found-in-sentences)|||Easy|

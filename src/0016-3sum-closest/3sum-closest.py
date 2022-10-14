@@ -25,7 +25,7 @@
 # Constraints:
 #
 #
-# 	3 <= nums.length <= 1000
+# 	3 <= nums.length <= 500
 # 	-1000 <= nums[i] <= 1000
 # 	-104 <= target <= 104
 #

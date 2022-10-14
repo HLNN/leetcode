@@ -37,7 +37,7 @@
 # 	1 <= candidates.length <= 30
 # 	2 <= candidates[i] <= 40
 # 	All elements of candidates are distinct.
-# 	1 <= target <= 500
+# 	1 <= target <= 40
 #
 #
 
