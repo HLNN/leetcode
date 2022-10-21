@@ -1,7 +1,7 @@
 # :pencil2: Leetcode Solutions with Python3,Cpp
-Update time:  2022-10-20 17:50:36
+Update time:  2022-10-21 11:19:42
 
-I have solved **488   /   2216** problems
+I have solved **492   /   2216** problems
 while there are **338** problems still locked.
 
 If you have any question, please give me an [issue](https://github.com/hlnn/leetcode/issues).
@@ -216,7 +216,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |216|[combination-sum-iii](https://leetcode.com/problems/combination-sum-iii)||[:memo:](https://leetcode.com/articles/combination-sum-iii/)|Medium|
 |217|[contains-duplicate](https://leetcode.com/problems/contains-duplicate)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0217-contains-duplicate/contains-duplicate.py)|[:memo:](https://leetcode.com/articles/contains-duplicate/)|Easy|
 |218|[the-skyline-problem](https://leetcode.com/problems/the-skyline-problem)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0218-the-skyline-problem/the-skyline-problem.py)|[:memo:](https://leetcode.com/articles/the-skyline-problem/)|Hard|
-|219|[contains-duplicate-ii](https://leetcode.com/problems/contains-duplicate-ii)||[:memo:](https://leetcode.com/articles/contains-duplicate-ii/)|Easy|
+|219|[contains-duplicate-ii](https://leetcode.com/problems/contains-duplicate-ii)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0219-contains-duplicate-ii/contains-duplicate-ii.py)|[:memo:](https://leetcode.com/articles/contains-duplicate-ii/)|Easy|
 |220|[contains-duplicate-iii](https://leetcode.com/problems/contains-duplicate-iii)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0220-contains-duplicate-iii/contains-duplicate-iii.py)|[:memo:](https://leetcode.com/articles/contains-duplicate-iii/)|Hard|
 |221|[maximal-square](https://leetcode.com/problems/maximal-square)||[:memo:](https://leetcode.com/articles/maximal-square/)|Medium|
 |222|[count-complete-tree-nodes](https://leetcode.com/problems/count-complete-tree-nodes)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0222-count-complete-tree-nodes/count-complete-tree-nodes.py)|[:memo:](https://leetcode.com/articles/count-complete-tree-nodes/)|Medium|
@@ -466,7 +466,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |474|[ones-and-zeroes](https://leetcode.com/problems/ones-and-zeroes)||[:memo:](https://leetcode.com/articles/ones-and-zeroes/)|Medium|
 |475|[heaters](https://leetcode.com/problems/heaters)|||Medium|
 |476|[number-complement](https://leetcode.com/problems/number-complement)||[:memo:](https://leetcode.com/articles/number-complement/)|Easy|
-|477|[total-hamming-distance](https://leetcode.com/problems/total-hamming-distance)||[:memo:](https://leetcode.com/articles/total-hamming-distance/)|Medium|
+|477|[total-hamming-distance](https://leetcode.com/problems/total-hamming-distance)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0477-total-hamming-distance/total-hamming-distance.py)|[:memo:](https://leetcode.com/articles/total-hamming-distance/)|Medium|
 |479|[largest-palindrome-product](https://leetcode.com/problems/largest-palindrome-product)|||Hard|
 |480|[sliding-window-median](https://leetcode.com/problems/sliding-window-median)||[:memo:](https://leetcode.com/articles/sliding-window-median/)|Hard|
 |481|[magical-string](https://leetcode.com/problems/magical-string)|||Medium|
@@ -870,7 +870,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |934|[bitwise-ors-of-subarrays](https://leetcode.com/problems/bitwise-ors-of-subarrays)||[:memo:](https://leetcode.com/articles/bitwise-ors-of-subarrays/)|Medium|
 |935|[orderly-queue](https://leetcode.com/problems/orderly-queue)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0935-orderly-queue/orderly-queue.py)|[:memo:](https://leetcode.com/articles/orderly-queue/)|Hard|
 |936|[rle-iterator](https://leetcode.com/problems/rle-iterator)||[:memo:](https://leetcode.com/articles/rle-iterator/)|Medium|
-|937|[online-stock-span](https://leetcode.com/problems/online-stock-span)||[:memo:](https://leetcode.com/articles/online-stock-span/)|Medium|
+|937|[online-stock-span](https://leetcode.com/problems/online-stock-span)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0937-online-stock-span/online-stock-span.py)|[:memo:](https://leetcode.com/articles/online-stock-span/)|Medium|
 |938|[numbers-at-most-n-given-digit-set](https://leetcode.com/problems/numbers-at-most-n-given-digit-set)||[:memo:](https://leetcode.com/articles/numbers-at-most-n-given-digit-set/)|Hard|
 |939|[valid-permutations-for-di-sequence](https://leetcode.com/problems/valid-permutations-for-di-sequence)||[:memo:](https://leetcode.com/articles/valid-permutations-for-di-sequence/)|Hard|
 |940|[fruit-into-baskets](https://leetcode.com/problems/fruit-into-baskets)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0940-fruit-into-baskets/fruit-into-baskets.py)|[:memo:](https://leetcode.com/articles/fruit-into-baskets/)|Medium|
@@ -1499,7 +1499,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |1692|[number-of-ways-to-reorder-array-to-get-same-bst](https://leetcode.com/problems/number-of-ways-to-reorder-array-to-get-same-bst)|||Hard|
 |1693|[sum-of-all-odd-length-subarrays](https://leetcode.com/problems/sum-of-all-odd-length-subarrays)|||Easy|
 |1694|[make-sum-divisible-by-p](https://leetcode.com/problems/make-sum-divisible-by-p)|||Medium|
-|1695|[maximum-sum-obtained-of-any-permutation](https://leetcode.com/problems/maximum-sum-obtained-of-any-permutation)|||Medium|
+|1695|[maximum-sum-obtained-of-any-permutation](https://leetcode.com/problems/maximum-sum-obtained-of-any-permutation)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/1695-maximum-sum-obtained-of-any-permutation/maximum-sum-obtained-of-any-permutation.py)||Medium|
 |1696|[strange-printer-ii](https://leetcode.com/problems/strange-printer-ii)|||Hard|
 |1697|[strings-differ-by-one-character](https://leetcode.com/problems/strings-differ-by-one-character)|:lock:||Medium|
 |1698|[replace-all-s-to-avoid-consecutive-repeating-characters](https://leetcode.com/problems/replace-all-s-to-avoid-consecutive-repeating-characters)|||Easy|
@@ -1513,7 +1513,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |1707|[check-if-string-is-transformable-with-substring-sort-operations](https://leetcode.com/problems/check-if-string-is-transformable-with-substring-sort-operations)|||Hard|
 |1708|[design-parking-system](https://leetcode.com/problems/design-parking-system)|||Easy|
 |1709|[alert-using-same-key-card-three-or-more-times-in-a-one-hour-period](https://leetcode.com/problems/alert-using-same-key-card-three-or-more-times-in-a-one-hour-period)|||Medium|
-|1710|[find-servers-that-handled-most-number-of-requests](https://leetcode.com/problems/find-servers-that-handled-most-number-of-requests)|||Hard|
+|1710|[find-servers-that-handled-most-number-of-requests](https://leetcode.com/problems/find-servers-that-handled-most-number-of-requests)||[:memo:](https://leetcode.com/articles/find-server-that-handled-most-number-of-requests/)|Hard|
 |1711|[find-valid-matrix-given-row-and-column-sums](https://leetcode.com/problems/find-valid-matrix-given-row-and-column-sums)|||Medium|
 |1713|[dot-product-of-two-sparse-vectors](https://leetcode.com/problems/dot-product-of-two-sparse-vectors)|:lock:|[:memo:](https://leetcode.com/articles/dot-product-of-two-sparse-vectors/)|Medium|
 |1714|[rearrange-spaces-between-words](https://leetcode.com/problems/rearrange-spaces-between-words)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/1714-rearrange-spaces-between-words/rearrange-spaces-between-words.py)||Easy|
