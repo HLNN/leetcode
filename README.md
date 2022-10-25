@@ -1,7 +1,7 @@
 # :pencil2: Leetcode Solutions with Python3,Cpp
-Update time:  2022-10-21 11:19:42
+Update time:  2022-10-25 10:59:47
 
-I have solved **492   /   2216** problems
+I have solved **493   /   2220** problems
 while there are **338** problems still locked.
 
 If you have any question, please give me an [issue](https://github.com/hlnn/leetcode/issues).
@@ -1198,7 +1198,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |1311|[largest-magic-square](https://leetcode.com/problems/largest-magic-square)|||Medium|
 |1312|[count-artifacts-that-can-be-extracted](https://leetcode.com/problems/count-artifacts-that-can-be-extracted)|||Medium|
 |1313|[count-ways-to-build-rooms-in-an-ant-colony](https://leetcode.com/problems/count-ways-to-build-rooms-in-an-ant-colony)|||Hard|
-|1319|[unique-number-of-occurrences](https://leetcode.com/problems/unique-number-of-occurrences)|||Easy|
+|1319|[unique-number-of-occurrences](https://leetcode.com/problems/unique-number-of-occurrences)||[:memo:](https://leetcode.com/articles/unique-number-of-occurrences/)|Easy|
 |1320|[remove-all-adjacent-duplicates-in-string-ii](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii)||[:memo:](https://leetcode.com/articles/remove-all-adjacent-duplicates-in-string-ii/)|Medium|
 |1321|[get-equal-substrings-within-budget](https://leetcode.com/problems/get-equal-substrings-within-budget)|||Medium|
 |1322|[minimum-moves-to-reach-target-with-rotations](https://leetcode.com/problems/minimum-moves-to-reach-target-with-rotations)|||Hard|
@@ -1232,7 +1232,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |1356|[minimum-number-of-moves-to-make-palindrome](https://leetcode.com/problems/minimum-number-of-moves-to-make-palindrome)|||Hard|
 |1358|[find-positive-integer-solution-for-a-given-equation](https://leetcode.com/problems/find-positive-integer-solution-for-a-given-equation)|||Medium|
 |1359|[circular-permutation-in-binary-representation](https://leetcode.com/problems/circular-permutation-in-binary-representation)|||Medium|
-|1360|[maximum-length-of-a-concatenated-string-with-unique-characters](https://leetcode.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters)||[:memo:](https://leetcode.com/articles/maximum-length-of-a-concatenated-string-with-unique-characters/)|Medium|
+|1360|[maximum-length-of-a-concatenated-string-with-unique-characters](https://leetcode.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/1360-maximum-length-of-a-concatenated-string-with-unique-characters/maximum-length-of-a-concatenated-string-with-unique-characters.py)|[:memo:](https://leetcode.com/articles/maximum-length-of-a-concatenated-string-with-unique-characters/)|Medium|
 |1361|[tiling-a-rectangle-with-the-fewest-squares](https://leetcode.com/problems/tiling-a-rectangle-with-the-fewest-squares)|||Hard|
 |1362|[airplane-seat-assignment-probability](https://leetcode.com/problems/airplane-seat-assignment-probability)|||Medium|
 |1363|[greatest-english-letter-in-upper-and-lower-case](https://leetcode.com/problems/greatest-english-letter-in-upper-and-lower-case)|||Easy|
@@ -2222,8 +2222,12 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |2532|[remove-letter-to-equalize-frequency](https://leetcode.com/problems/remove-letter-to-equalize-frequency)|||Easy|
 |2533|[bitwise-xor-of-all-pairings](https://leetcode.com/problems/bitwise-xor-of-all-pairings)|||Medium|
 |2535|[count-strictly-increasing-subarrays](https://leetcode.com/problems/count-strictly-increasing-subarrays)|:lock:||Medium|
+|2536|[determine-if-two-events-have-conflict](https://leetcode.com/problems/determine-if-two-events-have-conflict)|||Easy|
 |2537|[minimum-time-to-kill-all-monsters](https://leetcode.com/problems/minimum-time-to-kill-all-monsters)|:lock:||Hard|
+|2538|[minimum-cost-to-make-array-equal](https://leetcode.com/problems/minimum-cost-to-make-array-equal)|||Hard|
+|2539|[minimum-number-of-operations-to-make-arrays-similar](https://leetcode.com/problems/minimum-number-of-operations-to-make-arrays-similar)|||Hard|
 |2541|[sum-of-number-and-its-reverse](https://leetcode.com/problems/sum-of-number-and-its-reverse)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/2541-sum-of-number-and-its-reverse/sum-of-number-and-its-reverse.py)||Medium|
+|2546|[number-of-subarrays-with-gcd-equal-to-k](https://leetcode.com/problems/number-of-subarrays-with-gcd-equal-to-k)|||Medium|
 |2555|[design-sql](https://leetcode.com/problems/design-sql)|:lock:||Medium|
 |2560|[closest-fair-integer](https://leetcode.com/problems/closest-fair-integer)|:lock:||Medium|
 |2565|[merge-operations-to-turn-array-into-a-palindrome](https://leetcode.com/problems/merge-operations-to-turn-array-into-a-palindrome)|:lock:||Medium|
