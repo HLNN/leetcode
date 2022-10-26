@@ -1,8 +1,8 @@
 # :pencil2: Leetcode Solutions with Python3,Cpp
-Update time:  2022-10-25 10:59:47
+Update time:  2022-10-26 11:30:04
 
-I have solved **493   /   2220** problems
-while there are **338** problems still locked.
+I have solved **496   /   2221** problems
+while there are **339** problems still locked.
 
 If you have any question, please give me an [issue](https://github.com/hlnn/leetcode/issues).
 
@@ -510,7 +510,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |520|[detect-capital](https://leetcode.com/problems/detect-capital)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0520-detect-capital/detect-capital.py)|[:memo:](https://leetcode.com/articles/detect-capital/)|Easy|
 |521|[longest-uncommon-subsequence-i](https://leetcode.com/problems/longest-uncommon-subsequence-i)||[:memo:](https://leetcode.com/articles/longest-uncommon-subsequence-i/)|Easy|
 |522|[longest-uncommon-subsequence-ii](https://leetcode.com/problems/longest-uncommon-subsequence-ii)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0522-longest-uncommon-subsequence-ii/longest-uncommon-subsequence-ii.py)|[:memo:](https://leetcode.com/articles/longest-uncommon-subsequence-ii/)|Medium|
-|523|[continuous-subarray-sum](https://leetcode.com/problems/continuous-subarray-sum)||[:memo:](https://leetcode.com/articles/continuous-subarray-sum/)|Medium|
+|523|[continuous-subarray-sum](https://leetcode.com/problems/continuous-subarray-sum)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0523-continuous-subarray-sum/continuous-subarray-sum.py)|[:memo:](https://leetcode.com/articles/continuous-subarray-sum/)|Medium|
 |524|[longest-word-in-dictionary-through-deleting](https://leetcode.com/problems/longest-word-in-dictionary-through-deleting)||[:memo:](https://leetcode.com/articles/longest-word-in-dictionary-through-deletion/)|Medium|
 |525|[contiguous-array](https://leetcode.com/problems/contiguous-array)||[:memo:](https://leetcode.com/articles/contiguous-array/)|Medium|
 |526|[beautiful-arrangement](https://leetcode.com/problems/beautiful-arrangement)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0526-beautiful-arrangement/beautiful-arrangement.py)|[:memo:](https://leetcode.com/articles/beautiful-arrangement/)|Medium|
@@ -825,7 +825,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |889|[buddy-strings](https://leetcode.com/problems/buddy-strings)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0889-buddy-strings/buddy-strings.py)|[:memo:](https://leetcode.com/articles/buddy-strings/)|Easy|
 |890|[lemonade-change](https://leetcode.com/problems/lemonade-change)||[:memo:](https://leetcode.com/articles/lemonade-change/)|Easy|
 |891|[score-after-flipping-matrix](https://leetcode.com/problems/score-after-flipping-matrix)||[:memo:](https://leetcode.com/articles/score-after-flipping-matrix/)|Medium|
-|892|[shortest-subarray-with-sum-at-least-k](https://leetcode.com/problems/shortest-subarray-with-sum-at-least-k)||[:memo:](https://leetcode.com/articles/shortest-subarray-with-sum-at-least-k/)|Hard|
+|892|[shortest-subarray-with-sum-at-least-k](https://leetcode.com/problems/shortest-subarray-with-sum-at-least-k)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0892-shortest-subarray-with-sum-at-least-k/shortest-subarray-with-sum-at-least-k.py)|[:memo:](https://leetcode.com/articles/shortest-subarray-with-sum-at-least-k/)|Hard|
 |893|[all-nodes-distance-k-in-binary-tree](https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree)||[:memo:](https://leetcode.com/articles/all-nodes-distance-k-in-binary-tree/)|Medium|
 |894|[random-pick-with-blacklist](https://leetcode.com/problems/random-pick-with-blacklist)||[:memo:](https://leetcode.com/articles/random-pick-with-blacklist/)|Hard|
 |895|[shortest-path-to-get-all-keys](https://leetcode.com/problems/shortest-path-to-get-all-keys)||[:memo:](https://leetcode.com/articles/shortest-path-to-get-all-keys/)|Hard|
@@ -903,7 +903,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |967|[minimum-falling-path-sum](https://leetcode.com/problems/minimum-falling-path-sum)||[:memo:](https://leetcode.com/articles/minimum-falling-path-sum/)|Medium|
 |968|[beautiful-array](https://leetcode.com/problems/beautiful-array)||[:memo:](https://leetcode.com/articles/beautiful-array/)|Medium|
 |969|[number-of-recent-calls](https://leetcode.com/problems/number-of-recent-calls)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0969-number-of-recent-calls/number-of-recent-calls.py)|[:memo:](https://leetcode.com/articles/number-of-recent-calls/)|Easy|
-|971|[shortest-bridge](https://leetcode.com/problems/shortest-bridge)||[:memo:](https://leetcode.com/articles/shortest-bridge/)|Medium|
+|971|[shortest-bridge](https://leetcode.com/problems/shortest-bridge)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0971-shortest-bridge/shortest-bridge.py)|[:memo:](https://leetcode.com/articles/shortest-bridge/)|Medium|
 |972|[knight-dialer](https://leetcode.com/problems/knight-dialer)||[:memo:](https://leetcode.com/articles/knight-dialer/)|Medium|
 |973|[stamping-the-sequence](https://leetcode.com/problems/stamping-the-sequence)||[:memo:](https://leetcode.com/articles/stamping-the-sequence/)|Hard|
 |974|[reorder-data-in-log-files](https://leetcode.com/problems/reorder-data-in-log-files)||[:memo:](https://leetcode.com/articles/reorder-data-in-log-files/)|Medium|
@@ -2234,3 +2234,4 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |2570|[maximize-total-tastiness-of-purchased-fruits](https://leetcode.com/problems/maximize-total-tastiness-of-purchased-fruits)|:lock:||Medium|
 |2579|[minimum-split-into-subarrays-with-gcd-greater-than-one](https://leetcode.com/problems/minimum-split-into-subarrays-with-gcd-greater-than-one)|:lock:||Medium|
 |2584|[number-of-nodes-with-value-one](https://leetcode.com/problems/number-of-nodes-with-value-one)|:lock:||Medium|
+|2593|[number-of-distinct-binary-strings-after-applying-operations](https://leetcode.com/problems/number-of-distinct-binary-strings-after-applying-operations)|:lock:||Medium|
