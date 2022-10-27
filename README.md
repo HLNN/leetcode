@@ -1,7 +1,7 @@
 # :pencil2: Leetcode Solutions with Python3,Cpp
-Update time:  2022-10-26 11:30:04
+Update time:  2022-10-27 16:42:35
 
-I have solved **496   /   2221** problems
+I have solved **497   /   2221** problems
 while there are **339** problems still locked.
 
 If you have any question, please give me an [issue](https://github.com/hlnn/leetcode/issues).
@@ -1707,7 +1707,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |1946|[minimum-absolute-sum-difference](https://leetcode.com/problems/minimum-absolute-sum-difference)|||Medium|
 |1947|[number-of-different-subsequences-gcds](https://leetcode.com/problems/number-of-different-subsequences-gcds)|||Hard|
 |1949|[implement-trie-ii-prefix-tree](https://leetcode.com/problems/implement-trie-ii-prefix-tree)|:lock:||Medium|
-|1950|[sign-of-the-product-of-an-array](https://leetcode.com/problems/sign-of-the-product-of-an-array)|||Easy|
+|1950|[sign-of-the-product-of-an-array](https://leetcode.com/problems/sign-of-the-product-of-an-array)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/1950-sign-of-the-product-of-an-array/sign-of-the-product-of-an-array.py)||Easy|
 |1951|[find-the-winner-of-the-circular-game](https://leetcode.com/problems/find-the-winner-of-the-circular-game)|||Medium|
 |1952|[minimum-sideway-jumps](https://leetcode.com/problems/minimum-sideway-jumps)|||Medium|
 |1953|[finding-mk-average](https://leetcode.com/problems/finding-mk-average)|||Hard|
