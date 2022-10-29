@@ -1,6 +1,4 @@
-# Given an integer array nums, find the contiguous subarray (containing at least one number) which has the largest sum and return its sum.
-#
-# A subarray is a contiguous part of an array.
+# Given an integer array nums, find the subarray which has the largest sum and return its sum.
 #
 #  
 # Example 1:
