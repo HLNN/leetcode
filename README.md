@@ -1,7 +1,7 @@
 # :pencil2: Leetcode Solutions with Python3,Cpp
-Update time:  2022-11-01 19:37:29
+Update time:  2022-11-02 15:38:27
 
-I have solved **502   /   2230** problems
+I have solved **504   /   2230** problems
 while there are **340** problems still locked.
 
 If you have any question, please give me an [issue](https://github.com/hlnn/leetcode/issues).
@@ -423,7 +423,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |424|[longest-repeating-character-replacement](https://leetcode.com/problems/longest-repeating-character-replacement)|||Medium|
 |425|[word-squares](https://leetcode.com/problems/word-squares)|:lock:|[:memo:](https://leetcode.com/articles/word-squares/)|Hard|
 |432|[all-oone-data-structure](https://leetcode.com/problems/all-oone-data-structure)|||Hard|
-|433|[minimum-genetic-mutation](https://leetcode.com/problems/minimum-genetic-mutation)||[:memo:](https://leetcode.com/articles/minimum-genetic-mutation/)|Medium|
+|433|[minimum-genetic-mutation](https://leetcode.com/problems/minimum-genetic-mutation)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0433-minimum-genetic-mutation/minimum-genetic-mutation.py)|[:memo:](https://leetcode.com/articles/minimum-genetic-mutation/)|Medium|
 |434|[number-of-segments-in-a-string](https://leetcode.com/problems/number-of-segments-in-a-string)||[:memo:](https://leetcode.com/articles/number-of-segments-in-a-string/)|Easy|
 |435|[non-overlapping-intervals](https://leetcode.com/problems/non-overlapping-intervals)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0435-non-overlapping-intervals/non-overlapping-intervals.py)|[:memo:](https://leetcode.com/articles/non-overlapping-intervals/)|Medium|
 |436|[find-right-interval](https://leetcode.com/problems/find-right-interval)||[:memo:](https://leetcode.com/articles/find-right-interval/)|Medium|
@@ -1526,7 +1526,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |1722|[throne-inheritance](https://leetcode.com/problems/throne-inheritance)|||Medium|
 |1723|[maximum-number-of-achievable-transfer-requests](https://leetcode.com/problems/maximum-number-of-achievable-transfer-requests)|||Hard|
 |1725|[number-of-sets-of-k-non-overlapping-line-segments](https://leetcode.com/problems/number-of-sets-of-k-non-overlapping-line-segments)|||Medium|
-|1726|[coordinate-with-maximum-network-quality](https://leetcode.com/problems/coordinate-with-maximum-network-quality)|||Medium|
+|1726|[coordinate-with-maximum-network-quality](https://leetcode.com/problems/coordinate-with-maximum-network-quality)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/1726-coordinate-with-maximum-network-quality/coordinate-with-maximum-network-quality.py)||Medium|
 |1727|[cat-and-mouse-ii](https://leetcode.com/problems/cat-and-mouse-ii)|||Hard|
 |1728|[fancy-sequence](https://leetcode.com/problems/fancy-sequence)|||Hard|
 |1729|[binary-search-tree-iterator-ii](https://leetcode.com/problems/binary-search-tree-iterator-ii)|:lock:|[:memo:](https://leetcode.com/articles/binary-search-tree-iterator-ii/)|Medium|
@@ -1918,7 +1918,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |2188|[minimized-maximum-of-products-distributed-to-any-store](https://leetcode.com/problems/minimized-maximum-of-products-distributed-to-any-store)|||Medium|
 |2189|[maximum-path-quality-of-a-graph](https://leetcode.com/problems/maximum-path-quality-of-a-graph)|||Hard|
 |2190|[count-common-words-with-one-occurrence](https://leetcode.com/problems/count-common-words-with-one-occurrence)|||Easy|
-|2191|[minimum-number-of-buckets-required-to-collect-rainwater-from-houses](https://leetcode.com/problems/minimum-number-of-buckets-required-to-collect-rainwater-from-houses)|||Medium|
+|2191|[minimum-number-of-food-buckets-to-feed-the-hamsters](https://leetcode.com/problems/minimum-number-of-food-buckets-to-feed-the-hamsters)|||Medium|
 |2192|[minimum-cost-homecoming-of-a-robot-in-a-grid](https://leetcode.com/problems/minimum-cost-homecoming-of-a-robot-in-a-grid)|||Medium|
 |2193|[count-fertile-pyramids-in-a-land](https://leetcode.com/problems/count-fertile-pyramids-in-a-land)|||Hard|
 |2195|[time-needed-to-buy-tickets](https://leetcode.com/problems/time-needed-to-buy-tickets)|||Easy|
