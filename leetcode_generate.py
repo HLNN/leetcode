@@ -36,6 +36,21 @@ HEADERS = {
     'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.152 Safari/537.36',  # NOQA
 }
 
+HEADERS_GRAPHQL = {
+    # 'authority': 'leetcode.com',
+    'Accept': '*/*',
+    'Accept-Encoding': 'gzip,deflate,br',
+    'Accept-Language': 'zh-CN,zh;q=0.9',
+    'Connection': 'keep-alive',
+    'Content-Type': 'application/json',
+    'Host': 'leetcode.com',
+    'origin': 'https://leetcode.com',
+    'sec-fetch-dest': 'empty',
+    'sec-fetch-mode': 'cors',
+    'sec-fetch-site': 'same-origin',
+    'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.152 Safari/537.36', # NOQA
+}
+
 
 def get_config_from_file():
     cp = configparser.ConfigParser()
@@ -167,6 +182,141 @@ class QuizItem:
         )
 
 
+class GraphQL:
+
+    def __init__(self, session):
+        self.url = 'https://leetcode.com/graphql/'
+        # self.url = 'https://httpbin.org/post/'
+        # self.session = session
+
+        from hyper.contrib import HTTP20Adapter
+        # sessions = requests.session()
+        self.session = requests.Session()
+        self.session.mount('https://leetcode.com', HTTP20Adapter())
+        # self.session.headers.update(HEADERS_GRAPHQL)
+        self.session.proxies = PROXIES
+
+    def _query(self, headers, payload):
+        from collections import ChainMap
+        r = self.session.post(self.url, headers=ChainMap(headers, HEADERS_GRAPHQL), data=payload, proxies=PROXIES)
+        text = r.text
+        return r
+
+    def query_questionContent(self, titleSlug):
+        referer = f'https://leetcode.com/problems/all/'
+        query = '\nquery questionContent($titleSlug: String!) {\n  ' \
+                'question(titleSlug: $titleSlug) {\n    content\n    mysqlSchemas\n  }\n}\n'
+
+        headers = {
+            'referer': referer,
+            'x-csrftoken': '3D5Gsobv5PQLEW0iZozJ9kC1JiLr2kk0iQIxjhHuCBsYlZoVQCKJPmPvzYn8lt2m',
+        }
+        payload = {
+            'query': query,
+            'variables': {'titleSlug': titleSlug}
+        }
+        r = self._query(headers, json.dumps(payload))
+        assert r.status_code == 200
+
+        content = json.loads(r.text)['data']['question']['content']
+        m = re.subn(r'<.*?>', '', content)
+        question = m[0] if m else None
+        if not question:
+            raise Exception(f'Can not find question descript in question:{titleSlug}')
+
+        # html.unescape to remove &quot; &#39;
+        question = html.unescape(question)
+        return question
+
+    def query_submissionDetails(self, submissionId):
+        # referer = 'https://leetcode.com/problems/all/'
+        referer = f'https://leetcode.com/submissions/detail/{submissionId}/'
+        referer = 'https://leetcode.com/problems/two-sum/submissions/838800912/'
+        # rr = self.session.get(referer)
+        # query = '\n    query submissionDetails($submissionId: Int!) {\n  submissionDetails(submissionId: $submissionId) {\n    runtime\n    runtimeDisplay\n    runtimePercentile\n    runtimeDistribution\n    memory\n    memoryDisplay\n    memoryPercentile\n    memoryDistribution\n    code\n    timestamp\n    statusCode\n    user {\n      username\n      profile {\n        realName\n        userAvatar\n      }\n    }\n    lang {\n      name\n      verboseName\n    }\n    question {\n      questionId\n    }\n    notes\n    topicTags {\n      tagId\n      slug\n      name\n    }\n    runtimeError\n    compileError\n    lastTestcase\n  }\n}\n    '
+        query = '\n    query submissionDetails($submissionId: Int!) {\n  submissionDetails(submissionId: $submissionId) {\n    runtime\n     }\n}\n    '
+
+        query = '\nquery submissionDetails($submissionId: Int!) {\n  ' \
+                'submissionDetails(submissionId: $submissionId) {\n    runtime\n    runtimeDisplay\n    ' \
+                'runtimePercentile\n    runtimeDistribution\n    memory\n    memoryDisplay\n    ' \
+                'memoryPercentile\n    memoryDistribution\n    code\n    timestamp\n    statusCode\n    ' \
+                'user {\n      username\n      profile {\n        realName\n        userAvatar\n      }\n    }\n' \
+                '    lang {\n      name\n      verboseName\n    }\n    question {\n      questionId\n    }\n    ' \
+                'notes\n    topicTags {\n      tagId\n      slug\n      name\n    }\n    runtimeError\n    ' \
+                'compileError\n    lastTestcase\n  }\n}\n'
+
+        headers = {
+            'referer': referer,
+            'x-csrftoken': '3D5Gsobv5PQLEW0iZozJ9kC1JiLr2kk0iQIxjhHuCBsYlZoVQCKJPmPvzYn8lt2m',
+        }
+        payload = {
+            'query': query,
+            'variables': {'submissionId': int(submissionId)}
+        }
+
+
+        r = self._query(headers, json.dumps(payload))
+        assert r.status_code == 200
+        return
+
+        content = json.loads(r.text)['data']['question']['content']
+        m = re.subn(r'<.*?>', '', content)
+        question = m[0] if m else None
+
+
+
+        pattern = re.compile(
+            r'submissionCode: \'(?P<code>.*)\',\n  editCodeUrl', re.S
+        )
+        m1 = pattern.search(r.text)
+        code = m1.groupdict()['code'] if m1 else None
+        if not code:
+            raise Exception(f'Can not find code in submission: {submissionId}')
+
+        code = rep_unicode_in_code(code)
+        return code
+
+    def query_qdChallengeQuestion(self):
+        referer = 'https://leetcode.com/problems/all/'
+        query = '\n    query qdChallengeQuestion($titleSlug: String!) {\n  question(titleSlug: $titleSlug) {\n    challengeQuestion {\n      id\n      date\n      incompleteChallengeCount\n      streakCount\n      type\n    }\n  }\n}\n    '
+
+        headers = {
+            'referer': referer,
+            'x-csrftoken': '3D5Gsobv5PQLEW0iZozJ9kC1JiLr2kk0iQIxjhHuCBsYlZoVQCKJPmPvzYn8lt2m',
+        }
+        payload = {
+            'query': query,
+            'variables': {'titleSlug': 'two-sum'}
+        }
+
+
+        r = self._query(headers, json.dumps(payload))
+        assert r.status_code == 200
+
+    def query_submissionList(self):
+        referer = 'https://leetcode.com/problems/all/'
+        query = '\n    query submissionList($offset: Int!, $limit: Int!, $lastKey: String, $questionSlug: String!, $lang: Int, $status: Int) {\n  questionSubmissionList(\n    offset: $offset\n    limit: $limit\n    lastKey: $lastKey\n    questionSlug: $questionSlug\n    lang: $lang\n    status: $status\n  ) {\n    lastKey\n    hasNext\n    submissions {\n      id\n      title\n      titleSlug\n      status\n      statusDisplay\n      lang\n      langName\n      runtime\n      timestamp\n      url\n      isPending\n      memory\n      hasNotes\n    }\n  }\n}\n    '
+
+        headers = {
+            'referer': referer,
+            'x-csrftoken': '3D5Gsobv5PQLEW0iZozJ9kC1JiLr2kk0iQIxjhHuCBsYlZoVQCKJPmPvzYn8lt2m',
+        }
+        payload = {
+            'query': query,
+            'variables': {'questionSlug': 'two-sum', 'offset': 0, 'limit': 20, 'lastKey': None}
+        }
+
+        r = self._query(headers, json.dumps(payload))
+        assert r.status_code == 200
+
+    def main(self):
+        # self.query_questionContent('two-sum')
+        # self.query_submissionDetails(838800912)
+        self.query_submissionDetails(531985945)
+
+        # self.query_qdChallengeQuestion()
+        self.query_submissionList()
+
 class Leetcode:
 
     def __init__(self):
@@ -189,6 +339,7 @@ class Leetcode:
         self.session.headers.update(HEADERS)
         self.session.proxies = PROXIES
         self.cookies = None
+        self.graphql = GraphQL(self.session)
 
     def login(self):
         LOGIN_URL = self.base_url + '/accounts/login/'  # NOQA
@@ -346,6 +497,7 @@ class Leetcode:
                 time.sleep(2.5)
             else:
                 break
+            break
 
     def load_solutions_to_items(self):
         """
@@ -503,6 +655,7 @@ class Leetcode:
             self._download_code_by_quiz(quiz)
 
     def download(self):
+        self.graphql.main()
         """ download all solutions with single thread """
         ac_items = [i for i in self.items if i.is_pass]
         for quiz in ac_items:
