@@ -5,7 +5,7 @@
 #
 # 	0 <= i, j < word.length,
 # 	i != j, and
-# 	words[i] + words[j] (the concatenation of the two strings) is a palindrome string.
+# 	words[i] + words[j] (the concatenation of the two strings) is a palindrome.
 #
 #
 # Return an array of all the palindrome pairs of words.
