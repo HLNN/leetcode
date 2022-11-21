@@ -1,7 +1,7 @@
 # :pencil2: Leetcode Solutions with Python3,Cpp
-Update time:  2022-11-20 00:04:07
+Update time:  2022-11-21 14:25:12
 
-I have solved **528   /   2244** problems
+I have solved **531   /   2248** problems
 while there are **342** problems still locked.
 
 If you have any question, please give me an [issue](https://github.com/hlnn/leetcode/issues).
@@ -1784,7 +1784,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |2035|[count-sub-islands](https://leetcode.com/problems/count-sub-islands)|||Medium|
 |2036|[count-pairs-in-two-arrays](https://leetcode.com/problems/count-pairs-in-two-arrays)|:lock:||Medium|
 |2037|[count-square-sum-triples](https://leetcode.com/problems/count-square-sum-triples)|||Easy|
-|2038|[nearest-exit-from-entrance-in-maze](https://leetcode.com/problems/nearest-exit-from-entrance-in-maze)||[:memo:](https://leetcode.com/articles/nearest-exit-from-entrance-in-maze/)|Medium|
+|2038|[nearest-exit-from-entrance-in-maze](https://leetcode.com/problems/nearest-exit-from-entrance-in-maze)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/2038-nearest-exit-from-entrance-in-maze/nearest-exit-from-entrance-in-maze.py)|[:memo:](https://leetcode.com/articles/nearest-exit-from-entrance-in-maze/)|Medium|
 |2039|[sum-game](https://leetcode.com/problems/sum-game)|||Medium|
 |2040|[minimum-cost-to-reach-destination-in-time](https://leetcode.com/problems/minimum-cost-to-reach-destination-in-time)|||Hard|
 |2042|[maximum-product-difference-between-two-pairs](https://leetcode.com/problems/maximum-product-difference-between-two-pairs)|||Easy|
@@ -2252,6 +2252,10 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |2563|[split-message-based-on-limit](https://leetcode.com/problems/split-message-based-on-limit)|||Hard|
 |2564|[most-profitable-path-in-a-tree](https://leetcode.com/problems/most-profitable-path-in-a-tree)|||Medium|
 |2565|[merge-operations-to-turn-array-into-a-palindrome](https://leetcode.com/problems/merge-operations-to-turn-array-into-a-palindrome)|:lock:||Medium|
+|2566|[number-of-unequal-triplets-in-array](https://leetcode.com/problems/number-of-unequal-triplets-in-array)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/2566-number-of-unequal-triplets-in-array/number-of-unequal-triplets-in-array.py)||Easy|
+|2567|[closest-nodes-queries-in-a-binary-search-tree](https://leetcode.com/problems/closest-nodes-queries-in-a-binary-search-tree)|||Medium|
+|2568|[minimum-fuel-cost-to-report-to-the-capital](https://leetcode.com/problems/minimum-fuel-cost-to-report-to-the-capital)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/2568-minimum-fuel-cost-to-report-to-the-capital/minimum-fuel-cost-to-report-to-the-capital.py)||Medium|
+|2569|[number-of-beautiful-partitions](https://leetcode.com/problems/number-of-beautiful-partitions)|||Hard|
 |2570|[maximize-total-tastiness-of-purchased-fruits](https://leetcode.com/problems/maximize-total-tastiness-of-purchased-fruits)|:lock:||Medium|
 |2579|[minimum-split-into-subarrays-with-gcd-greater-than-one](https://leetcode.com/problems/minimum-split-into-subarrays-with-gcd-greater-than-one)|:lock:||Medium|
 |2584|[number-of-nodes-with-value-one](https://leetcode.com/problems/number-of-nodes-with-value-one)|:lock:||Medium|
