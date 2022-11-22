@@ -1,7 +1,7 @@
 # :pencil2: Leetcode Solutions with Python3,Cpp
-Update time:  2022-11-21 14:25:12
+Update time:  2022-11-22 13:12:57
 
-I have solved **531   /   2248** problems
+I have solved **533   /   2248** problems
 while there are **342** problems still locked.
 
 If you have any question, please give me an [issue](https://github.com/hlnn/leetcode/issues).
@@ -766,7 +766,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |823|[split-array-with-same-average](https://leetcode.com/problems/split-array-with-same-average)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0823-split-array-with-same-average/split-array-with-same-average.py)|[:memo:](https://leetcode.com/articles/split-array-with-same-average/)|Hard|
 |824|[number-of-lines-to-write-string](https://leetcode.com/problems/number-of-lines-to-write-string)||[:memo:](https://leetcode.com/articles/number-of-lines-to-write-string/)|Easy|
 |825|[max-increase-to-keep-city-skyline](https://leetcode.com/problems/max-increase-to-keep-city-skyline)||[:memo:](https://leetcode.com/articles/max-increase-to-keep-city-skyline/)|Medium|
-|826|[soup-servings](https://leetcode.com/problems/soup-servings)||[:memo:](https://leetcode.com/articles/soup-servings/)|Medium|
+|826|[soup-servings](https://leetcode.com/problems/soup-servings)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0826-soup-servings/soup-servings.py)|[:memo:](https://leetcode.com/articles/soup-servings/)|Medium|
 |827|[expressive-words](https://leetcode.com/problems/expressive-words)||[:memo:](https://leetcode.com/articles/expressive-words/)|Medium|
 |828|[chalkboard-xor-game](https://leetcode.com/problems/chalkboard-xor-game)||[:memo:](https://leetcode.com/articles/chalkboard-xor-game/)|Hard|
 |829|[subdomain-visit-count](https://leetcode.com/problems/subdomain-visit-count)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0829-subdomain-visit-count/subdomain-visit-count.py)|[:memo:](https://leetcode.com/articles/subdomain-visit-count/)|Medium|
@@ -843,7 +843,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |907|[koko-eating-bananas](https://leetcode.com/problems/koko-eating-bananas)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0907-koko-eating-bananas/koko-eating-bananas.py)|[:memo:](https://leetcode.com/articles/koko-eating-bananas/)|Medium|
 |908|[middle-of-the-linked-list](https://leetcode.com/problems/middle-of-the-linked-list)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0908-middle-of-the-linked-list/middle-of-the-linked-list.py)|[:memo:](https://leetcode.com/articles/middle-of-the-linked-list/)|Easy|
 |909|[stone-game](https://leetcode.com/problems/stone-game)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0909-stone-game/stone-game.py)|[:memo:](https://leetcode.com/articles/stone-game/)|Medium|
-|910|[nth-magical-number](https://leetcode.com/problems/nth-magical-number)||[:memo:](https://leetcode.com/articles/nth-magical-number/)|Hard|
+|910|[nth-magical-number](https://leetcode.com/problems/nth-magical-number)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0910-nth-magical-number/nth-magical-number.py)|[:memo:](https://leetcode.com/articles/nth-magical-number/)|Hard|
 |911|[profitable-schemes](https://leetcode.com/problems/profitable-schemes)||[:memo:](https://leetcode.com/articles/profitable-schemes/)|Hard|
 |912|[random-pick-with-weight](https://leetcode.com/problems/random-pick-with-weight)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0912-random-pick-with-weight/random-pick-with-weight.py)|[:memo:](https://leetcode.com/articles/random-pick-with-weight/)|Medium|
 |913|[random-flip-matrix](https://leetcode.com/problems/random-flip-matrix)||[:memo:](https://leetcode.com/articles/random-flip-matrix/)|Medium|
