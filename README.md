@@ -1,7 +1,7 @@
 # :pencil2: Leetcode Solutions with Python3,Cpp
-Update time:  2022-11-22 13:12:57
+Update time:  2022-11-23 13:15:44
 
-I have solved **533   /   2248** problems
+I have solved **534   /   2248** problems
 while there are **342** problems still locked.
 
 If you have any question, please give me an [issue](https://github.com/hlnn/leetcode/issues).
@@ -1627,7 +1627,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |1839|[decode-xored-array](https://leetcode.com/problems/decode-xored-array)|||Easy|
 |1840|[minimize-hamming-distance-after-swap-operations](https://leetcode.com/problems/minimize-hamming-distance-after-swap-operations)|||Medium|
 |1843|[number-of-rectangles-that-can-form-the-largest-square](https://leetcode.com/problems/number-of-rectangles-that-can-form-the-largest-square)|||Easy|
-|1844|[maximum-number-of-balls-in-a-box](https://leetcode.com/problems/maximum-number-of-balls-in-a-box)|||Easy|
+|1844|[maximum-number-of-balls-in-a-box](https://leetcode.com/problems/maximum-number-of-balls-in-a-box)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/1844-maximum-number-of-balls-in-a-box/maximum-number-of-balls-in-a-box.py)||Easy|
 |1845|[largest-submatrix-with-rearrangements](https://leetcode.com/problems/largest-submatrix-with-rearrangements)|||Medium|
 |1847|[largest-subarray-length-k](https://leetcode.com/problems/largest-subarray-length-k)|:lock:||Easy|
 |1848|[sum-of-unique-elements](https://leetcode.com/problems/sum-of-unique-elements)|||Easy|
