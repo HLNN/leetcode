@@ -1,8 +1,8 @@
 # :pencil2: Leetcode Solutions with Python3,Cpp
-Update time:  2022-11-23 13:15:44
+Update time:  2022-11-24 13:15:55
 
-I have solved **534   /   2248** problems
-while there are **342** problems still locked.
+I have solved **535   /   2249** problems
+while there are **343** problems still locked.
 
 If you have any question, please give me an [issue](https://github.com/hlnn/leetcode/issues).
 
@@ -92,7 +92,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |76|[minimum-window-substring](https://leetcode.com/problems/minimum-window-substring)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0076-minimum-window-substring/minimum-window-substring.py)|[:memo:](https://leetcode.com/articles/minimum-window-substring/)|Hard|
 |77|[combinations](https://leetcode.com/problems/combinations)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0077-combinations/combinations.py)|[:memo:](https://leetcode.com/articles/combinations/)|Medium|
 |78|[subsets](https://leetcode.com/problems/subsets)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0078-subsets/subsets.py)|[:memo:](https://leetcode.com/articles/subsets/)|Medium|
-|79|[word-search](https://leetcode.com/problems/word-search)||[:memo:](https://leetcode.com/articles/word-search/)|Medium|
+|79|[word-search](https://leetcode.com/problems/word-search)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0079-word-search/word-search.py)|[:memo:](https://leetcode.com/articles/word-search/)|Medium|
 |80|[remove-duplicates-from-sorted-array-ii](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0080-remove-duplicates-from-sorted-array-ii/remove-duplicates-from-sorted-array-ii.py)|[:memo:](https://leetcode.com/articles/remove-duplicates-from-sorted-array-ii/)|Medium|
 |81|[search-in-rotated-sorted-array-ii](https://leetcode.com/problems/search-in-rotated-sorted-array-ii)||[:memo:](https://leetcode.com/articles/search-in-rotated-sorted-array-ii/)|Medium|
 |82|[remove-duplicates-from-sorted-list-ii](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0082-remove-duplicates-from-sorted-list-ii/remove-duplicates-from-sorted-list-ii.py)|[:memo:](https://leetcode.com/articles/remove-duplicates-from-sorted-list-ii/)|Medium|
@@ -2262,3 +2262,4 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |2593|[number-of-distinct-binary-strings-after-applying-operations](https://leetcode.com/problems/number-of-distinct-binary-strings-after-applying-operations)|:lock:||Medium|
 |2607|[minimum-subarrays-in-a-valid-split](https://leetcode.com/problems/minimum-subarrays-in-a-valid-split)|:lock:||Medium|
 |2612|[minimum-cost-to-buy-apples](https://leetcode.com/problems/minimum-cost-to-buy-apples)|:lock:||Medium|
+|2623|[maximum-xor-of-two-non-overlapping-subtrees](https://leetcode.com/problems/maximum-xor-of-two-non-overlapping-subtrees)|:lock:||Hard|
