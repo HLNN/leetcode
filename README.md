@@ -1,7 +1,7 @@
 # :pencil2: Leetcode Solutions with Python3,Cpp
-Update time:  2022-11-24 13:15:55
+Update time:  2022-11-25 13:15:30
 
-I have solved **535   /   2249** problems
+I have solved **536   /   2249** problems
 while there are **343** problems still locked.
 
 If you have any question, please give me an [issue](https://github.com/hlnn/leetcode/issues).
@@ -751,7 +751,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |808|[number-of-matching-subsequences](https://leetcode.com/problems/number-of-matching-subsequences)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0808-number-of-matching-subsequences/number-of-matching-subsequences.py)|[:memo:](https://leetcode.com/articles/number-of-matching-subsequences/)|Medium|
 |809|[preimage-size-of-factorial-zeroes-function](https://leetcode.com/problems/preimage-size-of-factorial-zeroes-function)||[:memo:](https://leetcode.com/articles/preimage-size-of-factorial-zeroes-function/)|Hard|
 |810|[valid-tic-tac-toe-state](https://leetcode.com/problems/valid-tic-tac-toe-state)||[:memo:](https://leetcode.com/articles/valid-tic-tac-toe-state/)|Medium|
-|811|[number-of-subarrays-with-bounded-maximum](https://leetcode.com/problems/number-of-subarrays-with-bounded-maximum)||[:memo:](https://leetcode.com/articles/number-of-subarrays-with-bounded-maximum/)|Medium|
+|811|[number-of-subarrays-with-bounded-maximum](https://leetcode.com/problems/number-of-subarrays-with-bounded-maximum)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0811-number-of-subarrays-with-bounded-maximum/number-of-subarrays-with-bounded-maximum.py)|[:memo:](https://leetcode.com/articles/number-of-subarrays-with-bounded-maximum/)|Medium|
 |812|[rotate-string](https://leetcode.com/problems/rotate-string)||[:memo:](https://leetcode.com/articles/rotate-string/)|Easy|
 |813|[all-paths-from-source-to-target](https://leetcode.com/problems/all-paths-from-source-to-target)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0813-all-paths-from-source-to-target/all-paths-from-source-to-target.py)|[:memo:](https://leetcode.com/articles/all-paths-from-source-to-target/)|Medium|
 |814|[smallest-rotation-with-highest-score](https://leetcode.com/problems/smallest-rotation-with-highest-score)||[:memo:](https://leetcode.com/articles/smallest-rotation-with-highest-score/)|Hard|
