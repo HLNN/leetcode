@@ -1,7 +1,7 @@
 # :pencil2: Leetcode Solutions with Python3,Cpp
-Update time:  2022-11-30 12:02:22
+Update time:  2022-12-01 12:55:29
 
-I have solved **549   /   2258** problems
+I have solved **551   /   2258** problems
 while there are **344** problems still locked.
 
 If you have any question, please give me an [issue](https://github.com/hlnn/leetcode/issues).
@@ -922,7 +922,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |987|[reveal-cards-in-increasing-order](https://leetcode.com/problems/reveal-cards-in-increasing-order)||[:memo:](https://leetcode.com/articles/reveal-cards-in-increasing-order/)|Medium|
 |988|[flip-equivalent-binary-trees](https://leetcode.com/problems/flip-equivalent-binary-trees)||[:memo:](https://leetcode.com/articles/flip-equivalent-binary-trees/)|Medium|
 |989|[largest-component-size-by-common-factor](https://leetcode.com/problems/largest-component-size-by-common-factor)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0989-largest-component-size-by-common-factor/largest-component-size-by-common-factor.py)|[:memo:](https://leetcode.com/articles/largest-component-size-by-common-factor/)|Hard|
-|990|[verifying-an-alien-dictionary](https://leetcode.com/problems/verifying-an-alien-dictionary)||[:memo:](https://leetcode.com/articles/verifying-an-alien-dictionary/)|Easy|
+|990|[verifying-an-alien-dictionary](https://leetcode.com/problems/verifying-an-alien-dictionary)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0990-verifying-an-alien-dictionary/verifying-an-alien-dictionary.py)|[:memo:](https://leetcode.com/articles/verifying-an-alien-dictionary/)|Easy|
 |991|[array-of-doubled-pairs](https://leetcode.com/problems/array-of-doubled-pairs)||[:memo:](https://leetcode.com/articles/array-of-doubled-pairs/)|Medium|
 |992|[delete-columns-to-make-sorted-ii](https://leetcode.com/problems/delete-columns-to-make-sorted-ii)||[:memo:](https://leetcode.com/articles/delete-columns-to-make-sorted-ii/)|Medium|
 |993|[tallest-billboard](https://leetcode.com/problems/tallest-billboard)||[:memo:](https://leetcode.com/articles/tallest-billboard/)|Hard|
@@ -1392,7 +1392,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |1550|[find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows](https://leetcode.com/problems/find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows)|||Hard|
 |1552|[build-an-array-with-stack-operations](https://leetcode.com/problems/build-an-array-with-stack-operations)|||Medium|
 |1553|[count-triplets-that-can-form-two-arrays-of-equal-xor](https://leetcode.com/problems/count-triplets-that-can-form-two-arrays-of-equal-xor)|||Medium|
-|1554|[minimum-time-to-collect-all-apples-in-a-tree](https://leetcode.com/problems/minimum-time-to-collect-all-apples-in-a-tree)|||Medium|
+|1554|[minimum-time-to-collect-all-apples-in-a-tree](https://leetcode.com/problems/minimum-time-to-collect-all-apples-in-a-tree)||[:memo:](https://leetcode.com/articles/minimum-time-to-collect-all-apples-in-a-tree/)|Medium|
 |1555|[number-of-ways-of-cutting-a-pizza](https://leetcode.com/problems/number-of-ways-of-cutting-a-pizza)|||Hard|
 |1556|[make-two-arrays-equal-by-reversing-subarrays](https://leetcode.com/problems/make-two-arrays-equal-by-reversing-subarrays)|||Easy|
 |1557|[check-if-a-string-contains-all-binary-codes-of-size-k](https://leetcode.com/problems/check-if-a-string-contains-all-binary-codes-of-size-k)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/1557-check-if-a-string-contains-all-binary-codes-of-size-k/check-if-a-string-contains-all-binary-codes-of-size-k.py)|[:memo:](https://leetcode.com/articles/check-if-a-string-contains-all-binary-codes-of-size-k/)|Medium|
@@ -1454,7 +1454,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |1638|[best-position-for-a-service-centre](https://leetcode.com/problems/best-position-for-a-service-centre)|||Hard|
 |1640|[design-a-file-sharing-system](https://leetcode.com/problems/design-a-file-sharing-system)|:lock:||Medium|
 |1642|[water-bottles](https://leetcode.com/problems/water-bottles)|||Easy|
-|1643|[number-of-nodes-in-the-sub-tree-with-the-same-label](https://leetcode.com/problems/number-of-nodes-in-the-sub-tree-with-the-same-label)|||Medium|
+|1643|[number-of-nodes-in-the-sub-tree-with-the-same-label](https://leetcode.com/problems/number-of-nodes-in-the-sub-tree-with-the-same-label)||[:memo:](https://leetcode.com/articles/number-of-nodes-in-the-sub-tree-with-the-same-label/)|Medium|
 |1644|[maximum-number-of-non-overlapping-substrings](https://leetcode.com/problems/maximum-number-of-non-overlapping-substrings)|||Hard|
 |1645|[find-a-value-of-a-mysterious-function-closest-to-target](https://leetcode.com/problems/find-a-value-of-a-mysterious-function-closest-to-target)|||Hard|
 |1646|[kth-missing-positive-number](https://leetcode.com/problems/kth-missing-positive-number)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/1646-kth-missing-positive-number/kth-missing-positive-number.py)|[:memo:](https://leetcode.com/articles/kth-missing-positive-number/)|Easy|
@@ -1655,7 +1655,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |1885|[count-number-of-homogenous-substrings](https://leetcode.com/problems/count-number-of-homogenous-substrings)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/1885-count-number-of-homogenous-substrings/count-number-of-homogenous-substrings.py)||Medium|
 |1886|[minimum-limit-of-balls-in-a-bag](https://leetcode.com/problems/minimum-limit-of-balls-in-a-bag)|||Medium|
 |1887|[minimum-degree-of-a-connected-trio-in-a-graph](https://leetcode.com/problems/minimum-degree-of-a-connected-trio-in-a-graph)|||Hard|
-|1888|[find-nearest-point-that-has-the-same-x-or-y-coordinate](https://leetcode.com/problems/find-nearest-point-that-has-the-same-x-or-y-coordinate)|||Easy|
+|1888|[find-nearest-point-that-has-the-same-x-or-y-coordinate](https://leetcode.com/problems/find-nearest-point-that-has-the-same-x-or-y-coordinate)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/1888-find-nearest-point-that-has-the-same-x-or-y-coordinate/find-nearest-point-that-has-the-same-x-or-y-coordinate.py)||Easy|
 |1889|[check-if-number-is-a-sum-of-powers-of-three](https://leetcode.com/problems/check-if-number-is-a-sum-of-powers-of-three)|||Medium|
 |1890|[sum-of-beauty-of-all-substrings](https://leetcode.com/problems/sum-of-beauty-of-all-substrings)|||Medium|
 |1891|[count-pairs-of-nodes](https://leetcode.com/problems/count-pairs-of-nodes)|||Hard|
@@ -2142,7 +2142,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |2435|[shortest-impossible-sequence-of-rolls](https://leetcode.com/problems/shortest-impossible-sequence-of-rolls)|||Hard|
 |2436|[make-array-zero-by-subtracting-equal-amounts](https://leetcode.com/problems/make-array-zero-by-subtracting-equal-amounts)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/2436-make-array-zero-by-subtracting-equal-amounts/make-array-zero-by-subtracting-equal-amounts.py)||Easy|
 |2437|[maximum-number-of-groups-entering-a-competition](https://leetcode.com/problems/maximum-number-of-groups-entering-a-competition)|||Medium|
-|2438|[find-closest-node-to-given-two-nodes](https://leetcode.com/problems/find-closest-node-to-given-two-nodes)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/2438-find-closest-node-to-given-two-nodes/find-closest-node-to-given-two-nodes.py)||Medium|
+|2438|[find-closest-node-to-given-two-nodes](https://leetcode.com/problems/find-closest-node-to-given-two-nodes)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/2438-find-closest-node-to-given-two-nodes/find-closest-node-to-given-two-nodes.py)|[:memo:](https://leetcode.com/articles/find-closest-node-to-given-two-nodes/)|Medium|
 |2439|[longest-cycle-in-a-graph](https://leetcode.com/problems/longest-cycle-in-a-graph)|||Hard|
 |2442|[number-of-arithmetic-triplets](https://leetcode.com/problems/number-of-arithmetic-triplets)|||Easy|
 |2443|[check-if-there-is-a-valid-partition-for-the-array](https://leetcode.com/problems/check-if-there-is-a-valid-partition-for-the-array)|||Medium|
