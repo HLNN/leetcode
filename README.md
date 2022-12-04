@@ -1,7 +1,7 @@
 # :pencil2: Leetcode Solutions with Python3,Cpp
-Update time:  2022-12-03 12:45:39
+Update time:  2022-12-04 12:43:48
 
-I have solved **554   /   2258** problems
+I have solved **558   /   2262** problems
 while there are **344** problems still locked.
 
 If you have any question, please give me an [issue](https://github.com/hlnn/leetcode/issues).
@@ -441,7 +441,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |448|[find-all-numbers-disappeared-in-an-array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0448-find-all-numbers-disappeared-in-an-array/find-all-numbers-disappeared-in-an-array.py)|[:memo:](https://leetcode.com/articles/find-all-numbers-disappeared-in-an-array/)|Easy|
 |449|[serialize-and-deserialize-bst](https://leetcode.com/problems/serialize-and-deserialize-bst)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0449-serialize-and-deserialize-bst/serialize-and-deserialize-bst.py)|[:memo:](https://leetcode.com/articles/serialize-and-deserialize-bst/)|Medium|
 |450|[delete-node-in-a-bst](https://leetcode.com/problems/delete-node-in-a-bst)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0450-delete-node-in-a-bst/delete-node-in-a-bst.py)|[:memo:](https://leetcode.com/articles/delete-node-in-a-bst/)|Medium|
-|451|[sort-characters-by-frequency](https://leetcode.com/problems/sort-characters-by-frequency)||[:memo:](https://leetcode.com/articles/sort-characters-by-frequency/)|Medium|
+|451|[sort-characters-by-frequency](https://leetcode.com/problems/sort-characters-by-frequency)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0451-sort-characters-by-frequency/sort-characters-by-frequency.py)|[:memo:](https://leetcode.com/articles/sort-characters-by-frequency/)|Medium|
 |452|[minimum-number-of-arrows-to-burst-balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0452-minimum-number-of-arrows-to-burst-balloons/minimum-number-of-arrows-to-burst-balloons.py)|[:memo:](https://leetcode.com/articles/minimum-number-of-arrows-to-burst-balloons/)|Medium|
 |453|[minimum-moves-to-equal-array-elements](https://leetcode.com/problems/minimum-moves-to-equal-array-elements)||[:memo:](https://leetcode.com/articles/minimum-moves-to-equal-array-elements/)|Medium|
 |454|[4sum-ii](https://leetcode.com/problems/4sum-ii)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0454-4sum-ii/4sum-ii.py)|[:memo:](https://leetcode.com/articles/4sum-ii/)|Medium|
@@ -2265,6 +2265,10 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |2576|[minimum-penalty-for-a-shop](https://leetcode.com/problems/minimum-penalty-for-a-shop)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/2576-minimum-penalty-for-a-shop/minimum-penalty-for-a-shop.py)||Medium|
 |2577|[count-palindromic-subsequences](https://leetcode.com/problems/count-palindromic-subsequences)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/2577-count-palindromic-subsequences/count-palindromic-subsequences.py)||Hard|
 |2579|[minimum-split-into-subarrays-with-gcd-greater-than-one](https://leetcode.com/problems/minimum-split-into-subarrays-with-gcd-greater-than-one)|:lock:||Medium|
+|2580|[circular-sentence](https://leetcode.com/problems/circular-sentence)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/2580-circular-sentence/circular-sentence.py)||Easy|
+|2581|[divide-players-into-teams-of-equal-skill](https://leetcode.com/problems/divide-players-into-teams-of-equal-skill)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/2581-divide-players-into-teams-of-equal-skill/divide-players-into-teams-of-equal-skill.py)||Medium|
+|2582|[minimum-score-of-a-path-between-two-cities](https://leetcode.com/problems/minimum-score-of-a-path-between-two-cities)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/2582-minimum-score-of-a-path-between-two-cities/minimum-score-of-a-path-between-two-cities.py)||Medium|
+|2583|[divide-nodes-into-the-maximum-number-of-groups](https://leetcode.com/problems/divide-nodes-into-the-maximum-number-of-groups)|||Hard|
 |2584|[number-of-nodes-with-value-one](https://leetcode.com/problems/number-of-nodes-with-value-one)|:lock:||Medium|
 |2593|[number-of-distinct-binary-strings-after-applying-operations](https://leetcode.com/problems/number-of-distinct-binary-strings-after-applying-operations)|:lock:||Medium|
 |2606|[difference-between-ones-and-zeros-in-row-and-column](https://leetcode.com/problems/difference-between-ones-and-zeros-in-row-and-column)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/2606-difference-between-ones-and-zeros-in-row-and-column/difference-between-ones-and-zeros-in-row-and-column.py)||Medium|
