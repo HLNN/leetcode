@@ -1,7 +1,7 @@
 # :pencil2: Leetcode Solutions with Python3,Cpp
-Update time:  2022-12-04 12:43:48
+Update time:  2022-12-05 12:44:44
 
-I have solved **558   /   2262** problems
+I have solved **559   /   2262** problems
 while there are **344** problems still locked.
 
 If you have any question, please give me an [issue](https://github.com/hlnn/leetcode/issues).
@@ -1665,7 +1665,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |1896|[maximum-score-from-performing-multiplication-operations](https://leetcode.com/problems/maximum-score-from-performing-multiplication-operations)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/1896-maximum-score-from-performing-multiplication-operations/maximum-score-from-performing-multiplication-operations.py)|[:memo:](https://leetcode.com/articles/maximum-score-from-performing-multiplication-operations/)|Hard|
 |1897|[maximize-palindrome-length-from-subsequences](https://leetcode.com/problems/maximize-palindrome-length-from-subsequences)|||Hard|
 |1899|[count-items-matching-a-rule](https://leetcode.com/problems/count-items-matching-a-rule)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/1899-count-items-matching-a-rule/count-items-matching-a-rule.py)||Easy|
-|1900|[closest-dessert-cost](https://leetcode.com/problems/closest-dessert-cost)|||Medium|
+|1900|[closest-dessert-cost](https://leetcode.com/problems/closest-dessert-cost)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/1900-closest-dessert-cost/closest-dessert-cost.py)||Medium|
 |1901|[equal-sum-arrays-with-minimum-number-of-operations](https://leetcode.com/problems/equal-sum-arrays-with-minimum-number-of-operations)|||Medium|
 |1902|[car-fleet-ii](https://leetcode.com/problems/car-fleet-ii)|||Hard|
 |1903|[design-most-recently-used-queue](https://leetcode.com/problems/design-most-recently-used-queue)|:lock:||Medium|
@@ -2055,7 +2055,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |2339|[k-divisible-elements-subarrays](https://leetcode.com/problems/k-divisible-elements-subarrays)|||Medium|
 |2340|[total-appeal-of-a-string](https://leetcode.com/problems/total-appeal-of-a-string)|||Hard|
 |2341|[count-prefixes-of-a-given-string](https://leetcode.com/problems/count-prefixes-of-a-given-string)|||Easy|
-|2342|[minimum-average-difference](https://leetcode.com/problems/minimum-average-difference)||[:memo:](https://leetcode.com/articles/minimum-average-difference/)|Medium|
+|2342|[minimum-average-difference](https://leetcode.com/problems/minimum-average-difference)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/2342-minimum-average-difference/minimum-average-difference.py)|[:memo:](https://leetcode.com/articles/minimum-average-difference/)|Medium|
 |2343|[count-unguarded-cells-in-the-grid](https://leetcode.com/problems/count-unguarded-cells-in-the-grid)|||Medium|
 |2344|[escape-the-spreading-fire](https://leetcode.com/problems/escape-the-spreading-fire)|||Hard|
 |2345|[minimum-number-of-operations-to-convert-time](https://leetcode.com/problems/minimum-number-of-operations-to-convert-time)|||Easy|

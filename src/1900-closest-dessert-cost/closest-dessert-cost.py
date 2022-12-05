@@ -52,13 +52,6 @@
 # Explanation: It is possible to make desserts with cost 8 and 10. Return 8 as it is the lower cost.
 #
 #
-# Example 4:
-#
-#
-# Input: baseCosts = [10], toppingCosts = [1], target = 1
-# Output: 10
-# Explanation: Notice that you don't have to have any toppings, but you must have exactly one base.
-#
 #  
 # Constraints:
 #
@@ -74,21 +67,20 @@
 
 class Solution:
     def closestCost(self, baseCosts: List[int], toppingCosts: List[int], target: int) -> int:
-        self.res = 10000
-        def dfs(price, i):
-            if abs(target - self.res) > abs(target - price): self.res = price
-            if abs(target - self.res) == abs(target - price): self.res = min(self.res, price)
-                
-            if price >= target or i == len(toppingCosts):
-                return
-            
-            topping = toppingCosts[i]
-            dfs(price + 2 * topping, i + 1)
-            dfs(price + topping, i + 1)
-            dfs(price, i + 1)
-            
+        @cache
+        def dp(i, x):
+            nonlocal diff
+            if abs(x) < abs(diff) or (abs(x) == abs(diff) and x > diff):
+                diff = x
+            if i < len(toppingCosts) and x > 0:
+                dp(i + 1, x - 2 * toppingCosts[i])
+                dp(i + 1, x - toppingCosts[i])
+                dp(i + 1, x)
+
+
+        toppingCosts.sort(reverse=True)
+        diff = 1000000
         for base in baseCosts:
-            dfs(base, 0)
-        
-        return self.res
+            dp(0, target - base)
+        return target - diff
     
