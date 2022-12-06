@@ -1,7 +1,7 @@
 # :pencil2: Leetcode Solutions with Python3,Cpp
-Update time:  2022-12-05 12:44:44
+Update time:  2022-12-06 12:49:56
 
-I have solved **559   /   2262** problems
+I have solved **564   /   2262** problems
 while there are **344** problems still locked.
 
 If you have any question, please give me an [issue](https://github.com/hlnn/leetcode/issues).
@@ -324,7 +324,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |325|[maximum-size-subarray-sum-equals-k](https://leetcode.com/problems/maximum-size-subarray-sum-equals-k)|:lock:|[:memo:](https://leetcode.com/articles/maximum-size-subarray-sum-equals-k/)|Medium|
 |326|[power-of-three](https://leetcode.com/problems/power-of-three)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0326-power-of-three/power-of-three.py)|[:memo:](https://leetcode.com/articles/power-of-three/)|Easy|
 |327|[count-of-range-sum](https://leetcode.com/problems/count-of-range-sum)|||Hard|
-|328|[odd-even-linked-list](https://leetcode.com/problems/odd-even-linked-list)||[:memo:](https://leetcode.com/articles/odd-even-linked-list/)|Medium|
+|328|[odd-even-linked-list](https://leetcode.com/problems/odd-even-linked-list)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0328-odd-even-linked-list/odd-even-linked-list.py)|[:memo:](https://leetcode.com/articles/odd-even-linked-list/)|Medium|
 |329|[longest-increasing-path-in-a-matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix)||[:memo:](https://leetcode.com/articles/longest-increasing-path-in-a-matrix/)|Hard|
 |330|[patching-array](https://leetcode.com/problems/patching-array)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0330-patching-array/patching-array.py)|[:memo:](https://leetcode.com/articles/patching-array/)|Hard|
 |331|[verify-preorder-serialization-of-a-binary-tree](https://leetcode.com/problems/verify-preorder-serialization-of-a-binary-tree)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0331-verify-preorder-serialization-of-a-binary-tree/verify-preorder-serialization-of-a-binary-tree.py)|[:memo:](https://leetcode.com/articles/verify-preorder-serialization-of-a-binary-tree/)|Medium|
@@ -494,7 +494,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |504|[base-7](https://leetcode.com/problems/base-7)|||Easy|
 |505|[the-maze-ii](https://leetcode.com/problems/the-maze-ii)|:lock:|[:memo:](https://leetcode.com/articles/the-maze-ii/)|Medium|
 |506|[relative-ranks](https://leetcode.com/problems/relative-ranks)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0506-relative-ranks/relative-ranks.py)||Easy|
-|507|[perfect-number](https://leetcode.com/problems/perfect-number)||[:memo:](https://leetcode.com/articles/perfect-number/)|Easy|
+|507|[perfect-number](https://leetcode.com/problems/perfect-number)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0507-perfect-number/perfect-number.py)|[:memo:](https://leetcode.com/articles/perfect-number/)|Easy|
 |508|[most-frequent-subtree-sum](https://leetcode.com/problems/most-frequent-subtree-sum)||[:memo:](https://leetcode.com/articles/most-frequent-subtree-sum/)|Medium|
 |509|[inorder-successor-in-bst-ii](https://leetcode.com/problems/inorder-successor-in-bst-ii)|:lock:|[:memo:](https://leetcode.com/articles/inorder-successor-in-a-bst-ii/)|Medium|
 |510|[count-subarrays-with-more-ones-than-zeros](https://leetcode.com/problems/count-subarrays-with-more-ones-than-zeros)|:lock:||Medium|
@@ -1580,7 +1580,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |1786|[count-the-number-of-consistent-strings](https://leetcode.com/problems/count-the-number-of-consistent-strings)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/1786-count-the-number-of-consistent-strings/count-the-number-of-consistent-strings.py)||Easy|
 |1787|[sum-of-absolute-differences-in-a-sorted-array](https://leetcode.com/problems/sum-of-absolute-differences-in-a-sorted-array)|||Medium|
 |1788|[stone-game-vi](https://leetcode.com/problems/stone-game-vi)|||Medium|
-|1789|[delivering-boxes-from-storage-to-ports](https://leetcode.com/problems/delivering-boxes-from-storage-to-ports)|||Hard|
+|1789|[delivering-boxes-from-storage-to-ports](https://leetcode.com/problems/delivering-boxes-from-storage-to-ports)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/1789-delivering-boxes-from-storage-to-ports/delivering-boxes-from-storage-to-ports.py)||Hard|
 |1790|[lowest-common-ancestor-of-a-binary-tree-iii](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree-iii)|:lock:||Medium|
 |1791|[richest-customer-wealth](https://leetcode.com/problems/richest-customer-wealth)||[:memo:](https://leetcode.com/articles/richest-customer-wealth/)|Easy|
 |1792|[find-the-most-competitive-subsequence](https://leetcode.com/problems/find-the-most-competitive-subsequence)||[:memo:](https://leetcode.com/articles/find-the-most-competitive-subsequence/)|Medium|
@@ -1692,7 +1692,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |1929|[maximum-value-at-a-given-index-in-a-bounded-array](https://leetcode.com/problems/maximum-value-at-a-given-index-in-a-bounded-array)|||Medium|
 |1930|[maximum-number-of-consecutive-values-you-can-make](https://leetcode.com/problems/maximum-number-of-consecutive-values-you-can-make)|||Medium|
 |1931|[shortest-path-in-a-hidden-grid](https://leetcode.com/problems/shortest-path-in-a-hidden-grid)|:lock:||Medium|
-|1933|[number-of-different-integers-in-a-string](https://leetcode.com/problems/number-of-different-integers-in-a-string)|||Easy|
+|1933|[number-of-different-integers-in-a-string](https://leetcode.com/problems/number-of-different-integers-in-a-string)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/1933-number-of-different-integers-in-a-string/number-of-different-integers-in-a-string.py)||Easy|
 |1934|[evaluate-the-bracket-pairs-of-a-string](https://leetcode.com/problems/evaluate-the-bracket-pairs-of-a-string)|||Medium|
 |1935|[minimum-number-of-operations-to-reinitialize-a-permutation](https://leetcode.com/problems/minimum-number-of-operations-to-reinitialize-a-permutation)|||Medium|
 |1936|[maximize-number-of-nice-divisors](https://leetcode.com/problems/maximize-number-of-nice-divisors)|||Hard|
@@ -1843,7 +1843,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |2103|[find-all-groups-of-farmland](https://leetcode.com/problems/find-all-groups-of-farmland)|||Medium|
 |2104|[operations-on-tree](https://leetcode.com/problems/operations-on-tree)|||Medium|
 |2105|[the-number-of-good-subsets](https://leetcode.com/problems/the-number-of-good-subsets)|||Hard|
-|2106|[find-greatest-common-divisor-of-array](https://leetcode.com/problems/find-greatest-common-divisor-of-array)|||Easy|
+|2106|[find-greatest-common-divisor-of-array](https://leetcode.com/problems/find-greatest-common-divisor-of-array)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/2106-find-greatest-common-divisor-of-array/find-greatest-common-divisor-of-array.py)||Easy|
 |2107|[find-unique-binary-string](https://leetcode.com/problems/find-unique-binary-string)|||Medium|
 |2108|[minimize-the-difference-between-target-and-chosen-elements](https://leetcode.com/problems/minimize-the-difference-between-target-and-chosen-elements)|||Medium|
 |2109|[find-array-given-subset-sums](https://leetcode.com/problems/find-array-given-subset-sums)|||Hard|
