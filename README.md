@@ -1,8 +1,8 @@
 # :pencil2: Leetcode Solutions with Python3,Cpp
-Update time:  2022-12-06 12:49:56
+Update time:  2022-12-07 12:45:16
 
-I have solved **564   /   2262** problems
-while there are **344** problems still locked.
+I have solved **566   /   2263** problems
+while there are **345** problems still locked.
 
 If you have any question, please give me an [issue](https://github.com/hlnn/leetcode/issues).
 
@@ -1666,7 +1666,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |1897|[maximize-palindrome-length-from-subsequences](https://leetcode.com/problems/maximize-palindrome-length-from-subsequences)|||Hard|
 |1899|[count-items-matching-a-rule](https://leetcode.com/problems/count-items-matching-a-rule)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/1899-count-items-matching-a-rule/count-items-matching-a-rule.py)||Easy|
 |1900|[closest-dessert-cost](https://leetcode.com/problems/closest-dessert-cost)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/1900-closest-dessert-cost/closest-dessert-cost.py)||Medium|
-|1901|[equal-sum-arrays-with-minimum-number-of-operations](https://leetcode.com/problems/equal-sum-arrays-with-minimum-number-of-operations)|||Medium|
+|1901|[equal-sum-arrays-with-minimum-number-of-operations](https://leetcode.com/problems/equal-sum-arrays-with-minimum-number-of-operations)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/1901-equal-sum-arrays-with-minimum-number-of-operations/equal-sum-arrays-with-minimum-number-of-operations.py)||Medium|
 |1902|[car-fleet-ii](https://leetcode.com/problems/car-fleet-ii)|||Hard|
 |1903|[design-most-recently-used-queue](https://leetcode.com/problems/design-most-recently-used-queue)|:lock:||Medium|
 |1904|[second-largest-digit-in-a-string](https://leetcode.com/problems/second-largest-digit-in-a-string)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/1904-second-largest-digit-in-a-string/second-largest-digit-in-a-string.py)||Easy|
@@ -1717,7 +1717,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |1957|[closest-room](https://leetcode.com/problems/closest-room)|||Hard|
 |1959|[minimum-path-cost-in-a-hidden-grid](https://leetcode.com/problems/minimum-path-cost-in-a-hidden-grid)|:lock:||Medium|
 |1960|[check-if-the-sentence-is-pangram](https://leetcode.com/problems/check-if-the-sentence-is-pangram)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/1960-check-if-the-sentence-is-pangram/check-if-the-sentence-is-pangram.py)|[:memo:](https://leetcode.com/articles/check-if-the-sentence-is-pangram/)|Easy|
-|1961|[maximum-ice-cream-bars](https://leetcode.com/problems/maximum-ice-cream-bars)|||Medium|
+|1961|[maximum-ice-cream-bars](https://leetcode.com/problems/maximum-ice-cream-bars)||[:memo:](https://leetcode.com/articles/maximum-ice-cream-bars/)|Medium|
 |1962|[single-threaded-cpu](https://leetcode.com/problems/single-threaded-cpu)||[:memo:](https://leetcode.com/articles/single-threaded-cpu/)|Medium|
 |1963|[find-xor-sum-of-all-pairs-bitwise-and](https://leetcode.com/problems/find-xor-sum-of-all-pairs-bitwise-and)|||Hard|
 |1965|[sum-of-digits-in-base-k](https://leetcode.com/problems/sum-of-digits-in-base-k)|||Easy|
@@ -1937,7 +1937,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |2209|[number-of-equal-count-substrings](https://leetcode.com/problems/number-of-equal-count-substrings)|:lock:||Medium|
 |2210|[find-target-indices-after-sorting-array](https://leetcode.com/problems/find-target-indices-after-sorting-array)|||Easy|
 |2211|[k-radius-subarray-averages](https://leetcode.com/problems/k-radius-subarray-averages)|||Medium|
-|2212|[removing-minimum-and-maximum-from-array](https://leetcode.com/problems/removing-minimum-and-maximum-from-array)|||Medium|
+|2212|[removing-minimum-and-maximum-from-array](https://leetcode.com/problems/removing-minimum-and-maximum-from-array)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/2212-removing-minimum-and-maximum-from-array/removing-minimum-and-maximum-from-array.py)||Medium|
 |2213|[find-all-people-with-secret](https://leetcode.com/problems/find-all-people-with-secret)|||Hard|
 |2215|[finding-3-digit-even-numbers](https://leetcode.com/problems/finding-3-digit-even-numbers)|||Easy|
 |2216|[delete-the-middle-node-of-a-linked-list](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/2216-delete-the-middle-node-of-a-linked-list/delete-the-middle-node-of-a-linked-list.py)|[:memo:](https://leetcode.com/articles/delete-the-middle-node-of-a-linked-list/)|Medium|
@@ -2276,3 +2276,4 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |2612|[minimum-cost-to-buy-apples](https://leetcode.com/problems/minimum-cost-to-buy-apples)|:lock:||Medium|
 |2623|[maximum-xor-of-two-non-overlapping-subtrees](https://leetcode.com/problems/maximum-xor-of-two-non-overlapping-subtrees)|:lock:||Hard|
 |2629|[number-of-substrings-with-fixed-ratio](https://leetcode.com/problems/number-of-substrings-with-fixed-ratio)|:lock:||Medium|
+|2638|[number-of-subarrays-having-even-product](https://leetcode.com/problems/number-of-subarrays-having-even-product)|:lock:||Medium|
