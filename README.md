@@ -1,7 +1,7 @@
 # :pencil2: Leetcode Solutions with Python3,Cpp
-Update time:  2022-12-07 12:45:16
+Update time:  2022-12-08 12:46:48
 
-I have solved **566   /   2263** problems
+I have solved **569   /   2263** problems
 while there are **345** problems still locked.
 
 If you have any question, please give me an [issue](https://github.com/hlnn/leetcode/issues).
@@ -837,7 +837,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |901|[advantage-shuffle](https://leetcode.com/problems/advantage-shuffle)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0901-advantage-shuffle/advantage-shuffle.py)|[:memo:](https://leetcode.com/articles/advantage-shuffle/)|Medium|
 |902|[minimum-number-of-refueling-stops](https://leetcode.com/problems/minimum-number-of-refueling-stops)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0902-minimum-number-of-refueling-stops/minimum-number-of-refueling-stops.py)|[:memo:](https://leetcode.com/articles/minimum-number-of-refueling-stops/)|Hard|
 |903|[implement-rand10-using-rand7](https://leetcode.com/problems/implement-rand10-using-rand7)||[:memo:](https://leetcode.com/articles/implement-rand10-using-rand7/)|Medium|
-|904|[leaf-similar-trees](https://leetcode.com/problems/leaf-similar-trees)||[:memo:](https://leetcode.com/articles/leaf-similar-trees/)|Easy|
+|904|[leaf-similar-trees](https://leetcode.com/problems/leaf-similar-trees)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0904-leaf-similar-trees/leaf-similar-trees.py)|[:memo:](https://leetcode.com/articles/leaf-similar-trees/)|Easy|
 |905|[length-of-longest-fibonacci-subsequence](https://leetcode.com/problems/length-of-longest-fibonacci-subsequence)||[:memo:](https://leetcode.com/articles/length-of-longest-fibonacci-subsequence/)|Medium|
 |906|[walking-robot-simulation](https://leetcode.com/problems/walking-robot-simulation)||[:memo:](https://leetcode.com/articles/walking-robot-simulation/)|Medium|
 |907|[koko-eating-bananas](https://leetcode.com/problems/koko-eating-bananas)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0907-koko-eating-bananas/koko-eating-bananas.py)|[:memo:](https://leetcode.com/articles/koko-eating-bananas/)|Medium|
@@ -908,7 +908,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |973|[stamping-the-sequence](https://leetcode.com/problems/stamping-the-sequence)||[:memo:](https://leetcode.com/articles/stamping-the-sequence/)|Hard|
 |974|[reorder-data-in-log-files](https://leetcode.com/problems/reorder-data-in-log-files)||[:memo:](https://leetcode.com/articles/reorder-data-in-log-files/)|Medium|
 |975|[range-sum-of-bst](https://leetcode.com/problems/range-sum-of-bst)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0975-range-sum-of-bst/range-sum-of-bst.py)|[:memo:](https://leetcode.com/articles/range-sum-of-bst/)|Easy|
-|976|[minimum-area-rectangle](https://leetcode.com/problems/minimum-area-rectangle)||[:memo:](https://leetcode.com/articles/minimum-area-rectangle/)|Medium|
+|976|[minimum-area-rectangle](https://leetcode.com/problems/minimum-area-rectangle)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0976-minimum-area-rectangle/minimum-area-rectangle.py)|[:memo:](https://leetcode.com/articles/minimum-area-rectangle/)|Medium|
 |977|[distinct-subsequences-ii](https://leetcode.com/problems/distinct-subsequences-ii)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0977-distinct-subsequences-ii/distinct-subsequences-ii.py)|[:memo:](https://leetcode.com/articles/distinct-subsequences-ii/)|Hard|
 |978|[valid-mountain-array](https://leetcode.com/problems/valid-mountain-array)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0978-valid-mountain-array/valid-mountain-array.py)|[:memo:](https://leetcode.com/articles/valid-mountain-array/)|Easy|
 |979|[di-string-match](https://leetcode.com/problems/di-string-match)||[:memo:](https://leetcode.com/articles/di-string-match/)|Easy|
@@ -1005,7 +1005,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |1074|[high-five](https://leetcode.com/problems/high-five)|:lock:|[:memo:](https://leetcode.com/articles/high-five/)|Easy|
 |1075|[index-pairs-of-a-string](https://leetcode.com/problems/index-pairs-of-a-string)|:lock:||Easy|
 |1076|[brace-expansion](https://leetcode.com/problems/brace-expansion)|:lock:|[:memo:](https://leetcode.com/articles/brace-expansion/)|Medium|
-|1077|[confusing-number-ii](https://leetcode.com/problems/confusing-number-ii)|:lock:||Hard|
+|1077|[confusing-number-ii](https://leetcode.com/problems/confusing-number-ii)|:lock:|[:memo:](https://leetcode.com/articles/confusing-number-ii/)|Hard|
 |1078|[remove-outermost-parentheses](https://leetcode.com/problems/remove-outermost-parentheses)|||Easy|
 |1079|[sum-of-root-to-leaf-binary-numbers](https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/1079-sum-of-root-to-leaf-binary-numbers/sum-of-root-to-leaf-binary-numbers.py)|[:memo:](https://leetcode.com/articles/sum-root-to-leaf-binary-numbers/)|Easy|
 |1080|[camelcase-matching](https://leetcode.com/problems/camelcase-matching)|||Medium|
@@ -1479,7 +1479,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |1667|[find-kth-bit-in-nth-binary-string](https://leetcode.com/problems/find-kth-bit-in-nth-binary-string)|||Medium|
 |1668|[find-longest-awesome-substring](https://leetcode.com/problems/find-longest-awesome-substring)|||Hard|
 |1669|[minimum-cost-to-cut-a-stick](https://leetcode.com/problems/minimum-cost-to-cut-a-stick)|||Hard|
-|1672|[find-the-index-of-the-large-integer](https://leetcode.com/problems/find-the-index-of-the-large-integer)|:lock:||Medium|
+|1672|[find-the-index-of-the-large-integer](https://leetcode.com/problems/find-the-index-of-the-large-integer)|:lock:|[:memo:](https://leetcode.com/articles/find-the-index-of-the-large-integer/)|Medium|
 |1674|[minimum-operations-to-make-array-equal](https://leetcode.com/problems/minimum-operations-to-make-array-equal)||[:memo:](https://leetcode.com/articles/minimum-operations-to-make-array-equal/)|Medium|
 |1675|[magnetic-force-between-two-balls](https://leetcode.com/problems/magnetic-force-between-two-balls)|||Medium|
 |1676|[minimum-number-of-days-to-eat-n-oranges](https://leetcode.com/problems/minimum-number-of-days-to-eat-n-oranges)|||Hard|
@@ -1546,7 +1546,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |1745|[find-nearest-right-node-in-binary-tree](https://leetcode.com/problems/find-nearest-right-node-in-binary-tree)|:lock:|[:memo:](https://leetcode.com/articles/find-nearest-right-node-in-binary-tree/)|Medium|
 |1746|[largest-substring-between-two-equal-characters](https://leetcode.com/problems/largest-substring-between-two-equal-characters)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/1746-largest-substring-between-two-equal-characters/largest-substring-between-two-equal-characters.py)||Easy|
 |1747|[lexicographically-smallest-string-after-applying-operations](https://leetcode.com/problems/lexicographically-smallest-string-after-applying-operations)|||Medium|
-|1748|[best-team-with-no-conflicts](https://leetcode.com/problems/best-team-with-no-conflicts)|||Medium|
+|1748|[best-team-with-no-conflicts](https://leetcode.com/problems/best-team-with-no-conflicts)||[:memo:](https://leetcode.com/articles/best-team-with-no-conflicts/)|Medium|
 |1750|[check-if-two-expression-trees-are-equivalent](https://leetcode.com/problems/check-if-two-expression-trees-are-equivalent)|:lock:||Medium|
 |1751|[slowest-key](https://leetcode.com/problems/slowest-key)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/1751-slowest-key/slowest-key.py)|[:memo:](https://leetcode.com/articles/slowest-key/)|Easy|
 |1752|[arithmetic-subarrays](https://leetcode.com/problems/arithmetic-subarrays)|||Medium|
@@ -1683,7 +1683,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |1917|[maximum-average-pass-ratio](https://leetcode.com/problems/maximum-average-pass-ratio)|||Medium|
 |1918|[maximum-score-of-a-good-subarray](https://leetcode.com/problems/maximum-score-of-a-good-subarray)|||Hard|
 |1919|[sort-features-by-popularity](https://leetcode.com/problems/sort-features-by-popularity)|:lock:||Medium|
-|1920|[determine-color-of-a-chessboard-square](https://leetcode.com/problems/determine-color-of-a-chessboard-square)|||Easy|
+|1920|[determine-color-of-a-chessboard-square](https://leetcode.com/problems/determine-color-of-a-chessboard-square)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/1920-determine-color-of-a-chessboard-square/determine-color-of-a-chessboard-square.py)||Easy|
 |1923|[sentence-similarity-iii](https://leetcode.com/problems/sentence-similarity-iii)|||Medium|
 |1924|[maximum-number-of-groups-getting-fresh-donuts](https://leetcode.com/problems/maximum-number-of-groups-getting-fresh-donuts)|||Hard|
 |1925|[count-nice-pairs-in-an-array](https://leetcode.com/problems/count-nice-pairs-in-an-array)|||Medium|
@@ -1805,7 +1805,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |2059|[unique-length-3-palindromic-subsequences](https://leetcode.com/problems/unique-length-3-palindromic-subsequences)|||Medium|
 |2060|[merge-bsts-to-create-single-bst](https://leetcode.com/problems/merge-bsts-to-create-single-bst)|||Hard|
 |2061|[painting-a-grid-with-three-different-colors](https://leetcode.com/problems/painting-a-grid-with-three-different-colors)|||Hard|
-|2062|[game-of-nim](https://leetcode.com/problems/game-of-nim)|:lock:||Medium|
+|2062|[game-of-nim](https://leetcode.com/problems/game-of-nim)|:lock:|[:memo:](https://leetcode.com/articles/game-of-nim/)|Medium|
 |2065|[check-for-contradictions-in-equations](https://leetcode.com/problems/check-for-contradictions-in-equations)|:lock:||Hard|
 |2066|[add-minimum-number-of-rungs](https://leetcode.com/problems/add-minimum-number-of-rungs)|||Medium|
 |2067|[maximum-number-of-points-with-cost](https://leetcode.com/problems/maximum-number-of-points-with-cost)||[:memo:](https://leetcode.com/articles/maximum-number-of-points-with-cost/)|Medium|
