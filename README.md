@@ -1,7 +1,7 @@
 # :pencil2: Leetcode Solutions with Python3,Cpp
-Update time:  2022-12-08 12:46:48
+Update time:  2022-12-09 12:43:30
 
-I have solved **569   /   2263** problems
+I have solved **571   /   2263** problems
 while there are **345** problems still locked.
 
 If you have any question, please give me an [issue](https://github.com/hlnn/leetcode/issues).
@@ -1493,7 +1493,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |1684|[find-latest-group-of-size-m](https://leetcode.com/problems/find-latest-group-of-size-m)|||Medium|
 |1685|[stone-game-v](https://leetcode.com/problems/stone-game-v)|||Hard|
 |1687|[the-most-similar-path-in-a-graph](https://leetcode.com/problems/the-most-similar-path-in-a-graph)|:lock:||Hard|
-|1689|[detect-pattern-of-length-m-repeated-k-or-more-times](https://leetcode.com/problems/detect-pattern-of-length-m-repeated-k-or-more-times)|||Easy|
+|1689|[detect-pattern-of-length-m-repeated-k-or-more-times](https://leetcode.com/problems/detect-pattern-of-length-m-repeated-k-or-more-times)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/1689-detect-pattern-of-length-m-repeated-k-or-more-times/detect-pattern-of-length-m-repeated-k-or-more-times.py)||Easy|
 |1690|[maximum-length-of-subarray-with-positive-product](https://leetcode.com/problems/maximum-length-of-subarray-with-positive-product)|||Medium|
 |1691|[minimum-number-of-days-to-disconnect-island](https://leetcode.com/problems/minimum-number-of-days-to-disconnect-island)|||Hard|
 |1692|[number-of-ways-to-reorder-array-to-get-same-bst](https://leetcode.com/problems/number-of-ways-to-reorder-array-to-get-same-bst)|||Hard|
@@ -1656,7 +1656,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |1886|[minimum-limit-of-balls-in-a-bag](https://leetcode.com/problems/minimum-limit-of-balls-in-a-bag)|||Medium|
 |1887|[minimum-degree-of-a-connected-trio-in-a-graph](https://leetcode.com/problems/minimum-degree-of-a-connected-trio-in-a-graph)|||Hard|
 |1888|[find-nearest-point-that-has-the-same-x-or-y-coordinate](https://leetcode.com/problems/find-nearest-point-that-has-the-same-x-or-y-coordinate)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/1888-find-nearest-point-that-has-the-same-x-or-y-coordinate/find-nearest-point-that-has-the-same-x-or-y-coordinate.py)||Easy|
-|1889|[check-if-number-is-a-sum-of-powers-of-three](https://leetcode.com/problems/check-if-number-is-a-sum-of-powers-of-three)|||Medium|
+|1889|[check-if-number-is-a-sum-of-powers-of-three](https://leetcode.com/problems/check-if-number-is-a-sum-of-powers-of-three)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/1889-check-if-number-is-a-sum-of-powers-of-three/check-if-number-is-a-sum-of-powers-of-three.py)||Medium|
 |1890|[sum-of-beauty-of-all-substrings](https://leetcode.com/problems/sum-of-beauty-of-all-substrings)|||Medium|
 |1891|[count-pairs-of-nodes](https://leetcode.com/problems/count-pairs-of-nodes)|||Hard|
 |1893|[maximum-subarray-sum-after-one-operation](https://leetcode.com/problems/maximum-subarray-sum-after-one-operation)|:lock:||Medium|
@@ -2077,7 +2077,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |2361|[calculate-digit-sum-of-a-string](https://leetcode.com/problems/calculate-digit-sum-of-a-string)|||Easy|
 |2362|[minimum-rounds-to-complete-all-tasks](https://leetcode.com/problems/minimum-rounds-to-complete-all-tasks)||[:memo:](https://leetcode.com/articles/minimum-rounds-to-complete-all-tasks/)|Medium|
 |2363|[maximum-trailing-zeros-in-a-cornered-path](https://leetcode.com/problems/maximum-trailing-zeros-in-a-cornered-path)|||Medium|
-|2364|[longest-path-with-different-adjacent-characters](https://leetcode.com/problems/longest-path-with-different-adjacent-characters)|||Hard|
+|2364|[longest-path-with-different-adjacent-characters](https://leetcode.com/problems/longest-path-with-different-adjacent-characters)||[:memo:](https://leetcode.com/articles/longest-path-with-different-adjacent-characters/)|Hard|
 |2365|[percentage-of-letter-in-string](https://leetcode.com/problems/percentage-of-letter-in-string)|||Easy|
 |2366|[maximum-bags-with-full-capacity-of-rocks](https://leetcode.com/problems/maximum-bags-with-full-capacity-of-rocks)||[:memo:](https://leetcode.com/articles/maximum-bags-with-full-capacity-of-rocks/)|Medium|
 |2367|[minimum-lines-to-represent-a-line-chart](https://leetcode.com/problems/minimum-lines-to-represent-a-line-chart)|||Medium|
@@ -2198,7 +2198,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |2502|[sort-the-people](https://leetcode.com/problems/sort-the-people)|||Easy|
 |2503|[longest-subarray-with-maximum-bitwise-and](https://leetcode.com/problems/longest-subarray-with-maximum-bitwise-and)|||Medium|
 |2504|[find-all-good-indices](https://leetcode.com/problems/find-all-good-indices)|||Medium|
-|2505|[number-of-good-paths](https://leetcode.com/problems/number-of-good-paths)|||Hard|
+|2505|[number-of-good-paths](https://leetcode.com/problems/number-of-good-paths)||[:memo:](https://leetcode.com/articles/number-of-good-paths/)|Hard|
 |2506|[minimize-maximum-value-in-a-grid](https://leetcode.com/problems/minimize-maximum-value-in-a-grid)|:lock:||Hard|
 |2507|[number-of-common-factors](https://leetcode.com/problems/number-of-common-factors)|||Easy|
 |2508|[maximum-sum-of-an-hourglass](https://leetcode.com/problems/maximum-sum-of-an-hourglass)|||Medium|
