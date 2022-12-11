@@ -1,7 +1,7 @@
 # :pencil2: Leetcode Solutions with Python3,Cpp
-Update time:  2022-12-09 12:43:30
+Update time:  2022-12-11 12:45:44
 
-I have solved **571   /   2263** problems
+I have solved **579   /   2271** problems
 while there are **345** problems still locked.
 
 If you have any question, please give me an [issue](https://github.com/hlnn/leetcode/issues).
@@ -1697,7 +1697,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |1935|[minimum-number-of-operations-to-reinitialize-a-permutation](https://leetcode.com/problems/minimum-number-of-operations-to-reinitialize-a-permutation)|||Medium|
 |1936|[maximize-number-of-nice-divisors](https://leetcode.com/problems/maximize-number-of-nice-divisors)|||Hard|
 |1937|[maximize-the-beauty-of-the-garden](https://leetcode.com/problems/maximize-the-beauty-of-the-garden)|:lock:||Hard|
-|1938|[minimum-operations-to-make-the-array-increasing](https://leetcode.com/problems/minimum-operations-to-make-the-array-increasing)|||Easy|
+|1938|[minimum-operations-to-make-the-array-increasing](https://leetcode.com/problems/minimum-operations-to-make-the-array-increasing)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/1938-minimum-operations-to-make-the-array-increasing/minimum-operations-to-make-the-array-increasing.py)||Easy|
 |1939|[queries-on-number-of-points-inside-a-circle](https://leetcode.com/problems/queries-on-number-of-points-inside-a-circle)|||Medium|
 |1940|[maximum-xor-for-each-query](https://leetcode.com/problems/maximum-xor-for-each-query)|||Medium|
 |1941|[minimum-number-of-operations-to-make-string-sorted](https://leetcode.com/problems/minimum-number-of-operations-to-make-string-sorted)|||Hard|
@@ -2270,6 +2270,14 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |2582|[minimum-score-of-a-path-between-two-cities](https://leetcode.com/problems/minimum-score-of-a-path-between-two-cities)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/2582-minimum-score-of-a-path-between-two-cities/minimum-score-of-a-path-between-two-cities.py)||Medium|
 |2583|[divide-nodes-into-the-maximum-number-of-groups](https://leetcode.com/problems/divide-nodes-into-the-maximum-number-of-groups)|||Hard|
 |2584|[number-of-nodes-with-value-one](https://leetcode.com/problems/number-of-nodes-with-value-one)|:lock:||Medium|
+|2585|[delete-greatest-value-in-each-row](https://leetcode.com/problems/delete-greatest-value-in-each-row)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/2585-delete-greatest-value-in-each-row/delete-greatest-value-in-each-row.py)||Easy|
+|2586|[longest-square-streak-in-an-array](https://leetcode.com/problems/longest-square-streak-in-an-array)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/2586-longest-square-streak-in-an-array/longest-square-streak-in-an-array.py)||Medium|
+|2587|[design-memory-allocator](https://leetcode.com/problems/design-memory-allocator)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/2587-design-memory-allocator/design-memory-allocator.py)||Medium|
+|2588|[maximum-number-of-points-from-grid-queries](https://leetcode.com/problems/maximum-number-of-points-from-grid-queries)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/2588-maximum-number-of-points-from-grid-queries/maximum-number-of-points-from-grid-queries.py)||Hard|
+|2589|[maximum-value-of-a-string-in-an-array](https://leetcode.com/problems/maximum-value-of-a-string-in-an-array)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/2589-maximum-value-of-a-string-in-an-array/maximum-value-of-a-string-in-an-array.py)||Easy|
+|2590|[maximum-star-sum-of-a-graph](https://leetcode.com/problems/maximum-star-sum-of-a-graph)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/2590-maximum-star-sum-of-a-graph/maximum-star-sum-of-a-graph.py)||Medium|
+|2591|[frog-jump-ii](https://leetcode.com/problems/frog-jump-ii)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/2591-frog-jump-ii/frog-jump-ii.py)||Medium|
+|2592|[minimum-total-cost-to-make-arrays-unequal](https://leetcode.com/problems/minimum-total-cost-to-make-arrays-unequal)|||Hard|
 |2593|[number-of-distinct-binary-strings-after-applying-operations](https://leetcode.com/problems/number-of-distinct-binary-strings-after-applying-operations)|:lock:||Medium|
 |2606|[difference-between-ones-and-zeros-in-row-and-column](https://leetcode.com/problems/difference-between-ones-and-zeros-in-row-and-column)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/2606-difference-between-ones-and-zeros-in-row-and-column/difference-between-ones-and-zeros-in-row-and-column.py)||Medium|
 |2607|[minimum-subarrays-in-a-valid-split](https://leetcode.com/problems/minimum-subarrays-in-a-valid-split)|:lock:||Medium|
