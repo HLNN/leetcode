@@ -1,7 +1,7 @@
 # :pencil2: Leetcode Solutions with Python3,Cpp
-Update time:  2022-12-11 12:45:44
+Update time:  2022-12-12 12:44:41
 
-I have solved **579   /   2271** problems
+I have solved **581   /   2271** problems
 while there are **345** problems still locked.
 
 If you have any question, please give me an [issue](https://github.com/hlnn/leetcode/issues).
@@ -137,7 +137,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |121|[best-time-to-buy-and-sell-stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock)||[:memo:](https://leetcode.com/articles/best-time-to-buy-and-sell-stock/)|Easy|
 |122|[best-time-to-buy-and-sell-stock-ii](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0122-best-time-to-buy-and-sell-stock-ii/best-time-to-buy-and-sell-stock-ii.py)|[:memo:](https://leetcode.com/articles/best-time-to-buy-and-sell-stock-ii/)|Medium|
 |123|[best-time-to-buy-and-sell-stock-iii](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii)||[:memo:](https://leetcode.com/articles/best-time-to-buy-and-sell-stock-iii/)|Hard|
-|124|[binary-tree-maximum-path-sum](https://leetcode.com/problems/binary-tree-maximum-path-sum)||[:memo:](https://leetcode.com/articles/binary-tree-maximum-path-sum/)|Hard|
+|124|[binary-tree-maximum-path-sum](https://leetcode.com/problems/binary-tree-maximum-path-sum)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0124-binary-tree-maximum-path-sum/binary-tree-maximum-path-sum.py)|[:memo:](https://leetcode.com/articles/binary-tree-maximum-path-sum/)|Hard|
 |125|[valid-palindrome](https://leetcode.com/problems/valid-palindrome)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0125-valid-palindrome/valid-palindrome.py)|[:memo:](https://leetcode.com/articles/valid-palindrome/)|Easy|
 |126|[word-ladder-ii](https://leetcode.com/problems/word-ladder-ii)||[:memo:](https://leetcode.com/articles/word-ladder-ii/)|Hard|
 |127|[word-ladder](https://leetcode.com/problems/word-ladder)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0127-word-ladder/word-ladder.py)|[:memo:](https://leetcode.com/articles/word-ladder/)|Hard|
@@ -1657,7 +1657,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |1887|[minimum-degree-of-a-connected-trio-in-a-graph](https://leetcode.com/problems/minimum-degree-of-a-connected-trio-in-a-graph)|||Hard|
 |1888|[find-nearest-point-that-has-the-same-x-or-y-coordinate](https://leetcode.com/problems/find-nearest-point-that-has-the-same-x-or-y-coordinate)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/1888-find-nearest-point-that-has-the-same-x-or-y-coordinate/find-nearest-point-that-has-the-same-x-or-y-coordinate.py)||Easy|
 |1889|[check-if-number-is-a-sum-of-powers-of-three](https://leetcode.com/problems/check-if-number-is-a-sum-of-powers-of-three)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/1889-check-if-number-is-a-sum-of-powers-of-three/check-if-number-is-a-sum-of-powers-of-three.py)||Medium|
-|1890|[sum-of-beauty-of-all-substrings](https://leetcode.com/problems/sum-of-beauty-of-all-substrings)|||Medium|
+|1890|[sum-of-beauty-of-all-substrings](https://leetcode.com/problems/sum-of-beauty-of-all-substrings)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/1890-sum-of-beauty-of-all-substrings/sum-of-beauty-of-all-substrings.py)||Medium|
 |1891|[count-pairs-of-nodes](https://leetcode.com/problems/count-pairs-of-nodes)|||Hard|
 |1893|[maximum-subarray-sum-after-one-operation](https://leetcode.com/problems/maximum-subarray-sum-after-one-operation)|:lock:||Medium|
 |1894|[merge-strings-alternately](https://leetcode.com/problems/merge-strings-alternately)|||Easy|
@@ -2067,7 +2067,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |2351|[number-of-ways-to-buy-pens-and-pencils](https://leetcode.com/problems/number-of-ways-to-buy-pens-and-pencils)|||Medium|
 |2352|[design-an-atm-machine](https://leetcode.com/problems/design-an-atm-machine)|||Medium|
 |2353|[maximum-score-of-a-node-sequence](https://leetcode.com/problems/maximum-score-of-a-node-sequence)|||Hard|
-|2354|[minimum-health-to-beat-game](https://leetcode.com/problems/minimum-health-to-beat-game)|:lock:||Medium|
+|2354|[minimum-health-to-beat-game](https://leetcode.com/problems/minimum-health-to-beat-game)|:lock:|[:memo:](https://leetcode.com/articles/minimum-health-to-beat-game/)|Medium|
 |2355|[maximum-consecutive-floors-without-special-floors](https://leetcode.com/problems/maximum-consecutive-floors-without-special-floors)|||Medium|
 |2356|[largest-combination-with-bitwise-and-greater-than-zero](https://leetcode.com/problems/largest-combination-with-bitwise-and-greater-than-zero)|||Medium|
 |2357|[count-integers-in-intervals](https://leetcode.com/problems/count-integers-in-intervals)|||Hard|
