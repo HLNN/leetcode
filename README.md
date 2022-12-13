@@ -1,7 +1,7 @@
 # :pencil2: Leetcode Solutions with Python3,Cpp
-Update time:  2022-12-12 12:44:41
+Update time:  2022-12-13 12:46:08
 
-I have solved **581   /   2271** problems
+I have solved **583   /   2271** problems
 while there are **345** problems still locked.
 
 If you have any question, please give me an [issue](https://github.com/hlnn/leetcode/issues).
@@ -465,7 +465,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |473|[matchsticks-to-square](https://leetcode.com/problems/matchsticks-to-square)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0473-matchsticks-to-square/matchsticks-to-square.py)|[:memo:](https://leetcode.com/articles/matchsticks-to-square/)|Medium|
 |474|[ones-and-zeroes](https://leetcode.com/problems/ones-and-zeroes)||[:memo:](https://leetcode.com/articles/ones-and-zeroes/)|Medium|
 |475|[heaters](https://leetcode.com/problems/heaters)|||Medium|
-|476|[number-complement](https://leetcode.com/problems/number-complement)||[:memo:](https://leetcode.com/articles/number-complement/)|Easy|
+|476|[number-complement](https://leetcode.com/problems/number-complement)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0476-number-complement/number-complement.py)|[:memo:](https://leetcode.com/articles/number-complement/)|Easy|
 |477|[total-hamming-distance](https://leetcode.com/problems/total-hamming-distance)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0477-total-hamming-distance/total-hamming-distance.py)|[:memo:](https://leetcode.com/articles/total-hamming-distance/)|Medium|
 |479|[largest-palindrome-product](https://leetcode.com/problems/largest-palindrome-product)|||Hard|
 |480|[sliding-window-median](https://leetcode.com/problems/sliding-window-median)||[:memo:](https://leetcode.com/articles/sliding-window-median/)|Hard|
@@ -900,7 +900,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |964|[minimize-malware-spread-ii](https://leetcode.com/problems/minimize-malware-spread-ii)||[:memo:](https://leetcode.com/articles/minimize-malware-spread-ii/)|Hard|
 |965|[unique-email-addresses](https://leetcode.com/problems/unique-email-addresses)||[:memo:](https://leetcode.com/articles/unique-email-addresses/)|Easy|
 |966|[binary-subarrays-with-sum](https://leetcode.com/problems/binary-subarrays-with-sum)||[:memo:](https://leetcode.com/articles/binary-subarrays-with-sum/)|Medium|
-|967|[minimum-falling-path-sum](https://leetcode.com/problems/minimum-falling-path-sum)||[:memo:](https://leetcode.com/articles/minimum-falling-path-sum/)|Medium|
+|967|[minimum-falling-path-sum](https://leetcode.com/problems/minimum-falling-path-sum)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0967-minimum-falling-path-sum/minimum-falling-path-sum.py)|[:memo:](https://leetcode.com/articles/minimum-falling-path-sum/)|Medium|
 |968|[beautiful-array](https://leetcode.com/problems/beautiful-array)||[:memo:](https://leetcode.com/articles/beautiful-array/)|Medium|
 |969|[number-of-recent-calls](https://leetcode.com/problems/number-of-recent-calls)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0969-number-of-recent-calls/number-of-recent-calls.py)|[:memo:](https://leetcode.com/articles/number-of-recent-calls/)|Easy|
 |971|[shortest-bridge](https://leetcode.com/problems/shortest-bridge)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0971-shortest-bridge/shortest-bridge.py)|[:memo:](https://leetcode.com/articles/shortest-bridge/)|Medium|
