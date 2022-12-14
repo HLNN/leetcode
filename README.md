@@ -1,7 +1,7 @@
 # :pencil2: Leetcode Solutions with Python3,Cpp
-Update time:  2022-12-13 12:46:08
+Update time:  2022-12-14 12:44:34
 
-I have solved **583   /   2271** problems
+I have solved **585   /   2271** problems
 while there are **345** problems still locked.
 
 If you have any question, please give me an [issue](https://github.com/hlnn/leetcode/issues).
@@ -1297,7 +1297,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |1435|[xor-queries-of-a-subarray](https://leetcode.com/problems/xor-queries-of-a-subarray)|||Medium|
 |1436|[get-watched-videos-by-your-friends](https://leetcode.com/problems/get-watched-videos-by-your-friends)|||Medium|
 |1437|[minimum-insertion-steps-to-make-a-string-palindrome](https://leetcode.com/problems/minimum-insertion-steps-to-make-a-string-palindrome)|||Hard|
-|1440|[convert-integer-to-the-sum-of-two-no-zero-integers](https://leetcode.com/problems/convert-integer-to-the-sum-of-two-no-zero-integers)|||Easy|
+|1440|[convert-integer-to-the-sum-of-two-no-zero-integers](https://leetcode.com/problems/convert-integer-to-the-sum-of-two-no-zero-integers)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/1440-convert-integer-to-the-sum-of-two-no-zero-integers/convert-integer-to-the-sum-of-two-no-zero-integers.py)||Easy|
 |1441|[minimum-flips-to-make-a-or-b-equal-to-c](https://leetcode.com/problems/minimum-flips-to-make-a-or-b-equal-to-c)|||Medium|
 |1442|[number-of-operations-to-make-network-connected](https://leetcode.com/problems/number-of-operations-to-make-network-connected)|||Medium|
 |1443|[minimum-distance-to-type-a-word-using-two-fingers](https://leetcode.com/problems/minimum-distance-to-type-a-word-using-two-fingers)|||Hard|
@@ -1603,7 +1603,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |1812|[reformat-phone-number](https://leetcode.com/problems/reformat-phone-number)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/1812-reformat-phone-number/reformat-phone-number.py)||Easy|
 |1813|[maximum-erasure-value](https://leetcode.com/problems/maximum-erasure-value)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/1813-maximum-erasure-value/maximum-erasure-value.py) [Cpp](https://github.com/hlnn/leetcode/blob/master/src/1813-maximum-erasure-value/maximum-erasure-value.cpp)|[:memo:](https://leetcode.com/articles/maximum-erasure-value/)|Medium|
 |1814|[jump-game-vi](https://leetcode.com/problems/jump-game-vi)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/1814-jump-game-vi/jump-game-vi.py)|[:memo:](https://leetcode.com/articles/jump-game-vi/)|Medium|
-|1815|[checking-existence-of-edge-length-limited-paths](https://leetcode.com/problems/checking-existence-of-edge-length-limited-paths)|||Hard|
+|1815|[checking-existence-of-edge-length-limited-paths](https://leetcode.com/problems/checking-existence-of-edge-length-limited-paths)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/1815-checking-existence-of-edge-length-limited-paths/checking-existence-of-edge-length-limited-paths.py)||Hard|
 |1816|[lowest-common-ancestor-of-a-binary-tree-iv](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree-iv)|:lock:||Medium|
 |1817|[calculate-money-in-leetcode-bank](https://leetcode.com/problems/calculate-money-in-leetcode-bank)|||Easy|
 |1818|[maximum-score-from-removing-substrings](https://leetcode.com/problems/maximum-score-from-removing-substrings)|||Medium|

@@ -33,8 +33,8 @@
 
 class Solution:
     def rob(self, nums: List[int]) -> int:
-        dp1, dp2 = 0, 0
-        for num in nums:
-            dp1, dp2 = max(dp1, dp2 + num), dp1
-        return dp1
+        @cache
+        def dp(i):
+            return max(dp(i + 1), nums[i] + dp(i + 2)) if i < len(nums) else 0
+        return dp(0)
     
