@@ -1,8 +1,8 @@
 # :pencil2: Leetcode Solutions with Python3,Cpp
-Update time:  2022-12-14 12:44:34
+Update time:  2022-12-15 12:46:45
 
-I have solved **585   /   2271** problems
-while there are **345** problems still locked.
+I have solved **587   /   2272** problems
+while there are **346** problems still locked.
 
 If you have any question, please give me an [issue](https://github.com/hlnn/leetcode/issues).
 
@@ -70,7 +70,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |54|[spiral-matrix](https://leetcode.com/problems/spiral-matrix)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0054-spiral-matrix/spiral-matrix.py)|[:memo:](https://leetcode.com/articles/spiral-matrix/)|Medium|
 |55|[jump-game](https://leetcode.com/problems/jump-game)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0055-jump-game/jump-game.py)|[:memo:](https://leetcode.com/articles/jump-game/)|Medium|
 |56|[merge-intervals](https://leetcode.com/problems/merge-intervals)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0056-merge-intervals/merge-intervals.py)|[:memo:](https://leetcode.com/articles/merge-intervals/)|Medium|
-|57|[insert-interval](https://leetcode.com/problems/insert-interval)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0057-insert-interval/insert-interval.py)|[:memo:](https://leetcode.com/articles/insert-interval/)|Medium|
+|57|[insert-interval](https://leetcode.com/problems/insert-interval)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0057-insert-interval/insert-interval.py)||Medium|
 |58|[length-of-last-word](https://leetcode.com/problems/length-of-last-word)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0058-length-of-last-word/length-of-last-word.py)|[:memo:](https://leetcode.com/articles/length-of-last-word/)|Easy|
 |59|[spiral-matrix-ii](https://leetcode.com/problems/spiral-matrix-ii)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0059-spiral-matrix-ii/spiral-matrix-ii.py)|[:memo:](https://leetcode.com/articles/spiral-matrix-ii/)|Medium|
 |60|[permutation-sequence](https://leetcode.com/problems/permutation-sequence)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0060-permutation-sequence/permutation-sequence.py)|[:memo:](https://leetcode.com/articles/permutation-sequence/)|Hard|
@@ -162,7 +162,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |146|[lru-cache](https://leetcode.com/problems/lru-cache)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0146-lru-cache/lru-cache.py)|[:memo:](https://leetcode.com/articles/lru-cache/)|Medium|
 |147|[insertion-sort-list](https://leetcode.com/problems/insertion-sort-list)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0147-insertion-sort-list/insertion-sort-list.py)|[:memo:](https://leetcode.com/articles/insertion-sort-list/)|Medium|
 |148|[sort-list](https://leetcode.com/problems/sort-list)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0148-sort-list/sort-list.py)|[:memo:](https://leetcode.com/articles/sort-list/)|Medium|
-|149|[max-points-on-a-line](https://leetcode.com/problems/max-points-on-a-line)|||Hard|
+|149|[max-points-on-a-line](https://leetcode.com/problems/max-points-on-a-line)||[:memo:](https://leetcode.com/articles/max-points-on-a-line/)|Hard|
 |150|[evaluate-reverse-polish-notation](https://leetcode.com/problems/evaluate-reverse-polish-notation)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0150-evaluate-reverse-polish-notation/evaluate-reverse-polish-notation.py)|[:memo:](https://leetcode.com/articles/evaluate-reverse-polish-notation/)|Medium|
 |151|[reverse-words-in-a-string](https://leetcode.com/problems/reverse-words-in-a-string)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0151-reverse-words-in-a-string/reverse-words-in-a-string.py)|[:memo:](https://leetcode.com/articles/reverse-words-in-a-string/)|Medium|
 |152|[maximum-product-subarray](https://leetcode.com/problems/maximum-product-subarray)||[:memo:](https://leetcode.com/articles/maximum-product-subarray/)|Medium|
@@ -479,7 +479,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |488|[zuma-game](https://leetcode.com/problems/zuma-game)|||Hard|
 |489|[kth-smallest-instructions](https://leetcode.com/problems/kth-smallest-instructions)|||Hard|
 |490|[the-maze](https://leetcode.com/problems/the-maze)|:lock:|[:memo:](https://leetcode.com/articles/the-maze/)|Medium|
-|491|[increasing-subsequences](https://leetcode.com/problems/increasing-subsequences)|||Medium|
+|491|[increasing-subsequences](https://leetcode.com/problems/increasing-subsequences)||[:memo:](https://leetcode.com/articles/increasing-subsequences/)|Medium|
 |492|[construct-the-rectangle](https://leetcode.com/problems/construct-the-rectangle)|||Easy|
 |493|[reverse-pairs](https://leetcode.com/problems/reverse-pairs)||[:memo:](https://leetcode.com/articles/reverse-pairs/)|Hard|
 |494|[target-sum](https://leetcode.com/problems/target-sum)||[:memo:](https://leetcode.com/articles/target-sum/)|Medium|
@@ -1144,7 +1144,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |1247|[decrease-elements-to-make-array-zigzag](https://leetcode.com/problems/decrease-elements-to-make-array-zigzag)|||Medium|
 |1248|[binary-tree-coloring-game](https://leetcode.com/problems/binary-tree-coloring-game)|||Medium|
 |1249|[snapshot-array](https://leetcode.com/problems/snapshot-array)|||Medium|
-|1250|[longest-common-subsequence](https://leetcode.com/problems/longest-common-subsequence)||[:memo:](https://leetcode.com/articles/longest-common-subsequence/)|Medium|
+|1250|[longest-common-subsequence](https://leetcode.com/problems/longest-common-subsequence)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/1250-longest-common-subsequence/longest-common-subsequence.py)|[:memo:](https://leetcode.com/articles/longest-common-subsequence/)|Medium|
 |1251|[longest-chunked-palindrome-decomposition](https://leetcode.com/problems/longest-chunked-palindrome-decomposition)|||Hard|
 |1252|[break-a-palindrome](https://leetcode.com/problems/break-a-palindrome)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/1252-break-a-palindrome/break-a-palindrome.py)|[:memo:](https://leetcode.com/articles/break-a-palindrome/)|Medium|
 |1253|[sort-the-matrix-diagonally](https://leetcode.com/problems/sort-the-matrix-diagonally)||[:memo:](https://leetcode.com/articles/sort-the-matrix-diagonally/)|Medium|
@@ -1817,7 +1817,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |2073|[minimum-time-for-k-virus-variants-to-spread](https://leetcode.com/problems/minimum-time-for-k-virus-variants-to-spread)|:lock:||Hard|
 |2074|[erect-the-fence-ii](https://leetcode.com/problems/erect-the-fence-ii)|:lock:||Hard|
 |2075|[brightest-position-on-street](https://leetcode.com/problems/brightest-position-on-street)|:lock:||Medium|
-|2076|[sum-of-digits-of-string-after-convert](https://leetcode.com/problems/sum-of-digits-of-string-after-convert)|||Easy|
+|2076|[sum-of-digits-of-string-after-convert](https://leetcode.com/problems/sum-of-digits-of-string-after-convert)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/2076-sum-of-digits-of-string-after-convert/sum-of-digits-of-string-after-convert.py)||Easy|
 |2077|[largest-number-after-mutating-substring](https://leetcode.com/problems/largest-number-after-mutating-substring)|||Medium|
 |2078|[maximum-compatibility-score-sum](https://leetcode.com/problems/maximum-compatibility-score-sum)|||Medium|
 |2079|[delete-duplicate-folders-in-system](https://leetcode.com/problems/delete-duplicate-folders-in-system)|||Hard|
@@ -2285,3 +2285,4 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |2623|[maximum-xor-of-two-non-overlapping-subtrees](https://leetcode.com/problems/maximum-xor-of-two-non-overlapping-subtrees)|:lock:||Hard|
 |2629|[number-of-substrings-with-fixed-ratio](https://leetcode.com/problems/number-of-substrings-with-fixed-ratio)|:lock:||Medium|
 |2638|[number-of-subarrays-having-even-product](https://leetcode.com/problems/number-of-subarrays-having-even-product)|:lock:||Medium|
+|2644|[bitwise-or-of-all-subsequence-sums](https://leetcode.com/problems/bitwise-or-of-all-subsequence-sums)|:lock:||Medium|
