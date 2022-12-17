@@ -1,7 +1,7 @@
 # :pencil2: Leetcode Solutions with Python3,Cpp
-Update time:  2022-12-15 12:46:45
+Update time:  2022-12-17 12:46:16
 
-I have solved **587   /   2272** problems
+I have solved **589   /   2272** problems
 while there are **346** problems still locked.
 
 If you have any question, please give me an [issue](https://github.com/hlnn/leetcode/issues).
@@ -70,7 +70,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |54|[spiral-matrix](https://leetcode.com/problems/spiral-matrix)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0054-spiral-matrix/spiral-matrix.py)|[:memo:](https://leetcode.com/articles/spiral-matrix/)|Medium|
 |55|[jump-game](https://leetcode.com/problems/jump-game)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0055-jump-game/jump-game.py)|[:memo:](https://leetcode.com/articles/jump-game/)|Medium|
 |56|[merge-intervals](https://leetcode.com/problems/merge-intervals)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0056-merge-intervals/merge-intervals.py)|[:memo:](https://leetcode.com/articles/merge-intervals/)|Medium|
-|57|[insert-interval](https://leetcode.com/problems/insert-interval)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0057-insert-interval/insert-interval.py)||Medium|
+|57|[insert-interval](https://leetcode.com/problems/insert-interval)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0057-insert-interval/insert-interval.py)|[:memo:](https://leetcode.com/articles/insert-intervals/)|Medium|
 |58|[length-of-last-word](https://leetcode.com/problems/length-of-last-word)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0058-length-of-last-word/length-of-last-word.py)|[:memo:](https://leetcode.com/articles/length-of-last-word/)|Easy|
 |59|[spiral-matrix-ii](https://leetcode.com/problems/spiral-matrix-ii)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0059-spiral-matrix-ii/spiral-matrix-ii.py)|[:memo:](https://leetcode.com/articles/spiral-matrix-ii/)|Medium|
 |60|[permutation-sequence](https://leetcode.com/problems/permutation-sequence)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0060-permutation-sequence/permutation-sequence.py)|[:memo:](https://leetcode.com/articles/permutation-sequence/)|Hard|
@@ -157,7 +157,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |141|[linked-list-cycle](https://leetcode.com/problems/linked-list-cycle)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0141-linked-list-cycle/linked-list-cycle.py)|[:memo:](https://leetcode.com/articles/linked-list-cycle/)|Easy|
 |142|[linked-list-cycle-ii](https://leetcode.com/problems/linked-list-cycle-ii)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0142-linked-list-cycle-ii/linked-list-cycle-ii.py)|[:memo:](https://leetcode.com/articles/linked-list-cycle-ii/)|Medium|
 |143|[reorder-list](https://leetcode.com/problems/reorder-list)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0143-reorder-list/reorder-list.py)|[:memo:](https://leetcode.com/articles/reorder-list/)|Medium|
-|144|[binary-tree-preorder-traversal](https://leetcode.com/problems/binary-tree-preorder-traversal)|||Easy|
+|144|[binary-tree-preorder-traversal](https://leetcode.com/problems/binary-tree-preorder-traversal)||[:memo:](https://leetcode.com/articles/binary-tree-preorder-traversal/)|Easy|
 |145|[binary-tree-postorder-traversal](https://leetcode.com/problems/binary-tree-postorder-traversal)||[:memo:](https://leetcode.com/articles/binary-tree-postorder-traversal/)|Easy|
 |146|[lru-cache](https://leetcode.com/problems/lru-cache)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0146-lru-cache/lru-cache.py)|[:memo:](https://leetcode.com/articles/lru-cache/)|Medium|
 |147|[insertion-sort-list](https://leetcode.com/problems/insertion-sort-list)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0147-insertion-sort-list/insertion-sort-list.py)|[:memo:](https://leetcode.com/articles/insertion-sort-list/)|Medium|
@@ -997,7 +997,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |1066|[fixed-point](https://leetcode.com/problems/fixed-point)|:lock:|[:memo:](https://leetcode.com/articles/fixed-point/)|Easy|
 |1067|[campus-bikes-ii](https://leetcode.com/problems/campus-bikes-ii)|:lock:|[:memo:](https://leetcode.com/articles/campus-bikes-ii/)|Medium|
 |1068|[digit-count-in-range](https://leetcode.com/problems/digit-count-in-range)|:lock:||Hard|
-|1069|[confusing-number](https://leetcode.com/problems/confusing-number)|:lock:||Easy|
+|1069|[confusing-number](https://leetcode.com/problems/confusing-number)|:lock:|[:memo:](https://leetcode.com/articles/confusing-number/)|Easy|
 |1070|[convert-to-base-2](https://leetcode.com/problems/convert-to-base-2)|||Medium|
 |1071|[binary-prefix-divisible-by-5](https://leetcode.com/problems/binary-prefix-divisible-by-5)|||Easy|
 |1072|[next-greater-node-in-linked-list](https://leetcode.com/problems/next-greater-node-in-linked-list)||[:memo:](https://leetcode.com/articles/next-greater-node-in-linked-list/)|Medium|
@@ -1675,7 +1675,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |1907|[count-pairs-with-xor-in-a-range](https://leetcode.com/problems/count-pairs-with-xor-in-a-range)|||Hard|
 |1909|[buildings-with-an-ocean-view](https://leetcode.com/problems/buildings-with-an-ocean-view)|:lock:|[:memo:](https://leetcode.com/articles/buildings-with-an-ocean-view/)|Medium|
 |1910|[check-if-binary-string-has-at-most-one-segment-of-ones](https://leetcode.com/problems/check-if-binary-string-has-at-most-one-segment-of-ones)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/1910-check-if-binary-string-has-at-most-one-segment-of-ones/check-if-binary-string-has-at-most-one-segment-of-ones.py)||Easy|
-|1911|[minimum-elements-to-add-to-form-a-given-sum](https://leetcode.com/problems/minimum-elements-to-add-to-form-a-given-sum)|||Medium|
+|1911|[minimum-elements-to-add-to-form-a-given-sum](https://leetcode.com/problems/minimum-elements-to-add-to-form-a-given-sum)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/1911-minimum-elements-to-add-to-form-a-given-sum/minimum-elements-to-add-to-form-a-given-sum.py)||Medium|
 |1912|[number-of-restricted-paths-from-first-to-last-node](https://leetcode.com/problems/number-of-restricted-paths-from-first-to-last-node)|||Medium|
 |1913|[make-the-xor-of-all-segments-equal-to-zero](https://leetcode.com/problems/make-the-xor-of-all-segments-equal-to-zero)|||Hard|
 |1915|[check-if-one-string-swap-can-make-strings-equal](https://leetcode.com/problems/check-if-one-string-swap-can-make-strings-equal)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/1915-check-if-one-string-swap-can-make-strings-equal/check-if-one-string-swap-can-make-strings-equal.py)||Easy|
@@ -2042,7 +2042,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |2324|[find-triangular-sum-of-an-array](https://leetcode.com/problems/find-triangular-sum-of-an-array)|||Medium|
 |2325|[number-of-ways-to-select-buildings](https://leetcode.com/problems/number-of-ways-to-select-buildings)|||Medium|
 |2326|[sum-of-scores-of-built-strings](https://leetcode.com/problems/sum-of-scores-of-built-strings)|||Hard|
-|2327|[largest-number-after-digit-swaps-by-parity](https://leetcode.com/problems/largest-number-after-digit-swaps-by-parity)|||Easy|
+|2327|[largest-number-after-digit-swaps-by-parity](https://leetcode.com/problems/largest-number-after-digit-swaps-by-parity)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/2327-largest-number-after-digit-swaps-by-parity/largest-number-after-digit-swaps-by-parity.py)||Easy|
 |2328|[minimize-result-by-adding-parentheses-to-expression](https://leetcode.com/problems/minimize-result-by-adding-parentheses-to-expression)|||Medium|
 |2329|[maximum-product-after-k-increments](https://leetcode.com/problems/maximum-product-after-k-increments)|||Medium|
 |2330|[maximum-total-beauty-of-the-gardens](https://leetcode.com/problems/maximum-total-beauty-of-the-gardens)|||Hard|
