@@ -1,7 +1,7 @@
 # :pencil2: Leetcode Solutions with Python3,Cpp
-Update time:  2022-12-17 12:46:16
+Update time:  2022-12-18 12:45:43
 
-I have solved **589   /   2272** problems
+I have solved **594   /   2276** problems
 while there are **346** problems still locked.
 
 If you have any question, please give me an [issue](https://github.com/hlnn/leetcode/issues).
@@ -1643,7 +1643,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |1871|[palindrome-partitioning-iv](https://leetcode.com/problems/palindrome-partitioning-iv)|||Hard|
 |1872|[can-you-eat-your-favorite-candy-on-your-favorite-day](https://leetcode.com/problems/can-you-eat-your-favorite-candy-on-your-favorite-day)|||Medium|
 |1873|[longest-nice-substring](https://leetcode.com/problems/longest-nice-substring)|||Easy|
-|1874|[form-array-by-concatenating-subarrays-of-another-array](https://leetcode.com/problems/form-array-by-concatenating-subarrays-of-another-array)|||Medium|
+|1874|[form-array-by-concatenating-subarrays-of-another-array](https://leetcode.com/problems/form-array-by-concatenating-subarrays-of-another-array)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/1874-form-array-by-concatenating-subarrays-of-another-array/form-array-by-concatenating-subarrays-of-another-array.py)||Medium|
 |1875|[tree-of-coprimes](https://leetcode.com/problems/tree-of-coprimes)|||Hard|
 |1876|[map-of-highest-peak](https://leetcode.com/problems/map-of-highest-peak)|||Medium|
 |1878|[check-if-array-is-sorted-and-rotated](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated)|||Easy|
@@ -2279,6 +2279,10 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |2591|[frog-jump-ii](https://leetcode.com/problems/frog-jump-ii)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/2591-frog-jump-ii/frog-jump-ii.py)||Medium|
 |2592|[minimum-total-cost-to-make-arrays-unequal](https://leetcode.com/problems/minimum-total-cost-to-make-arrays-unequal)|||Hard|
 |2593|[number-of-distinct-binary-strings-after-applying-operations](https://leetcode.com/problems/number-of-distinct-binary-strings-after-applying-operations)|:lock:||Medium|
+|2594|[count-pairs-of-similar-strings](https://leetcode.com/problems/count-pairs-of-similar-strings)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/2594-count-pairs-of-similar-strings/count-pairs-of-similar-strings.py)||Easy|
+|2595|[smallest-value-after-replacing-with-sum-of-prime-factors](https://leetcode.com/problems/smallest-value-after-replacing-with-sum-of-prime-factors)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/2595-smallest-value-after-replacing-with-sum-of-prime-factors/smallest-value-after-replacing-with-sum-of-prime-factors.py)||Medium|
+|2596|[add-edges-to-make-degrees-of-all-nodes-even](https://leetcode.com/problems/add-edges-to-make-degrees-of-all-nodes-even)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/2596-add-edges-to-make-degrees-of-all-nodes-even/add-edges-to-make-degrees-of-all-nodes-even.py)||Hard|
+|2597|[cycle-length-queries-in-a-tree](https://leetcode.com/problems/cycle-length-queries-in-a-tree)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/2597-cycle-length-queries-in-a-tree/cycle-length-queries-in-a-tree.py)||Hard|
 |2606|[difference-between-ones-and-zeros-in-row-and-column](https://leetcode.com/problems/difference-between-ones-and-zeros-in-row-and-column)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/2606-difference-between-ones-and-zeros-in-row-and-column/difference-between-ones-and-zeros-in-row-and-column.py)||Medium|
 |2607|[minimum-subarrays-in-a-valid-split](https://leetcode.com/problems/minimum-subarrays-in-a-valid-split)|:lock:||Medium|
 |2612|[minimum-cost-to-buy-apples](https://leetcode.com/problems/minimum-cost-to-buy-apples)|:lock:||Medium|
