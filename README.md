@@ -1,7 +1,7 @@
 # :pencil2: Leetcode Solutions with Python3,Cpp
-Update time:  2022-12-20 12:45:38
+Update time:  2022-12-21 12:46:26
 
-I have solved **595   /   2276** problems
+I have solved **596   /   2276** problems
 while there are **346** problems still locked.
 
 If you have any question, please give me an [issue](https://github.com/hlnn/leetcode/issues).
@@ -1653,7 +1653,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |1883|[find-distance-in-a-binary-tree](https://leetcode.com/problems/find-distance-in-a-binary-tree)|:lock:||Medium|
 |1884|[minimum-changes-to-make-alternating-binary-string](https://leetcode.com/problems/minimum-changes-to-make-alternating-binary-string)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/1884-minimum-changes-to-make-alternating-binary-string/minimum-changes-to-make-alternating-binary-string.py)||Easy|
 |1885|[count-number-of-homogenous-substrings](https://leetcode.com/problems/count-number-of-homogenous-substrings)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/1885-count-number-of-homogenous-substrings/count-number-of-homogenous-substrings.py)||Medium|
-|1886|[minimum-limit-of-balls-in-a-bag](https://leetcode.com/problems/minimum-limit-of-balls-in-a-bag)|||Medium|
+|1886|[minimum-limit-of-balls-in-a-bag](https://leetcode.com/problems/minimum-limit-of-balls-in-a-bag)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/1886-minimum-limit-of-balls-in-a-bag/minimum-limit-of-balls-in-a-bag.py)||Medium|
 |1887|[minimum-degree-of-a-connected-trio-in-a-graph](https://leetcode.com/problems/minimum-degree-of-a-connected-trio-in-a-graph)|||Hard|
 |1888|[find-nearest-point-that-has-the-same-x-or-y-coordinate](https://leetcode.com/problems/find-nearest-point-that-has-the-same-x-or-y-coordinate)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/1888-find-nearest-point-that-has-the-same-x-or-y-coordinate/find-nearest-point-that-has-the-same-x-or-y-coordinate.py)||Easy|
 |1889|[check-if-number-is-a-sum-of-powers-of-three](https://leetcode.com/problems/check-if-number-is-a-sum-of-powers-of-three)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/1889-check-if-number-is-a-sum-of-powers-of-three/check-if-number-is-a-sum-of-powers-of-three.py)||Medium|

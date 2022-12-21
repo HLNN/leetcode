@@ -60,7 +60,6 @@ class Solution:
         if not odd: return True
                 
         odd.sort(key=lambda x: len(x[1]), reverse=True)
-        print(odd)
         if len(odd) == 2:
             a, b = [x[0] for x in odd]
             return a not in dd[b] or any([a not in dd[i] and b not in dd[i] for i in range(1, n + 1) if i != a and i != b])
