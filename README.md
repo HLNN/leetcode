@@ -1,8 +1,8 @@
 # :pencil2: Leetcode Solutions with Python3,Cpp
-Update time:  2022-12-21 12:46:26
+Update time:  2022-12-26 12:47:40
 
-I have solved **596   /   2276** problems
-while there are **346** problems still locked.
+I have solved **597   /   2285** problems
+while there are **347** problems still locked.
 
 If you have any question, please give me an [issue](https://github.com/hlnn/leetcode/issues).
 
@@ -479,7 +479,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |488|[zuma-game](https://leetcode.com/problems/zuma-game)|||Hard|
 |489|[kth-smallest-instructions](https://leetcode.com/problems/kth-smallest-instructions)|||Hard|
 |490|[the-maze](https://leetcode.com/problems/the-maze)|:lock:|[:memo:](https://leetcode.com/articles/the-maze/)|Medium|
-|491|[increasing-subsequences](https://leetcode.com/problems/increasing-subsequences)||[:memo:](https://leetcode.com/articles/increasing-subsequences/)|Medium|
+|491|[non-decreasing-subsequences](https://leetcode.com/problems/non-decreasing-subsequences)||[:memo:](https://leetcode.com/articles/increasing-subsequences/)|Medium|
 |492|[construct-the-rectangle](https://leetcode.com/problems/construct-the-rectangle)|||Easy|
 |493|[reverse-pairs](https://leetcode.com/problems/reverse-pairs)||[:memo:](https://leetcode.com/articles/reverse-pairs/)|Hard|
 |494|[target-sum](https://leetcode.com/problems/target-sum)||[:memo:](https://leetcode.com/articles/target-sum/)|Medium|
@@ -984,7 +984,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |1053|[minimize-rounding-error-to-meet-target](https://leetcode.com/problems/minimize-rounding-error-to-meet-target)|:lock:||Medium|
 |1054|[complement-of-base-10-integer](https://leetcode.com/problems/complement-of-base-10-integer)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/1054-complement-of-base-10-integer/complement-of-base-10-integer.py)|[:memo:](https://leetcode.com/articles/complement-of-base-10-integer/)|Easy|
 |1055|[pairs-of-songs-with-total-durations-divisible-by-60](https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60)||[:memo:](https://leetcode.com/articles/pairs-of-songs-with-total-durations-divisible-by-60/)|Medium|
-|1056|[capacity-to-ship-packages-within-d-days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/1056-capacity-to-ship-packages-within-d-days/capacity-to-ship-packages-within-d-days.py)||Medium|
+|1056|[capacity-to-ship-packages-within-d-days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/1056-capacity-to-ship-packages-within-d-days/capacity-to-ship-packages-within-d-days.py)|[:memo:](https://leetcode.com/articles/capacity-to-ship-packages-within-d-days/)|Medium|
 |1057|[numbers-with-repeated-digits](https://leetcode.com/problems/numbers-with-repeated-digits)|||Hard|
 |1058|[lexicographically-smallest-equivalent-string](https://leetcode.com/problems/lexicographically-smallest-equivalent-string)|:lock:|[:memo:](https://leetcode.com/articles/lexicographically-smallest-equivalent-string/)|Medium|
 |1059|[missing-element-in-sorted-array](https://leetcode.com/problems/missing-element-in-sorted-array)|:lock:|[:memo:](https://leetcode.com/articles/missing-element-in-sorted-array/)|Medium|
@@ -1866,7 +1866,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |2129|[number-of-pairs-of-interchangeable-rectangles](https://leetcode.com/problems/number-of-pairs-of-interchangeable-rectangles)|||Medium|
 |2130|[maximum-product-of-the-length-of-two-palindromic-subsequences](https://leetcode.com/problems/maximum-product-of-the-length-of-two-palindromic-subsequences)|||Medium|
 |2131|[smallest-missing-genetic-value-in-each-subtree](https://leetcode.com/problems/smallest-missing-genetic-value-in-each-subtree)|||Hard|
-|2132|[convert-1d-array-into-2d-array](https://leetcode.com/problems/convert-1d-array-into-2d-array)|||Easy|
+|2132|[convert-1d-array-into-2d-array](https://leetcode.com/problems/convert-1d-array-into-2d-array)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/2132-convert-1d-array-into-2d-array/convert-1d-array-into-2d-array.py)||Easy|
 |2133|[number-of-pairs-of-strings-with-concatenation-equal-to-target](https://leetcode.com/problems/number-of-pairs-of-strings-with-concatenation-equal-to-target)|||Medium|
 |2134|[maximize-the-confusion-of-an-exam](https://leetcode.com/problems/maximize-the-confusion-of-an-exam)|||Medium|
 |2135|[maximum-number-of-ways-to-partition-an-array](https://leetcode.com/problems/maximum-number-of-ways-to-partition-an-array)|||Hard|
@@ -2283,10 +2283,19 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |2595|[smallest-value-after-replacing-with-sum-of-prime-factors](https://leetcode.com/problems/smallest-value-after-replacing-with-sum-of-prime-factors)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/2595-smallest-value-after-replacing-with-sum-of-prime-factors/smallest-value-after-replacing-with-sum-of-prime-factors.py)||Medium|
 |2596|[add-edges-to-make-degrees-of-all-nodes-even](https://leetcode.com/problems/add-edges-to-make-degrees-of-all-nodes-even)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/2596-add-edges-to-make-degrees-of-all-nodes-even/add-edges-to-make-degrees-of-all-nodes-even.py)||Hard|
 |2597|[cycle-length-queries-in-a-tree](https://leetcode.com/problems/cycle-length-queries-in-a-tree)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/2597-cycle-length-queries-in-a-tree/cycle-length-queries-in-a-tree.py)||Hard|
+|2598|[shortest-distance-to-target-string-in-a-circular-array](https://leetcode.com/problems/shortest-distance-to-target-string-in-a-circular-array)|||Easy|
+|2599|[take-k-of-each-character-from-left-and-right](https://leetcode.com/problems/take-k-of-each-character-from-left-and-right)|||Medium|
+|2600|[maximum-tastiness-of-candy-basket](https://leetcode.com/problems/maximum-tastiness-of-candy-basket)|||Medium|
+|2601|[number-of-great-partitions](https://leetcode.com/problems/number-of-great-partitions)|||Hard|
+|2602|[maximum-enemy-forts-that-can-be-captured](https://leetcode.com/problems/maximum-enemy-forts-that-can-be-captured)|||Easy|
+|2603|[reward-top-k-students](https://leetcode.com/problems/reward-top-k-students)|||Medium|
+|2605|[count-anagrams](https://leetcode.com/problems/count-anagrams)|||Hard|
 |2606|[difference-between-ones-and-zeros-in-row-and-column](https://leetcode.com/problems/difference-between-ones-and-zeros-in-row-and-column)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/2606-difference-between-ones-and-zeros-in-row-and-column/difference-between-ones-and-zeros-in-row-and-column.py)||Medium|
 |2607|[minimum-subarrays-in-a-valid-split](https://leetcode.com/problems/minimum-subarrays-in-a-valid-split)|:lock:||Medium|
 |2612|[minimum-cost-to-buy-apples](https://leetcode.com/problems/minimum-cost-to-buy-apples)|:lock:||Medium|
 |2623|[maximum-xor-of-two-non-overlapping-subtrees](https://leetcode.com/problems/maximum-xor-of-two-non-overlapping-subtrees)|:lock:||Hard|
+|2628|[minimize-the-maximum-of-two-arrays](https://leetcode.com/problems/minimize-the-maximum-of-two-arrays)|||Medium|
 |2629|[number-of-substrings-with-fixed-ratio](https://leetcode.com/problems/number-of-substrings-with-fixed-ratio)|:lock:||Medium|
 |2638|[number-of-subarrays-having-even-product](https://leetcode.com/problems/number-of-subarrays-having-even-product)|:lock:||Medium|
 |2644|[bitwise-or-of-all-subsequence-sums](https://leetcode.com/problems/bitwise-or-of-all-subsequence-sums)|:lock:||Medium|
+|2653|[check-if-there-is-a-path-with-equal-number-of-0s-and-1s](https://leetcode.com/problems/check-if-there-is-a-path-with-equal-number-of-0s-and-1s)|:lock:||Medium|
