@@ -1,8 +1,8 @@
 # :pencil2: Leetcode Solutions with Python3,Cpp
-Update time:  2022-12-27 12:46:30
+Update time:  2022-12-29 12:46:24
 
-I have solved **598   /   2285** problems
-while there are **347** problems still locked.
+I have solved **601   /   2286** problems
+while there are **348** problems still locked.
 
 If you have any question, please give me an [issue](https://github.com/hlnn/leetcode/issues).
 
@@ -677,7 +677,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |734|[sentence-similarity](https://leetcode.com/problems/sentence-similarity)|:lock:|[:memo:](https://leetcode.com/articles/sentence-similarity/)|Easy|
 |735|[asteroid-collision](https://leetcode.com/problems/asteroid-collision)||[:memo:](https://leetcode.com/articles/asteroid-collision/)|Medium|
 |736|[parse-lisp-expression](https://leetcode.com/problems/parse-lisp-expression)||[:memo:](https://leetcode.com/articles/parse-lisp-expression/)|Hard|
-|737|[sentence-similarity-ii](https://leetcode.com/problems/sentence-similarity-ii)|:lock:|[:memo:](https://leetcode.com/articles/sentence-similarity-ii/)|Medium|
+|737|[sentence-similarity-ii](https://leetcode.com/problems/sentence-similarity-ii)|:lock:||Medium|
 |738|[monotone-increasing-digits](https://leetcode.com/problems/monotone-increasing-digits)||[:memo:](https://leetcode.com/articles/monotone-increasing-digits/)|Medium|
 |739|[daily-temperatures](https://leetcode.com/problems/daily-temperatures)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0739-daily-temperatures/daily-temperatures.py)|[:memo:](https://leetcode.com/articles/daily-temperatures/)|Medium|
 |740|[delete-and-earn](https://leetcode.com/problems/delete-and-earn)||[:memo:](https://leetcode.com/articles/delete-and-earn/)|Medium|
@@ -1443,7 +1443,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |1627|[last-moment-before-all-ants-fall-out-of-a-plank](https://leetcode.com/problems/last-moment-before-all-ants-fall-out-of-a-plank)|||Medium|
 |1628|[count-submatrices-with-all-ones](https://leetcode.com/problems/count-submatrices-with-all-ones)|||Medium|
 |1629|[minimum-possible-integer-after-at-most-k-adjacent-swaps-on-digits](https://leetcode.com/problems/minimum-possible-integer-after-at-most-k-adjacent-swaps-on-digits)|||Hard|
-|1630|[count-odd-numbers-in-an-interval-range](https://leetcode.com/problems/count-odd-numbers-in-an-interval-range)|||Easy|
+|1630|[count-odd-numbers-in-an-interval-range](https://leetcode.com/problems/count-odd-numbers-in-an-interval-range)||[:memo:](https://leetcode.com/articles/count-odd-numbers-in-an-interval-range/)|Easy|
 |1631|[number-of-sub-arrays-with-odd-sum](https://leetcode.com/problems/number-of-sub-arrays-with-odd-sum)|||Medium|
 |1632|[number-of-good-ways-to-split-a-string](https://leetcode.com/problems/number-of-good-ways-to-split-a-string)|||Medium|
 |1633|[minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://leetcode.com/problems/minimum-number-of-increments-on-subarrays-to-form-a-target-array)|||Hard|
@@ -1632,7 +1632,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |1847|[largest-subarray-length-k](https://leetcode.com/problems/largest-subarray-length-k)|:lock:||Easy|
 |1848|[sum-of-unique-elements](https://leetcode.com/problems/sum-of-unique-elements)|||Easy|
 |1849|[maximum-absolute-sum-of-any-subarray](https://leetcode.com/problems/maximum-absolute-sum-of-any-subarray)|||Medium|
-|1850|[minimum-length-of-string-after-deleting-similar-ends](https://leetcode.com/problems/minimum-length-of-string-after-deleting-similar-ends)|||Medium|
+|1850|[minimum-length-of-string-after-deleting-similar-ends](https://leetcode.com/problems/minimum-length-of-string-after-deleting-similar-ends)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/1850-minimum-length-of-string-after-deleting-similar-ends/minimum-length-of-string-after-deleting-similar-ends.py)||Medium|
 |1851|[maximum-number-of-events-that-can-be-attended-ii](https://leetcode.com/problems/maximum-number-of-events-that-can-be-attended-ii)|||Hard|
 |1858|[latest-time-by-replacing-hidden-digits](https://leetcode.com/problems/latest-time-by-replacing-hidden-digits)|||Easy|
 |1859|[change-minimum-characters-to-satisfy-one-of-three-conditions](https://leetcode.com/problems/change-minimum-characters-to-satisfy-one-of-three-conditions)|||Medium|
@@ -1833,7 +1833,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |2090|[number-of-ways-to-arrive-at-destination](https://leetcode.com/problems/number-of-ways-to-arrive-at-destination)|||Medium|
 |2091|[number-of-ways-to-separate-numbers](https://leetcode.com/problems/number-of-ways-to-separate-numbers)|||Hard|
 |2093|[check-if-string-is-a-prefix-of-array](https://leetcode.com/problems/check-if-string-is-a-prefix-of-array)|||Easy|
-|2094|[remove-stones-to-minimize-the-total](https://leetcode.com/problems/remove-stones-to-minimize-the-total)||[:memo:](https://leetcode.com/articles/remove-stones-to-minimize-the-total/)|Medium|
+|2094|[remove-stones-to-minimize-the-total](https://leetcode.com/problems/remove-stones-to-minimize-the-total)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/2094-remove-stones-to-minimize-the-total/remove-stones-to-minimize-the-total.py)|[:memo:](https://leetcode.com/articles/remove-stones-to-minimize-the-total/)|Medium|
 |2095|[minimum-number-of-swaps-to-make-the-string-balanced](https://leetcode.com/problems/minimum-number-of-swaps-to-make-the-string-balanced)|||Medium|
 |2096|[find-the-longest-valid-obstacle-course-at-each-position](https://leetcode.com/problems/find-the-longest-valid-obstacle-course-at-each-position)|||Hard|
 |2099|[number-of-strings-that-appear-as-substrings-in-word](https://leetcode.com/problems/number-of-strings-that-appear-as-substrings-in-word)|||Easy|
@@ -1889,7 +1889,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |2155|[find-missing-observations](https://leetcode.com/problems/find-missing-observations)|||Medium|
 |2156|[stone-game-ix](https://leetcode.com/problems/stone-game-ix)|||Medium|
 |2157|[smallest-k-length-subsequence-with-occurrences-of-a-letter](https://leetcode.com/problems/smallest-k-length-subsequence-with-occurrences-of-a-letter)|||Hard|
-|2159|[two-out-of-three](https://leetcode.com/problems/two-out-of-three)|||Easy|
+|2159|[two-out-of-three](https://leetcode.com/problems/two-out-of-three)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/2159-two-out-of-three/two-out-of-three.py)||Easy|
 |2160|[minimum-operations-to-make-a-uni-value-grid](https://leetcode.com/problems/minimum-operations-to-make-a-uni-value-grid)|||Medium|
 |2161|[stock-price-fluctuation](https://leetcode.com/problems/stock-price-fluctuation)||[:memo:](https://leetcode.com/articles/stock-price-fluctuation/)|Medium|
 |2162|[partition-array-into-two-arrays-to-minimize-sum-difference](https://leetcode.com/problems/partition-array-into-two-arrays-to-minimize-sum-difference)|||Hard|
@@ -2299,3 +2299,4 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |2638|[number-of-subarrays-having-even-product](https://leetcode.com/problems/number-of-subarrays-having-even-product)|:lock:||Medium|
 |2644|[bitwise-or-of-all-subsequence-sums](https://leetcode.com/problems/bitwise-or-of-all-subsequence-sums)|:lock:||Medium|
 |2653|[check-if-there-is-a-path-with-equal-number-of-0s-and-1s](https://leetcode.com/problems/check-if-there-is-a-path-with-equal-number-of-0s-and-1s)|:lock:||Medium|
+|2658|[count-the-number-of-k-big-indices](https://leetcode.com/problems/count-the-number-of-k-big-indices)|:lock:||Hard|
