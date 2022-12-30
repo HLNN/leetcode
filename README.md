@@ -1,7 +1,7 @@
 # :pencil2: Leetcode Solutions with Python3,Cpp
-Update time:  2022-12-29 12:46:24
+Update time:  2022-12-30 12:55:53
 
-I have solved **601   /   2286** problems
+I have solved **602   /   2286** problems
 while there are **348** problems still locked.
 
 If you have any question, please give me an [issue](https://github.com/hlnn/leetcode/issues).
@@ -602,7 +602,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |648|[replace-words](https://leetcode.com/problems/replace-words)||[:memo:](https://leetcode.com/articles/replace-words/)|Medium|
 |649|[dota2-senate](https://leetcode.com/problems/dota2-senate)||[:memo:](https://leetcode.com/articles/dota2-senate/)|Medium|
 |650|[2-keys-keyboard](https://leetcode.com/problems/2-keys-keyboard)||[:memo:](https://leetcode.com/articles/2-keys-keyboard/)|Medium|
-|651|[4-keys-keyboard](https://leetcode.com/problems/4-keys-keyboard)|:lock:|[:memo:](https://leetcode.com/articles/4-keys-keyboard/)|Medium|
+|651|[4-keys-keyboard](https://leetcode.com/problems/4-keys-keyboard)|:lock:||Medium|
 |652|[find-duplicate-subtrees](https://leetcode.com/problems/find-duplicate-subtrees)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0652-find-duplicate-subtrees/find-duplicate-subtrees.py)|[:memo:](https://leetcode.com/articles/find-duplicate-subtrees/)|Medium|
 |653|[two-sum-iv-input-is-a-bst](https://leetcode.com/problems/two-sum-iv-input-is-a-bst)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0653-two-sum-iv-input-is-a-bst/two-sum-iv-input-is-a-bst.py)|[:memo:](https://leetcode.com/articles/two-sum-iv/)|Easy|
 |654|[maximum-binary-tree](https://leetcode.com/problems/maximum-binary-tree)||[:memo:](https://leetcode.com/articles/maximum-binary-tree/)|Medium|
@@ -677,7 +677,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |734|[sentence-similarity](https://leetcode.com/problems/sentence-similarity)|:lock:|[:memo:](https://leetcode.com/articles/sentence-similarity/)|Easy|
 |735|[asteroid-collision](https://leetcode.com/problems/asteroid-collision)||[:memo:](https://leetcode.com/articles/asteroid-collision/)|Medium|
 |736|[parse-lisp-expression](https://leetcode.com/problems/parse-lisp-expression)||[:memo:](https://leetcode.com/articles/parse-lisp-expression/)|Hard|
-|737|[sentence-similarity-ii](https://leetcode.com/problems/sentence-similarity-ii)|:lock:||Medium|
+|737|[sentence-similarity-ii](https://leetcode.com/problems/sentence-similarity-ii)|:lock:|[:memo:](https://leetcode.com/articles/sentence-similarity-ii/)|Medium|
 |738|[monotone-increasing-digits](https://leetcode.com/problems/monotone-increasing-digits)||[:memo:](https://leetcode.com/articles/monotone-increasing-digits/)|Medium|
 |739|[daily-temperatures](https://leetcode.com/problems/daily-temperatures)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0739-daily-temperatures/daily-temperatures.py)|[:memo:](https://leetcode.com/articles/daily-temperatures/)|Medium|
 |740|[delete-and-earn](https://leetcode.com/problems/delete-and-earn)||[:memo:](https://leetcode.com/articles/delete-and-earn/)|Medium|
@@ -712,7 +712,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |769|[largest-plus-sign](https://leetcode.com/problems/largest-plus-sign)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0769-largest-plus-sign/largest-plus-sign.py)|[:memo:](https://leetcode.com/articles/largest-plus-sign/)|Medium|
 |770|[couples-holding-hands](https://leetcode.com/problems/couples-holding-hands)||[:memo:](https://leetcode.com/articles/couples-holding-hands/)|Hard|
 |771|[encode-n-ary-tree-to-binary-tree](https://leetcode.com/problems/encode-n-ary-tree-to-binary-tree)|:lock:|[:memo:](https://leetcode.com/articles/encode-n-ary-tree-to-binary-tree/)|Hard|
-|772|[construct-quad-tree](https://leetcode.com/problems/construct-quad-tree)|||Medium|
+|772|[construct-quad-tree](https://leetcode.com/problems/construct-quad-tree)||[:memo:](https://leetcode.com/articles/construct-quad-tree/)|Medium|
 |773|[logical-or-of-two-binary-grids-represented-as-quad-trees](https://leetcode.com/problems/logical-or-of-two-binary-grids-represented-as-quad-trees)|||Medium|
 |774|[maximum-depth-of-n-ary-tree](https://leetcode.com/problems/maximum-depth-of-n-ary-tree)||[:memo:](https://leetcode.com/articles/maximum-depth-of-n-ary-tree/)|Easy|
 |775|[n-ary-tree-preorder-traversal](https://leetcode.com/problems/n-ary-tree-preorder-traversal)||[:memo:](https://leetcode.com/articles/n-ary-tree-preorder-traversal/)|Easy|
@@ -1718,7 +1718,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |1959|[minimum-path-cost-in-a-hidden-grid](https://leetcode.com/problems/minimum-path-cost-in-a-hidden-grid)|:lock:||Medium|
 |1960|[check-if-the-sentence-is-pangram](https://leetcode.com/problems/check-if-the-sentence-is-pangram)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/1960-check-if-the-sentence-is-pangram/check-if-the-sentence-is-pangram.py)|[:memo:](https://leetcode.com/articles/check-if-the-sentence-is-pangram/)|Easy|
 |1961|[maximum-ice-cream-bars](https://leetcode.com/problems/maximum-ice-cream-bars)||[:memo:](https://leetcode.com/articles/maximum-ice-cream-bars/)|Medium|
-|1962|[single-threaded-cpu](https://leetcode.com/problems/single-threaded-cpu)||[:memo:](https://leetcode.com/articles/single-threaded-cpu/)|Medium|
+|1962|[single-threaded-cpu](https://leetcode.com/problems/single-threaded-cpu)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/1962-single-threaded-cpu/single-threaded-cpu.py)|[:memo:](https://leetcode.com/articles/single-threaded-cpu/)|Medium|
 |1963|[find-xor-sum-of-all-pairs-bitwise-and](https://leetcode.com/problems/find-xor-sum-of-all-pairs-bitwise-and)|||Hard|
 |1965|[sum-of-digits-in-base-k](https://leetcode.com/problems/sum-of-digits-in-base-k)|||Easy|
 |1966|[frequency-of-the-most-frequent-element](https://leetcode.com/problems/frequency-of-the-most-frequent-element)|||Medium|
