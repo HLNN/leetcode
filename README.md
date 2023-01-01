@@ -1,7 +1,7 @@
 # :pencil2: Leetcode Solutions with Python3,Cpp
-Update time:  2022-12-30 12:55:53
+Update time:  2023-01-01 12:45:52
 
-I have solved **602   /   2286** problems
+I have solved **603   /   2290** problems
 while there are **348** problems still locked.
 
 If you have any question, please give me an [issue](https://github.com/hlnn/leetcode/issues).
@@ -602,7 +602,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |648|[replace-words](https://leetcode.com/problems/replace-words)||[:memo:](https://leetcode.com/articles/replace-words/)|Medium|
 |649|[dota2-senate](https://leetcode.com/problems/dota2-senate)||[:memo:](https://leetcode.com/articles/dota2-senate/)|Medium|
 |650|[2-keys-keyboard](https://leetcode.com/problems/2-keys-keyboard)||[:memo:](https://leetcode.com/articles/2-keys-keyboard/)|Medium|
-|651|[4-keys-keyboard](https://leetcode.com/problems/4-keys-keyboard)|:lock:||Medium|
+|651|[4-keys-keyboard](https://leetcode.com/problems/4-keys-keyboard)|:lock:|[:memo:](https://leetcode.com/articles/4-keys-keyboard/)|Medium|
 |652|[find-duplicate-subtrees](https://leetcode.com/problems/find-duplicate-subtrees)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0652-find-duplicate-subtrees/find-duplicate-subtrees.py)|[:memo:](https://leetcode.com/articles/find-duplicate-subtrees/)|Medium|
 |653|[two-sum-iv-input-is-a-bst](https://leetcode.com/problems/two-sum-iv-input-is-a-bst)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0653-two-sum-iv-input-is-a-bst/two-sum-iv-input-is-a-bst.py)|[:memo:](https://leetcode.com/articles/two-sum-iv/)|Easy|
 |654|[maximum-binary-tree](https://leetcode.com/problems/maximum-binary-tree)||[:memo:](https://leetcode.com/articles/maximum-binary-tree/)|Medium|
@@ -1414,7 +1414,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |1575|[maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts](https://leetcode.com/problems/maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/1575-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts/maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts.py)|[:memo:](https://leetcode.com/articles/maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts/)|Medium|
 |1576|[reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://leetcode.com/problems/reorder-routes-to-make-all-paths-lead-to-the-city-zero)|||Medium|
 |1577|[probability-of-a-two-boxes-having-the-same-number-of-distinct-balls](https://leetcode.com/problems/probability-of-a-two-boxes-having-the-same-number-of-distinct-balls)|||Hard|
-|1580|[shuffle-the-array](https://leetcode.com/problems/shuffle-the-array)|||Easy|
+|1580|[shuffle-the-array](https://leetcode.com/problems/shuffle-the-array)||[:memo:](https://leetcode.com/articles/shuffle-the-array/)|Easy|
 |1581|[the-k-strongest-values-in-an-array](https://leetcode.com/problems/the-k-strongest-values-in-an-array)|||Medium|
 |1582|[design-browser-history](https://leetcode.com/problems/design-browser-history)|||Medium|
 |1583|[paint-house-iii](https://leetcode.com/problems/paint-house-iii)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/1583-paint-house-iii/paint-house-iii.py)|[:memo:](https://leetcode.com/articles/paint-house-iii/)|Hard|
@@ -1880,7 +1880,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |2145|[grid-game](https://leetcode.com/problems/grid-game)|||Medium|
 |2146|[check-if-word-can-be-placed-in-crossword](https://leetcode.com/problems/check-if-word-can-be-placed-in-crossword)|||Medium|
 |2147|[the-score-of-students-solving-math-expression](https://leetcode.com/problems/the-score-of-students-solving-math-expression)|||Hard|
-|2148|[minimum-number-of-moves-to-seat-everyone](https://leetcode.com/problems/minimum-number-of-moves-to-seat-everyone)|||Easy|
+|2148|[minimum-number-of-moves-to-seat-everyone](https://leetcode.com/problems/minimum-number-of-moves-to-seat-everyone)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/2148-minimum-number-of-moves-to-seat-everyone/minimum-number-of-moves-to-seat-everyone.py)||Easy|
 |2149|[remove-colored-pieces-if-both-neighbors-are-the-same-color](https://leetcode.com/problems/remove-colored-pieces-if-both-neighbors-are-the-same-color)|||Medium|
 |2150|[kth-smallest-product-of-two-sorted-arrays](https://leetcode.com/problems/kth-smallest-product-of-two-sorted-arrays)|||Hard|
 |2151|[the-time-when-the-network-becomes-idle](https://leetcode.com/problems/the-time-when-the-network-becomes-idle)|||Medium|
@@ -2204,6 +2204,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |2508|[maximum-sum-of-an-hourglass](https://leetcode.com/problems/maximum-sum-of-an-hourglass)|||Medium|
 |2509|[minimize-xor](https://leetcode.com/problems/minimize-xor)|||Medium|
 |2510|[maximum-deletions-on-a-string](https://leetcode.com/problems/maximum-deletions-on-a-string)|||Hard|
+|2511|[partition-string-into-substrings-with-values-at-most-k](https://leetcode.com/problems/partition-string-into-substrings-with-values-at-most-k)|||Medium|
 |2512|[longest-uploaded-prefix](https://leetcode.com/problems/longest-uploaded-prefix)|||Medium|
 |2513|[number-of-pairs-satisfying-inequality](https://leetcode.com/problems/number-of-pairs-satisfying-inequality)|||Hard|
 |2517|[choose-edges-to-maximize-score-in-a-tree](https://leetcode.com/problems/choose-edges-to-maximize-score-in-a-tree)|:lock:||Medium|
@@ -2292,6 +2293,9 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |2605|[count-anagrams](https://leetcode.com/problems/count-anagrams)|||Hard|
 |2606|[difference-between-ones-and-zeros-in-row-and-column](https://leetcode.com/problems/difference-between-ones-and-zeros-in-row-and-column)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/2606-difference-between-ones-and-zeros-in-row-and-column/difference-between-ones-and-zeros-in-row-and-column.py)||Medium|
 |2607|[minimum-subarrays-in-a-valid-split](https://leetcode.com/problems/minimum-subarrays-in-a-valid-split)|:lock:||Medium|
+|2608|[count-the-digits-that-divide-a-number](https://leetcode.com/problems/count-the-digits-that-divide-a-number)|||Easy|
+|2609|[distinct-prime-factors-of-product-of-array](https://leetcode.com/problems/distinct-prime-factors-of-product-of-array)|||Medium|
+|2610|[closest-prime-numbers-in-range](https://leetcode.com/problems/closest-prime-numbers-in-range)|||Medium|
 |2612|[minimum-cost-to-buy-apples](https://leetcode.com/problems/minimum-cost-to-buy-apples)|:lock:||Medium|
 |2623|[maximum-xor-of-two-non-overlapping-subtrees](https://leetcode.com/problems/maximum-xor-of-two-non-overlapping-subtrees)|:lock:||Hard|
 |2628|[minimize-the-maximum-of-two-arrays](https://leetcode.com/problems/minimize-the-maximum-of-two-arrays)|||Medium|
