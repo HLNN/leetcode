@@ -1,7 +1,7 @@
 # :pencil2: Leetcode Solutions with Python3,Cpp
-Update time:  2023-01-01 12:45:52
+Update time:  2023-01-02 12:47:50
 
-I have solved **603   /   2290** problems
+I have solved **605   /   2290** problems
 while there are **348** problems still locked.
 
 If you have any question, please give me an [issue](https://github.com/hlnn/leetcode/issues).
@@ -454,7 +454,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |461|[hamming-distance](https://leetcode.com/problems/hamming-distance)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0461-hamming-distance/hamming-distance.py)|[:memo:](https://leetcode.com/articles/hamming-distance/)|Easy|
 |462|[minimum-moves-to-equal-array-elements-ii](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0462-minimum-moves-to-equal-array-elements-ii/minimum-moves-to-equal-array-elements-ii.py)|[:memo:](https://leetcode.com/articles/minimum-moves-to-equal-array-elements-ii/)|Medium|
 |463|[island-perimeter](https://leetcode.com/problems/island-perimeter)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0463-island-perimeter/island-perimeter.py)|[:memo:](https://leetcode.com/articles/island-perimeter/)|Easy|
-|464|[can-i-win](https://leetcode.com/problems/can-i-win)|||Medium|
+|464|[can-i-win](https://leetcode.com/problems/can-i-win)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0464-can-i-win/can-i-win.py)||Medium|
 |465|[optimal-account-balancing](https://leetcode.com/problems/optimal-account-balancing)|:lock:||Hard|
 |466|[count-the-repetitions](https://leetcode.com/problems/count-the-repetitions)||[:memo:](https://leetcode.com/articles/count-the-repetitions/)|Hard|
 |467|[unique-substrings-in-wraparound-string](https://leetcode.com/problems/unique-substrings-in-wraparound-string)|||Medium|
@@ -2132,7 +2132,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |2423|[minimum-deletions-to-make-array-divisible](https://leetcode.com/problems/minimum-deletions-to-make-array-divisible)|||Hard|
 |2425|[number-of-people-that-can-be-seen-in-a-grid](https://leetcode.com/problems/number-of-people-that-can-be-seen-in-a-grid)|:lock:||Medium|
 |2426|[maximum-profit-from-trading-stocks](https://leetcode.com/problems/maximum-profit-from-trading-stocks)|:lock:||Medium|
-|2427|[first-letter-to-appear-twice](https://leetcode.com/problems/first-letter-to-appear-twice)|||Easy|
+|2427|[first-letter-to-appear-twice](https://leetcode.com/problems/first-letter-to-appear-twice)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/2427-first-letter-to-appear-twice/first-letter-to-appear-twice.py)||Easy|
 |2428|[equal-row-and-column-pairs](https://leetcode.com/problems/equal-row-and-column-pairs)|||Medium|
 |2429|[design-a-food-rating-system](https://leetcode.com/problems/design-a-food-rating-system)|||Medium|
 |2430|[number-of-excellent-pairs](https://leetcode.com/problems/number-of-excellent-pairs)|||Hard|
