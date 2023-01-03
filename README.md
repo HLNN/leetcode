@@ -1,7 +1,7 @@
 # :pencil2: Leetcode Solutions with Python3,Cpp
-Update time:  2023-01-02 12:47:50
+Update time:  2023-01-03 12:56:03
 
-I have solved **605   /   2290** problems
+I have solved **607   /   2290** problems
 while there are **348** problems still locked.
 
 If you have any question, please give me an [issue](https://github.com/hlnn/leetcode/issues).
@@ -418,7 +418,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |419|[battleships-in-a-board](https://leetcode.com/problems/battleships-in-a-board)|||Medium|
 |420|[strong-password-checker](https://leetcode.com/problems/strong-password-checker)|||Hard|
 |421|[maximum-xor-of-two-numbers-in-an-array](https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0421-maximum-xor-of-two-numbers-in-an-array/maximum-xor-of-two-numbers-in-an-array.py)|[:memo:](https://leetcode.com/articles/maximum-xor-of-two-numbers-in-an-array/)|Medium|
-|422|[valid-word-square](https://leetcode.com/problems/valid-word-square)|:lock:||Easy|
+|422|[valid-word-square](https://leetcode.com/problems/valid-word-square)|:lock:|[:memo:](https://leetcode.com/articles/valid-word-square/)|Easy|
 |423|[reconstruct-original-digits-from-english](https://leetcode.com/problems/reconstruct-original-digits-from-english)||[:memo:](https://leetcode.com/articles/reconstruct-original-digits-from-english/)|Medium|
 |424|[longest-repeating-character-replacement](https://leetcode.com/problems/longest-repeating-character-replacement)||[:memo:](https://leetcode.com/articles/longest-repeating-character-replacement/)|Medium|
 |425|[word-squares](https://leetcode.com/problems/word-squares)|:lock:|[:memo:](https://leetcode.com/articles/word-squares/)|Hard|
@@ -545,7 +545,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |556|[next-greater-element-iii](https://leetcode.com/problems/next-greater-element-iii)||[:memo:](https://leetcode.com/articles/next-greater-element-iii/)|Medium|
 |557|[reverse-words-in-a-string-iii](https://leetcode.com/problems/reverse-words-in-a-string-iii)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0557-reverse-words-in-a-string-iii/reverse-words-in-a-string-iii.py)|[:memo:](https://leetcode.com/articles/reverse-words-in-a-string-iii/)|Easy|
 |560|[subarray-sum-equals-k](https://leetcode.com/problems/subarray-sum-equals-k)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0560-subarray-sum-equals-k/subarray-sum-equals-k.py)|[:memo:](https://leetcode.com/articles/subarray-sum-equals-k/)|Medium|
-|561|[array-partition](https://leetcode.com/problems/array-partition)||[:memo:](https://leetcode.com/articles/array-partition-i/)|Easy|
+|561|[array-partition](https://leetcode.com/problems/array-partition)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0561-array-partition/array-partition.py)|[:memo:](https://leetcode.com/articles/array-partition-i/)|Easy|
 |562|[longest-line-of-consecutive-one-in-matrix](https://leetcode.com/problems/longest-line-of-consecutive-one-in-matrix)|:lock:|[:memo:](https://leetcode.com/articles/longest-line-of-consecutive-one-in-matrix/)|Medium|
 |563|[binary-tree-tilt](https://leetcode.com/problems/binary-tree-tilt)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0563-binary-tree-tilt/binary-tree-tilt.py)|[:memo:](https://leetcode.com/articles/binary-tree-tilt/)|Easy|
 |564|[find-the-closest-palindrome](https://leetcode.com/problems/find-the-closest-palindrome)||[:memo:](https://leetcode.com/articles/find-the-closest-palindrome/)|Hard|
@@ -1688,7 +1688,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |1924|[maximum-number-of-groups-getting-fresh-donuts](https://leetcode.com/problems/maximum-number-of-groups-getting-fresh-donuts)|||Hard|
 |1925|[count-nice-pairs-in-an-array](https://leetcode.com/problems/count-nice-pairs-in-an-array)|||Medium|
 |1927|[maximum-ascending-subarray-sum](https://leetcode.com/problems/maximum-ascending-subarray-sum)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/1927-maximum-ascending-subarray-sum/maximum-ascending-subarray-sum.py)||Easy|
-|1928|[number-of-orders-in-the-backlog](https://leetcode.com/problems/number-of-orders-in-the-backlog)|||Medium|
+|1928|[number-of-orders-in-the-backlog](https://leetcode.com/problems/number-of-orders-in-the-backlog)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/1928-number-of-orders-in-the-backlog/number-of-orders-in-the-backlog.py)||Medium|
 |1929|[maximum-value-at-a-given-index-in-a-bounded-array](https://leetcode.com/problems/maximum-value-at-a-given-index-in-a-bounded-array)|||Medium|
 |1930|[maximum-number-of-consecutive-values-you-can-make](https://leetcode.com/problems/maximum-number-of-consecutive-values-you-can-make)|||Medium|
 |1931|[shortest-path-in-a-hidden-grid](https://leetcode.com/problems/shortest-path-in-a-hidden-grid)|:lock:||Medium|
