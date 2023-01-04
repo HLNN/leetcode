@@ -1,8 +1,8 @@
 # :pencil2: Leetcode Solutions with Python3,Cpp
-Update time:  2023-01-03 12:56:03
+Update time:  2023-01-04 12:50:19
 
-I have solved **607   /   2290** problems
-while there are **348** problems still locked.
+I have solved **609   /   2291** problems
+while there are **349** problems still locked.
 
 If you have any question, please give me an [issue](https://github.com/hlnn/leetcode/issues).
 
@@ -913,7 +913,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |978|[valid-mountain-array](https://leetcode.com/problems/valid-mountain-array)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0978-valid-mountain-array/valid-mountain-array.py)|[:memo:](https://leetcode.com/articles/valid-mountain-array/)|Easy|
 |979|[di-string-match](https://leetcode.com/problems/di-string-match)||[:memo:](https://leetcode.com/articles/di-string-match/)|Easy|
 |980|[find-the-shortest-superstring](https://leetcode.com/problems/find-the-shortest-superstring)||[:memo:](https://leetcode.com/articles/find-the-shortest-superstring/)|Hard|
-|981|[delete-columns-to-make-sorted](https://leetcode.com/problems/delete-columns-to-make-sorted)||[:memo:](https://leetcode.com/articles/delete-columns-to-make-sorted/)|Easy|
+|981|[delete-columns-to-make-sorted](https://leetcode.com/problems/delete-columns-to-make-sorted)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0981-delete-columns-to-make-sorted/delete-columns-to-make-sorted.py)|[:memo:](https://leetcode.com/articles/delete-columns-to-make-sorted/)|Easy|
 |982|[minimum-increment-to-make-array-unique](https://leetcode.com/problems/minimum-increment-to-make-array-unique)||[:memo:](https://leetcode.com/articles/minimum-increment-to-make-array-unique/)|Medium|
 |983|[validate-stack-sequences](https://leetcode.com/problems/validate-stack-sequences)||[:memo:](https://leetcode.com/articles/validate-stack-sequences/)|Medium|
 |984|[most-stones-removed-with-same-row-or-column](https://leetcode.com/problems/most-stones-removed-with-same-row-or-column)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0984-most-stones-removed-with-same-row-or-column/most-stones-removed-with-same-row-or-column.py)|[:memo:](https://leetcode.com/articles/most-stones-removed-with-same-row-or-column/)|Medium|
@@ -1492,7 +1492,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |1683|[maximum-number-of-coins-you-can-get](https://leetcode.com/problems/maximum-number-of-coins-you-can-get)|||Medium|
 |1684|[find-latest-group-of-size-m](https://leetcode.com/problems/find-latest-group-of-size-m)|||Medium|
 |1685|[stone-game-v](https://leetcode.com/problems/stone-game-v)|||Hard|
-|1687|[the-most-similar-path-in-a-graph](https://leetcode.com/problems/the-most-similar-path-in-a-graph)|:lock:||Hard|
+|1687|[the-most-similar-path-in-a-graph](https://leetcode.com/problems/the-most-similar-path-in-a-graph)|:lock:|[:memo:](https://leetcode.com/articles/the-most-similar-path-in-a-graph/)|Hard|
 |1689|[detect-pattern-of-length-m-repeated-k-or-more-times](https://leetcode.com/problems/detect-pattern-of-length-m-repeated-k-or-more-times)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/1689-detect-pattern-of-length-m-repeated-k-or-more-times/detect-pattern-of-length-m-repeated-k-or-more-times.py)||Easy|
 |1690|[maximum-length-of-subarray-with-positive-product](https://leetcode.com/problems/maximum-length-of-subarray-with-positive-product)|||Medium|
 |1691|[minimum-number-of-days-to-disconnect-island](https://leetcode.com/problems/minimum-number-of-days-to-disconnect-island)|||Hard|
@@ -1897,7 +1897,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |2164|[two-best-non-overlapping-events](https://leetcode.com/problems/two-best-non-overlapping-events)|||Medium|
 |2165|[plates-between-candles](https://leetcode.com/problems/plates-between-candles)|||Medium|
 |2166|[number-of-valid-move-combinations-on-chessboard](https://leetcode.com/problems/number-of-valid-move-combinations-on-chessboard)|||Hard|
-|2168|[check-if-numbers-are-ascending-in-a-sentence](https://leetcode.com/problems/check-if-numbers-are-ascending-in-a-sentence)|||Easy|
+|2168|[check-if-numbers-are-ascending-in-a-sentence](https://leetcode.com/problems/check-if-numbers-are-ascending-in-a-sentence)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/2168-check-if-numbers-are-ascending-in-a-sentence/check-if-numbers-are-ascending-in-a-sentence.py)||Easy|
 |2169|[simple-bank-system](https://leetcode.com/problems/simple-bank-system)|||Medium|
 |2170|[count-number-of-maximum-bitwise-or-subsets](https://leetcode.com/problems/count-number-of-maximum-bitwise-or-subsets)|||Medium|
 |2171|[second-minimum-time-to-reach-destination](https://leetcode.com/problems/second-minimum-time-to-reach-destination)||[:memo:](https://leetcode.com/articles/second-minimum-title-to-reach-destination/)|Hard|
@@ -2304,3 +2304,4 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |2644|[bitwise-or-of-all-subsequence-sums](https://leetcode.com/problems/bitwise-or-of-all-subsequence-sums)|:lock:||Medium|
 |2653|[check-if-there-is-a-path-with-equal-number-of-0s-and-1s](https://leetcode.com/problems/check-if-there-is-a-path-with-equal-number-of-0s-and-1s)|:lock:||Medium|
 |2658|[count-the-number-of-k-big-indices](https://leetcode.com/problems/count-the-number-of-k-big-indices)|:lock:||Hard|
+|2667|[maximum-frequency-score-of-a-subarray](https://leetcode.com/problems/maximum-frequency-score-of-a-subarray)|:lock:||Hard|
