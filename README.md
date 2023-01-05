@@ -1,7 +1,7 @@
 # :pencil2: Leetcode Solutions with Python3,Cpp
-Update time:  2023-01-04 12:50:19
+Update time:  2023-01-05 12:50:47
 
-I have solved **609   /   2291** problems
+I have solved **610   /   2291** problems
 while there are **349** problems still locked.
 
 If you have any question, please give me an [issue](https://github.com/hlnn/leetcode/issues).
@@ -58,7 +58,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |42|[trapping-rain-water](https://leetcode.com/problems/trapping-rain-water)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0042-trapping-rain-water/trapping-rain-water.py)|[:memo:](https://leetcode.com/articles/trapping-rain-water/)|Hard|
 |43|[multiply-strings](https://leetcode.com/problems/multiply-strings)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0043-multiply-strings/multiply-strings.py)|[:memo:](https://leetcode.com/articles/multiply-strings/)|Medium|
 |44|[wildcard-matching](https://leetcode.com/problems/wildcard-matching)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0044-wildcard-matching/wildcard-matching.py)|[:memo:](https://leetcode.com/articles/wildcard-matching/)|Hard|
-|45|[jump-game-ii](https://leetcode.com/problems/jump-game-ii)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0045-jump-game-ii/jump-game-ii.py)||Medium|
+|45|[jump-game-ii](https://leetcode.com/problems/jump-game-ii)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0045-jump-game-ii/jump-game-ii.py)|[:memo:](https://leetcode.com/articles/jump-game-ii/)|Medium|
 |46|[permutations](https://leetcode.com/problems/permutations)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0046-permutations/permutations.py)|[:memo:](https://leetcode.com/articles/permutations/)|Medium|
 |47|[permutations-ii](https://leetcode.com/problems/permutations-ii)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0047-permutations-ii/permutations-ii.py)|[:memo:](https://leetcode.com/articles/permutations-ii/)|Medium|
 |48|[rotate-image](https://leetcode.com/problems/rotate-image)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0048-rotate-image/rotate-image.py)|[:memo:](https://leetcode.com/articles/rotate-image/)|Medium|
@@ -2075,7 +2075,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |2359|[maximum-white-tiles-covered-by-a-carpet](https://leetcode.com/problems/maximum-white-tiles-covered-by-a-carpet)|||Medium|
 |2360|[substring-with-largest-variance](https://leetcode.com/problems/substring-with-largest-variance)|||Hard|
 |2361|[calculate-digit-sum-of-a-string](https://leetcode.com/problems/calculate-digit-sum-of-a-string)|||Easy|
-|2362|[minimum-rounds-to-complete-all-tasks](https://leetcode.com/problems/minimum-rounds-to-complete-all-tasks)||[:memo:](https://leetcode.com/articles/minimum-rounds-to-complete-all-tasks/)|Medium|
+|2362|[minimum-rounds-to-complete-all-tasks](https://leetcode.com/problems/minimum-rounds-to-complete-all-tasks)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/2362-minimum-rounds-to-complete-all-tasks/minimum-rounds-to-complete-all-tasks.py)|[:memo:](https://leetcode.com/articles/minimum-rounds-to-complete-all-tasks/)|Medium|
 |2363|[maximum-trailing-zeros-in-a-cornered-path](https://leetcode.com/problems/maximum-trailing-zeros-in-a-cornered-path)|||Medium|
 |2364|[longest-path-with-different-adjacent-characters](https://leetcode.com/problems/longest-path-with-different-adjacent-characters)||[:memo:](https://leetcode.com/articles/longest-path-with-different-adjacent-characters/)|Hard|
 |2365|[percentage-of-letter-in-string](https://leetcode.com/problems/percentage-of-letter-in-string)|||Easy|
