@@ -590,7 +590,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
         with open('README.md', 'w') as f:
             f.write(md)
 
-    def push_to_github(self):
+    def push_to_github(self, qids):
         with os.popen(r"git diff -- README.md", "r") as f:
             diff = f.read()
         r = re.findall(r"I have solved \*\*(\w+)   /", diff, re.S)
@@ -604,13 +604,8 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 
         strdate = datetime.datetime.now().strftime('%Y-%m-%d')
         cmd_git_add = 'git add .'
-        qids = []
-        if len(sys.argv) == 1:
-            qids.append("all")
-        else:
-            for qid in sys.argv[1:]:
-                if qid:
-                    qids.append(qid)
+        if not qids:
+            qids = ['all']
         cmd_git_commit = 'git commit -m "update problem {problem} at {date}"'.format(
             date=strdate,
             problem=" ".join(qids)
@@ -621,10 +616,10 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
         os.system(cmd_git_push)
 
 
-def do_job(leetcode):
+def do_job(leetcode, qids):
     leetcode.load()
     print('Leetcode load self info')
-    if len(sys.argv) == 1:
+    if not qids:
         # simple download
         # leetcode.dowload()
         # we use multi thread
@@ -632,20 +627,25 @@ def do_job(leetcode):
         # leetcode.download_with_thread_pool()
         leetcode.download()
     else:
-        for qid in sys.argv[1:]:
+        for qid in qids:
             print('begin leetcode by id: {id}'.format(id=qid))
             leetcode.download_by_id(int(qid))
     print('Leetcode finish dowload')
     leetcode.write_readme()
     print('Leetcode finish write readme')
-    leetcode.push_to_github()
+    leetcode.push_to_github(qids)
     print('push to github')
 
 
 if __name__ == '__main__':
     leetcode = Leetcode()
+    once = len(sys.argv) == 2 and sys.argv[1] == 'once'
+    qids = [int(qid) for qid in sys.argv if qid.isdigit()]
+    print(f'once: {once}, qids: {qids}')
     while True:
         start = time.time()
-        do_job(leetcode)
+        do_job(leetcode, qids)
+        if once or qids:
+            break
         t = time.time() - start
         time.sleep(24 * 60 * 60 - t)
