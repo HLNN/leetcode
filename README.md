@@ -1,7 +1,7 @@
 # :pencil2: Leetcode Solutions with Python3,Cpp
-Update time:  2023-01-05 12:50:47
+Update time:  2023-01-06 12:50:58
 
-I have solved **610   /   2291** problems
+I have solved **611   /   2291** problems
 while there are **349** problems still locked.
 
 If you have any question, please give me an [issue](https://github.com/hlnn/leetcode/issues).
@@ -1717,7 +1717,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |1957|[closest-room](https://leetcode.com/problems/closest-room)|||Hard|
 |1959|[minimum-path-cost-in-a-hidden-grid](https://leetcode.com/problems/minimum-path-cost-in-a-hidden-grid)|:lock:||Medium|
 |1960|[check-if-the-sentence-is-pangram](https://leetcode.com/problems/check-if-the-sentence-is-pangram)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/1960-check-if-the-sentence-is-pangram/check-if-the-sentence-is-pangram.py)|[:memo:](https://leetcode.com/articles/check-if-the-sentence-is-pangram/)|Easy|
-|1961|[maximum-ice-cream-bars](https://leetcode.com/problems/maximum-ice-cream-bars)||[:memo:](https://leetcode.com/articles/maximum-ice-cream-bars/)|Medium|
+|1961|[maximum-ice-cream-bars](https://leetcode.com/problems/maximum-ice-cream-bars)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/1961-maximum-ice-cream-bars/maximum-ice-cream-bars.py)|[:memo:](https://leetcode.com/articles/maximum-ice-cream-bars/)|Medium|
 |1962|[single-threaded-cpu](https://leetcode.com/problems/single-threaded-cpu)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/1962-single-threaded-cpu/single-threaded-cpu.py)|[:memo:](https://leetcode.com/articles/single-threaded-cpu/)|Medium|
 |1963|[find-xor-sum-of-all-pairs-bitwise-and](https://leetcode.com/problems/find-xor-sum-of-all-pairs-bitwise-and)|||Hard|
 |1965|[sum-of-digits-in-base-k](https://leetcode.com/problems/sum-of-digits-in-base-k)|||Easy|
