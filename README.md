@@ -1,7 +1,7 @@
 # :pencil2: Leetcode Solutions with Python3,Cpp
-Update time:  2023-01-07 12:36:25
+Update time:  2023-01-08 08:19:54
 
-I have solved **614   /   2291** problems
+I have solved **616   /   2295** problems
 while there are **349** problems still locked.
 
 If you have any question, please give me an [issue](https://github.com/hlnn/leetcode/issues).
@@ -147,7 +147,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |131|[palindrome-partitioning](https://leetcode.com/problems/palindrome-partitioning)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0131-palindrome-partitioning/palindrome-partitioning.py)|[:memo:](https://leetcode.com/articles/palindrome-partitioning/)|Medium|
 |132|[palindrome-partitioning-ii](https://leetcode.com/problems/palindrome-partitioning-ii)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0132-palindrome-partitioning-ii/palindrome-partitioning-ii.py)|[:memo:](https://leetcode.com/articles/palindrome-partitioning-ii/)|Hard|
 |133|[clone-graph](https://leetcode.com/problems/clone-graph)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0133-clone-graph/clone-graph.py)|[:memo:](https://leetcode.com/articles/clone-graph/)|Medium|
-|134|[gas-station](https://leetcode.com/problems/gas-station)||[:memo:](https://leetcode.com/articles/gas-station/)|Medium|
+|134|[gas-station](https://leetcode.com/problems/gas-station)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0134-gas-station/gas-station.py)|[:memo:](https://leetcode.com/articles/gas-station/)|Medium|
 |135|[candy](https://leetcode.com/problems/candy)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0135-candy/candy.py)|[:memo:](https://leetcode.com/articles/candy/)|Hard|
 |136|[single-number](https://leetcode.com/problems/single-number)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0136-single-number/single-number.py)|[:memo:](https://leetcode.com/articles/single-number/)|Easy|
 |137|[single-number-ii](https://leetcode.com/problems/single-number-ii)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0137-single-number-ii/single-number-ii.py)|[:memo:](https://leetcode.com/articles/single-number-ii/)|Medium|
@@ -1375,7 +1375,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |1529|[max-difference-you-can-get-from-changing-an-integer](https://leetcode.com/problems/max-difference-you-can-get-from-changing-an-integer)|||Medium|
 |1530|[check-if-a-string-can-break-another-string](https://leetcode.com/problems/check-if-a-string-can-break-another-string)|||Medium|
 |1531|[number-of-ways-to-wear-different-hats-to-each-other](https://leetcode.com/problems/number-of-ways-to-wear-different-hats-to-each-other)|||Hard|
-|1532|[reformat-the-string](https://leetcode.com/problems/reformat-the-string)|||Easy|
+|1532|[reformat-the-string](https://leetcode.com/problems/reformat-the-string)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/1532-reformat-the-string/reformat-the-string.py)||Easy|
 |1533|[display-table-of-food-orders-in-a-restaurant](https://leetcode.com/problems/display-table-of-food-orders-in-a-restaurant)|||Medium|
 |1534|[minimum-number-of-frogs-croaking](https://leetcode.com/problems/minimum-number-of-frogs-croaking)|||Medium|
 |1535|[build-array-where-you-can-find-the-maximum-exactly-k-comparisons](https://leetcode.com/problems/build-array-where-you-can-find-the-maximum-exactly-k-comparisons)|||Hard|
@@ -2297,6 +2297,10 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |2609|[distinct-prime-factors-of-product-of-array](https://leetcode.com/problems/distinct-prime-factors-of-product-of-array)|||Medium|
 |2610|[closest-prime-numbers-in-range](https://leetcode.com/problems/closest-prime-numbers-in-range)|||Medium|
 |2612|[minimum-cost-to-buy-apples](https://leetcode.com/problems/minimum-cost-to-buy-apples)|:lock:||Medium|
+|2618|[maximize-the-minimum-powered-city](https://leetcode.com/problems/maximize-the-minimum-powered-city)|||Hard|
+|2619|[categorize-box-according-to-criteria](https://leetcode.com/problems/categorize-box-according-to-criteria)|||Easy|
+|2620|[find-consecutive-integers-from-a-data-stream](https://leetcode.com/problems/find-consecutive-integers-from-a-data-stream)|||Medium|
+|2621|[find-xor-beauty-of-array](https://leetcode.com/problems/find-xor-beauty-of-array)|||Medium|
 |2623|[maximum-xor-of-two-non-overlapping-subtrees](https://leetcode.com/problems/maximum-xor-of-two-non-overlapping-subtrees)|:lock:||Hard|
 |2628|[minimize-the-maximum-of-two-arrays](https://leetcode.com/problems/minimize-the-maximum-of-two-arrays)|||Medium|
 |2629|[number-of-substrings-with-fixed-ratio](https://leetcode.com/problems/number-of-substrings-with-fixed-ratio)|:lock:||Medium|
