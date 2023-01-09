@@ -1,7 +1,7 @@
 # :pencil2: Leetcode Solutions with Python3,Cpp
-Update time:  2023-01-08 08:19:54
+Update time:  2023-01-09 08:20:35
 
-I have solved **616   /   2295** problems
+I have solved **619   /   2299** problems
 while there are **349** problems still locked.
 
 If you have any question, please give me an [issue](https://github.com/hlnn/leetcode/issues).
@@ -162,7 +162,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |146|[lru-cache](https://leetcode.com/problems/lru-cache)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0146-lru-cache/lru-cache.py)|[:memo:](https://leetcode.com/articles/lru-cache/)|Medium|
 |147|[insertion-sort-list](https://leetcode.com/problems/insertion-sort-list)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0147-insertion-sort-list/insertion-sort-list.py)|[:memo:](https://leetcode.com/articles/insertion-sort-list/)|Medium|
 |148|[sort-list](https://leetcode.com/problems/sort-list)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0148-sort-list/sort-list.py)|[:memo:](https://leetcode.com/articles/sort-list/)|Medium|
-|149|[max-points-on-a-line](https://leetcode.com/problems/max-points-on-a-line)||[:memo:](https://leetcode.com/articles/max-points-on-a-line/)|Hard|
+|149|[max-points-on-a-line](https://leetcode.com/problems/max-points-on-a-line)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0149-max-points-on-a-line/max-points-on-a-line.py)|[:memo:](https://leetcode.com/articles/max-points-on-a-line/)|Hard|
 |150|[evaluate-reverse-polish-notation](https://leetcode.com/problems/evaluate-reverse-polish-notation)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0150-evaluate-reverse-polish-notation/evaluate-reverse-polish-notation.py)|[:memo:](https://leetcode.com/articles/evaluate-reverse-polish-notation/)|Medium|
 |151|[reverse-words-in-a-string](https://leetcode.com/problems/reverse-words-in-a-string)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0151-reverse-words-in-a-string/reverse-words-in-a-string.py)|[:memo:](https://leetcode.com/articles/reverse-words-in-a-string/)|Medium|
 |152|[maximum-product-subarray](https://leetcode.com/problems/maximum-product-subarray)||[:memo:](https://leetcode.com/articles/maximum-product-subarray/)|Medium|
@@ -1056,7 +1056,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |1127|[last-stone-weight](https://leetcode.com/problems/last-stone-weight)||[:memo:](https://leetcode.com/articles/last-stone-weight/)|Easy|
 |1128|[remove-all-adjacent-duplicates-in-string](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/1128-remove-all-adjacent-duplicates-in-string/remove-all-adjacent-duplicates-in-string.py)|[:memo:](https://leetcode.com/articles/remove-all-adjacent-duplicates-in-string/)|Easy|
 |1129|[longest-string-chain](https://leetcode.com/problems/longest-string-chain)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/1129-longest-string-chain/longest-string-chain.py)|[:memo:](https://leetcode.com/articles/longest-string-chain/)|Medium|
-|1130|[last-stone-weight-ii](https://leetcode.com/problems/last-stone-weight-ii)|||Medium|
+|1130|[last-stone-weight-ii](https://leetcode.com/problems/last-stone-weight-ii)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/1130-last-stone-weight-ii/last-stone-weight-ii.py)||Medium|
 |1131|[count-substrings-with-only-one-distinct-letter](https://leetcode.com/problems/count-substrings-with-only-one-distinct-letter)|:lock:|[:memo:](https://leetcode.com/articles/count-substrings-with-only-one-distinct-letter/)|Easy|
 |1132|[before-and-after-puzzle](https://leetcode.com/problems/before-and-after-puzzle)|:lock:||Medium|
 |1133|[last-substring-in-lexicographical-order](https://leetcode.com/problems/last-substring-in-lexicographical-order)|||Hard|
@@ -1487,7 +1487,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |1678|[number-of-ways-to-split-a-string](https://leetcode.com/problems/number-of-ways-to-split-a-string)|||Medium|
 |1679|[shortest-subarray-to-be-removed-to-make-array-sorted](https://leetcode.com/problems/shortest-subarray-to-be-removed-to-make-array-sorted)|||Medium|
 |1680|[count-all-possible-routes](https://leetcode.com/problems/count-all-possible-routes)|||Hard|
-|1681|[guess-the-majority-in-a-hidden-array](https://leetcode.com/problems/guess-the-majority-in-a-hidden-array)|:lock:||Medium|
+|1681|[guess-the-majority-in-a-hidden-array](https://leetcode.com/problems/guess-the-majority-in-a-hidden-array)|:lock:|[:memo:](https://leetcode.com/articles/guess-the-majority-in-a-hidden-array/)|Medium|
 |1682|[most-visited-sector-in-a-circular-track](https://leetcode.com/problems/most-visited-sector-in-a-circular-track)|||Easy|
 |1683|[maximum-number-of-coins-you-can-get](https://leetcode.com/problems/maximum-number-of-coins-you-can-get)|||Medium|
 |1684|[find-latest-group-of-size-m](https://leetcode.com/problems/find-latest-group-of-size-m)|||Medium|
@@ -2011,7 +2011,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |2289|[minimum-operations-to-make-the-array-alternating](https://leetcode.com/problems/minimum-operations-to-make-the-array-alternating)|||Medium|
 |2290|[removing-minimum-number-of-magic-beans](https://leetcode.com/problems/removing-minimum-number-of-magic-beans)|||Medium|
 |2291|[maximum-and-sum-of-array](https://leetcode.com/problems/maximum-and-sum-of-array)|||Hard|
-|2292|[counting-words-with-a-given-prefix](https://leetcode.com/problems/counting-words-with-a-given-prefix)|||Easy|
+|2292|[counting-words-with-a-given-prefix](https://leetcode.com/problems/counting-words-with-a-given-prefix)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/2292-counting-words-with-a-given-prefix/counting-words-with-a-given-prefix.py)||Easy|
 |2293|[minimum-number-of-steps-to-make-two-strings-anagram-ii](https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram-ii)|||Medium|
 |2294|[minimum-time-to-complete-trips](https://leetcode.com/problems/minimum-time-to-complete-trips)|||Medium|
 |2295|[minimum-time-to-finish-the-race](https://leetcode.com/problems/minimum-time-to-finish-the-race)|||Hard|
@@ -2297,6 +2297,9 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |2609|[distinct-prime-factors-of-product-of-array](https://leetcode.com/problems/distinct-prime-factors-of-product-of-array)|||Medium|
 |2610|[closest-prime-numbers-in-range](https://leetcode.com/problems/closest-prime-numbers-in-range)|||Medium|
 |2612|[minimum-cost-to-buy-apples](https://leetcode.com/problems/minimum-cost-to-buy-apples)|:lock:||Medium|
+|2614|[maximum-count-of-positive-integer-and-negative-integer](https://leetcode.com/problems/maximum-count-of-positive-integer-and-negative-integer)|||Easy|
+|2615|[make-number-of-distinct-characters-equal](https://leetcode.com/problems/make-number-of-distinct-characters-equal)|||Medium|
+|2616|[maximal-score-after-applying-k-operations](https://leetcode.com/problems/maximal-score-after-applying-k-operations)|||Medium|
 |2618|[maximize-the-minimum-powered-city](https://leetcode.com/problems/maximize-the-minimum-powered-city)|||Hard|
 |2619|[categorize-box-according-to-criteria](https://leetcode.com/problems/categorize-box-according-to-criteria)|||Easy|
 |2620|[find-consecutive-integers-from-a-data-stream](https://leetcode.com/problems/find-consecutive-integers-from-a-data-stream)|||Medium|
@@ -2305,6 +2308,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |2628|[minimize-the-maximum-of-two-arrays](https://leetcode.com/problems/minimize-the-maximum-of-two-arrays)|||Medium|
 |2629|[number-of-substrings-with-fixed-ratio](https://leetcode.com/problems/number-of-substrings-with-fixed-ratio)|:lock:||Medium|
 |2638|[number-of-subarrays-having-even-product](https://leetcode.com/problems/number-of-subarrays-having-even-product)|:lock:||Medium|
+|2642|[time-to-cross-a-bridge](https://leetcode.com/problems/time-to-cross-a-bridge)|||Hard|
 |2644|[bitwise-or-of-all-subsequence-sums](https://leetcode.com/problems/bitwise-or-of-all-subsequence-sums)|:lock:||Medium|
 |2653|[check-if-there-is-a-path-with-equal-number-of-0s-and-1s](https://leetcode.com/problems/check-if-there-is-a-path-with-equal-number-of-0s-and-1s)|:lock:||Medium|
 |2658|[count-the-number-of-k-big-indices](https://leetcode.com/problems/count-the-number-of-k-big-indices)|:lock:||Hard|
