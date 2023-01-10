@@ -1,7 +1,7 @@
 # :pencil2: Leetcode Solutions with Python3,Cpp
-Update time:  2023-01-09 08:20:35
+Update time:  2023-01-10 08:24:18
 
-I have solved **619   /   2299** problems
+I have solved **622   /   2299** problems
 while there are **349** problems still locked.
 
 If you have any question, please give me an [issue](https://github.com/hlnn/leetcode/issues).
@@ -157,7 +157,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |141|[linked-list-cycle](https://leetcode.com/problems/linked-list-cycle)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0141-linked-list-cycle/linked-list-cycle.py)|[:memo:](https://leetcode.com/articles/linked-list-cycle/)|Easy|
 |142|[linked-list-cycle-ii](https://leetcode.com/problems/linked-list-cycle-ii)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0142-linked-list-cycle-ii/linked-list-cycle-ii.py)|[:memo:](https://leetcode.com/articles/linked-list-cycle-ii/)|Medium|
 |143|[reorder-list](https://leetcode.com/problems/reorder-list)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0143-reorder-list/reorder-list.py)|[:memo:](https://leetcode.com/articles/reorder-list/)|Medium|
-|144|[binary-tree-preorder-traversal](https://leetcode.com/problems/binary-tree-preorder-traversal)||[:memo:](https://leetcode.com/articles/binary-tree-preorder-traversal/)|Easy|
+|144|[binary-tree-preorder-traversal](https://leetcode.com/problems/binary-tree-preorder-traversal)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0144-binary-tree-preorder-traversal/binary-tree-preorder-traversal.py)|[:memo:](https://leetcode.com/articles/binary-tree-preorder-traversal/)|Easy|
 |145|[binary-tree-postorder-traversal](https://leetcode.com/problems/binary-tree-postorder-traversal)||[:memo:](https://leetcode.com/articles/binary-tree-postorder-traversal/)|Easy|
 |146|[lru-cache](https://leetcode.com/problems/lru-cache)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0146-lru-cache/lru-cache.py)|[:memo:](https://leetcode.com/articles/lru-cache/)|Medium|
 |147|[insertion-sort-list](https://leetcode.com/problems/insertion-sort-list)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0147-insertion-sort-list/insertion-sort-list.py)|[:memo:](https://leetcode.com/articles/insertion-sort-list/)|Medium|
@@ -1070,7 +1070,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |1143|[find-smallest-common-element-in-all-rows](https://leetcode.com/problems/find-smallest-common-element-in-all-rows)|:lock:|[:memo:](https://leetcode.com/articles/find-smallest-common-element-in-all-rows/)|Medium|
 |1144|[optimize-water-distribution-in-a-village](https://leetcode.com/problems/optimize-water-distribution-in-a-village)|:lock:|[:memo:](https://leetcode.com/articles/optimize-water-distribution-in-a-village/)|Hard|
 |1145|[number-of-submatrices-that-sum-to-target](https://leetcode.com/problems/number-of-submatrices-that-sum-to-target)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/1145-number-of-submatrices-that-sum-to-target/number-of-submatrices-that-sum-to-target.py)|[:memo:](https://leetcode.com/articles/number-of-submatrices-that-sum-to-target/)|Hard|
-|1146|[greatest-common-divisor-of-strings](https://leetcode.com/problems/greatest-common-divisor-of-strings)|||Easy|
+|1146|[greatest-common-divisor-of-strings](https://leetcode.com/problems/greatest-common-divisor-of-strings)||[:memo:](https://leetcode.com/articles/greatest-common-divisor-of-strings/)|Easy|
 |1147|[flip-columns-for-maximum-number-of-equal-rows](https://leetcode.com/problems/flip-columns-for-maximum-number-of-equal-rows)|||Medium|
 |1148|[adding-two-negabinary-numbers](https://leetcode.com/problems/adding-two-negabinary-numbers)|||Medium|
 |1149|[intersection-of-three-sorted-arrays](https://leetcode.com/problems/intersection-of-three-sorted-arrays)|:lock:|[:memo:](https://leetcode.com/articles/intersection-of-three-sorted-arrays/)|Easy|
@@ -1694,7 +1694,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |1931|[shortest-path-in-a-hidden-grid](https://leetcode.com/problems/shortest-path-in-a-hidden-grid)|:lock:||Medium|
 |1933|[number-of-different-integers-in-a-string](https://leetcode.com/problems/number-of-different-integers-in-a-string)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/1933-number-of-different-integers-in-a-string/number-of-different-integers-in-a-string.py)||Easy|
 |1934|[evaluate-the-bracket-pairs-of-a-string](https://leetcode.com/problems/evaluate-the-bracket-pairs-of-a-string)|||Medium|
-|1935|[minimum-number-of-operations-to-reinitialize-a-permutation](https://leetcode.com/problems/minimum-number-of-operations-to-reinitialize-a-permutation)|||Medium|
+|1935|[minimum-number-of-operations-to-reinitialize-a-permutation](https://leetcode.com/problems/minimum-number-of-operations-to-reinitialize-a-permutation)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/1935-minimum-number-of-operations-to-reinitialize-a-permutation/minimum-number-of-operations-to-reinitialize-a-permutation.py)||Medium|
 |1936|[maximize-number-of-nice-divisors](https://leetcode.com/problems/maximize-number-of-nice-divisors)|||Hard|
 |1937|[maximize-the-beauty-of-the-garden](https://leetcode.com/problems/maximize-the-beauty-of-the-garden)|:lock:||Hard|
 |1938|[minimum-operations-to-make-the-array-increasing](https://leetcode.com/problems/minimum-operations-to-make-the-array-increasing)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/1938-minimum-operations-to-make-the-array-increasing/minimum-operations-to-make-the-array-increasing.py)||Easy|
@@ -1818,7 +1818,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |2074|[erect-the-fence-ii](https://leetcode.com/problems/erect-the-fence-ii)|:lock:||Hard|
 |2075|[brightest-position-on-street](https://leetcode.com/problems/brightest-position-on-street)|:lock:||Medium|
 |2076|[sum-of-digits-of-string-after-convert](https://leetcode.com/problems/sum-of-digits-of-string-after-convert)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/2076-sum-of-digits-of-string-after-convert/sum-of-digits-of-string-after-convert.py)||Easy|
-|2077|[largest-number-after-mutating-substring](https://leetcode.com/problems/largest-number-after-mutating-substring)|||Medium|
+|2077|[largest-number-after-mutating-substring](https://leetcode.com/problems/largest-number-after-mutating-substring)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/2077-largest-number-after-mutating-substring/largest-number-after-mutating-substring.py)||Medium|
 |2078|[maximum-compatibility-score-sum](https://leetcode.com/problems/maximum-compatibility-score-sum)|||Medium|
 |2079|[delete-duplicate-folders-in-system](https://leetcode.com/problems/delete-duplicate-folders-in-system)|||Hard|
 |2080|[check-if-move-is-legal](https://leetcode.com/problems/check-if-move-is-legal)|||Medium|
