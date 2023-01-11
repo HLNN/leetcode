@@ -3,7 +3,7 @@
 # A palindrome pair is a pair of integers (i, j) such that:
 #
 #
-# 	0 <= i, j < word.length,
+# 	0 <= i, j < words.length,
 # 	i != j, and
 # 	words[i] + words[j] (the concatenation of the two strings) is a palindrome.
 #
