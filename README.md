@@ -1,8 +1,8 @@
 # :pencil2: Leetcode Solutions with Python3,Cpp
-Update time:  2023-01-11 08:20:42
+Update time:  2023-01-12 08:22:16
 
-I have solved **624   /   2299** problems
-while there are **349** problems still locked.
+I have solved **625   /   2300** problems
+while there are **350** problems still locked.
 
 If you have any question, please give me an [issue](https://github.com/hlnn/leetcode/issues).
 
@@ -301,7 +301,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |302|[smallest-rectangle-enclosing-black-pixels](https://leetcode.com/problems/smallest-rectangle-enclosing-black-pixels)|:lock:|[:memo:](https://leetcode.com/articles/smallest-rectangle-enclosing-black-pixels/)|Hard|
 |303|[range-sum-query-immutable](https://leetcode.com/problems/range-sum-query-immutable)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0303-range-sum-query-immutable/range-sum-query-immutable.py) [Cpp](https://github.com/hlnn/leetcode/blob/master/src/0303-range-sum-query-immutable/range-sum-query-immutable.cpp)|[:memo:](https://leetcode.com/articles/range-sum-query-immutable/)|Easy|
 |304|[range-sum-query-2d-immutable](https://leetcode.com/problems/range-sum-query-2d-immutable)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0304-range-sum-query-2d-immutable/range-sum-query-2d-immutable.py)|[:memo:](https://leetcode.com/articles/range-sum-query-2d-immutable/)|Medium|
-|305|[number-of-islands-ii](https://leetcode.com/problems/number-of-islands-ii)|:lock:||Hard|
+|305|[number-of-islands-ii](https://leetcode.com/problems/number-of-islands-ii)|:lock:|[:memo:](https://leetcode.com/articles/number-of-islands-ii/)|Hard|
 |306|[additive-number](https://leetcode.com/problems/additive-number)|||Medium|
 |307|[range-sum-query-mutable](https://leetcode.com/problems/range-sum-query-mutable)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0307-range-sum-query-mutable/range-sum-query-mutable.py)|[:memo:](https://leetcode.com/articles/range-sum-query-mutable/)|Medium|
 |308|[range-sum-query-2d-mutable](https://leetcode.com/problems/range-sum-query-2d-mutable)|:lock:|[:memo:](https://leetcode.com/articles/range-sum-query-2d-mutable/)|Hard|
@@ -2087,7 +2087,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |2373|[apply-discount-to-prices](https://leetcode.com/problems/apply-discount-to-prices)|||Medium|
 |2374|[steps-to-make-array-non-decreasing](https://leetcode.com/problems/steps-to-make-array-non-decreasing)|||Medium|
 |2375|[minimum-obstacle-removal-to-reach-corner](https://leetcode.com/problems/minimum-obstacle-removal-to-reach-corner)|||Hard|
-|2377|[check-if-number-has-equal-digit-count-and-digit-value](https://leetcode.com/problems/check-if-number-has-equal-digit-count-and-digit-value)|||Easy|
+|2377|[check-if-number-has-equal-digit-count-and-digit-value](https://leetcode.com/problems/check-if-number-has-equal-digit-count-and-digit-value)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/2377-check-if-number-has-equal-digit-count-and-digit-value/check-if-number-has-equal-digit-count-and-digit-value.py)||Easy|
 |2378|[sender-with-largest-word-count](https://leetcode.com/problems/sender-with-largest-word-count)|||Medium|
 |2379|[maximum-total-importance-of-roads](https://leetcode.com/problems/maximum-total-importance-of-roads)|||Medium|
 |2380|[booking-concert-tickets-in-groups](https://leetcode.com/problems/booking-concert-tickets-in-groups)|||Hard|
@@ -2313,3 +2313,4 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |2653|[check-if-there-is-a-path-with-equal-number-of-0s-and-1s](https://leetcode.com/problems/check-if-there-is-a-path-with-equal-number-of-0s-and-1s)|:lock:||Medium|
 |2658|[count-the-number-of-k-big-indices](https://leetcode.com/problems/count-the-number-of-k-big-indices)|:lock:||Hard|
 |2667|[maximum-frequency-score-of-a-subarray](https://leetcode.com/problems/maximum-frequency-score-of-a-subarray)|:lock:||Hard|
+|2672|[number-of-good-binary-strings](https://leetcode.com/problems/number-of-good-binary-strings)|:lock:||Medium|
