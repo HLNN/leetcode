@@ -1,7 +1,7 @@
 # :pencil2: Leetcode Solutions with Python3,Cpp
-Update time:  2023-01-12 08:22:16
+Update time:  2023-01-13 08:20:11
 
-I have solved **625   /   2300** problems
+I have solved **628   /   2300** problems
 while there are **350** problems still locked.
 
 If you have any question, please give me an [issue](https://github.com/hlnn/leetcode/issues).
@@ -85,7 +85,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |69|[sqrtx](https://leetcode.com/problems/sqrtx)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0069-sqrtx/sqrtx.py)|[:memo:](https://leetcode.com/articles/sqrtx/)|Easy|
 |70|[climbing-stairs](https://leetcode.com/problems/climbing-stairs)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0070-climbing-stairs/climbing-stairs.py)|[:memo:](https://leetcode.com/articles/climbing-stairs/)|Easy|
 |71|[simplify-path](https://leetcode.com/problems/simplify-path)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0071-simplify-path/simplify-path.py)|[:memo:](https://leetcode.com/articles/simplify-path/)|Medium|
-|72|[edit-distance](https://leetcode.com/problems/edit-distance)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0072-edit-distance/edit-distance.py)||Hard|
+|72|[edit-distance](https://leetcode.com/problems/edit-distance)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0072-edit-distance/edit-distance.py)|[:memo:](https://leetcode.com/articles/edit-distance/)|Hard|
 |73|[set-matrix-zeroes](https://leetcode.com/problems/set-matrix-zeroes)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0073-set-matrix-zeroes/set-matrix-zeroes.py)|[:memo:](https://leetcode.com/articles/set-matrix-zeroes/)|Medium|
 |74|[search-a-2d-matrix](https://leetcode.com/problems/search-a-2d-matrix)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0074-search-a-2d-matrix/search-a-2d-matrix.py)|[:memo:](https://leetcode.com/articles/search-in-2d-matrix/)|Medium|
 |75|[sort-colors](https://leetcode.com/problems/sort-colors)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0075-sort-colors/sort-colors.py)|[:memo:](https://leetcode.com/articles/sort-colors/)|Medium|
@@ -1454,7 +1454,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |1638|[best-position-for-a-service-centre](https://leetcode.com/problems/best-position-for-a-service-centre)|||Hard|
 |1640|[design-a-file-sharing-system](https://leetcode.com/problems/design-a-file-sharing-system)|:lock:||Medium|
 |1642|[water-bottles](https://leetcode.com/problems/water-bottles)|||Easy|
-|1643|[number-of-nodes-in-the-sub-tree-with-the-same-label](https://leetcode.com/problems/number-of-nodes-in-the-sub-tree-with-the-same-label)||[:memo:](https://leetcode.com/articles/number-of-nodes-in-the-sub-tree-with-the-same-label/)|Medium|
+|1643|[number-of-nodes-in-the-sub-tree-with-the-same-label](https://leetcode.com/problems/number-of-nodes-in-the-sub-tree-with-the-same-label)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/1643-number-of-nodes-in-the-sub-tree-with-the-same-label/number-of-nodes-in-the-sub-tree-with-the-same-label.py)|[:memo:](https://leetcode.com/articles/number-of-nodes-in-the-sub-tree-with-the-same-label/)|Medium|
 |1644|[maximum-number-of-non-overlapping-substrings](https://leetcode.com/problems/maximum-number-of-non-overlapping-substrings)|||Hard|
 |1645|[find-a-value-of-a-mysterious-function-closest-to-target](https://leetcode.com/problems/find-a-value-of-a-mysterious-function-closest-to-target)|||Hard|
 |1646|[kth-missing-positive-number](https://leetcode.com/problems/kth-missing-positive-number)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/1646-kth-missing-positive-number/kth-missing-positive-number.py)|[:memo:](https://leetcode.com/articles/kth-missing-positive-number/)|Easy|
@@ -1693,7 +1693,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |1930|[maximum-number-of-consecutive-values-you-can-make](https://leetcode.com/problems/maximum-number-of-consecutive-values-you-can-make)|||Medium|
 |1931|[shortest-path-in-a-hidden-grid](https://leetcode.com/problems/shortest-path-in-a-hidden-grid)|:lock:||Medium|
 |1933|[number-of-different-integers-in-a-string](https://leetcode.com/problems/number-of-different-integers-in-a-string)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/1933-number-of-different-integers-in-a-string/number-of-different-integers-in-a-string.py)||Easy|
-|1934|[evaluate-the-bracket-pairs-of-a-string](https://leetcode.com/problems/evaluate-the-bracket-pairs-of-a-string)|||Medium|
+|1934|[evaluate-the-bracket-pairs-of-a-string](https://leetcode.com/problems/evaluate-the-bracket-pairs-of-a-string)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/1934-evaluate-the-bracket-pairs-of-a-string/evaluate-the-bracket-pairs-of-a-string.py)||Medium|
 |1935|[minimum-number-of-operations-to-reinitialize-a-permutation](https://leetcode.com/problems/minimum-number-of-operations-to-reinitialize-a-permutation)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/1935-minimum-number-of-operations-to-reinitialize-a-permutation/minimum-number-of-operations-to-reinitialize-a-permutation.py)||Medium|
 |1936|[maximize-number-of-nice-divisors](https://leetcode.com/problems/maximize-number-of-nice-divisors)|||Hard|
 |1937|[maximize-the-beauty-of-the-garden](https://leetcode.com/problems/maximize-the-beauty-of-the-garden)|:lock:||Hard|
@@ -1761,7 +1761,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |2009|[longest-word-with-all-prefixes](https://leetcode.com/problems/longest-word-with-all-prefixes)|:lock:||Medium|
 |2010|[check-if-word-equals-summation-of-two-words](https://leetcode.com/problems/check-if-word-equals-summation-of-two-words)|||Easy|
 |2011|[maximum-value-after-insertion](https://leetcode.com/problems/maximum-value-after-insertion)|||Medium|
-|2012|[process-tasks-using-servers](https://leetcode.com/problems/process-tasks-using-servers)|||Medium|
+|2012|[process-tasks-using-servers](https://leetcode.com/problems/process-tasks-using-servers)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/2012-process-tasks-using-servers/process-tasks-using-servers.py)||Medium|
 |2013|[minimum-skips-to-arrive-at-meeting-on-time](https://leetcode.com/problems/minimum-skips-to-arrive-at-meeting-on-time)|||Hard|
 |2015|[determine-whether-matrix-can-be-obtained-by-rotation](https://leetcode.com/problems/determine-whether-matrix-can-be-obtained-by-rotation)|||Easy|
 |2016|[reduction-operations-to-make-the-array-elements-equal](https://leetcode.com/problems/reduction-operations-to-make-the-array-elements-equal)|||Medium|
