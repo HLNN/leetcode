@@ -34,7 +34,6 @@
 # 	edges.length == n - 1
 # 	edges[i].length == 2
 # 	0 <= ai < bi <= n - 1
-# 	fromi < toi
 # 	hasApple.length == n
 #
 #

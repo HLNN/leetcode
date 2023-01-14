@@ -1,8 +1,8 @@
 # :pencil2: Leetcode Solutions with Python3,Cpp
-Update time:  2023-01-13 08:20:11
+Update time:  2023-01-14 08:21:15
 
-I have solved **628   /   2300** problems
-while there are **350** problems still locked.
+I have solved **630   /   2301** problems
+while there are **351** problems still locked.
 
 If you have any question, please give me an [issue](https://github.com/hlnn/leetcode/issues).
 
@@ -1043,7 +1043,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |1114|[binary-search-tree-to-greater-sum-tree](https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree)|||Medium|
 |1115|[valid-boomerang](https://leetcode.com/problems/valid-boomerang)|||Easy|
 |1116|[maximum-level-sum-of-a-binary-tree](https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree)||[:memo:](https://leetcode.com/articles/maximum-level-sum-of-a-binary-tree/)|Medium|
-|1117|[as-far-from-land-as-possible](https://leetcode.com/problems/as-far-from-land-as-possible)|||Medium|
+|1117|[as-far-from-land-as-possible](https://leetcode.com/problems/as-far-from-land-as-possible)||[:memo:](https://leetcode.com/articles/as-far-from-land-as-possible/)|Medium|
 |1118|[divide-array-into-increasing-sequences](https://leetcode.com/problems/divide-array-into-increasing-sequences)|:lock:||Hard|
 |1119|[robot-bounded-in-circle](https://leetcode.com/problems/robot-bounded-in-circle)||[:memo:](https://leetcode.com/articles/robot-bounded-in-circle/)|Medium|
 |1120|[flower-planting-with-no-adjacent](https://leetcode.com/problems/flower-planting-with-no-adjacent)|||Medium|
@@ -2077,13 +2077,13 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |2361|[calculate-digit-sum-of-a-string](https://leetcode.com/problems/calculate-digit-sum-of-a-string)|||Easy|
 |2362|[minimum-rounds-to-complete-all-tasks](https://leetcode.com/problems/minimum-rounds-to-complete-all-tasks)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/2362-minimum-rounds-to-complete-all-tasks/minimum-rounds-to-complete-all-tasks.py)|[:memo:](https://leetcode.com/articles/minimum-rounds-to-complete-all-tasks/)|Medium|
 |2363|[maximum-trailing-zeros-in-a-cornered-path](https://leetcode.com/problems/maximum-trailing-zeros-in-a-cornered-path)|||Medium|
-|2364|[longest-path-with-different-adjacent-characters](https://leetcode.com/problems/longest-path-with-different-adjacent-characters)||[:memo:](https://leetcode.com/articles/longest-path-with-different-adjacent-characters/)|Hard|
+|2364|[longest-path-with-different-adjacent-characters](https://leetcode.com/problems/longest-path-with-different-adjacent-characters)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/2364-longest-path-with-different-adjacent-characters/longest-path-with-different-adjacent-characters.py)|[:memo:](https://leetcode.com/articles/longest-path-with-different-adjacent-characters/)|Hard|
 |2365|[percentage-of-letter-in-string](https://leetcode.com/problems/percentage-of-letter-in-string)|||Easy|
 |2366|[maximum-bags-with-full-capacity-of-rocks](https://leetcode.com/problems/maximum-bags-with-full-capacity-of-rocks)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/2366-maximum-bags-with-full-capacity-of-rocks/maximum-bags-with-full-capacity-of-rocks.py)|[:memo:](https://leetcode.com/articles/maximum-bags-with-full-capacity-of-rocks/)|Medium|
 |2367|[minimum-lines-to-represent-a-line-chart](https://leetcode.com/problems/minimum-lines-to-represent-a-line-chart)|||Medium|
 |2368|[sum-of-total-strength-of-wizards](https://leetcode.com/problems/sum-of-total-strength-of-wizards)|||Hard|
 |2369|[maximum-sum-score-of-array](https://leetcode.com/problems/maximum-sum-score-of-array)|:lock:||Medium|
-|2372|[rearrange-characters-to-make-target-string](https://leetcode.com/problems/rearrange-characters-to-make-target-string)|||Easy|
+|2372|[rearrange-characters-to-make-target-string](https://leetcode.com/problems/rearrange-characters-to-make-target-string)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/2372-rearrange-characters-to-make-target-string/rearrange-characters-to-make-target-string.py)||Easy|
 |2373|[apply-discount-to-prices](https://leetcode.com/problems/apply-discount-to-prices)|||Medium|
 |2374|[steps-to-make-array-non-decreasing](https://leetcode.com/problems/steps-to-make-array-non-decreasing)|||Medium|
 |2375|[minimum-obstacle-removal-to-reach-corner](https://leetcode.com/problems/minimum-obstacle-removal-to-reach-corner)|||Hard|
@@ -2300,6 +2300,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |2614|[maximum-count-of-positive-integer-and-negative-integer](https://leetcode.com/problems/maximum-count-of-positive-integer-and-negative-integer)|||Easy|
 |2615|[make-number-of-distinct-characters-equal](https://leetcode.com/problems/make-number-of-distinct-characters-equal)|||Medium|
 |2616|[maximal-score-after-applying-k-operations](https://leetcode.com/problems/maximal-score-after-applying-k-operations)|||Medium|
+|2617|[time-taken-to-cross-the-door](https://leetcode.com/problems/time-taken-to-cross-the-door)|:lock:||Hard|
 |2618|[maximize-the-minimum-powered-city](https://leetcode.com/problems/maximize-the-minimum-powered-city)|||Hard|
 |2619|[categorize-box-according-to-criteria](https://leetcode.com/problems/categorize-box-according-to-criteria)|||Easy|
 |2620|[find-consecutive-integers-from-a-data-stream](https://leetcode.com/problems/find-consecutive-integers-from-a-data-stream)|||Medium|
