@@ -1,8 +1,8 @@
 # :pencil2: Leetcode Solutions with Python3,Cpp
-Update time:  2023-01-14 08:21:15
+Update time:  2023-01-15 08:20:43
 
-I have solved **630   /   2301** problems
-while there are **351** problems still locked.
+I have solved **631   /   2301** problems
+while there are **350** problems still locked.
 
 If you have any question, please give me an [issue](https://github.com/hlnn/leetcode/issues).
 
@@ -986,7 +986,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |1055|[pairs-of-songs-with-total-durations-divisible-by-60](https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60)||[:memo:](https://leetcode.com/articles/pairs-of-songs-with-total-durations-divisible-by-60/)|Medium|
 |1056|[capacity-to-ship-packages-within-d-days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/1056-capacity-to-ship-packages-within-d-days/capacity-to-ship-packages-within-d-days.py)|[:memo:](https://leetcode.com/articles/capacity-to-ship-packages-within-d-days/)|Medium|
 |1057|[numbers-with-repeated-digits](https://leetcode.com/problems/numbers-with-repeated-digits)|||Hard|
-|1058|[lexicographically-smallest-equivalent-string](https://leetcode.com/problems/lexicographically-smallest-equivalent-string)|:lock:|[:memo:](https://leetcode.com/articles/lexicographically-smallest-equivalent-string/)|Medium|
+|1058|[lexicographically-smallest-equivalent-string](https://leetcode.com/problems/lexicographically-smallest-equivalent-string)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/1058-lexicographically-smallest-equivalent-string/lexicographically-smallest-equivalent-string.py)|[:memo:](https://leetcode.com/articles/lexicographically-smallest-equivalent-string/)|Medium|
 |1059|[missing-element-in-sorted-array](https://leetcode.com/problems/missing-element-in-sorted-array)|:lock:|[:memo:](https://leetcode.com/articles/missing-element-in-sorted-array/)|Medium|
 |1060|[longest-repeating-substring](https://leetcode.com/problems/longest-repeating-substring)|:lock:|[:memo:](https://leetcode.com/articles/longest-repeating-substring/)|Medium|
 |1061|[number-of-valid-subarrays](https://leetcode.com/problems/number-of-valid-subarrays)|:lock:||Hard|
@@ -1127,7 +1127,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |1224|[minimum-falling-path-sum-ii](https://leetcode.com/problems/minimum-falling-path-sum-ii)|||Hard|
 |1227|[number-of-equivalent-domino-pairs](https://leetcode.com/problems/number-of-equivalent-domino-pairs)|||Easy|
 |1228|[minimum-cost-tree-from-leaf-values](https://leetcode.com/problems/minimum-cost-tree-from-leaf-values)|||Medium|
-|1229|[shortest-path-with-alternating-colors](https://leetcode.com/problems/shortest-path-with-alternating-colors)|||Medium|
+|1229|[shortest-path-with-alternating-colors](https://leetcode.com/problems/shortest-path-with-alternating-colors)||[:memo:](https://leetcode.com/articles/shortest-path-with-alternating-colors/)|Medium|
 |1230|[maximum-of-absolute-value-expression](https://leetcode.com/problems/maximum-of-absolute-value-expression)|||Medium|
 |1231|[replace-elements-with-greatest-element-on-right-side](https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side)|||Easy|
 |1232|[sum-of-mutated-array-closest-to-target](https://leetcode.com/problems/sum-of-mutated-array-closest-to-target)|||Medium|
