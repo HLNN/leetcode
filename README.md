@@ -1,7 +1,7 @@
 # :pencil2: Leetcode Solutions with Python3,Cpp
-Update time:  2023-01-15 08:20:43
+Update time:  2023-01-16 08:20:36
 
-I have solved **631   /   2301** problems
+I have solved **633   /   2305** problems
 while there are **350** problems still locked.
 
 If you have any question, please give me an [issue](https://github.com/hlnn/leetcode/issues).
@@ -2094,7 +2094,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |2383|[add-two-integers](https://leetcode.com/problems/add-two-integers)|||Easy|
 |2384|[root-equals-sum-of-children](https://leetcode.com/problems/root-equals-sum-of-children)|||Easy|
 |2385|[count-positions-on-street-with-required-brightness](https://leetcode.com/problems/count-positions-on-street-with-required-brightness)|:lock:||Medium|
-|2386|[min-max-game](https://leetcode.com/problems/min-max-game)|||Easy|
+|2386|[min-max-game](https://leetcode.com/problems/min-max-game)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/2386-min-max-game/min-max-game.py)||Easy|
 |2387|[partition-array-such-that-maximum-difference-is-k](https://leetcode.com/problems/partition-array-such-that-maximum-difference-is-k)|||Medium|
 |2388|[replace-elements-in-an-array](https://leetcode.com/problems/replace-elements-in-an-array)|||Medium|
 |2389|[design-a-text-editor](https://leetcode.com/problems/design-a-text-editor)|||Hard|
@@ -2198,7 +2198,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |2502|[sort-the-people](https://leetcode.com/problems/sort-the-people)|||Easy|
 |2503|[longest-subarray-with-maximum-bitwise-and](https://leetcode.com/problems/longest-subarray-with-maximum-bitwise-and)|||Medium|
 |2504|[find-all-good-indices](https://leetcode.com/problems/find-all-good-indices)|||Medium|
-|2505|[number-of-good-paths](https://leetcode.com/problems/number-of-good-paths)||[:memo:](https://leetcode.com/articles/number-of-good-paths/)|Hard|
+|2505|[number-of-good-paths](https://leetcode.com/problems/number-of-good-paths)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/2505-number-of-good-paths/number-of-good-paths.py)|[:memo:](https://leetcode.com/articles/number-of-good-paths/)|Hard|
 |2506|[minimize-maximum-value-in-a-grid](https://leetcode.com/problems/minimize-maximum-value-in-a-grid)|:lock:||Hard|
 |2507|[number-of-common-factors](https://leetcode.com/problems/number-of-common-factors)|||Easy|
 |2508|[maximum-sum-of-an-hourglass](https://leetcode.com/problems/maximum-sum-of-an-hourglass)|||Medium|
@@ -2306,6 +2306,10 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |2620|[find-consecutive-integers-from-a-data-stream](https://leetcode.com/problems/find-consecutive-integers-from-a-data-stream)|||Medium|
 |2621|[find-xor-beauty-of-array](https://leetcode.com/problems/find-xor-beauty-of-array)|||Medium|
 |2623|[maximum-xor-of-two-non-overlapping-subtrees](https://leetcode.com/problems/maximum-xor-of-two-non-overlapping-subtrees)|:lock:||Hard|
+|2624|[difference-between-element-sum-and-digit-sum-of-an-array](https://leetcode.com/problems/difference-between-element-sum-and-digit-sum-of-an-array)|||Easy|
+|2625|[increment-submatrices-by-one](https://leetcode.com/problems/increment-submatrices-by-one)|||Medium|
+|2626|[count-the-number-of-good-subarrays](https://leetcode.com/problems/count-the-number-of-good-subarrays)|||Medium|
+|2627|[difference-between-maximum-and-minimum-price-sum](https://leetcode.com/problems/difference-between-maximum-and-minimum-price-sum)|||Hard|
 |2628|[minimize-the-maximum-of-two-arrays](https://leetcode.com/problems/minimize-the-maximum-of-two-arrays)|||Medium|
 |2629|[number-of-substrings-with-fixed-ratio](https://leetcode.com/problems/number-of-substrings-with-fixed-ratio)|:lock:||Medium|
 |2638|[number-of-subarrays-having-even-product](https://leetcode.com/problems/number-of-subarrays-having-even-product)|:lock:||Medium|
