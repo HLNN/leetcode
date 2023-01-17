@@ -46,4 +46,4 @@ class Solution:
             else:
                 return res + [newInterval] + intervals[i:]
         return res + [newInterval]
-            
+    

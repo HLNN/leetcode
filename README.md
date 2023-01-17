@@ -1,7 +1,7 @@
 # :pencil2: Leetcode Solutions with Python3,Cpp
-Update time:  2023-01-16 08:20:36
+Update time:  2023-01-17 08:21:42
 
-I have solved **633   /   2305** problems
+I have solved **635   /   2305** problems
 while there are **350** problems still locked.
 
 If you have any question, please give me an [issue](https://github.com/hlnn/leetcode/issues).
@@ -1079,7 +1079,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |1152|[maximum-number-of-ones](https://leetcode.com/problems/maximum-number-of-ones)|:lock:||Hard|
 |1156|[occurrences-after-bigram](https://leetcode.com/problems/occurrences-after-bigram)|||Easy|
 |1157|[insufficient-nodes-in-root-to-leaf-paths](https://leetcode.com/problems/insufficient-nodes-in-root-to-leaf-paths)|||Medium|
-|1159|[smallest-subsequence-of-distinct-characters](https://leetcode.com/problems/smallest-subsequence-of-distinct-characters)|||Medium|
+|1159|[smallest-subsequence-of-distinct-characters](https://leetcode.com/problems/smallest-subsequence-of-distinct-characters)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/1159-smallest-subsequence-of-distinct-characters/smallest-subsequence-of-distinct-characters.py)||Medium|
 |1160|[letter-tile-possibilities](https://leetcode.com/problems/letter-tile-possibilities)|||Medium|
 |1164|[missing-number-in-arithmetic-progression](https://leetcode.com/problems/missing-number-in-arithmetic-progression)|:lock:|[:memo:](https://leetcode.com/articles/missing-number-in-arithmetic-progression/)|Easy|
 |1165|[meeting-scheduler](https://leetcode.com/problems/meeting-scheduler)|:lock:|[:memo:](https://leetcode.com/articles/meeting-scheduler/)|Medium|
@@ -1116,7 +1116,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |1210|[mean-of-array-after-removing-some-elements](https://leetcode.com/problems/mean-of-array-after-removing-some-elements)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/1210-mean-of-array-after-removing-some-elements/mean-of-array-after-removing-some-elements.py)||Easy|
 |1211|[iterator-for-combination](https://leetcode.com/problems/iterator-for-combination)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/1211-iterator-for-combination/iterator-for-combination.py)|[:memo:](https://leetcode.com/articles/iterator-for-combination/)|Medium|
 |1212|[sequential-digits](https://leetcode.com/problems/sequential-digits)||[:memo:](https://leetcode.com/articles/sequential-digits/)|Medium|
-|1213|[handshakes-that-dont-cross](https://leetcode.com/problems/handshakes-that-dont-cross)|:lock:||Hard|
+|1213|[handshakes-that-dont-cross](https://leetcode.com/problems/handshakes-that-dont-cross)|:lock:|[:memo:](https://leetcode.com/articles/handshakes-that-dont-cross/)|Hard|
 |1217|[relative-sort-array](https://leetcode.com/problems/relative-sort-array)|||Easy|
 |1218|[lowest-common-ancestor-of-deepest-leaves](https://leetcode.com/problems/lowest-common-ancestor-of-deepest-leaves)|||Medium|
 |1219|[longest-well-performing-interval](https://leetcode.com/problems/longest-well-performing-interval)|||Medium|
@@ -1684,7 +1684,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |1918|[maximum-score-of-a-good-subarray](https://leetcode.com/problems/maximum-score-of-a-good-subarray)|||Hard|
 |1919|[sort-features-by-popularity](https://leetcode.com/problems/sort-features-by-popularity)|:lock:||Medium|
 |1920|[determine-color-of-a-chessboard-square](https://leetcode.com/problems/determine-color-of-a-chessboard-square)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/1920-determine-color-of-a-chessboard-square/determine-color-of-a-chessboard-square.py)||Easy|
-|1923|[sentence-similarity-iii](https://leetcode.com/problems/sentence-similarity-iii)|||Medium|
+|1923|[sentence-similarity-iii](https://leetcode.com/problems/sentence-similarity-iii)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/1923-sentence-similarity-iii/sentence-similarity-iii.py)||Medium|
 |1924|[maximum-number-of-groups-getting-fresh-donuts](https://leetcode.com/problems/maximum-number-of-groups-getting-fresh-donuts)|||Hard|
 |1925|[count-nice-pairs-in-an-array](https://leetcode.com/problems/count-nice-pairs-in-an-array)|||Medium|
 |1927|[maximum-ascending-subarray-sum](https://leetcode.com/problems/maximum-ascending-subarray-sum)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/1927-maximum-ascending-subarray-sum/maximum-ascending-subarray-sum.py)||Easy|
