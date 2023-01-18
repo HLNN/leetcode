@@ -1,7 +1,7 @@
 # :pencil2: Leetcode Solutions with Python3,Cpp
-Update time:  2023-01-17 08:21:42
+Update time:  2023-01-18 08:21:09
 
-I have solved **635   /   2305** problems
+I have solved **636   /   2305** problems
 while there are **350** problems still locked.
 
 If you have any question, please give me an [issue](https://github.com/hlnn/leetcode/issues).
@@ -1159,7 +1159,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |1264|[maximum-number-of-words-you-can-type](https://leetcode.com/problems/maximum-number-of-words-you-can-type)|||Easy|
 |1267|[remove-zero-sum-consecutive-nodes-from-linked-list](https://leetcode.com/problems/remove-zero-sum-consecutive-nodes-from-linked-list)|||Medium|
 |1270|[dinner-plate-stacks](https://leetcode.com/problems/dinner-plate-stacks)|||Hard|
-|1271|[web-crawler](https://leetcode.com/problems/web-crawler)|:lock:||Medium|
+|1271|[web-crawler](https://leetcode.com/problems/web-crawler)|:lock:|[:memo:](https://leetcode.com/articles/web-crawler/)|Medium|
 |1272|[invalid-transactions](https://leetcode.com/problems/invalid-transactions)|||Medium|
 |1273|[compare-strings-by-frequency-of-the-smallest-character](https://leetcode.com/problems/compare-strings-by-frequency-of-the-smallest-character)|||Medium|
 |1274|[number-of-days-between-two-dates](https://leetcode.com/problems/number-of-days-between-two-dates)|||Easy|
@@ -1686,7 +1686,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |1920|[determine-color-of-a-chessboard-square](https://leetcode.com/problems/determine-color-of-a-chessboard-square)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/1920-determine-color-of-a-chessboard-square/determine-color-of-a-chessboard-square.py)||Easy|
 |1923|[sentence-similarity-iii](https://leetcode.com/problems/sentence-similarity-iii)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/1923-sentence-similarity-iii/sentence-similarity-iii.py)||Medium|
 |1924|[maximum-number-of-groups-getting-fresh-donuts](https://leetcode.com/problems/maximum-number-of-groups-getting-fresh-donuts)|||Hard|
-|1925|[count-nice-pairs-in-an-array](https://leetcode.com/problems/count-nice-pairs-in-an-array)|||Medium|
+|1925|[count-nice-pairs-in-an-array](https://leetcode.com/problems/count-nice-pairs-in-an-array)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/1925-count-nice-pairs-in-an-array/count-nice-pairs-in-an-array.py)||Medium|
 |1927|[maximum-ascending-subarray-sum](https://leetcode.com/problems/maximum-ascending-subarray-sum)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/1927-maximum-ascending-subarray-sum/maximum-ascending-subarray-sum.py)||Easy|
 |1928|[number-of-orders-in-the-backlog](https://leetcode.com/problems/number-of-orders-in-the-backlog)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/1928-number-of-orders-in-the-backlog/number-of-orders-in-the-backlog.py)||Medium|
 |1929|[maximum-value-at-a-given-index-in-a-bounded-array](https://leetcode.com/problems/maximum-value-at-a-given-index-in-a-bounded-array)|||Medium|

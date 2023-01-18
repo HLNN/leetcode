@@ -41,10 +41,13 @@
 
 class Solution:
     def minFlipsMonoIncr(self, s: str) -> int:
-        p = [0] * (len(s) + 1)
-        for i in range(len(s)):
-            p[i + 1] = p[i] + int(s[i])
+        zeros, ones = 0, 0
+        for c in s:
+            if c == '0':
+                ones = min(zeros, ones) + 1
+            else:
+                ones = min(zeros, ones)
+                zeros += 1
         
-        return min(p[i] + len(s) - i - (p[-1] - p[i])
-                  for i in range(len(p)))
+        return min(zeros, ones)
     
