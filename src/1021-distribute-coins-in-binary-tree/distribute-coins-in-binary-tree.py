@@ -41,16 +41,15 @@
 #         self.right = right
 class Solution:
     def distributeCoins(self, root: Optional[TreeNode]) -> int:
+        res = 0
+
         def dfs(node):
-            if not node: return 0, 0
-            
-            l = dfs(node.left)
-            r = dfs(node.right)
-            
-            res = l[0] + r[0]
-            coins = l[1] + r[1] + node.val - 1
-            
-            return res + abs(coins), coins
-        
-        return dfs(root)[0]
+            nonlocal res
+            if not node: return 0
+            moves = dfs(node.left) + dfs(node.right) + node.val - 1
+            res += abs(moves)
+            return moves
+    
+        dfs(root)
+        return res
     

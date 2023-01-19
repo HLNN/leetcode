@@ -1,8 +1,8 @@
 # :pencil2: Leetcode Solutions with Python3,Cpp
-Update time:  2023-01-18 08:21:09
+Update time:  2023-01-19 08:21:24
 
-I have solved **636   /   2305** problems
-while there are **350** problems still locked.
+I have solved **637   /   2306** problems
+while there are **351** problems still locked.
 
 If you have any question, please give me an [issue](https://github.com/hlnn/leetcode/issues).
 
@@ -887,7 +887,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |951|[partition-array-into-disjoint-intervals](https://leetcode.com/problems/partition-array-into-disjoint-intervals)||[:memo:](https://leetcode.com/articles/parition-array-into-disjoint-intervals/)|Medium|
 |952|[word-subsets](https://leetcode.com/problems/word-subsets)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0952-word-subsets/word-subsets.py)|[:memo:](https://leetcode.com/articles/word-subsets/)|Medium|
 |953|[reverse-only-letters](https://leetcode.com/problems/reverse-only-letters)||[:memo:](https://leetcode.com/articles/reverse-only-letters/)|Easy|
-|954|[maximum-sum-circular-subarray](https://leetcode.com/problems/maximum-sum-circular-subarray)||[:memo:](https://leetcode.com/articles/maximum-sum-circular-subarray/)|Medium|
+|954|[maximum-sum-circular-subarray](https://leetcode.com/problems/maximum-sum-circular-subarray)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0954-maximum-sum-circular-subarray/maximum-sum-circular-subarray.py)|[:memo:](https://leetcode.com/articles/maximum-sum-circular-subarray/)|Medium|
 |955|[complete-binary-tree-inserter](https://leetcode.com/problems/complete-binary-tree-inserter)||[:memo:](https://leetcode.com/articles/complete-binary-tree-inserter/)|Medium|
 |956|[number-of-music-playlists](https://leetcode.com/problems/number-of-music-playlists)||[:memo:](https://leetcode.com/articles/number-of-music-playlists/)|Hard|
 |957|[minimum-add-to-make-parentheses-valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0957-minimum-add-to-make-parentheses-valid/minimum-add-to-make-parentheses-valid.py)|[:memo:](https://leetcode.com/articles/minimum-add-to-make-parentheses-valid/)|Medium|
@@ -2319,3 +2319,4 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |2658|[count-the-number-of-k-big-indices](https://leetcode.com/problems/count-the-number-of-k-big-indices)|:lock:||Hard|
 |2667|[maximum-frequency-score-of-a-subarray](https://leetcode.com/problems/maximum-frequency-score-of-a-subarray)|:lock:||Hard|
 |2672|[number-of-good-binary-strings](https://leetcode.com/problems/number-of-good-binary-strings)|:lock:||Medium|
+|2683|[count-the-number-of-good-subsequences](https://leetcode.com/problems/count-the-number-of-good-subsequences)|:lock:||Medium|
