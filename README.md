@@ -1,7 +1,7 @@
 # :pencil2: Leetcode Solutions with Python3,Cpp
-Update time:  2023-01-19 08:21:24
+Update time:  2023-01-20 13:06:42
 
-I have solved **637   /   2306** problems
+I have solved **639   /   2306** problems
 while there are **351** problems still locked.
 
 If you have any question, please give me an [issue](https://github.com/hlnn/leetcode/issues).
@@ -944,7 +944,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |1012|[equal-rational-numbers](https://leetcode.com/problems/equal-rational-numbers)||[:memo:](https://leetcode.com/articles/equal-rational-numbers/)|Hard|
 |1013|[fibonacci-number](https://leetcode.com/problems/fibonacci-number)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/1013-fibonacci-number/fibonacci-number.py)|[:memo:](https://leetcode.com/articles/fibonacci-number/)|Easy|
 |1014|[k-closest-points-to-origin](https://leetcode.com/problems/k-closest-points-to-origin)||[:memo:](https://leetcode.com/articles/k-closest-points-to-origin/)|Medium|
-|1016|[subarray-sums-divisible-by-k](https://leetcode.com/problems/subarray-sums-divisible-by-k)||[:memo:](https://leetcode.com/articles/subarray-sums-divisible-by-k/)|Medium|
+|1016|[subarray-sums-divisible-by-k](https://leetcode.com/problems/subarray-sums-divisible-by-k)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/1016-subarray-sums-divisible-by-k/subarray-sums-divisible-by-k.py)|[:memo:](https://leetcode.com/articles/subarray-sums-divisible-by-k/)|Medium|
 |1017|[odd-even-jump](https://leetcode.com/problems/odd-even-jump)||[:memo:](https://leetcode.com/articles/odd-even-jump/)|Hard|
 |1018|[largest-perimeter-triangle](https://leetcode.com/problems/largest-perimeter-triangle)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/1018-largest-perimeter-triangle/largest-perimeter-triangle.py)|[:memo:](https://leetcode.com/articles/largest-perimeter-triangle/)|Easy|
 |1019|[squares-of-a-sorted-array](https://leetcode.com/problems/squares-of-a-sorted-array)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/1019-squares-of-a-sorted-array/squares-of-a-sorted-array.py)|[:memo:](https://leetcode.com/articles/squares-of-a-sorted-array/)|Easy|
@@ -2099,7 +2099,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |2388|[replace-elements-in-an-array](https://leetcode.com/problems/replace-elements-in-an-array)|||Medium|
 |2389|[design-a-text-editor](https://leetcode.com/problems/design-a-text-editor)|||Hard|
 |2390|[naming-a-company](https://leetcode.com/problems/naming-a-company)|||Hard|
-|2391|[strong-password-checker-ii](https://leetcode.com/problems/strong-password-checker-ii)|||Easy|
+|2391|[strong-password-checker-ii](https://leetcode.com/problems/strong-password-checker-ii)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/2391-strong-password-checker-ii/strong-password-checker-ii.py)||Easy|
 |2392|[successful-pairs-of-spells-and-potions](https://leetcode.com/problems/successful-pairs-of-spells-and-potions)|||Medium|
 |2393|[match-substring-after-replacement](https://leetcode.com/problems/match-substring-after-replacement)|||Hard|
 |2394|[count-subarrays-with-score-less-than-k](https://leetcode.com/problems/count-subarrays-with-score-less-than-k)|||Hard|
