@@ -1,7 +1,7 @@
 # :pencil2: Leetcode Solutions with Python3,Cpp
-Update time:  2023-01-20 13:06:42
+Update time:  2023-01-21 12:24:45
 
-I have solved **639   /   2306** problems
+I have solved **642   /   2306** problems
 while there are **351** problems still locked.
 
 If you have any question, please give me an [issue](https://github.com/hlnn/leetcode/issues).
@@ -58,7 +58,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |42|[trapping-rain-water](https://leetcode.com/problems/trapping-rain-water)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0042-trapping-rain-water/trapping-rain-water.py)|[:memo:](https://leetcode.com/articles/trapping-rain-water/)|Hard|
 |43|[multiply-strings](https://leetcode.com/problems/multiply-strings)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0043-multiply-strings/multiply-strings.py)|[:memo:](https://leetcode.com/articles/multiply-strings/)|Medium|
 |44|[wildcard-matching](https://leetcode.com/problems/wildcard-matching)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0044-wildcard-matching/wildcard-matching.py)|[:memo:](https://leetcode.com/articles/wildcard-matching/)|Hard|
-|45|[jump-game-ii](https://leetcode.com/problems/jump-game-ii)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0045-jump-game-ii/jump-game-ii.py)||Medium|
+|45|[jump-game-ii](https://leetcode.com/problems/jump-game-ii)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0045-jump-game-ii/jump-game-ii.py)|[:memo:](https://leetcode.com/articles/jump-game-ii/)|Medium|
 |46|[permutations](https://leetcode.com/problems/permutations)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0046-permutations/permutations.py)|[:memo:](https://leetcode.com/articles/permutations/)|Medium|
 |47|[permutations-ii](https://leetcode.com/problems/permutations-ii)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0047-permutations-ii/permutations-ii.py)|[:memo:](https://leetcode.com/articles/permutations-ii/)|Medium|
 |48|[rotate-image](https://leetcode.com/problems/rotate-image)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0048-rotate-image/rotate-image.py)|[:memo:](https://leetcode.com/articles/rotate-image/)|Medium|
@@ -479,7 +479,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |488|[zuma-game](https://leetcode.com/problems/zuma-game)|||Hard|
 |489|[kth-smallest-instructions](https://leetcode.com/problems/kth-smallest-instructions)|||Hard|
 |490|[the-maze](https://leetcode.com/problems/the-maze)|:lock:|[:memo:](https://leetcode.com/articles/the-maze/)|Medium|
-|491|[non-decreasing-subsequences](https://leetcode.com/problems/non-decreasing-subsequences)||[:memo:](https://leetcode.com/articles/increasing-subsequences/)|Medium|
+|491|[non-decreasing-subsequences](https://leetcode.com/problems/non-decreasing-subsequences)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0491-non-decreasing-subsequences/non-decreasing-subsequences.py)|[:memo:](https://leetcode.com/articles/increasing-subsequences/)|Medium|
 |492|[construct-the-rectangle](https://leetcode.com/problems/construct-the-rectangle)|||Easy|
 |493|[reverse-pairs](https://leetcode.com/problems/reverse-pairs)||[:memo:](https://leetcode.com/articles/reverse-pairs/)|Hard|
 |494|[target-sum](https://leetcode.com/problems/target-sum)||[:memo:](https://leetcode.com/articles/target-sum/)|Medium|
@@ -1703,7 +1703,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |1941|[minimum-number-of-operations-to-make-string-sorted](https://leetcode.com/problems/minimum-number-of-operations-to-make-string-sorted)|||Hard|
 |1943|[count-pairs-of-equal-substrings-with-minimum-difference](https://leetcode.com/problems/count-pairs-of-equal-substrings-with-minimum-difference)|:lock:||Medium|
 |1944|[truncate-sentence](https://leetcode.com/problems/truncate-sentence)|||Easy|
-|1945|[finding-the-users-active-minutes](https://leetcode.com/problems/finding-the-users-active-minutes)|||Medium|
+|1945|[finding-the-users-active-minutes](https://leetcode.com/problems/finding-the-users-active-minutes)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/1945-finding-the-users-active-minutes/finding-the-users-active-minutes.py)||Medium|
 |1946|[minimum-absolute-sum-difference](https://leetcode.com/problems/minimum-absolute-sum-difference)|||Medium|
 |1947|[number-of-different-subsequences-gcds](https://leetcode.com/problems/number-of-different-subsequences-gcds)|||Hard|
 |1949|[implement-trie-ii-prefix-tree](https://leetcode.com/problems/implement-trie-ii-prefix-tree)|:lock:||Medium|
@@ -2226,7 +2226,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |2535|[count-strictly-increasing-subarrays](https://leetcode.com/problems/count-strictly-increasing-subarrays)|:lock:||Medium|
 |2536|[determine-if-two-events-have-conflict](https://leetcode.com/problems/determine-if-two-events-have-conflict)|||Easy|
 |2537|[minimum-time-to-kill-all-monsters](https://leetcode.com/problems/minimum-time-to-kill-all-monsters)|:lock:||Hard|
-|2538|[minimum-cost-to-make-array-equal](https://leetcode.com/problems/minimum-cost-to-make-array-equal)|||Hard|
+|2538|[minimum-cost-to-make-array-equal](https://leetcode.com/problems/minimum-cost-to-make-array-equal)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/2538-minimum-cost-to-make-array-equal/minimum-cost-to-make-array-equal.py)||Hard|
 |2539|[minimum-number-of-operations-to-make-arrays-similar](https://leetcode.com/problems/minimum-number-of-operations-to-make-arrays-similar)|||Hard|
 |2541|[sum-of-number-and-its-reverse](https://leetcode.com/problems/sum-of-number-and-its-reverse)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/2541-sum-of-number-and-its-reverse/sum-of-number-and-its-reverse.py)||Medium|
 |2542|[average-value-of-even-numbers-that-are-divisible-by-three](https://leetcode.com/problems/average-value-of-even-numbers-that-are-divisible-by-three)|||Easy|
