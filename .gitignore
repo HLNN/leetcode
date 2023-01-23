@@ -115,3 +115,4 @@ config.cfg
 chromedriver/
 .idea/
 
+.DS_Store
