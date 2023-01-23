@@ -35,4 +35,5 @@
 
 class Solution:
     def countDistinctIntegers(self, nums: List[int]) -> int:
-        return len(set(nums + list(map(int, [str(n)[::-1] for n in nums]))))
+        return len(set(nums) | set(int(str(n)[::-1]) for n in nums))
+    

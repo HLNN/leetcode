@@ -47,7 +47,7 @@ class Solution:
         def bt(start, k, ans):
             if k == 4:
                 if start == n:
-                    res.append(ans[:])
+                    res.append(".".join(ans))
                 else:
                     return
             if start >= n or n - start > 3 * (4 - k): return
@@ -60,5 +60,5 @@ class Solution:
                     bt(start + i, k + 1, ans)
                     ans[k] = tmp
         bt(0, 0, ans)
-        return [".".join(ans) for ans in res]
+        return res
     
