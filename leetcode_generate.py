@@ -169,7 +169,9 @@ class QuizItem:
 
 class Leetcode:
 
-    def __init__(self):
+    def __init__(self, kws, qids):
+        self.kws = kws
+        self.qids = qids
         self.items = []
         self.submissions = []
         self.load_all_submissions = True
@@ -189,6 +191,7 @@ class Leetcode:
         self.session.headers.update(HEADERS)
         self.session.proxies = PROXIES
         self.cookies = None
+        self.last_update_ts = 0
 
     def login(self):
         LOGIN_URL = self.base_url + '/accounts/login/'  # NOQA
@@ -261,17 +264,26 @@ class Leetcode:
         login -> load api -> load submissions -> solutions to items
         return `all in one items`
         """
+        # pull first
+        cmd_git_pull = "git pull"
+        os.system(cmd_git_pull)
         # if cookie is valid, get api_url twice
         # TODO: here can optimize
         if not self.is_login:
             self.login()
         self.load_items_from_api()
+
+        if 'update' in self.kws:
+            with open('README.md', 'r') as f:
+                readme = ''.join(next(f) for _ in range(10))
+                stime = re.findall(r'\d{4}-\d{2}-\d{2} \d{2}:\d{2}:\d{2}', readme)[0]
+                ts = datetime.datetime.strptime(stime, "%Y-%m-%d %H:%M:%S").timestamp()
+                ts = int(ts) - 24 * 60 * 60
+                self.last_update_ts = ts
         self.load_submissions()
         # self.load_all_submissions = False
-        self.load_solutions_to_items()
 
-        cmd_git_pull = "git pull"
-        os.system(cmd_git_pull)
+        self.load_solutions_to_items()
 
     def _generate_items_from_api(self, json_data):
         stat_status_pairs = json_data['stat_status_pairs']
@@ -339,6 +351,8 @@ class Leetcode:
                 raise Exception('Get submissions wrong, Check network\n')
 
             self.submissions += data['submissions_dump']
+            if data['submissions_dump'][0]['timestamp'] < self.last_update_ts:
+                break
             if data['has_next']:
                 offset += limit
                 last_key = data['last_key']
@@ -468,7 +482,7 @@ class Leetcode:
                     qid, qtitle
                 )
             )
-            return
+            return False
 
         dirname = os.path.join('src', '{id}-{title}'.format(id=str(qid).zfill(MAX_DIGIT_LEN), title=qtitle))
         print('begin download ' + dirname)
@@ -486,6 +500,7 @@ class Leetcode:
             with codecs.open(filename, 'w', 'utf-8') as f:
                 print('write to file ->', fname)
                 f.write(content)
+        return True
 
     def _find_item_by_quiz_id(self, qid):
         """
@@ -506,8 +521,8 @@ class Leetcode:
         """ download all solutions with single thread """
         ac_items = [i for i in self.items if i.is_pass]
         for quiz in ac_items:
-            time.sleep(1)
-            self._download_code_by_quiz(quiz)
+            if self._download_code_by_quiz(quiz):
+                time.sleep(1)
 
     def download_with_thread_pool(self):
         """ download all solutions with multi thread """
@@ -590,7 +605,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
         with open('README.md', 'w') as f:
             f.write(md)
 
-    def push_to_github(self, qids):
+    def push_to_github(self):
         with os.popen(r"git diff -- README.md", "r") as f:
             diff = f.read()
         r = re.findall(r"I have solved \*\*(\w+)   /", diff, re.S)
@@ -604,11 +619,9 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 
         strdate = datetime.datetime.now().strftime('%Y-%m-%d')
         cmd_git_add = 'git add .'
-        if not qids:
-            qids = ['all']
         cmd_git_commit = 'git commit -m "update problem {problem} at {date}"'.format(
             date=strdate,
-            problem=" ".join(qids)
+            problem=" ".join(self.qids if self.qids else ['all'])
         )
         cmd_git_push = 'git push -u origin master'
         os.system(cmd_git_add)
@@ -633,19 +646,26 @@ def do_job(leetcode, qids):
     print('Leetcode finish dowload')
     leetcode.write_readme()
     print('Leetcode finish write readme')
-    leetcode.push_to_github(qids)
+    leetcode.push_to_github()
     print('push to github')
 
 
+def get_argv():
+    argv = sys.argv[1:]
+    kws = set(kw for kw in argv if not kw.isdigit())
+    qids = sorted([int(qid) for qid in argv if qid.isdigit()])
+    print(f'kws: {kws}, qids: {qids}')
+    return kws, qids
+
+
 if __name__ == '__main__':
-    leetcode = Leetcode()
-    once = len(sys.argv) == 2 and sys.argv[1] == 'once'
-    qids = [int(qid) for qid in sys.argv if qid.isdigit()]
-    print(f'once: {once}, qids: {qids}')
+    kws, qids = get_argv()
+    leetcode = Leetcode(kws, qids)
+
     while True:
         start = time.time()
         do_job(leetcode, qids)
-        if once or qids:
+        if 'once' in kws or qids:
             break
         t = time.time() - start
         time.sleep(24 * 60 * 60 - t)
