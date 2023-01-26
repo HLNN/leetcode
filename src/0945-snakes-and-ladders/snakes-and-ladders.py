@@ -51,7 +51,7 @@
 #
 # 	n == board.length == board[i].length
 # 	2 <= n <= 20
-# 	grid[i][j] is either -1 or in the range [1, n2].
+# 	board[i][j] is either -1 or in the range [1, n2].
 # 	The squares labeled 1 and n2 do not have any ladders or snakes.
 #
 #

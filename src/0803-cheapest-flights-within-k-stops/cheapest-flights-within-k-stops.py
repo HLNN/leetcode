@@ -52,22 +52,23 @@
 
 
 class Solution:
-    def findCheapestPrice(self, n: int, flights: List[List[int]], src: int, dst: int, K: int) -> int:
-        graph = defaultdict(list)
-        deque_vert = deque([[src, 0, 0]])
-        min_price = float('inf')
-     
-        for i, j, w in flights: 
-            graph[i].append([j, w])
-
-        while deque_vert:
-            city, visited, price = deque_vert.popleft()
-
-            if price <= min_price and visited <= K and city != dst:
-                for neibh, price_neibh in graph[city]:
-                     deque_vert.append([neibh, visited + 1, price + price_neibh])
+    def findCheapestPrice(self, n: int, flights: List[List[int]], src: int, dst: int, k: int) -> int:
+        dd = defaultdict(list)
+        seen = defaultdict(lambda: inf)
+        for f, t, p in flights:
+            dd[f].append([t, p])
+        
+        # cost, node, step
+        heap = [(0, src, -1)]
+        
+        while heap:
+            c, n, s = heappop(heap)
+            if n == dst: return c
+            if seen[n] <= s or s == k: continue
+            seen[n] = s
             
-            if city == dst:
-                min_price = min(min_price, price)
-                
-        return min_price if min_price != float('inf') else -1
+            for t, p in dd[n]:
+                heappush(heap, (c + p, t, s + 1))
+        
+        return -1
+    

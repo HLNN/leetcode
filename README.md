@@ -1,7 +1,7 @@
 # :pencil2: Leetcode Solutions with Python3,Cpp
-Update time:  2023-01-25 08:01:08
+Update time:  2023-01-26 19:47:57
 
-I have solved **648   /   2314** problems
+I have solved **649   /   2314** problems
 while there are **351** problems still locked.
 
 If you have any question, please give me an [issue](https://github.com/hlnn/leetcode/issues).
@@ -694,7 +694,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |751|[number-of-corner-rectangles](https://leetcode.com/problems/number-of-corner-rectangles)|:lock:|[:memo:](https://leetcode.com/articles/number-of-corner-rectangles/)|Medium|
 |752|[ip-to-cidr](https://leetcode.com/problems/ip-to-cidr)|:lock:|[:memo:](https://leetcode.com/articles/ip-to-cidr/)|Medium|
 |753|[open-the-lock](https://leetcode.com/problems/open-the-lock)||[:memo:](https://leetcode.com/articles/open-the-lock/)|Medium|
-|754|[cracking-the-safe](https://leetcode.com/problems/cracking-the-safe)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0754-cracking-the-safe/cracking-the-safe.py)|[:memo:](https://leetcode.com/articles/cracking-the-safe/)|Hard|
+|754|[cracking-the-safe](https://leetcode.com/problems/cracking-the-safe)||[:memo:](https://leetcode.com/articles/cracking-the-safe/)|Hard|
 |755|[reach-a-number](https://leetcode.com/problems/reach-a-number)||[:memo:](https://leetcode.com/articles/reach-a-number/)|Medium|
 |756|[pour-water](https://leetcode.com/problems/pour-water)|:lock:|[:memo:](https://leetcode.com/articles/pour-water/)|Medium|
 |757|[pyramid-transition-matrix](https://leetcode.com/problems/pyramid-transition-matrix)||[:memo:](https://leetcode.com/articles/pyramid-transition-matrix/)|Medium|
@@ -743,7 +743,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |800|[letter-case-permutation](https://leetcode.com/problems/letter-case-permutation)||[:memo:](https://leetcode.com/articles/letter-case-permutation/)|Medium|
 |801|[is-graph-bipartite](https://leetcode.com/problems/is-graph-bipartite)||[:memo:](https://leetcode.com/articles/is-graph-bipartite/)|Medium|
 |802|[k-th-smallest-prime-fraction](https://leetcode.com/problems/k-th-smallest-prime-fraction)||[:memo:](https://leetcode.com/articles/k-th-smallest-prime-fraction/)|Medium|
-|803|[cheapest-flights-within-k-stops](https://leetcode.com/problems/cheapest-flights-within-k-stops)||[:memo:](https://leetcode.com/articles/cheapest-flights-within-k-stops/)|Medium|
+|803|[cheapest-flights-within-k-stops](https://leetcode.com/problems/cheapest-flights-within-k-stops)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0803-cheapest-flights-within-k-stops/cheapest-flights-within-k-stops.py)|[:memo:](https://leetcode.com/articles/cheapest-flights-within-k-stops/)|Medium|
 |804|[rotated-digits](https://leetcode.com/problems/rotated-digits)||[:memo:](https://leetcode.com/articles/rotated-digits/)|Medium|
 |805|[escape-the-ghosts](https://leetcode.com/problems/escape-the-ghosts)||[:memo:](https://leetcode.com/articles/escape-the-ghosts/)|Medium|
 |806|[domino-and-tromino-tiling](https://leetcode.com/problems/domino-and-tromino-tiling)||[:memo:](https://leetcode.com/articles/domino-and-tromino-tiling/)|Medium|
@@ -881,7 +881,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |945|[snakes-and-ladders](https://leetcode.com/problems/snakes-and-ladders)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0945-snakes-and-ladders/snakes-and-ladders.py)|[:memo:](https://leetcode.com/articles/snakes-and-ladders/)|Medium|
 |946|[smallest-range-ii](https://leetcode.com/problems/smallest-range-ii)||[:memo:](https://leetcode.com/articles/smallest-range-ii/)|Medium|
 |947|[online-election](https://leetcode.com/problems/online-election)||[:memo:](https://leetcode.com/articles/online-election/)|Medium|
-|948|[sort-an-array](https://leetcode.com/problems/sort-an-array)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0948-sort-an-array/sort-an-array.py)||Medium|
+|948|[sort-an-array](https://leetcode.com/problems/sort-an-array)|||Medium|
 |949|[cat-and-mouse](https://leetcode.com/problems/cat-and-mouse)||[:memo:](https://leetcode.com/articles/cat-and-mouse-game/)|Hard|
 |950|[x-of-a-kind-in-a-deck-of-cards](https://leetcode.com/problems/x-of-a-kind-in-a-deck-of-cards)||[:memo:](https://leetcode.com/articles/x-of-a-kind-in-a-deck-of-cards/)|Easy|
 |951|[partition-array-into-disjoint-intervals](https://leetcode.com/problems/partition-array-into-disjoint-intervals)||[:memo:](https://leetcode.com/articles/parition-array-into-disjoint-intervals/)|Medium|
@@ -1392,7 +1392,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |1550|[find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows](https://leetcode.com/problems/find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows)|||Hard|
 |1552|[build-an-array-with-stack-operations](https://leetcode.com/problems/build-an-array-with-stack-operations)|||Medium|
 |1553|[count-triplets-that-can-form-two-arrays-of-equal-xor](https://leetcode.com/problems/count-triplets-that-can-form-two-arrays-of-equal-xor)|||Medium|
-|1554|[minimum-time-to-collect-all-apples-in-a-tree](https://leetcode.com/problems/minimum-time-to-collect-all-apples-in-a-tree)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/1554-minimum-time-to-collect-all-apples-in-a-tree/minimum-time-to-collect-all-apples-in-a-tree.py)|[:memo:](https://leetcode.com/articles/minimum-time-to-collect-all-apples-in-a-tree/)|Medium|
+|1554|[minimum-time-to-collect-all-apples-in-a-tree](https://leetcode.com/problems/minimum-time-to-collect-all-apples-in-a-tree)||[:memo:](https://leetcode.com/articles/minimum-time-to-collect-all-apples-in-a-tree/)|Medium|
 |1555|[number-of-ways-of-cutting-a-pizza](https://leetcode.com/problems/number-of-ways-of-cutting-a-pizza)|||Hard|
 |1556|[make-two-arrays-equal-by-reversing-subarrays](https://leetcode.com/problems/make-two-arrays-equal-by-reversing-subarrays)|||Easy|
 |1557|[check-if-a-string-contains-all-binary-codes-of-size-k](https://leetcode.com/problems/check-if-a-string-contains-all-binary-codes-of-size-k)||[:memo:](https://leetcode.com/articles/check-if-a-string-contains-all-binary-codes-of-size-k/)|Medium|
@@ -1574,7 +1574,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |1778|[maximize-grid-happiness](https://leetcode.com/problems/maximize-grid-happiness)|||Hard|
 |1780|[lowest-common-ancestor-of-a-binary-tree-ii](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree-ii)|:lock:||Medium|
 |1781|[check-if-two-string-arrays-are-equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent)||[:memo:](https://leetcode.com/articles/check-if-two-string-arrays-are-equivalent/)|Easy|
-|1782|[smallest-string-with-a-given-numeric-value](https://leetcode.com/problems/smallest-string-with-a-given-numeric-value)||[:memo:](https://leetcode.com/articles/smallest-string-with-a-given-numeric-value/)|Medium|
+|1782|[smallest-string-with-a-given-numeric-value](https://leetcode.com/problems/smallest-string-with-a-given-numeric-value)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/1782-smallest-string-with-a-given-numeric-value/smallest-string-with-a-given-numeric-value.py)|[:memo:](https://leetcode.com/articles/smallest-string-with-a-given-numeric-value/)|Medium|
 |1783|[ways-to-make-a-fair-array](https://leetcode.com/problems/ways-to-make-a-fair-array)|||Medium|
 |1784|[minimum-initial-energy-to-finish-tasks](https://leetcode.com/problems/minimum-initial-energy-to-finish-tasks)|||Hard|
 |1786|[count-the-number-of-consistent-strings](https://leetcode.com/problems/count-the-number-of-consistent-strings)|||Easy|
@@ -1693,7 +1693,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |1930|[maximum-number-of-consecutive-values-you-can-make](https://leetcode.com/problems/maximum-number-of-consecutive-values-you-can-make)|||Medium|
 |1931|[shortest-path-in-a-hidden-grid](https://leetcode.com/problems/shortest-path-in-a-hidden-grid)|:lock:||Medium|
 |1933|[number-of-different-integers-in-a-string](https://leetcode.com/problems/number-of-different-integers-in-a-string)|||Easy|
-|1934|[evaluate-the-bracket-pairs-of-a-string](https://leetcode.com/problems/evaluate-the-bracket-pairs-of-a-string)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/1934-evaluate-the-bracket-pairs-of-a-string/evaluate-the-bracket-pairs-of-a-string.py)||Medium|
+|1934|[evaluate-the-bracket-pairs-of-a-string](https://leetcode.com/problems/evaluate-the-bracket-pairs-of-a-string)|||Medium|
 |1935|[minimum-number-of-operations-to-reinitialize-a-permutation](https://leetcode.com/problems/minimum-number-of-operations-to-reinitialize-a-permutation)|||Medium|
 |1936|[maximize-number-of-nice-divisors](https://leetcode.com/problems/maximize-number-of-nice-divisors)|||Hard|
 |1937|[maximize-the-beauty-of-the-garden](https://leetcode.com/problems/maximize-the-beauty-of-the-garden)|:lock:||Hard|
@@ -2087,7 +2087,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |2373|[apply-discount-to-prices](https://leetcode.com/problems/apply-discount-to-prices)|||Medium|
 |2374|[steps-to-make-array-non-decreasing](https://leetcode.com/problems/steps-to-make-array-non-decreasing)|||Medium|
 |2375|[minimum-obstacle-removal-to-reach-corner](https://leetcode.com/problems/minimum-obstacle-removal-to-reach-corner)|||Hard|
-|2377|[check-if-number-has-equal-digit-count-and-digit-value](https://leetcode.com/problems/check-if-number-has-equal-digit-count-and-digit-value)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/2377-check-if-number-has-equal-digit-count-and-digit-value/check-if-number-has-equal-digit-count-and-digit-value.py)||Easy|
+|2377|[check-if-number-has-equal-digit-count-and-digit-value](https://leetcode.com/problems/check-if-number-has-equal-digit-count-and-digit-value)|||Easy|
 |2378|[sender-with-largest-word-count](https://leetcode.com/problems/sender-with-largest-word-count)|||Medium|
 |2379|[maximum-total-importance-of-roads](https://leetcode.com/problems/maximum-total-importance-of-roads)|||Medium|
 |2380|[booking-concert-tickets-in-groups](https://leetcode.com/problems/booking-concert-tickets-in-groups)|||Hard|
@@ -2142,7 +2142,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |2435|[shortest-impossible-sequence-of-rolls](https://leetcode.com/problems/shortest-impossible-sequence-of-rolls)|||Hard|
 |2436|[make-array-zero-by-subtracting-equal-amounts](https://leetcode.com/problems/make-array-zero-by-subtracting-equal-amounts)|||Easy|
 |2437|[maximum-number-of-groups-entering-a-competition](https://leetcode.com/problems/maximum-number-of-groups-entering-a-competition)|||Medium|
-|2438|[find-closest-node-to-given-two-nodes](https://leetcode.com/problems/find-closest-node-to-given-two-nodes)||[:memo:](https://leetcode.com/articles/find-closest-node-to-given-two-nodes/)|Medium|
+|2438|[find-closest-node-to-given-two-nodes](https://leetcode.com/problems/find-closest-node-to-given-two-nodes)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/2438-find-closest-node-to-given-two-nodes/find-closest-node-to-given-two-nodes.py)|[:memo:](https://leetcode.com/articles/find-closest-node-to-given-two-nodes/)|Medium|
 |2439|[longest-cycle-in-a-graph](https://leetcode.com/problems/longest-cycle-in-a-graph)||[:memo:](https://leetcode.com/articles/longest-cycle-in-a-graph/)|Hard|
 |2442|[number-of-arithmetic-triplets](https://leetcode.com/problems/number-of-arithmetic-triplets)|||Easy|
 |2443|[check-if-there-is-a-valid-partition-for-the-array](https://leetcode.com/problems/check-if-there-is-a-valid-partition-for-the-array)|||Medium|
