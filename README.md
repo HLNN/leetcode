@@ -1,8 +1,8 @@
 # :pencil2: Leetcode Solutions with Python3,Cpp
-Update time:  2023-01-27 08:01:10
+Update time:  2023-01-28 08:01:16
 
-I have solved **650   /   2314** problems
-while there are **351** problems still locked.
+I have solved **653   /   2315** problems
+while there are **352** problems still locked.
 
 If you have any question, please give me an [issue](https://github.com/hlnn/leetcode/issues).
 
@@ -288,7 +288,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |289|[game-of-life](https://leetcode.com/problems/game-of-life)||[:memo:](https://leetcode.com/articles/game-of-life/)|Medium|
 |290|[word-pattern](https://leetcode.com/problems/word-pattern)||[:memo:](https://leetcode.com/articles/word-pattern/)|Easy|
 |291|[word-pattern-ii](https://leetcode.com/problems/word-pattern-ii)|:lock:||Medium|
-|292|[nim-game](https://leetcode.com/problems/nim-game)||[:memo:](https://leetcode.com/articles/nim-game/)|Easy|
+|292|[nim-game](https://leetcode.com/problems/nim-game)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0292-nim-game/nim-game.py)|[:memo:](https://leetcode.com/articles/nim-game/)|Easy|
 |293|[flip-game](https://leetcode.com/problems/flip-game)|:lock:||Easy|
 |294|[flip-game-ii](https://leetcode.com/problems/flip-game-ii)|:lock:||Medium|
 |295|[find-median-from-data-stream](https://leetcode.com/problems/find-median-from-data-stream)||[:memo:](https://leetcode.com/articles/find-median-from-data-stream/)|Hard|
@@ -461,7 +461,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |468|[validate-ip-address](https://leetcode.com/problems/validate-ip-address)||[:memo:](https://leetcode.com/articles/validate-ip-address/)|Medium|
 |469|[convex-polygon](https://leetcode.com/problems/convex-polygon)|:lock:||Medium|
 |471|[encode-string-with-shortest-length](https://leetcode.com/problems/encode-string-with-shortest-length)|:lock:||Hard|
-|472|[concatenated-words](https://leetcode.com/problems/concatenated-words)||[:memo:](https://leetcode.com/articles/concatenated-words/)|Hard|
+|472|[concatenated-words](https://leetcode.com/problems/concatenated-words)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0472-concatenated-words/concatenated-words.py)|[:memo:](https://leetcode.com/articles/concatenated-words/)|Hard|
 |473|[matchsticks-to-square](https://leetcode.com/problems/matchsticks-to-square)||[:memo:](https://leetcode.com/articles/matchsticks-to-square/)|Medium|
 |474|[ones-and-zeroes](https://leetcode.com/problems/ones-and-zeroes)||[:memo:](https://leetcode.com/articles/ones-and-zeroes/)|Medium|
 |475|[heaters](https://leetcode.com/problems/heaters)|||Medium|
@@ -1235,7 +1235,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |1360|[maximum-length-of-a-concatenated-string-with-unique-characters](https://leetcode.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters)||[:memo:](https://leetcode.com/articles/maximum-length-of-a-concatenated-string-with-unique-characters/)|Medium|
 |1361|[tiling-a-rectangle-with-the-fewest-squares](https://leetcode.com/problems/tiling-a-rectangle-with-the-fewest-squares)|||Hard|
 |1362|[airplane-seat-assignment-probability](https://leetcode.com/problems/airplane-seat-assignment-probability)|||Medium|
-|1363|[greatest-english-letter-in-upper-and-lower-case](https://leetcode.com/problems/greatest-english-letter-in-upper-and-lower-case)|||Easy|
+|1363|[greatest-english-letter-in-upper-and-lower-case](https://leetcode.com/problems/greatest-english-letter-in-upper-and-lower-case)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/1363-greatest-english-letter-in-upper-and-lower-case/greatest-english-letter-in-upper-and-lower-case.py)||Easy|
 |1364|[tuple-with-same-product](https://leetcode.com/problems/tuple-with-same-product)|||Medium|
 |1366|[first-unique-number](https://leetcode.com/problems/first-unique-number)|:lock:|[:memo:](https://leetcode.com/articles/first-unique-number/)|Medium|
 |1367|[maximum-height-by-stacking-cuboids](https://leetcode.com/problems/maximum-height-by-stacking-cuboids)|||Hard|
@@ -1761,7 +1761,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |2009|[longest-word-with-all-prefixes](https://leetcode.com/problems/longest-word-with-all-prefixes)|:lock:||Medium|
 |2010|[check-if-word-equals-summation-of-two-words](https://leetcode.com/problems/check-if-word-equals-summation-of-two-words)|||Easy|
 |2011|[maximum-value-after-insertion](https://leetcode.com/problems/maximum-value-after-insertion)|||Medium|
-|2012|[process-tasks-using-servers](https://leetcode.com/problems/process-tasks-using-servers)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/2012-process-tasks-using-servers/process-tasks-using-servers.py)||Medium|
+|2012|[process-tasks-using-servers](https://leetcode.com/problems/process-tasks-using-servers)|||Medium|
 |2013|[minimum-skips-to-arrive-at-meeting-on-time](https://leetcode.com/problems/minimum-skips-to-arrive-at-meeting-on-time)|||Hard|
 |2015|[determine-whether-matrix-can-be-obtained-by-rotation](https://leetcode.com/problems/determine-whether-matrix-can-be-obtained-by-rotation)|||Easy|
 |2016|[reduction-operations-to-make-the-array-elements-equal](https://leetcode.com/problems/reduction-operations-to-make-the-array-elements-equal)|||Medium|
@@ -2077,13 +2077,13 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |2361|[calculate-digit-sum-of-a-string](https://leetcode.com/problems/calculate-digit-sum-of-a-string)|||Easy|
 |2362|[minimum-rounds-to-complete-all-tasks](https://leetcode.com/problems/minimum-rounds-to-complete-all-tasks)||[:memo:](https://leetcode.com/articles/minimum-rounds-to-complete-all-tasks/)|Medium|
 |2363|[maximum-trailing-zeros-in-a-cornered-path](https://leetcode.com/problems/maximum-trailing-zeros-in-a-cornered-path)|||Medium|
-|2364|[longest-path-with-different-adjacent-characters](https://leetcode.com/problems/longest-path-with-different-adjacent-characters)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/2364-longest-path-with-different-adjacent-characters/longest-path-with-different-adjacent-characters.py)|[:memo:](https://leetcode.com/articles/longest-path-with-different-adjacent-characters/)|Hard|
+|2364|[longest-path-with-different-adjacent-characters](https://leetcode.com/problems/longest-path-with-different-adjacent-characters)||[:memo:](https://leetcode.com/articles/longest-path-with-different-adjacent-characters/)|Hard|
 |2365|[percentage-of-letter-in-string](https://leetcode.com/problems/percentage-of-letter-in-string)|||Easy|
 |2366|[maximum-bags-with-full-capacity-of-rocks](https://leetcode.com/problems/maximum-bags-with-full-capacity-of-rocks)||[:memo:](https://leetcode.com/articles/maximum-bags-with-full-capacity-of-rocks/)|Medium|
 |2367|[minimum-lines-to-represent-a-line-chart](https://leetcode.com/problems/minimum-lines-to-represent-a-line-chart)|||Medium|
 |2368|[sum-of-total-strength-of-wizards](https://leetcode.com/problems/sum-of-total-strength-of-wizards)|||Hard|
 |2369|[maximum-sum-score-of-array](https://leetcode.com/problems/maximum-sum-score-of-array)|:lock:||Medium|
-|2372|[rearrange-characters-to-make-target-string](https://leetcode.com/problems/rearrange-characters-to-make-target-string)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/2372-rearrange-characters-to-make-target-string/rearrange-characters-to-make-target-string.py)||Easy|
+|2372|[rearrange-characters-to-make-target-string](https://leetcode.com/problems/rearrange-characters-to-make-target-string)|||Easy|
 |2373|[apply-discount-to-prices](https://leetcode.com/problems/apply-discount-to-prices)|||Medium|
 |2374|[steps-to-make-array-non-decreasing](https://leetcode.com/problems/steps-to-make-array-non-decreasing)|||Medium|
 |2375|[minimum-obstacle-removal-to-reach-corner](https://leetcode.com/problems/minimum-obstacle-removal-to-reach-corner)|||Hard|
@@ -2328,3 +2328,4 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |2667|[maximum-frequency-score-of-a-subarray](https://leetcode.com/problems/maximum-frequency-score-of-a-subarray)|:lock:||Hard|
 |2672|[number-of-good-binary-strings](https://leetcode.com/problems/number-of-good-binary-strings)|:lock:||Medium|
 |2683|[count-the-number-of-good-subsequences](https://leetcode.com/problems/count-the-number-of-good-subsequences)|:lock:||Medium|
+|2693|[maximum-price-to-fill-a-bag](https://leetcode.com/problems/maximum-price-to-fill-a-bag)|:lock:||Medium|
