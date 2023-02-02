@@ -1,7 +1,7 @@
 # :pencil2: Leetcode Solutions with Python3,Cpp
-Update time:  2023-02-01 08:01:13
+Update time:  2023-02-02 08:01:20
 
-I have solved **660   /   2319** problems
+I have solved **662   /   2319** problems
 while there are **352** problems still locked.
 
 If you have any question, please give me an [issue](https://github.com/hlnn/leetcode/issues).
@@ -944,7 +944,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |1012|[equal-rational-numbers](https://leetcode.com/problems/equal-rational-numbers)||[:memo:](https://leetcode.com/articles/equal-rational-numbers/)|Hard|
 |1013|[fibonacci-number](https://leetcode.com/problems/fibonacci-number)||[:memo:](https://leetcode.com/articles/fibonacci-number/)|Easy|
 |1014|[k-closest-points-to-origin](https://leetcode.com/problems/k-closest-points-to-origin)||[:memo:](https://leetcode.com/articles/k-closest-points-to-origin/)|Medium|
-|1016|[subarray-sums-divisible-by-k](https://leetcode.com/problems/subarray-sums-divisible-by-k)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/1016-subarray-sums-divisible-by-k/subarray-sums-divisible-by-k.py)|[:memo:](https://leetcode.com/articles/subarray-sums-divisible-by-k/)|Medium|
+|1016|[subarray-sums-divisible-by-k](https://leetcode.com/problems/subarray-sums-divisible-by-k)||[:memo:](https://leetcode.com/articles/subarray-sums-divisible-by-k/)|Medium|
 |1017|[odd-even-jump](https://leetcode.com/problems/odd-even-jump)||[:memo:](https://leetcode.com/articles/odd-even-jump/)|Hard|
 |1018|[largest-perimeter-triangle](https://leetcode.com/problems/largest-perimeter-triangle)||[:memo:](https://leetcode.com/articles/largest-perimeter-triangle/)|Easy|
 |1019|[squares-of-a-sorted-array](https://leetcode.com/problems/squares-of-a-sorted-array)||[:memo:](https://leetcode.com/articles/squares-of-a-sorted-array/)|Easy|
@@ -1070,7 +1070,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |1143|[find-smallest-common-element-in-all-rows](https://leetcode.com/problems/find-smallest-common-element-in-all-rows)|:lock:|[:memo:](https://leetcode.com/articles/find-smallest-common-element-in-all-rows/)|Medium|
 |1144|[optimize-water-distribution-in-a-village](https://leetcode.com/problems/optimize-water-distribution-in-a-village)|:lock:|[:memo:](https://leetcode.com/articles/optimize-water-distribution-in-a-village/)|Hard|
 |1145|[number-of-submatrices-that-sum-to-target](https://leetcode.com/problems/number-of-submatrices-that-sum-to-target)||[:memo:](https://leetcode.com/articles/number-of-submatrices-that-sum-to-target/)|Hard|
-|1146|[greatest-common-divisor-of-strings](https://leetcode.com/problems/greatest-common-divisor-of-strings)||[:memo:](https://leetcode.com/articles/greatest-common-divisor-of-strings/)|Easy|
+|1146|[greatest-common-divisor-of-strings](https://leetcode.com/problems/greatest-common-divisor-of-strings)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/1146-greatest-common-divisor-of-strings/greatest-common-divisor-of-strings.py)|[:memo:](https://leetcode.com/articles/greatest-common-divisor-of-strings/)|Easy|
 |1147|[flip-columns-for-maximum-number-of-equal-rows](https://leetcode.com/problems/flip-columns-for-maximum-number-of-equal-rows)|||Medium|
 |1148|[adding-two-negabinary-numbers](https://leetcode.com/problems/adding-two-negabinary-numbers)|||Medium|
 |1149|[intersection-of-three-sorted-arrays](https://leetcode.com/problems/intersection-of-three-sorted-arrays)|:lock:|[:memo:](https://leetcode.com/articles/intersection-of-three-sorted-arrays/)|Easy|
@@ -2099,7 +2099,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |2388|[replace-elements-in-an-array](https://leetcode.com/problems/replace-elements-in-an-array)|||Medium|
 |2389|[design-a-text-editor](https://leetcode.com/problems/design-a-text-editor)|||Hard|
 |2390|[naming-a-company](https://leetcode.com/problems/naming-a-company)||[:memo:](https://leetcode.com/articles/naming-a-company/)|Hard|
-|2391|[strong-password-checker-ii](https://leetcode.com/problems/strong-password-checker-ii)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/2391-strong-password-checker-ii/strong-password-checker-ii.py)||Easy|
+|2391|[strong-password-checker-ii](https://leetcode.com/problems/strong-password-checker-ii)|||Easy|
 |2392|[successful-pairs-of-spells-and-potions](https://leetcode.com/problems/successful-pairs-of-spells-and-potions)|||Medium|
 |2393|[match-substring-after-replacement](https://leetcode.com/problems/match-substring-after-replacement)|||Hard|
 |2394|[count-subarrays-with-score-less-than-k](https://leetcode.com/problems/count-subarrays-with-score-less-than-k)|||Hard|
@@ -2111,10 +2111,10 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |2400|[minimum-score-after-removals-on-a-tree](https://leetcode.com/problems/minimum-score-after-removals-on-a-tree)|||Hard|
 |2401|[count-asterisks](https://leetcode.com/problems/count-asterisks)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/2401-count-asterisks/count-asterisks.py)||Easy|
 |2402|[maximum-xor-after-operations](https://leetcode.com/problems/maximum-xor-after-operations)|||Medium|
-|2403|[count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://leetcode.com/problems/count-unreachable-pairs-of-nodes-in-an-undirected-graph)|||Medium|
+|2403|[count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://leetcode.com/problems/count-unreachable-pairs-of-nodes-in-an-undirected-graph)||[:memo:](https://leetcode.com/articles/count-unreachable-pairs-of-nodes-in-an-undirected-graph/)|Medium|
 |2404|[number-of-distinct-roll-sequences](https://leetcode.com/problems/number-of-distinct-roll-sequences)|||Hard|
 |2405|[minimum-number-of-keypresses](https://leetcode.com/problems/minimum-number-of-keypresses)|:lock:||Medium|
-|2406|[decode-the-message](https://leetcode.com/problems/decode-the-message)|||Easy|
+|2406|[decode-the-message](https://leetcode.com/problems/decode-the-message)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/2406-decode-the-message/decode-the-message.py)||Easy|
 |2408|[number-of-people-aware-of-a-secret](https://leetcode.com/problems/number-of-people-aware-of-a-secret)|||Medium|
 |2409|[number-of-increasing-paths-in-a-grid](https://leetcode.com/problems/number-of-increasing-paths-in-a-grid)|||Hard|
 |2411|[spiral-matrix-iv](https://leetcode.com/problems/spiral-matrix-iv)|||Medium|
