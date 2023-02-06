@@ -1,7 +1,7 @@
 # :pencil2: Leetcode Solutions with Python3,Cpp
-Update time:  2023-02-05 08:00:57
+Update time:  2023-02-06 08:01:14
 
-I have solved **665   /   2324** problems
+I have solved **666   /   2328** problems
 while there are **353** problems still locked.
 
 If you have any question, please give me an [issue](https://github.com/hlnn/leetcode/issues).
@@ -144,7 +144,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |128|[longest-consecutive-sequence](https://leetcode.com/problems/longest-consecutive-sequence)||[:memo:](https://leetcode.com/articles/longest-consecutive-sequence/)|Medium|
 |129|[sum-root-to-leaf-numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers)||[:memo:](https://leetcode.com/articles/sum-root-to-leaf-numbers/)|Medium|
 |130|[surrounded-regions](https://leetcode.com/problems/surrounded-regions)||[:memo:](https://leetcode.com/articles/surrounded-regions/)|Medium|
-|131|[palindrome-partitioning](https://leetcode.com/problems/palindrome-partitioning)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0131-palindrome-partitioning/palindrome-partitioning.py)|[:memo:](https://leetcode.com/articles/palindrome-partitioning/)|Medium|
+|131|[palindrome-partitioning](https://leetcode.com/problems/palindrome-partitioning)||[:memo:](https://leetcode.com/articles/palindrome-partitioning/)|Medium|
 |132|[palindrome-partitioning-ii](https://leetcode.com/problems/palindrome-partitioning-ii)||[:memo:](https://leetcode.com/articles/palindrome-partitioning-ii/)|Hard|
 |133|[clone-graph](https://leetcode.com/problems/clone-graph)||[:memo:](https://leetcode.com/articles/clone-graph/)|Medium|
 |134|[gas-station](https://leetcode.com/problems/gas-station)||[:memo:](https://leetcode.com/articles/gas-station/)|Medium|
@@ -428,7 +428,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |435|[non-overlapping-intervals](https://leetcode.com/problems/non-overlapping-intervals)||[:memo:](https://leetcode.com/articles/non-overlapping-intervals/)|Medium|
 |436|[find-right-interval](https://leetcode.com/problems/find-right-interval)||[:memo:](https://leetcode.com/articles/find-right-interval/)|Medium|
 |437|[path-sum-iii](https://leetcode.com/problems/path-sum-iii)||[:memo:](https://leetcode.com/articles/path-sum-iii/)|Medium|
-|438|[find-all-anagrams-in-a-string](https://leetcode.com/problems/find-all-anagrams-in-a-string)||[:memo:](https://leetcode.com/articles/find-all-anagrams-in-a-string/)|Medium|
+|438|[find-all-anagrams-in-a-string](https://leetcode.com/problems/find-all-anagrams-in-a-string)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0438-find-all-anagrams-in-a-string/find-all-anagrams-in-a-string.py)|[:memo:](https://leetcode.com/articles/find-all-anagrams-in-a-string/)|Medium|
 |439|[ternary-expression-parser](https://leetcode.com/problems/ternary-expression-parser)|:lock:||Medium|
 |440|[k-th-smallest-in-lexicographical-order](https://leetcode.com/problems/k-th-smallest-in-lexicographical-order)|||Hard|
 |441|[arranging-coins](https://leetcode.com/problems/arranging-coins)||[:memo:](https://leetcode.com/articles/arranging-coins/)|Easy|
@@ -2336,5 +2336,9 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |2681|[put-marbles-in-bags](https://leetcode.com/problems/put-marbles-in-bags)|||Hard|
 |2682|[count-increasing-quadruplets](https://leetcode.com/problems/count-increasing-quadruplets)|||Hard|
 |2683|[count-the-number-of-good-subsequences](https://leetcode.com/problems/count-the-number-of-good-subsequences)|:lock:||Medium|
+|2689|[rearranging-fruits](https://leetcode.com/problems/rearranging-fruits)|||Hard|
+|2690|[house-robber-iv](https://leetcode.com/problems/house-robber-iv)|||Medium|
+|2691|[count-vowel-strings-in-ranges](https://leetcode.com/problems/count-vowel-strings-in-ranges)|||Medium|
+|2692|[take-gifts-from-the-richest-pile](https://leetcode.com/problems/take-gifts-from-the-richest-pile)|||Easy|
 |2693|[maximum-price-to-fill-a-bag](https://leetcode.com/problems/maximum-price-to-fill-a-bag)|:lock:||Medium|
 |2702|[maximum-number-of-integers-to-choose-from-a-range-ii](https://leetcode.com/problems/maximum-number-of-integers-to-choose-from-a-range-ii)|:lock:||Medium|
