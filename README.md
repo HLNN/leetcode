@@ -1,7 +1,7 @@
 # :pencil2: Leetcode Solutions with Python3,Cpp
-Update time:  2023-02-06 08:01:14
+Update time:  2023-02-07 08:01:14
 
-I have solved **666   /   2328** problems
+I have solved **668   /   2328** problems
 while there are **353** problems still locked.
 
 If you have any question, please give me an [issue](https://github.com/hlnn/leetcode/issues).
@@ -967,7 +967,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |1036|[rotting-oranges](https://leetcode.com/problems/rotting-oranges)||[:memo:](https://leetcode.com/articles/rotting-oranges/)|Medium|
 |1037|[minimum-number-of-k-consecutive-bit-flips](https://leetcode.com/problems/minimum-number-of-k-consecutive-bit-flips)||[:memo:](https://leetcode.com/articles/minimum-number-of-k-consecutive-bit-flips/)|Hard|
 |1038|[number-of-squareful-arrays](https://leetcode.com/problems/number-of-squareful-arrays)||[:memo:](https://leetcode.com/articles/number-of-squareful-arrays/)|Hard|
-|1039|[find-the-town-judge](https://leetcode.com/problems/find-the-town-judge)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/1039-find-the-town-judge/find-the-town-judge.py)|[:memo:](https://leetcode.com/articles/find-the-town-judge/)|Easy|
+|1039|[find-the-town-judge](https://leetcode.com/problems/find-the-town-judge)||[:memo:](https://leetcode.com/articles/find-the-town-judge/)|Easy|
 |1040|[maximum-binary-tree-ii](https://leetcode.com/problems/maximum-binary-tree-ii)|||Medium|
 |1041|[available-captures-for-rook](https://leetcode.com/problems/available-captures-for-rook)|||Easy|
 |1042|[minimum-cost-to-merge-stones](https://leetcode.com/problems/minimum-cost-to-merge-stones)|||Hard|
@@ -1250,7 +1250,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |1379|[reconstruct-a-2-row-binary-matrix](https://leetcode.com/problems/reconstruct-a-2-row-binary-matrix)|||Medium|
 |1380|[number-of-closed-islands](https://leetcode.com/problems/number-of-closed-islands)|||Medium|
 |1381|[maximum-score-words-formed-by-letters](https://leetcode.com/problems/maximum-score-words-formed-by-letters)|||Hard|
-|1382|[calculate-amount-paid-in-taxes](https://leetcode.com/problems/calculate-amount-paid-in-taxes)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/1382-calculate-amount-paid-in-taxes/calculate-amount-paid-in-taxes.py)||Easy|
+|1382|[calculate-amount-paid-in-taxes](https://leetcode.com/problems/calculate-amount-paid-in-taxes)|||Easy|
 |1383|[number-of-single-divisor-triplets](https://leetcode.com/problems/number-of-single-divisor-triplets)|:lock:||Medium|
 |1384|[maximum-font-to-fit-a-sentence-in-a-screen](https://leetcode.com/problems/maximum-font-to-fit-a-sentence-in-a-screen)|:lock:||Medium|
 |1385|[number-of-ways-to-build-house-of-cards](https://leetcode.com/problems/number-of-ways-to-build-house-of-cards)|:lock:||Medium|
@@ -1414,7 +1414,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |1575|[maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts](https://leetcode.com/problems/maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts)||[:memo:](https://leetcode.com/articles/maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts/)|Medium|
 |1576|[reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://leetcode.com/problems/reorder-routes-to-make-all-paths-lead-to-the-city-zero)|||Medium|
 |1577|[probability-of-a-two-boxes-having-the-same-number-of-distinct-balls](https://leetcode.com/problems/probability-of-a-two-boxes-having-the-same-number-of-distinct-balls)|||Hard|
-|1580|[shuffle-the-array](https://leetcode.com/problems/shuffle-the-array)||[:memo:](https://leetcode.com/articles/shuffle-the-array/)|Easy|
+|1580|[shuffle-the-array](https://leetcode.com/problems/shuffle-the-array)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/1580-shuffle-the-array/shuffle-the-array.py)|[:memo:](https://leetcode.com/articles/shuffle-the-array/)|Easy|
 |1581|[the-k-strongest-values-in-an-array](https://leetcode.com/problems/the-k-strongest-values-in-an-array)|||Medium|
 |1582|[design-browser-history](https://leetcode.com/problems/design-browser-history)||[:memo:](https://leetcode.com/articles/design-browser-history/)|Medium|
 |1583|[paint-house-iii](https://leetcode.com/problems/paint-house-iii)||[:memo:](https://leetcode.com/articles/paint-house-iii/)|Hard|
@@ -2122,7 +2122,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |2413|[smallest-number-in-infinite-set](https://leetcode.com/problems/smallest-number-in-infinite-set)|||Medium|
 |2414|[move-pieces-to-obtain-a-string](https://leetcode.com/problems/move-pieces-to-obtain-a-string)|||Medium|
 |2415|[count-the-number-of-ideal-arrays](https://leetcode.com/problems/count-the-number-of-ideal-arrays)|||Hard|
-|2416|[evaluate-boolean-binary-tree](https://leetcode.com/problems/evaluate-boolean-binary-tree)|||Easy|
+|2416|[evaluate-boolean-binary-tree](https://leetcode.com/problems/evaluate-boolean-binary-tree)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/2416-evaluate-boolean-binary-tree/evaluate-boolean-binary-tree.py)||Easy|
 |2417|[the-latest-time-to-catch-a-bus](https://leetcode.com/problems/the-latest-time-to-catch-a-bus)|||Medium|
 |2418|[minimum-sum-of-squared-difference](https://leetcode.com/problems/minimum-sum-of-squared-difference)|||Medium|
 |2419|[subarray-with-elements-greater-than-varying-threshold](https://leetcode.com/problems/subarray-with-elements-greater-than-varying-threshold)|||Hard|
