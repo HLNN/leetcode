@@ -1,7 +1,7 @@
 # :pencil2: Leetcode Solutions with Python3,Cpp
-Update time:  2023-02-07 08:01:14
+Update time:  2023-02-08 08:01:09
 
-I have solved **668   /   2328** problems
+I have solved **669   /   2328** problems
 while there are **353** problems still locked.
 
 If you have any question, please give me an [issue](https://github.com/hlnn/leetcode/issues).
@@ -873,7 +873,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |937|[online-stock-span](https://leetcode.com/problems/online-stock-span)||[:memo:](https://leetcode.com/articles/online-stock-span/)|Medium|
 |938|[numbers-at-most-n-given-digit-set](https://leetcode.com/problems/numbers-at-most-n-given-digit-set)||[:memo:](https://leetcode.com/articles/numbers-at-most-n-given-digit-set/)|Hard|
 |939|[valid-permutations-for-di-sequence](https://leetcode.com/problems/valid-permutations-for-di-sequence)||[:memo:](https://leetcode.com/articles/valid-permutations-for-di-sequence/)|Hard|
-|940|[fruit-into-baskets](https://leetcode.com/problems/fruit-into-baskets)||[:memo:](https://leetcode.com/articles/fruit-into-baskets/)|Medium|
+|940|[fruit-into-baskets](https://leetcode.com/problems/fruit-into-baskets)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0940-fruit-into-baskets/fruit-into-baskets.py)|[:memo:](https://leetcode.com/articles/fruit-into-baskets/)|Medium|
 |941|[sort-array-by-parity](https://leetcode.com/problems/sort-array-by-parity)||[:memo:](https://leetcode.com/articles/sort-array-by-parity/)|Easy|
 |942|[super-palindromes](https://leetcode.com/problems/super-palindromes)||[:memo:](https://leetcode.com/articles/super-palindromes/)|Hard|
 |943|[sum-of-subarray-minimums](https://leetcode.com/problems/sum-of-subarray-minimums)||[:memo:](https://leetcode.com/articles/sum-of-subarray-minimums/)|Medium|
@@ -1512,7 +1512,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |1706|[min-cost-to-connect-all-points](https://leetcode.com/problems/min-cost-to-connect-all-points)||[:memo:](https://leetcode.com/articles/min-cost-to-connect-all-points/)|Medium|
 |1707|[check-if-string-is-transformable-with-substring-sort-operations](https://leetcode.com/problems/check-if-string-is-transformable-with-substring-sort-operations)|||Hard|
 |1708|[design-parking-system](https://leetcode.com/problems/design-parking-system)|||Easy|
-|1709|[alert-using-same-key-card-three-or-more-times-in-a-one-hour-period](https://leetcode.com/problems/alert-using-same-key-card-three-or-more-times-in-a-one-hour-period)|||Medium|
+|1709|[alert-using-same-key-card-three-or-more-times-in-a-one-hour-period](https://leetcode.com/problems/alert-using-same-key-card-three-or-more-times-in-a-one-hour-period)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/1709-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period/alert-using-same-key-card-three-or-more-times-in-a-one-hour-period.py)||Medium|
 |1710|[find-servers-that-handled-most-number-of-requests](https://leetcode.com/problems/find-servers-that-handled-most-number-of-requests)||[:memo:](https://leetcode.com/articles/find-server-that-handled-most-number-of-requests/)|Hard|
 |1711|[find-valid-matrix-given-row-and-column-sums](https://leetcode.com/problems/find-valid-matrix-given-row-and-column-sums)|||Medium|
 |1713|[dot-product-of-two-sparse-vectors](https://leetcode.com/problems/dot-product-of-two-sparse-vectors)|:lock:|[:memo:](https://leetcode.com/articles/dot-product-of-two-sparse-vectors/)|Medium|
@@ -1537,7 +1537,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |1736|[build-binary-expression-tree-from-infix-expression](https://leetcode.com/problems/build-binary-expression-tree-from-infix-expression)|:lock:||Hard|
 |1737|[maximum-nesting-depth-of-the-parentheses](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses)|||Easy|
 |1738|[maximal-network-rank](https://leetcode.com/problems/maximal-network-rank)|||Medium|
-|1739|[split-two-strings-to-make-palindrome](https://leetcode.com/problems/split-two-strings-to-make-palindrome)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/1739-split-two-strings-to-make-palindrome/split-two-strings-to-make-palindrome.py)||Medium|
+|1739|[split-two-strings-to-make-palindrome](https://leetcode.com/problems/split-two-strings-to-make-palindrome)|||Medium|
 |1740|[count-subtrees-with-max-distance-between-cities](https://leetcode.com/problems/count-subtrees-with-max-distance-between-cities)|||Hard|
 |1741|[sort-array-by-increasing-frequency](https://leetcode.com/problems/sort-array-by-increasing-frequency)|||Easy|
 |1742|[widest-vertical-area-between-two-points-containing-no-points](https://leetcode.com/problems/widest-vertical-area-between-two-points-containing-no-points)|||Medium|
@@ -2214,7 +2214,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |2521|[paths-in-matrix-whose-sum-is-divisible-by-k](https://leetcode.com/problems/paths-in-matrix-whose-sum-is-divisible-by-k)|||Hard|
 |2522|[median-of-a-row-wise-sorted-matrix](https://leetcode.com/problems/median-of-a-row-wise-sorted-matrix)|:lock:||Medium|
 |2524|[largest-positive-integer-that-exists-with-its-negative](https://leetcode.com/problems/largest-positive-integer-that-exists-with-its-negative)|||Easy|
-|2525|[count-number-of-distinct-integers-after-reverse-operations](https://leetcode.com/problems/count-number-of-distinct-integers-after-reverse-operations)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/2525-count-number-of-distinct-integers-after-reverse-operations/count-number-of-distinct-integers-after-reverse-operations.py)||Medium|
+|2525|[count-number-of-distinct-integers-after-reverse-operations](https://leetcode.com/problems/count-number-of-distinct-integers-after-reverse-operations)|||Medium|
 |2526|[longest-increasing-subsequence-ii](https://leetcode.com/problems/longest-increasing-subsequence-ii)|||Hard|
 |2527|[count-subarrays-with-fixed-bounds](https://leetcode.com/problems/count-subarrays-with-fixed-bounds)|||Hard|
 |2528|[number-of-valid-clock-times](https://leetcode.com/problems/number-of-valid-clock-times)|||Easy|
