@@ -37,18 +37,15 @@
 
 class Solution:
     def jump(self, nums: List[int]) -> int:
-        if len(nums) < 2:
-            return 0
+        if len(nums) == 1: return 0
         
-        cur = best = steps = 0
-        for i in range(len(nums)):
-            n = i + nums[i]
-            if n >= len(nums) - 1:
-                steps += 1
-                break
-            if n > best:
-                best = n
-            if i >= cur:
-                steps += 1
-                cur = best
-        return steps
+        curr, curr_next = 0, 0
+        res = 0
+        for i in range(len(nums) - 1):
+            curr_next = max(curr_next, i + nums[i])
+            if i == curr:
+                res += 1
+                curr = curr_next
+        
+        return res
+    
