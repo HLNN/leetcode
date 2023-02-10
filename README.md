@@ -1,7 +1,7 @@
 # :pencil2: Leetcode Solutions with Python3,Cpp
-Update time:  2023-02-09 08:01:18
+Update time:  2023-02-10 08:01:16
 
-I have solved **671   /   2328** problems
+I have solved **674   /   2328** problems
 while there are **353** problems still locked.
 
 If you have any question, please give me an [issue](https://github.com/hlnn/leetcode/issues).
@@ -954,7 +954,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |1023|[time-based-key-value-store](https://leetcode.com/problems/time-based-key-value-store)||[:memo:](https://leetcode.com/articles/time-based-key-value-store/)|Medium|
 |1024|[triples-with-bitwise-and-equal-to-zero](https://leetcode.com/problems/triples-with-bitwise-and-equal-to-zero)|||Hard|
 |1025|[minimum-cost-for-tickets](https://leetcode.com/problems/minimum-cost-for-tickets)||[:memo:](https://leetcode.com/articles/minimum-cost-for-tickets/)|Medium|
-|1026|[string-without-aaa-or-bbb](https://leetcode.com/problems/string-without-aaa-or-bbb)||[:memo:](https://leetcode.com/articles/string-without-aaa-or-bbb/)|Medium|
+|1026|[string-without-aaa-or-bbb](https://leetcode.com/problems/string-without-aaa-or-bbb)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/1026-string-without-aaa-or-bbb/string-without-aaa-or-bbb.py)|[:memo:](https://leetcode.com/articles/string-without-aaa-or-bbb/)|Medium|
 |1027|[sum-of-even-numbers-after-queries](https://leetcode.com/problems/sum-of-even-numbers-after-queries)||[:memo:](https://leetcode.com/articles/sum-of-even-numbers-after-queries/)|Medium|
 |1028|[interval-list-intersections](https://leetcode.com/problems/interval-list-intersections)||[:memo:](https://leetcode.com/articles/interval-list-intersections/)|Medium|
 |1029|[vertical-order-traversal-of-a-binary-tree](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree)||[:memo:](https://leetcode.com/articles/vertical-order-traversal-of-a-binary-tree/)|Hard|
@@ -1670,7 +1670,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |1902|[car-fleet-ii](https://leetcode.com/problems/car-fleet-ii)|||Hard|
 |1903|[design-most-recently-used-queue](https://leetcode.com/problems/design-most-recently-used-queue)|:lock:||Medium|
 |1904|[second-largest-digit-in-a-string](https://leetcode.com/problems/second-largest-digit-in-a-string)|||Easy|
-|1905|[design-authentication-manager](https://leetcode.com/problems/design-authentication-manager)|||Medium|
+|1905|[design-authentication-manager](https://leetcode.com/problems/design-authentication-manager)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/1905-design-authentication-manager/design-authentication-manager.py)||Medium|
 |1906|[maximize-score-after-n-operations](https://leetcode.com/problems/maximize-score-after-n-operations)|||Hard|
 |1907|[count-pairs-with-xor-in-a-range](https://leetcode.com/problems/count-pairs-with-xor-in-a-range)|||Hard|
 |1909|[buildings-with-an-ocean-view](https://leetcode.com/problems/buildings-with-an-ocean-view)|:lock:|[:memo:](https://leetcode.com/articles/buildings-with-an-ocean-view/)|Medium|
@@ -2098,7 +2098,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |2387|[partition-array-such-that-maximum-difference-is-k](https://leetcode.com/problems/partition-array-such-that-maximum-difference-is-k)|||Medium|
 |2388|[replace-elements-in-an-array](https://leetcode.com/problems/replace-elements-in-an-array)|||Medium|
 |2389|[design-a-text-editor](https://leetcode.com/problems/design-a-text-editor)|||Hard|
-|2390|[naming-a-company](https://leetcode.com/problems/naming-a-company)||[:memo:](https://leetcode.com/articles/naming-a-company/)|Hard|
+|2390|[naming-a-company](https://leetcode.com/problems/naming-a-company)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/2390-naming-a-company/naming-a-company.py)|[:memo:](https://leetcode.com/articles/naming-a-company/)|Hard|
 |2391|[strong-password-checker-ii](https://leetcode.com/problems/strong-password-checker-ii)|||Easy|
 |2392|[successful-pairs-of-spells-and-potions](https://leetcode.com/problems/successful-pairs-of-spells-and-potions)|||Medium|
 |2393|[match-substring-after-replacement](https://leetcode.com/problems/match-substring-after-replacement)|||Hard|
@@ -2142,7 +2142,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |2435|[shortest-impossible-sequence-of-rolls](https://leetcode.com/problems/shortest-impossible-sequence-of-rolls)|||Hard|
 |2436|[make-array-zero-by-subtracting-equal-amounts](https://leetcode.com/problems/make-array-zero-by-subtracting-equal-amounts)|||Easy|
 |2437|[maximum-number-of-groups-entering-a-competition](https://leetcode.com/problems/maximum-number-of-groups-entering-a-competition)|||Medium|
-|2438|[find-closest-node-to-given-two-nodes](https://leetcode.com/problems/find-closest-node-to-given-two-nodes)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/2438-find-closest-node-to-given-two-nodes/find-closest-node-to-given-two-nodes.py)|[:memo:](https://leetcode.com/articles/find-closest-node-to-given-two-nodes/)|Medium|
+|2438|[find-closest-node-to-given-two-nodes](https://leetcode.com/problems/find-closest-node-to-given-two-nodes)||[:memo:](https://leetcode.com/articles/find-closest-node-to-given-two-nodes/)|Medium|
 |2439|[longest-cycle-in-a-graph](https://leetcode.com/problems/longest-cycle-in-a-graph)||[:memo:](https://leetcode.com/articles/longest-cycle-in-a-graph/)|Hard|
 |2442|[number-of-arithmetic-triplets](https://leetcode.com/problems/number-of-arithmetic-triplets)|||Easy|
 |2443|[check-if-there-is-a-valid-partition-for-the-array](https://leetcode.com/problems/check-if-there-is-a-valid-partition-for-the-array)|||Medium|
