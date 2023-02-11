@@ -277,6 +277,7 @@ class Leetcode:
             with open('README.md', 'r') as f:
                 readme = ''.join(next(f) for _ in range(10))
                 stime = re.findall(r'\d{4}-\d{2}-\d{2} \d{2}:\d{2}:\d{2}', readme)[0]
+                print(f'Last update at {stime}')
                 ts = datetime.datetime.strptime(stime, "%Y-%m-%d %H:%M:%S").timestamp()
                 ts = int(ts) - 24 * 60 * 60
                 self.last_update_ts = ts
