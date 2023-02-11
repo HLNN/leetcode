@@ -1,7 +1,7 @@
 # :pencil2: Leetcode Solutions with Python3,Cpp
-Update time:  2023-02-10 08:01:16
+Update time:  2023-02-11 08:01:10
 
-I have solved **674   /   2328** problems
+I have solved **676   /   2328** problems
 while there are **353** problems still locked.
 
 If you have any question, please give me an [issue](https://github.com/hlnn/leetcode/issues).
@@ -743,7 +743,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |800|[letter-case-permutation](https://leetcode.com/problems/letter-case-permutation)||[:memo:](https://leetcode.com/articles/letter-case-permutation/)|Medium|
 |801|[is-graph-bipartite](https://leetcode.com/problems/is-graph-bipartite)||[:memo:](https://leetcode.com/articles/is-graph-bipartite/)|Medium|
 |802|[k-th-smallest-prime-fraction](https://leetcode.com/problems/k-th-smallest-prime-fraction)||[:memo:](https://leetcode.com/articles/k-th-smallest-prime-fraction/)|Medium|
-|803|[cheapest-flights-within-k-stops](https://leetcode.com/problems/cheapest-flights-within-k-stops)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0803-cheapest-flights-within-k-stops/cheapest-flights-within-k-stops.py)|[:memo:](https://leetcode.com/articles/cheapest-flights-within-k-stops/)|Medium|
+|803|[cheapest-flights-within-k-stops](https://leetcode.com/problems/cheapest-flights-within-k-stops)||[:memo:](https://leetcode.com/articles/cheapest-flights-within-k-stops/)|Medium|
 |804|[rotated-digits](https://leetcode.com/problems/rotated-digits)||[:memo:](https://leetcode.com/articles/rotated-digits/)|Medium|
 |805|[escape-the-ghosts](https://leetcode.com/problems/escape-the-ghosts)||[:memo:](https://leetcode.com/articles/escape-the-ghosts/)|Medium|
 |806|[domino-and-tromino-tiling](https://leetcode.com/problems/domino-and-tromino-tiling)||[:memo:](https://leetcode.com/articles/domino-and-tromino-tiling/)|Medium|
@@ -858,7 +858,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |922|[possible-bipartition](https://leetcode.com/problems/possible-bipartition)||[:memo:](https://leetcode.com/articles/possible-bipartition/)|Medium|
 |923|[super-egg-drop](https://leetcode.com/problems/super-egg-drop)||[:memo:](https://leetcode.com/articles/super-egg-drop/)|Hard|
 |924|[fair-candy-swap](https://leetcode.com/problems/fair-candy-swap)||[:memo:](https://leetcode.com/articles/fair-candy-swap/)|Easy|
-|925|[construct-binary-tree-from-preorder-and-postorder-traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-postorder-traversal)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0925-construct-binary-tree-from-preorder-and-postorder-traversal/construct-binary-tree-from-preorder-and-postorder-traversal.py)|[:memo:](https://leetcode.com/articles/construct-binary-tree-from-preorder-and-postorder-traversal/)|Medium|
+|925|[construct-binary-tree-from-preorder-and-postorder-traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-postorder-traversal)||[:memo:](https://leetcode.com/articles/construct-binary-tree-from-preorder-and-postorder-traversal/)|Medium|
 |926|[find-and-replace-pattern](https://leetcode.com/problems/find-and-replace-pattern)||[:memo:](https://leetcode.com/articles/find-and-replace-pattern/)|Medium|
 |927|[sum-of-subsequence-widths](https://leetcode.com/problems/sum-of-subsequence-widths)||[:memo:](https://leetcode.com/articles/sum-of-subsequence-widths/)|Hard|
 |928|[surface-area-of-3d-shapes](https://leetcode.com/problems/surface-area-of-3d-shapes)||[:memo:](https://leetcode.com/articles/surface-area-of-3d-shapes/)|Easy|
@@ -1043,7 +1043,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |1114|[binary-search-tree-to-greater-sum-tree](https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree)|||Medium|
 |1115|[valid-boomerang](https://leetcode.com/problems/valid-boomerang)|||Easy|
 |1116|[maximum-level-sum-of-a-binary-tree](https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree)||[:memo:](https://leetcode.com/articles/maximum-level-sum-of-a-binary-tree/)|Medium|
-|1117|[as-far-from-land-as-possible](https://leetcode.com/problems/as-far-from-land-as-possible)||[:memo:](https://leetcode.com/articles/as-far-from-land-as-possible/)|Medium|
+|1117|[as-far-from-land-as-possible](https://leetcode.com/problems/as-far-from-land-as-possible)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/1117-as-far-from-land-as-possible/as-far-from-land-as-possible.py)|[:memo:](https://leetcode.com/articles/as-far-from-land-as-possible/)|Medium|
 |1118|[divide-array-into-increasing-sequences](https://leetcode.com/problems/divide-array-into-increasing-sequences)|:lock:||Hard|
 |1119|[robot-bounded-in-circle](https://leetcode.com/problems/robot-bounded-in-circle)||[:memo:](https://leetcode.com/articles/robot-bounded-in-circle/)|Medium|
 |1120|[flower-planting-with-no-adjacent](https://leetcode.com/problems/flower-planting-with-no-adjacent)|||Medium|
@@ -1412,7 +1412,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |1573|[find-two-non-overlapping-sub-arrays-each-with-target-sum](https://leetcode.com/problems/find-two-non-overlapping-sub-arrays-each-with-target-sum)|||Medium|
 |1574|[maximum-product-of-two-elements-in-an-array](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array)|||Easy|
 |1575|[maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts](https://leetcode.com/problems/maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts)||[:memo:](https://leetcode.com/articles/maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts/)|Medium|
-|1576|[reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://leetcode.com/problems/reorder-routes-to-make-all-paths-lead-to-the-city-zero)|||Medium|
+|1576|[reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://leetcode.com/problems/reorder-routes-to-make-all-paths-lead-to-the-city-zero)||[:memo:](https://leetcode.com/articles/reorder-routes-to-make-all-paths-lead-to-the-city-zero/)|Medium|
 |1577|[probability-of-a-two-boxes-having-the-same-number-of-distinct-balls](https://leetcode.com/problems/probability-of-a-two-boxes-having-the-same-number-of-distinct-balls)|||Hard|
 |1580|[shuffle-the-array](https://leetcode.com/problems/shuffle-the-array)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/1580-shuffle-the-array/shuffle-the-array.py)|[:memo:](https://leetcode.com/articles/shuffle-the-array/)|Easy|
 |1581|[the-k-strongest-values-in-an-array](https://leetcode.com/problems/the-k-strongest-values-in-an-array)|||Medium|
@@ -1574,7 +1574,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |1778|[maximize-grid-happiness](https://leetcode.com/problems/maximize-grid-happiness)|||Hard|
 |1780|[lowest-common-ancestor-of-a-binary-tree-ii](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree-ii)|:lock:||Medium|
 |1781|[check-if-two-string-arrays-are-equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent)||[:memo:](https://leetcode.com/articles/check-if-two-string-arrays-are-equivalent/)|Easy|
-|1782|[smallest-string-with-a-given-numeric-value](https://leetcode.com/problems/smallest-string-with-a-given-numeric-value)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/1782-smallest-string-with-a-given-numeric-value/smallest-string-with-a-given-numeric-value.py)|[:memo:](https://leetcode.com/articles/smallest-string-with-a-given-numeric-value/)|Medium|
+|1782|[smallest-string-with-a-given-numeric-value](https://leetcode.com/problems/smallest-string-with-a-given-numeric-value)||[:memo:](https://leetcode.com/articles/smallest-string-with-a-given-numeric-value/)|Medium|
 |1783|[ways-to-make-a-fair-array](https://leetcode.com/problems/ways-to-make-a-fair-array)|||Medium|
 |1784|[minimum-initial-energy-to-finish-tasks](https://leetcode.com/problems/minimum-initial-energy-to-finish-tasks)|||Hard|
 |1786|[count-the-number-of-consistent-strings](https://leetcode.com/problems/count-the-number-of-consistent-strings)|||Easy|
@@ -2220,7 +2220,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |2528|[number-of-valid-clock-times](https://leetcode.com/problems/number-of-valid-clock-times)|||Easy|
 |2529|[range-product-queries-of-powers](https://leetcode.com/problems/range-product-queries-of-powers)|||Medium|
 |2530|[minimize-maximum-of-array](https://leetcode.com/problems/minimize-maximum-of-array)|||Medium|
-|2531|[create-components-with-same-value](https://leetcode.com/problems/create-components-with-same-value)|||Hard|
+|2531|[create-components-with-same-value](https://leetcode.com/problems/create-components-with-same-value)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/2531-create-components-with-same-value/create-components-with-same-value.py)||Hard|
 |2532|[remove-letter-to-equalize-frequency](https://leetcode.com/problems/remove-letter-to-equalize-frequency)|||Easy|
 |2533|[bitwise-xor-of-all-pairings](https://leetcode.com/problems/bitwise-xor-of-all-pairings)|||Medium|
 |2535|[count-strictly-increasing-subarrays](https://leetcode.com/problems/count-strictly-increasing-subarrays)|:lock:||Medium|

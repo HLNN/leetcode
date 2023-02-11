@@ -31,6 +31,7 @@
 #
 # 	1 <= nums.length <= 104
 # 	0 <= nums[i] <= 1000
+# 	It's guaranteed that you can reach nums[n - 1].
 #
 #
 
