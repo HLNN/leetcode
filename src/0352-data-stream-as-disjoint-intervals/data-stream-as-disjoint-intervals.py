@@ -38,6 +38,7 @@
 #
 # 	0 <= value <= 104
 # 	At most 3 * 104 calls will be made to addNum and getIntervals.
+# 	At most 102 calls will be made to getIntervals.
 #
 #
 #  

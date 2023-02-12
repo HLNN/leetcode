@@ -1,7 +1,7 @@
 # :pencil2: Leetcode Solutions with Python3,Cpp
-Update time:  2023-02-11 08:01:10
+Update time:  2023-02-12 08:01:00
 
-I have solved **676   /   2328** problems
+I have solved **678   /   2328** problems
 while there are **353** problems still locked.
 
 If you have any question, please give me an [issue](https://github.com/hlnn/leetcode/issues).
@@ -288,7 +288,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |289|[game-of-life](https://leetcode.com/problems/game-of-life)||[:memo:](https://leetcode.com/articles/game-of-life/)|Medium|
 |290|[word-pattern](https://leetcode.com/problems/word-pattern)||[:memo:](https://leetcode.com/articles/word-pattern/)|Easy|
 |291|[word-pattern-ii](https://leetcode.com/problems/word-pattern-ii)|:lock:||Medium|
-|292|[nim-game](https://leetcode.com/problems/nim-game)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0292-nim-game/nim-game.py)|[:memo:](https://leetcode.com/articles/nim-game/)|Easy|
+|292|[nim-game](https://leetcode.com/problems/nim-game)||[:memo:](https://leetcode.com/articles/nim-game/)|Easy|
 |293|[flip-game](https://leetcode.com/problems/flip-game)|:lock:||Easy|
 |294|[flip-game-ii](https://leetcode.com/problems/flip-game-ii)|:lock:||Medium|
 |295|[find-median-from-data-stream](https://leetcode.com/problems/find-median-from-data-stream)||[:memo:](https://leetcode.com/articles/find-median-from-data-stream/)|Hard|
@@ -881,7 +881,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |945|[snakes-and-ladders](https://leetcode.com/problems/snakes-and-ladders)||[:memo:](https://leetcode.com/articles/snakes-and-ladders/)|Medium|
 |946|[smallest-range-ii](https://leetcode.com/problems/smallest-range-ii)||[:memo:](https://leetcode.com/articles/smallest-range-ii/)|Medium|
 |947|[online-election](https://leetcode.com/problems/online-election)||[:memo:](https://leetcode.com/articles/online-election/)|Medium|
-|948|[sort-an-array](https://leetcode.com/problems/sort-an-array)|||Medium|
+|948|[sort-an-array](https://leetcode.com/problems/sort-an-array)||[:memo:](https://leetcode.com/articles/sort-an-array/)|Medium|
 |949|[cat-and-mouse](https://leetcode.com/problems/cat-and-mouse)||[:memo:](https://leetcode.com/articles/cat-and-mouse-game/)|Hard|
 |950|[x-of-a-kind-in-a-deck-of-cards](https://leetcode.com/problems/x-of-a-kind-in-a-deck-of-cards)||[:memo:](https://leetcode.com/articles/x-of-a-kind-in-a-deck-of-cards/)|Easy|
 |951|[partition-array-into-disjoint-intervals](https://leetcode.com/problems/partition-array-into-disjoint-intervals)||[:memo:](https://leetcode.com/articles/parition-array-into-disjoint-intervals/)|Medium|
@@ -1127,7 +1127,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |1224|[minimum-falling-path-sum-ii](https://leetcode.com/problems/minimum-falling-path-sum-ii)|||Hard|
 |1227|[number-of-equivalent-domino-pairs](https://leetcode.com/problems/number-of-equivalent-domino-pairs)|||Easy|
 |1228|[minimum-cost-tree-from-leaf-values](https://leetcode.com/problems/minimum-cost-tree-from-leaf-values)|||Medium|
-|1229|[shortest-path-with-alternating-colors](https://leetcode.com/problems/shortest-path-with-alternating-colors)||[:memo:](https://leetcode.com/articles/shortest-path-with-alternating-colors/)|Medium|
+|1229|[shortest-path-with-alternating-colors](https://leetcode.com/problems/shortest-path-with-alternating-colors)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/1229-shortest-path-with-alternating-colors/shortest-path-with-alternating-colors.py)|[:memo:](https://leetcode.com/articles/shortest-path-with-alternating-colors/)|Medium|
 |1230|[maximum-of-absolute-value-expression](https://leetcode.com/problems/maximum-of-absolute-value-expression)|||Medium|
 |1231|[replace-elements-with-greatest-element-on-right-side](https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side)|||Easy|
 |1232|[sum-of-mutated-array-closest-to-target](https://leetcode.com/problems/sum-of-mutated-array-closest-to-target)|||Medium|
@@ -1235,7 +1235,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |1360|[maximum-length-of-a-concatenated-string-with-unique-characters](https://leetcode.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters)||[:memo:](https://leetcode.com/articles/maximum-length-of-a-concatenated-string-with-unique-characters/)|Medium|
 |1361|[tiling-a-rectangle-with-the-fewest-squares](https://leetcode.com/problems/tiling-a-rectangle-with-the-fewest-squares)|||Hard|
 |1362|[airplane-seat-assignment-probability](https://leetcode.com/problems/airplane-seat-assignment-probability)|||Medium|
-|1363|[greatest-english-letter-in-upper-and-lower-case](https://leetcode.com/problems/greatest-english-letter-in-upper-and-lower-case)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/1363-greatest-english-letter-in-upper-and-lower-case/greatest-english-letter-in-upper-and-lower-case.py)||Easy|
+|1363|[greatest-english-letter-in-upper-and-lower-case](https://leetcode.com/problems/greatest-english-letter-in-upper-and-lower-case)|||Easy|
 |1364|[tuple-with-same-product](https://leetcode.com/problems/tuple-with-same-product)|||Medium|
 |1366|[first-unique-number](https://leetcode.com/problems/first-unique-number)|:lock:|[:memo:](https://leetcode.com/articles/first-unique-number/)|Medium|
 |1367|[maximum-height-by-stacking-cuboids](https://leetcode.com/problems/maximum-height-by-stacking-cuboids)|||Hard|
@@ -2013,7 +2013,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |2291|[maximum-and-sum-of-array](https://leetcode.com/problems/maximum-and-sum-of-array)|||Hard|
 |2292|[counting-words-with-a-given-prefix](https://leetcode.com/problems/counting-words-with-a-given-prefix)|||Easy|
 |2293|[minimum-number-of-steps-to-make-two-strings-anagram-ii](https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram-ii)|||Medium|
-|2294|[minimum-time-to-complete-trips](https://leetcode.com/problems/minimum-time-to-complete-trips)|||Medium|
+|2294|[minimum-time-to-complete-trips](https://leetcode.com/problems/minimum-time-to-complete-trips)||[:memo:](https://leetcode.com/articles/minimum-time-to-complete-trips/)|Medium|
 |2295|[minimum-time-to-finish-the-race](https://leetcode.com/problems/minimum-time-to-finish-the-race)|||Hard|
 |2297|[amount-of-new-area-painted-each-day](https://leetcode.com/problems/amount-of-new-area-painted-each-day)|:lock:||Hard|
 |2298|[count-integers-with-even-digit-sum](https://leetcode.com/problems/count-integers-with-even-digit-sum)|||Easy|
@@ -2118,7 +2118,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |2408|[number-of-people-aware-of-a-secret](https://leetcode.com/problems/number-of-people-aware-of-a-secret)|||Medium|
 |2409|[number-of-increasing-paths-in-a-grid](https://leetcode.com/problems/number-of-increasing-paths-in-a-grid)|||Hard|
 |2411|[spiral-matrix-iv](https://leetcode.com/problems/spiral-matrix-iv)|||Medium|
-|2412|[minimum-amount-of-time-to-fill-cups](https://leetcode.com/problems/minimum-amount-of-time-to-fill-cups)|||Easy|
+|2412|[minimum-amount-of-time-to-fill-cups](https://leetcode.com/problems/minimum-amount-of-time-to-fill-cups)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/2412-minimum-amount-of-time-to-fill-cups/minimum-amount-of-time-to-fill-cups.py)||Easy|
 |2413|[smallest-number-in-infinite-set](https://leetcode.com/problems/smallest-number-in-infinite-set)|||Medium|
 |2414|[move-pieces-to-obtain-a-string](https://leetcode.com/problems/move-pieces-to-obtain-a-string)|||Medium|
 |2415|[count-the-number-of-ideal-arrays](https://leetcode.com/problems/count-the-number-of-ideal-arrays)|||Hard|
