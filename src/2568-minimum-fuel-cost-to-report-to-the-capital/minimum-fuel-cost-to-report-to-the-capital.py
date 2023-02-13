@@ -69,7 +69,7 @@ class Solution:
         for a, b in roads:
             r[a].append(b)
             r[b].append(a)
-        print(r)
+        # print(r)
             
         seen = set()
         
@@ -88,7 +88,7 @@ class Solution:
             # print(list(zip([bfs(n) for n in r[node]])), r[node])
             # return 1, 1
             # res, reps = map(sum, zip([bfs(n) for n in r[node]]))
-            print(res, reps)
+            # print(res, reps)
             return res, reps
     
         return bfs(0)[0]

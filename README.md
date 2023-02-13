@@ -1,7 +1,7 @@
 # :pencil2: Leetcode Solutions with Python3,Cpp
-Update time:  2023-02-12 08:01:00
+Update time:  2023-02-13 08:01:12
 
-I have solved **678   /   2328** problems
+I have solved **679   /   2332** problems
 while there are **353** problems still locked.
 
 If you have any question, please give me an [issue](https://github.com/hlnn/leetcode/issues).
@@ -450,7 +450,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |457|[circular-array-loop](https://leetcode.com/problems/circular-array-loop)|||Medium|
 |458|[poor-pigs](https://leetcode.com/problems/poor-pigs)||[:memo:](https://leetcode.com/articles/poor-pigs/)|Hard|
 |459|[repeated-substring-pattern](https://leetcode.com/problems/repeated-substring-pattern)||[:memo:](https://leetcode.com/articles/repeated-substring-pattern/)|Easy|
-|460|[lfu-cache](https://leetcode.com/problems/lfu-cache)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0460-lfu-cache/lfu-cache.py)|[:memo:](https://leetcode.com/articles/lfu-cache/)|Hard|
+|460|[lfu-cache](https://leetcode.com/problems/lfu-cache)||[:memo:](https://leetcode.com/articles/lfu-cache/)|Hard|
 |461|[hamming-distance](https://leetcode.com/problems/hamming-distance)||[:memo:](https://leetcode.com/articles/hamming-distance/)|Easy|
 |462|[minimum-moves-to-equal-array-elements-ii](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii)||[:memo:](https://leetcode.com/articles/minimum-moves-to-equal-array-elements-ii/)|Medium|
 |463|[island-perimeter](https://leetcode.com/problems/island-perimeter)||[:memo:](https://leetcode.com/articles/island-perimeter/)|Easy|
@@ -461,7 +461,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |468|[validate-ip-address](https://leetcode.com/problems/validate-ip-address)||[:memo:](https://leetcode.com/articles/validate-ip-address/)|Medium|
 |469|[convex-polygon](https://leetcode.com/problems/convex-polygon)|:lock:||Medium|
 |471|[encode-string-with-shortest-length](https://leetcode.com/problems/encode-string-with-shortest-length)|:lock:||Hard|
-|472|[concatenated-words](https://leetcode.com/problems/concatenated-words)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0472-concatenated-words/concatenated-words.py)|[:memo:](https://leetcode.com/articles/concatenated-words/)|Hard|
+|472|[concatenated-words](https://leetcode.com/problems/concatenated-words)||[:memo:](https://leetcode.com/articles/concatenated-words/)|Hard|
 |473|[matchsticks-to-square](https://leetcode.com/problems/matchsticks-to-square)||[:memo:](https://leetcode.com/articles/matchsticks-to-square/)|Medium|
 |474|[ones-and-zeroes](https://leetcode.com/problems/ones-and-zeroes)||[:memo:](https://leetcode.com/articles/ones-and-zeroes/)|Medium|
 |475|[heaters](https://leetcode.com/problems/heaters)|||Medium|
@@ -1134,7 +1134,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |1233|[number-of-ships-in-a-rectangle](https://leetcode.com/problems/number-of-ships-in-a-rectangle)|:lock:|[:memo:](https://leetcode.com/articles/number-of-ships-in-a-rectangle/)|Hard|
 |1234|[number-of-paths-with-max-score](https://leetcode.com/problems/number-of-paths-with-max-score)|||Hard|
 |1236|[n-th-tribonacci-number](https://leetcode.com/problems/n-th-tribonacci-number)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/1236-n-th-tribonacci-number/n-th-tribonacci-number.py)|[:memo:](https://leetcode.com/articles/n-th-tribonacci-number/)|Easy|
-|1238|[alphabet-board-path](https://leetcode.com/problems/alphabet-board-path)|||Medium|
+|1238|[alphabet-board-path](https://leetcode.com/problems/alphabet-board-path)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/1238-alphabet-board-path/alphabet-board-path.py)||Medium|
 |1239|[largest-1-bordered-square](https://leetcode.com/problems/largest-1-bordered-square)|||Medium|
 |1240|[stone-game-ii](https://leetcode.com/problems/stone-game-ii)|||Medium|
 |1241|[decompress-run-length-encoded-list](https://leetcode.com/problems/decompress-run-length-encoded-list)|||Easy|
@@ -2255,7 +2255,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |2565|[merge-operations-to-turn-array-into-a-palindrome](https://leetcode.com/problems/merge-operations-to-turn-array-into-a-palindrome)|:lock:||Medium|
 |2566|[number-of-unequal-triplets-in-array](https://leetcode.com/problems/number-of-unequal-triplets-in-array)|||Easy|
 |2567|[closest-nodes-queries-in-a-binary-search-tree](https://leetcode.com/problems/closest-nodes-queries-in-a-binary-search-tree)|||Medium|
-|2568|[minimum-fuel-cost-to-report-to-the-capital](https://leetcode.com/problems/minimum-fuel-cost-to-report-to-the-capital)||[:memo:](https://leetcode.com/articles/minimum-fuel-cost-to-report-to-the-capital/)|Medium|
+|2568|[minimum-fuel-cost-to-report-to-the-capital](https://leetcode.com/problems/minimum-fuel-cost-to-report-to-the-capital)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/2568-minimum-fuel-cost-to-report-to-the-capital/minimum-fuel-cost-to-report-to-the-capital.py)|[:memo:](https://leetcode.com/articles/minimum-fuel-cost-to-report-to-the-capital/)|Medium|
 |2569|[number-of-beautiful-partitions](https://leetcode.com/problems/number-of-beautiful-partitions)|||Hard|
 |2570|[maximize-total-tastiness-of-purchased-fruits](https://leetcode.com/problems/maximize-total-tastiness-of-purchased-fruits)|:lock:||Medium|
 |2571|[find-the-pivot-integer](https://leetcode.com/problems/find-the-pivot-integer)|||Easy|
@@ -2341,4 +2341,8 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |2691|[count-vowel-strings-in-ranges](https://leetcode.com/problems/count-vowel-strings-in-ranges)|||Medium|
 |2692|[take-gifts-from-the-richest-pile](https://leetcode.com/problems/take-gifts-from-the-richest-pile)|||Easy|
 |2693|[maximum-price-to-fill-a-bag](https://leetcode.com/problems/maximum-price-to-fill-a-bag)|:lock:||Medium|
+|2698|[find-the-array-concatenation-value](https://leetcode.com/problems/find-the-array-concatenation-value)|||Easy|
+|2699|[count-the-number-of-fair-pairs](https://leetcode.com/problems/count-the-number-of-fair-pairs)|||Medium|
+|2700|[substring-xor-queries](https://leetcode.com/problems/substring-xor-queries)|||Medium|
+|2701|[subsequence-with-the-minimum-score](https://leetcode.com/problems/subsequence-with-the-minimum-score)|||Hard|
 |2702|[maximum-number-of-integers-to-choose-from-a-range-ii](https://leetcode.com/problems/maximum-number-of-integers-to-choose-from-a-range-ii)|:lock:||Medium|
