@@ -1,7 +1,7 @@
 # :pencil2: Leetcode Solutions with Python3,Cpp
-Update time:  2023-02-13 08:01:12
+Update time:  2023-02-14 08:01:10
 
-I have solved **679   /   2332** problems
+I have solved **680   /   2332** problems
 while there are **353** problems still locked.
 
 If you have any question, please give me an [issue](https://github.com/hlnn/leetcode/issues).
@@ -348,7 +348,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |349|[intersection-of-two-arrays](https://leetcode.com/problems/intersection-of-two-arrays)||[:memo:](https://leetcode.com/articles/intersection-of-two-arrays/)|Easy|
 |350|[intersection-of-two-arrays-ii](https://leetcode.com/problems/intersection-of-two-arrays-ii)||[:memo:](https://leetcode.com/articles/intersection-of-two-arrays-ii/)|Easy|
 |351|[android-unlock-patterns](https://leetcode.com/problems/android-unlock-patterns)|:lock:|[:memo:](https://leetcode.com/articles/android-unlock-patterns/)|Medium|
-|352|[data-stream-as-disjoint-intervals](https://leetcode.com/problems/data-stream-as-disjoint-intervals)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0352-data-stream-as-disjoint-intervals/data-stream-as-disjoint-intervals.py)|[:memo:](https://leetcode.com/articles/data-stream-as-disjoint-intervals/)|Hard|
+|352|[data-stream-as-disjoint-intervals](https://leetcode.com/problems/data-stream-as-disjoint-intervals)||[:memo:](https://leetcode.com/articles/data-stream-as-disjoint-intervals/)|Hard|
 |353|[design-snake-game](https://leetcode.com/problems/design-snake-game)|:lock:|[:memo:](https://leetcode.com/articles/design-snake-game/)|Medium|
 |354|[russian-doll-envelopes](https://leetcode.com/problems/russian-doll-envelopes)||[:memo:](https://leetcode.com/articles/russian-doll-envelopes/)|Hard|
 |355|[design-twitter](https://leetcode.com/problems/design-twitter)|||Medium|
@@ -1443,7 +1443,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |1627|[last-moment-before-all-ants-fall-out-of-a-plank](https://leetcode.com/problems/last-moment-before-all-ants-fall-out-of-a-plank)|||Medium|
 |1628|[count-submatrices-with-all-ones](https://leetcode.com/problems/count-submatrices-with-all-ones)|||Medium|
 |1629|[minimum-possible-integer-after-at-most-k-adjacent-swaps-on-digits](https://leetcode.com/problems/minimum-possible-integer-after-at-most-k-adjacent-swaps-on-digits)|||Hard|
-|1630|[count-odd-numbers-in-an-interval-range](https://leetcode.com/problems/count-odd-numbers-in-an-interval-range)||[:memo:](https://leetcode.com/articles/count-odd-numbers-in-an-interval-range/)|Easy|
+|1630|[count-odd-numbers-in-an-interval-range](https://leetcode.com/problems/count-odd-numbers-in-an-interval-range)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/1630-count-odd-numbers-in-an-interval-range/count-odd-numbers-in-an-interval-range.py)|[:memo:](https://leetcode.com/articles/count-odd-numbers-in-an-interval-range/)|Easy|
 |1631|[number-of-sub-arrays-with-odd-sum](https://leetcode.com/problems/number-of-sub-arrays-with-odd-sum)|||Medium|
 |1632|[number-of-good-ways-to-split-a-string](https://leetcode.com/problems/number-of-good-ways-to-split-a-string)|||Medium|
 |1633|[minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://leetcode.com/problems/minimum-number-of-increments-on-subarrays-to-form-a-target-array)|||Hard|
@@ -2109,7 +2109,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |2398|[check-if-matrix-is-x-matrix](https://leetcode.com/problems/check-if-matrix-is-x-matrix)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/2398-check-if-matrix-is-x-matrix/check-if-matrix-is-x-matrix.py)||Easy|
 |2399|[minimum-flips-in-binary-tree-to-get-result](https://leetcode.com/problems/minimum-flips-in-binary-tree-to-get-result)|:lock:||Hard|
 |2400|[minimum-score-after-removals-on-a-tree](https://leetcode.com/problems/minimum-score-after-removals-on-a-tree)|||Hard|
-|2401|[count-asterisks](https://leetcode.com/problems/count-asterisks)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/2401-count-asterisks/count-asterisks.py)||Easy|
+|2401|[count-asterisks](https://leetcode.com/problems/count-asterisks)|||Easy|
 |2402|[maximum-xor-after-operations](https://leetcode.com/problems/maximum-xor-after-operations)|||Medium|
 |2403|[count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://leetcode.com/problems/count-unreachable-pairs-of-nodes-in-an-undirected-graph)||[:memo:](https://leetcode.com/articles/count-unreachable-pairs-of-nodes-in-an-undirected-graph/)|Medium|
 |2404|[number-of-distinct-roll-sequences](https://leetcode.com/problems/number-of-distinct-roll-sequences)|||Hard|
