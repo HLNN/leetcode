@@ -39,10 +39,11 @@ class Solution:
         for i in range(len(wp) - 1, -1, -1):
             dd[wp[i]] = i
         
-        idx = len(wp)
-        for k in sorted(dd.keys()):
-            idx = min(idx, dd[k])
-            dd[k] = idx
+        # idx = len(wp)
+        # for k in sorted(dd.keys()):
+        #     idx = min(idx, dd[k])
+        #     dd[k] = idx
+        # return max(0, max(j - dd[h - 1] for j, h in enumerate(wp)))
 
-        return max(0, max(j - dd[h - 1] for j, h in enumerate(wp)))
+        return max(0, max(j if h > 0 else (j - dd[h - 1]) for j, h in enumerate(wp)))
     

@@ -45,9 +45,8 @@ class Solution:
     def bestTeamScore(self, scores: List[int], ages: List[int]) -> int:
         players = list(zip(ages, scores))
         players.sort()
-        n = len(players)
         
-        dp = [0] * n
+        dp = [0] * len(players)
         
         for i, (_, score) in enumerate(players):
             res = 0
