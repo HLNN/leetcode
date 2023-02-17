@@ -1,7 +1,7 @@
 # :pencil2: Leetcode Solutions with Python3,Cpp
-Update time:  2023-02-16 08:01:24
+Update time:  2023-02-17 08:01:08
 
-I have solved **684   /   2332** problems
+I have solved **685   /   2332** problems
 while there are **353** problems still locked.
 
 If you have any question, please give me an [issue](https://github.com/hlnn/leetcode/issues).
@@ -117,7 +117,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |101|[symmetric-tree](https://leetcode.com/problems/symmetric-tree)||[:memo:](https://leetcode.com/articles/symmetric-tree/)|Easy|
 |102|[binary-tree-level-order-traversal](https://leetcode.com/problems/binary-tree-level-order-traversal)||[:memo:](https://leetcode.com/articles/binary-tree-level-order-traversal/)|Medium|
 |103|[binary-tree-zigzag-level-order-traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal)||[:memo:](https://leetcode.com/articles/binary-tree-zigzag-level-order-traversal/)|Medium|
-|104|[maximum-depth-of-binary-tree](https://leetcode.com/problems/maximum-depth-of-binary-tree)||[:memo:](https://leetcode.com/articles/maximum-depth-of-binary-tree/)|Easy|
+|104|[maximum-depth-of-binary-tree](https://leetcode.com/problems/maximum-depth-of-binary-tree)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0104-maximum-depth-of-binary-tree/maximum-depth-of-binary-tree.py)|[:memo:](https://leetcode.com/articles/maximum-depth-of-binary-tree/)|Easy|
 |105|[construct-binary-tree-from-preorder-and-inorder-traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal)||[:memo:](https://leetcode.com/articles/construct-binary-tree-from-preorder-and-inorder-traversal/)|Medium|
 |106|[construct-binary-tree-from-inorder-and-postorder-traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal)||[:memo:](https://leetcode.com/articles/construct-binary-tree-from-inorder-and-postorder-traversal/)|Medium|
 |107|[binary-tree-level-order-traversal-ii](https://leetcode.com/problems/binary-tree-level-order-traversal-ii)||[:memo:](https://leetcode.com/articles/binary-tree-level-order-traversal-ii/)|Medium|
@@ -1546,7 +1546,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |1745|[find-nearest-right-node-in-binary-tree](https://leetcode.com/problems/find-nearest-right-node-in-binary-tree)|:lock:|[:memo:](https://leetcode.com/articles/find-nearest-right-node-in-binary-tree/)|Medium|
 |1746|[largest-substring-between-two-equal-characters](https://leetcode.com/problems/largest-substring-between-two-equal-characters)|||Easy|
 |1747|[lexicographically-smallest-string-after-applying-operations](https://leetcode.com/problems/lexicographically-smallest-string-after-applying-operations)|||Medium|
-|1748|[best-team-with-no-conflicts](https://leetcode.com/problems/best-team-with-no-conflicts)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/1748-best-team-with-no-conflicts/best-team-with-no-conflicts.py)|[:memo:](https://leetcode.com/articles/best-team-with-no-conflicts/)|Medium|
+|1748|[best-team-with-no-conflicts](https://leetcode.com/problems/best-team-with-no-conflicts)||[:memo:](https://leetcode.com/articles/best-team-with-no-conflicts/)|Medium|
 |1750|[check-if-two-expression-trees-are-equivalent](https://leetcode.com/problems/check-if-two-expression-trees-are-equivalent)|:lock:||Medium|
 |1751|[slowest-key](https://leetcode.com/problems/slowest-key)||[:memo:](https://leetcode.com/articles/slowest-key/)|Easy|
 |1752|[arithmetic-subarrays](https://leetcode.com/problems/arithmetic-subarrays)|||Medium|
@@ -2114,7 +2114,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |2403|[count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://leetcode.com/problems/count-unreachable-pairs-of-nodes-in-an-undirected-graph)||[:memo:](https://leetcode.com/articles/count-unreachable-pairs-of-nodes-in-an-undirected-graph/)|Medium|
 |2404|[number-of-distinct-roll-sequences](https://leetcode.com/problems/number-of-distinct-roll-sequences)|||Hard|
 |2405|[minimum-number-of-keypresses](https://leetcode.com/problems/minimum-number-of-keypresses)|:lock:||Medium|
-|2406|[decode-the-message](https://leetcode.com/problems/decode-the-message)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/2406-decode-the-message/decode-the-message.py)||Easy|
+|2406|[decode-the-message](https://leetcode.com/problems/decode-the-message)|||Easy|
 |2408|[number-of-people-aware-of-a-secret](https://leetcode.com/problems/number-of-people-aware-of-a-secret)|||Medium|
 |2409|[number-of-increasing-paths-in-a-grid](https://leetcode.com/problems/number-of-increasing-paths-in-a-grid)|||Hard|
 |2411|[spiral-matrix-iv](https://leetcode.com/problems/spiral-matrix-iv)|||Medium|
@@ -2127,7 +2127,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |2418|[minimum-sum-of-squared-difference](https://leetcode.com/problems/minimum-sum-of-squared-difference)|||Medium|
 |2419|[subarray-with-elements-greater-than-varying-threshold](https://leetcode.com/problems/subarray-with-elements-greater-than-varying-threshold)|||Hard|
 |2420|[closest-node-to-path-in-tree](https://leetcode.com/problems/closest-node-to-path-in-tree)|:lock:||Hard|
-|2421|[maximum-number-of-pairs-in-array](https://leetcode.com/problems/maximum-number-of-pairs-in-array)|||Easy|
+|2421|[maximum-number-of-pairs-in-array](https://leetcode.com/problems/maximum-number-of-pairs-in-array)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/2421-maximum-number-of-pairs-in-array/maximum-number-of-pairs-in-array.py)||Easy|
 |2422|[query-kth-smallest-trimmed-number](https://leetcode.com/problems/query-kth-smallest-trimmed-number)|||Medium|
 |2423|[minimum-deletions-to-make-array-divisible](https://leetcode.com/problems/minimum-deletions-to-make-array-divisible)|||Hard|
 |2425|[number-of-people-that-can-be-seen-in-a-grid](https://leetcode.com/problems/number-of-people-that-can-be-seen-in-a-grid)|:lock:||Medium|
