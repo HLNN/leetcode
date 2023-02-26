@@ -1,7 +1,7 @@
 # :pencil2: Leetcode Solutions with Python3,Cpp
-Update time:  2023-02-25 22:22:50
+Update time:  2023-02-26 08:00:59
 
-I have solved **690   /   2340** problems
+I have solved **691   /   2340** problems
 while there are **353** problems still locked.
 
 If you have any question, please give me an [issue](https://github.com/hlnn/leetcode/issues).
@@ -134,7 +134,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |118|[pascals-triangle](https://leetcode.com/problems/pascals-triangle)||[:memo:](https://leetcode.com/articles/pascals-triangle/)|Easy|
 |119|[pascals-triangle-ii](https://leetcode.com/problems/pascals-triangle-ii)||[:memo:](https://leetcode.com/articles/pascals-triangle-ii/)|Easy|
 |120|[triangle](https://leetcode.com/problems/triangle)||[:memo:](https://leetcode.com/articles/triangle/)|Medium|
-|121|[best-time-to-buy-and-sell-stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock)||[:memo:](https://leetcode.com/articles/best-time-to-buy-and-sell-stock/)|Easy|
+|121|[best-time-to-buy-and-sell-stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0121-best-time-to-buy-and-sell-stock/best-time-to-buy-and-sell-stock.py)|[:memo:](https://leetcode.com/articles/best-time-to-buy-and-sell-stock/)|Easy|
 |122|[best-time-to-buy-and-sell-stock-ii](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii)||[:memo:](https://leetcode.com/articles/best-time-to-buy-and-sell-stock-ii/)|Medium|
 |123|[best-time-to-buy-and-sell-stock-iii](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii)||[:memo:](https://leetcode.com/articles/best-time-to-buy-and-sell-stock-iii/)|Hard|
 |124|[binary-tree-maximum-path-sum](https://leetcode.com/problems/binary-tree-maximum-path-sum)||[:memo:](https://leetcode.com/articles/binary-tree-maximum-path-sum/)|Hard|
