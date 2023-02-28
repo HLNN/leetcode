@@ -1,7 +1,7 @@
 # :pencil2: Leetcode Solutions with Python3,Cpp
-Update time:  2023-02-26 08:00:59
+Update time:  2023-02-28 08:01:17
 
-I have solved **691   /   2340** problems
+I have solved **692   /   2344** problems
 while there are **353** problems still locked.
 
 If you have any question, please give me an [issue](https://github.com/hlnn/leetcode/issues).
@@ -58,7 +58,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |42|[trapping-rain-water](https://leetcode.com/problems/trapping-rain-water)||[:memo:](https://leetcode.com/articles/trapping-rain-water/)|Hard|
 |43|[multiply-strings](https://leetcode.com/problems/multiply-strings)||[:memo:](https://leetcode.com/articles/multiply-strings/)|Medium|
 |44|[wildcard-matching](https://leetcode.com/problems/wildcard-matching)||[:memo:](https://leetcode.com/articles/wildcard-matching/)|Hard|
-|45|[jump-game-ii](https://leetcode.com/problems/jump-game-ii)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0045-jump-game-ii/jump-game-ii.py)|[:memo:](https://leetcode.com/articles/jump-game-ii/)|Medium|
+|45|[jump-game-ii](https://leetcode.com/problems/jump-game-ii)||[:memo:](https://leetcode.com/articles/jump-game-ii/)|Medium|
 |46|[permutations](https://leetcode.com/problems/permutations)||[:memo:](https://leetcode.com/articles/permutations/)|Medium|
 |47|[permutations-ii](https://leetcode.com/problems/permutations-ii)||[:memo:](https://leetcode.com/articles/permutations-ii/)|Medium|
 |48|[rotate-image](https://leetcode.com/problems/rotate-image)||[:memo:](https://leetcode.com/articles/rotate-image/)|Medium|
@@ -85,7 +85,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |69|[sqrtx](https://leetcode.com/problems/sqrtx)||[:memo:](https://leetcode.com/articles/sqrtx/)|Easy|
 |70|[climbing-stairs](https://leetcode.com/problems/climbing-stairs)||[:memo:](https://leetcode.com/articles/climbing-stairs/)|Easy|
 |71|[simplify-path](https://leetcode.com/problems/simplify-path)||[:memo:](https://leetcode.com/articles/simplify-path/)|Medium|
-|72|[edit-distance](https://leetcode.com/problems/edit-distance)||[:memo:](https://leetcode.com/articles/edit-distance/)|Hard|
+|72|[edit-distance](https://leetcode.com/problems/edit-distance)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0072-edit-distance/edit-distance.py)|[:memo:](https://leetcode.com/articles/edit-distance/)|Hard|
 |73|[set-matrix-zeroes](https://leetcode.com/problems/set-matrix-zeroes)||[:memo:](https://leetcode.com/articles/set-matrix-zeroes/)|Medium|
 |74|[search-a-2d-matrix](https://leetcode.com/problems/search-a-2d-matrix)||[:memo:](https://leetcode.com/articles/search-in-2d-matrix/)|Medium|
 |75|[sort-colors](https://leetcode.com/problems/sort-colors)||[:memo:](https://leetcode.com/articles/sort-colors/)|Medium|
@@ -315,7 +315,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |316|[remove-duplicate-letters](https://leetcode.com/problems/remove-duplicate-letters)||[:memo:](https://leetcode.com/articles/remove-duplicate-letters/)|Medium|
 |317|[shortest-distance-from-all-buildings](https://leetcode.com/problems/shortest-distance-from-all-buildings)|:lock:|[:memo:](https://leetcode.com/articles/shortest-distance-from-all-buildings/)|Hard|
 |318|[maximum-product-of-word-lengths](https://leetcode.com/problems/maximum-product-of-word-lengths)||[:memo:](https://leetcode.com/articles/maximum-product-of-word-lengths/)|Medium|
-|319|[bulb-switcher](https://leetcode.com/problems/bulb-switcher)|||Medium|
+|319|[bulb-switcher](https://leetcode.com/problems/bulb-switcher)||[:memo:](https://leetcode.com/articles/bulb-switcher/)|Medium|
 |320|[generalized-abbreviation](https://leetcode.com/problems/generalized-abbreviation)|:lock:|[:memo:](https://leetcode.com/articles/generalized-abbreviation/)|Medium|
 |321|[create-maximum-number](https://leetcode.com/problems/create-maximum-number)|||Hard|
 |322|[coin-change](https://leetcode.com/problems/coin-change)||[:memo:](https://leetcode.com/articles/coin-change/)|Medium|
@@ -712,7 +712,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |769|[largest-plus-sign](https://leetcode.com/problems/largest-plus-sign)||[:memo:](https://leetcode.com/articles/largest-plus-sign/)|Medium|
 |770|[couples-holding-hands](https://leetcode.com/problems/couples-holding-hands)||[:memo:](https://leetcode.com/articles/couples-holding-hands/)|Hard|
 |771|[encode-n-ary-tree-to-binary-tree](https://leetcode.com/problems/encode-n-ary-tree-to-binary-tree)|:lock:|[:memo:](https://leetcode.com/articles/encode-n-ary-tree-to-binary-tree/)|Hard|
-|772|[construct-quad-tree](https://leetcode.com/problems/construct-quad-tree)||[:memo:](https://leetcode.com/articles/construct-quad-tree/)|Medium|
+|772|[construct-quad-tree](https://leetcode.com/problems/construct-quad-tree)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0772-construct-quad-tree/construct-quad-tree.py)|[:memo:](https://leetcode.com/articles/construct-quad-tree/)|Medium|
 |773|[logical-or-of-two-binary-grids-represented-as-quad-trees](https://leetcode.com/problems/logical-or-of-two-binary-grids-represented-as-quad-trees)|||Medium|
 |774|[maximum-depth-of-n-ary-tree](https://leetcode.com/problems/maximum-depth-of-n-ary-tree)||[:memo:](https://leetcode.com/articles/maximum-depth-of-n-ary-tree/)|Easy|
 |775|[n-ary-tree-preorder-traversal](https://leetcode.com/problems/n-ary-tree-preorder-traversal)||[:memo:](https://leetcode.com/articles/n-ary-tree-preorder-traversal/)|Easy|
@@ -1371,7 +1371,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |1525|[queries-on-a-permutation-with-key](https://leetcode.com/problems/queries-on-a-permutation-with-key)|||Medium|
 |1526|[html-entity-parser](https://leetcode.com/problems/html-entity-parser)|||Medium|
 |1527|[number-of-ways-to-paint-n-3-grid](https://leetcode.com/problems/number-of-ways-to-paint-n-3-grid)|||Hard|
-|1528|[kids-with-the-greatest-number-of-candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies)|||Easy|
+|1528|[kids-with-the-greatest-number-of-candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies)||[:memo:](https://leetcode.com/articles/kids-with-the-greatest-number-of-candies/)|Easy|
 |1529|[max-difference-you-can-get-from-changing-an-integer](https://leetcode.com/problems/max-difference-you-can-get-from-changing-an-integer)|||Medium|
 |1530|[check-if-a-string-can-break-another-string](https://leetcode.com/problems/check-if-a-string-can-break-another-string)|||Medium|
 |1531|[number-of-ways-to-wear-different-hats-to-each-other](https://leetcode.com/problems/number-of-ways-to-wear-different-hats-to-each-other)|||Hard|
@@ -1505,7 +1505,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |1698|[replace-all-s-to-avoid-consecutive-repeating-characters](https://leetcode.com/problems/replace-all-s-to-avoid-consecutive-repeating-characters)|||Easy|
 |1699|[number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers](https://leetcode.com/problems/number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers)|||Medium|
 |1700|[minimum-time-to-make-rope-colorful](https://leetcode.com/problems/minimum-time-to-make-rope-colorful)||[:memo:](https://leetcode.com/articles/minimum-time-to-make-rope-colorful/)|Medium|
-|1701|[remove-max-number-of-edges-to-keep-graph-fully-traversable](https://leetcode.com/problems/remove-max-number-of-edges-to-keep-graph-fully-traversable)|||Hard|
+|1701|[remove-max-number-of-edges-to-keep-graph-fully-traversable](https://leetcode.com/problems/remove-max-number-of-edges-to-keep-graph-fully-traversable)||[:memo:](https://leetcode.com/articles/remove-max-number-of-edges-to-keep-graph-fully-traversable/)|Hard|
 |1703|[put-boxes-into-the-warehouse-i](https://leetcode.com/problems/put-boxes-into-the-warehouse-i)|:lock:|[:memo:](https://leetcode.com/articles/put-boxes-into-the-warehouse-i/)|Medium|
 |1704|[special-positions-in-a-binary-matrix](https://leetcode.com/problems/special-positions-in-a-binary-matrix)|||Easy|
 |1705|[count-unhappy-friends](https://leetcode.com/problems/count-unhappy-friends)|||Medium|
@@ -2081,7 +2081,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |2365|[percentage-of-letter-in-string](https://leetcode.com/problems/percentage-of-letter-in-string)|||Easy|
 |2366|[maximum-bags-with-full-capacity-of-rocks](https://leetcode.com/problems/maximum-bags-with-full-capacity-of-rocks)||[:memo:](https://leetcode.com/articles/maximum-bags-with-full-capacity-of-rocks/)|Medium|
 |2367|[minimum-lines-to-represent-a-line-chart](https://leetcode.com/problems/minimum-lines-to-represent-a-line-chart)|||Medium|
-|2368|[sum-of-total-strength-of-wizards](https://leetcode.com/problems/sum-of-total-strength-of-wizards)|||Hard|
+|2368|[sum-of-total-strength-of-wizards](https://leetcode.com/problems/sum-of-total-strength-of-wizards)||[:memo:](https://leetcode.com/articles/sum-of-total-strength-of-wizards/)|Hard|
 |2369|[maximum-sum-score-of-array](https://leetcode.com/problems/maximum-sum-score-of-array)|:lock:||Medium|
 |2372|[rearrange-characters-to-make-target-string](https://leetcode.com/problems/rearrange-characters-to-make-target-string)|||Easy|
 |2373|[apply-discount-to-prices](https://leetcode.com/problems/apply-discount-to-prices)|||Medium|
@@ -2219,7 +2219,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |2527|[count-subarrays-with-fixed-bounds](https://leetcode.com/problems/count-subarrays-with-fixed-bounds)||[:memo:](https://leetcode.com/articles/count-subarrays-with-fixed-bounds/)|Hard|
 |2528|[number-of-valid-clock-times](https://leetcode.com/problems/number-of-valid-clock-times)|||Easy|
 |2529|[range-product-queries-of-powers](https://leetcode.com/problems/range-product-queries-of-powers)|||Medium|
-|2530|[minimize-maximum-of-array](https://leetcode.com/problems/minimize-maximum-of-array)|||Medium|
+|2530|[minimize-maximum-of-array](https://leetcode.com/problems/minimize-maximum-of-array)||[:memo:](https://leetcode.com/articles/minimize-maximum-of-array/)|Medium|
 |2531|[create-components-with-same-value](https://leetcode.com/problems/create-components-with-same-value)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/2531-create-components-with-same-value/create-components-with-same-value.py)||Hard|
 |2532|[remove-letter-to-equalize-frequency](https://leetcode.com/problems/remove-letter-to-equalize-frequency)|||Easy|
 |2533|[bitwise-xor-of-all-pairings](https://leetcode.com/problems/bitwise-xor-of-all-pairings)|||Medium|
@@ -2354,3 +2354,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |2708|[find-the-string-with-lcp](https://leetcode.com/problems/find-the-string-with-lcp)|||Hard|
 |2709|[count-the-number-of-square-free-subsets](https://leetcode.com/problems/count-the-number-of-square-free-subsets)|||Medium|
 |2710|[minimum-operations-to-reduce-an-integer-to-0](https://leetcode.com/problems/minimum-operations-to-reduce-an-integer-to-0)|||Medium|
+|2711|[minimum-time-to-visit-a-cell-in-a-grid](https://leetcode.com/problems/minimum-time-to-visit-a-cell-in-a-grid)|||Hard|
+|2712|[find-the-maximum-number-of-marked-indices](https://leetcode.com/problems/find-the-maximum-number-of-marked-indices)|||Medium|
+|2713|[find-the-divisibility-array-of-a-string](https://leetcode.com/problems/find-the-divisibility-array-of-a-string)|||Medium|
+|2714|[left-and-right-sum-differences](https://leetcode.com/problems/left-and-right-sum-differences)|||Easy|
