@@ -45,16 +45,19 @@
 class Solution:
     def findDuplicateSubtrees(self, root: Optional[TreeNode]) -> List[Optional[TreeNode]]:
         def dfs(node):
-            if not node: return 'n.'
-            
-            l = dfs(node.left)
-            r = dfs(node.right)
-            n = f'{node.val}.{l}{r}'
-            
-            tree[n].append(node)
-            return n
+            if not node: return 0
+            triplet = (dfs(node.left), node.val, dfs(node.right))
+            if triplet not in triplet2id:
+                triplet2id[triplet] = len(triplet2id) + 1
+            idx = triplet2id[triplet]
+            cnt[idx] += 1
+            if cnt[idx] == 2:
+                res.append(node)
+            return idx
         
-        tree = defaultdict(list)
+        triplet2id = dict()
+        cnt = defaultdict(int)
+        res = []
         dfs(root)
-        return [nodes[0] for nodes in tree.values() if len(nodes) > 1]
+        return res
     

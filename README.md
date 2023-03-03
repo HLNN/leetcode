@@ -1,7 +1,7 @@
 # :pencil2: Leetcode Solutions with Python3,Cpp
-Update time:  2023-02-28 08:01:17
+Update time:  2023-03-03 08:01:05
 
-I have solved **692   /   2344** problems
+I have solved **693   /   2344** problems
 while there are **353** problems still locked.
 
 If you have any question, please give me an [issue](https://github.com/hlnn/leetcode/issues).
@@ -433,7 +433,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |440|[k-th-smallest-in-lexicographical-order](https://leetcode.com/problems/k-th-smallest-in-lexicographical-order)|||Hard|
 |441|[arranging-coins](https://leetcode.com/problems/arranging-coins)||[:memo:](https://leetcode.com/articles/arranging-coins/)|Easy|
 |442|[find-all-duplicates-in-an-array](https://leetcode.com/problems/find-all-duplicates-in-an-array)||[:memo:](https://leetcode.com/articles/find-all-duplicates-in-an-array/)|Medium|
-|443|[string-compression](https://leetcode.com/problems/string-compression)||[:memo:](https://leetcode.com/articles/string-compression/)|Medium|
+|443|[string-compression](https://leetcode.com/problems/string-compression)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0443-string-compression/string-compression.py)|[:memo:](https://leetcode.com/articles/string-compression/)|Medium|
 |444|[sequence-reconstruction](https://leetcode.com/problems/sequence-reconstruction)|:lock:||Medium|
 |445|[add-two-numbers-ii](https://leetcode.com/problems/add-two-numbers-ii)||[:memo:](https://leetcode.com/articles/add-two-numbers-ii/)|Medium|
 |446|[arithmetic-slices-ii-subsequence](https://leetcode.com/problems/arithmetic-slices-ii-subsequence)||[:memo:](https://leetcode.com/articles/arithmetic-slices-ii-subsequence/)|Hard|
@@ -603,7 +603,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |649|[dota2-senate](https://leetcode.com/problems/dota2-senate)||[:memo:](https://leetcode.com/articles/dota2-senate/)|Medium|
 |650|[2-keys-keyboard](https://leetcode.com/problems/2-keys-keyboard)||[:memo:](https://leetcode.com/articles/2-keys-keyboard/)|Medium|
 |651|[4-keys-keyboard](https://leetcode.com/problems/4-keys-keyboard)|:lock:|[:memo:](https://leetcode.com/articles/4-keys-keyboard/)|Medium|
-|652|[find-duplicate-subtrees](https://leetcode.com/problems/find-duplicate-subtrees)||[:memo:](https://leetcode.com/articles/find-duplicate-subtrees/)|Medium|
+|652|[find-duplicate-subtrees](https://leetcode.com/problems/find-duplicate-subtrees)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/0652-find-duplicate-subtrees/find-duplicate-subtrees.py)|[:memo:](https://leetcode.com/articles/find-duplicate-subtrees/)|Medium|
 |653|[two-sum-iv-input-is-a-bst](https://leetcode.com/problems/two-sum-iv-input-is-a-bst)||[:memo:](https://leetcode.com/articles/two-sum-iv/)|Easy|
 |654|[maximum-binary-tree](https://leetcode.com/problems/maximum-binary-tree)||[:memo:](https://leetcode.com/articles/maximum-binary-tree/)|Medium|
 |655|[print-binary-tree](https://leetcode.com/problems/print-binary-tree)||[:memo:](https://leetcode.com/articles/print-binary-tree/)|Medium|
@@ -954,7 +954,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |1023|[time-based-key-value-store](https://leetcode.com/problems/time-based-key-value-store)||[:memo:](https://leetcode.com/articles/time-based-key-value-store/)|Medium|
 |1024|[triples-with-bitwise-and-equal-to-zero](https://leetcode.com/problems/triples-with-bitwise-and-equal-to-zero)|||Hard|
 |1025|[minimum-cost-for-tickets](https://leetcode.com/problems/minimum-cost-for-tickets)||[:memo:](https://leetcode.com/articles/minimum-cost-for-tickets/)|Medium|
-|1026|[string-without-aaa-or-bbb](https://leetcode.com/problems/string-without-aaa-or-bbb)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/1026-string-without-aaa-or-bbb/string-without-aaa-or-bbb.py)|[:memo:](https://leetcode.com/articles/string-without-aaa-or-bbb/)|Medium|
+|1026|[string-without-aaa-or-bbb](https://leetcode.com/problems/string-without-aaa-or-bbb)||[:memo:](https://leetcode.com/articles/string-without-aaa-or-bbb/)|Medium|
 |1027|[sum-of-even-numbers-after-queries](https://leetcode.com/problems/sum-of-even-numbers-after-queries)||[:memo:](https://leetcode.com/articles/sum-of-even-numbers-after-queries/)|Medium|
 |1028|[interval-list-intersections](https://leetcode.com/problems/interval-list-intersections)||[:memo:](https://leetcode.com/articles/interval-list-intersections/)|Medium|
 |1029|[vertical-order-traversal-of-a-binary-tree](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree)||[:memo:](https://leetcode.com/articles/vertical-order-traversal-of-a-binary-tree/)|Hard|
@@ -1660,7 +1660,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |1890|[sum-of-beauty-of-all-substrings](https://leetcode.com/problems/sum-of-beauty-of-all-substrings)|||Medium|
 |1891|[count-pairs-of-nodes](https://leetcode.com/problems/count-pairs-of-nodes)|||Hard|
 |1893|[maximum-subarray-sum-after-one-operation](https://leetcode.com/problems/maximum-subarray-sum-after-one-operation)|:lock:||Medium|
-|1894|[merge-strings-alternately](https://leetcode.com/problems/merge-strings-alternately)|||Easy|
+|1894|[merge-strings-alternately](https://leetcode.com/problems/merge-strings-alternately)||[:memo:](https://leetcode.com/articles/merge-strings-alternately/)|Easy|
 |1895|[minimum-number-of-operations-to-move-all-balls-to-each-box](https://leetcode.com/problems/minimum-number-of-operations-to-move-all-balls-to-each-box)|||Medium|
 |1896|[maximum-score-from-performing-multiplication-operations](https://leetcode.com/problems/maximum-score-from-performing-multiplication-operations)||[:memo:](https://leetcode.com/articles/maximum-score-from-performing-multiplication-operations/)|Hard|
 |1897|[maximize-palindrome-length-from-subsequences](https://leetcode.com/problems/maximize-palindrome-length-from-subsequences)|||Hard|
@@ -1670,7 +1670,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |1902|[car-fleet-ii](https://leetcode.com/problems/car-fleet-ii)|||Hard|
 |1903|[design-most-recently-used-queue](https://leetcode.com/problems/design-most-recently-used-queue)|:lock:||Medium|
 |1904|[second-largest-digit-in-a-string](https://leetcode.com/problems/second-largest-digit-in-a-string)|||Easy|
-|1905|[design-authentication-manager](https://leetcode.com/problems/design-authentication-manager)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/1905-design-authentication-manager/design-authentication-manager.py)||Medium|
+|1905|[design-authentication-manager](https://leetcode.com/problems/design-authentication-manager)|||Medium|
 |1906|[maximize-score-after-n-operations](https://leetcode.com/problems/maximize-score-after-n-operations)|||Hard|
 |1907|[count-pairs-with-xor-in-a-range](https://leetcode.com/problems/count-pairs-with-xor-in-a-range)|||Hard|
 |1909|[buildings-with-an-ocean-view](https://leetcode.com/problems/buildings-with-an-ocean-view)|:lock:|[:memo:](https://leetcode.com/articles/buildings-with-an-ocean-view/)|Medium|
@@ -2098,7 +2098,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |2387|[partition-array-such-that-maximum-difference-is-k](https://leetcode.com/problems/partition-array-such-that-maximum-difference-is-k)|||Medium|
 |2388|[replace-elements-in-an-array](https://leetcode.com/problems/replace-elements-in-an-array)|||Medium|
 |2389|[design-a-text-editor](https://leetcode.com/problems/design-a-text-editor)|||Hard|
-|2390|[naming-a-company](https://leetcode.com/problems/naming-a-company)|[Python3](https://github.com/hlnn/leetcode/blob/master/src/2390-naming-a-company/naming-a-company.py)|[:memo:](https://leetcode.com/articles/naming-a-company/)|Hard|
+|2390|[naming-a-company](https://leetcode.com/problems/naming-a-company)||[:memo:](https://leetcode.com/articles/naming-a-company/)|Hard|
 |2391|[strong-password-checker-ii](https://leetcode.com/problems/strong-password-checker-ii)|||Easy|
 |2392|[successful-pairs-of-spells-and-potions](https://leetcode.com/problems/successful-pairs-of-spells-and-potions)|||Medium|
 |2393|[match-substring-after-replacement](https://leetcode.com/problems/match-substring-after-replacement)|||Hard|
@@ -2166,7 +2166,7 @@ If you want to use this tool please see the original repo [bonfy/leetcode](https
 |2466|[maximum-segment-sum-after-removals](https://leetcode.com/problems/maximum-segment-sum-after-removals)|||Hard|
 |2468|[valid-palindrome-iv](https://leetcode.com/problems/valid-palindrome-iv)|:lock:||Medium|
 |2469|[longest-subsequence-with-limited-sum](https://leetcode.com/problems/longest-subsequence-with-limited-sum)||[:memo:](https://leetcode.com/articles/longest-subsequence-with-limited-sum/)|Easy|
-|2470|[removing-stars-from-a-string](https://leetcode.com/problems/removing-stars-from-a-string)|||Medium|
+|2470|[removing-stars-from-a-string](https://leetcode.com/problems/removing-stars-from-a-string)||[:memo:](https://leetcode.com/articles/removing-stars-from-a-string/)|Medium|
 |2471|[minimum-amount-of-time-to-collect-garbage](https://leetcode.com/problems/minimum-amount-of-time-to-collect-garbage)|||Medium|
 |2472|[build-a-matrix-with-conditions](https://leetcode.com/problems/build-a-matrix-with-conditions)|||Hard|
 |2473|[max-sum-of-a-pair-with-equal-sum-of-digits](https://leetcode.com/problems/max-sum-of-a-pair-with-equal-sum-of-digits)|||Medium|
